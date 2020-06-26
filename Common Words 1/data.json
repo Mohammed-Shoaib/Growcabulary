@@ -1,0 +1,311 @@
+{
+	"aberration": [{
+		"pos": "noun",
+		"def": "a deviation from what is normal or expected",
+		"image": "aberration.jpg"
+	}],
+	"acrimony": [{
+		"pos": "noun",
+		"def": "bitterness and ill feeling",
+		"image": "acrimony.jpg"
+	}],
+	"acrimonious": [{
+		"pos": "adjective",
+		"def": "(typically of speech or discussion) angry and bitter",
+		"image": "acrimonious.jpg"
+	}],
+	"amalgam": [{
+		"pos": "noun",
+		"def": "a mixture of multiple things",
+		"image": "amalgam.jpg"
+	}],
+	"ambiguous": [{
+		"pos": "adjective",
+		"def": "open to more than one interpretation",
+		"image": "ambiguous.jpg"
+	}],
+	"ambivalent": [{
+		"pos": "adjective",
+		"def": "having mixed feelings or contradictory ideas about something or someone",
+		"image": "ambivalent.jpg"
+	}],
+	"amenable": [{
+		"pos": "adjective",
+		"def": "easily persuaded or controlled",
+		"image": "amenable.jpeg"
+	}],
+	"amorphous": [{
+		"pos": "adjective",
+		"def": "without a clearly defined shape or form; shapeless",
+		"image": "amorphous.jpg"
+	}],
+	"anomalous": [{
+		"pos": "adjective",
+		"def": "deviating from what is standard, normal, or expected",
+		"image": "anomalous.jpg"
+	}],
+	"anomaly": [{
+		"pos": "noun",
+		"def": "something that deviates from what is standard, normal, or expected",
+		"image": "anomaly.jpg"
+	}],
+	"artful": [{
+		"pos": "adjective",
+		"def": "showing creative skill",
+		"image": "artful.jpg"
+	},{
+		"pos": "adjective",
+		"def": "clever in a cunning way",
+		"image": ""
+	}],
+	"auspicious": [{
+		"pos": "adjective",
+		"def": "conducive to success; favorable",
+		"image": "auspicious.jpg"
+	}],
+	"belie": [{
+		"pos": "adjective",
+		"def": "fail to give a true impression of (something); misrepresent",
+		"image": "belie.jpg"
+	}],
+	"betray": [{
+		"pos": "verb",
+		"def": "unintentionally reveal; be evidence of",
+		"image": "betray.jpg"
+	}],
+	"bottleneck": [{
+		"pos": "noun",
+		"def": "a situation that causes a delay in a process",
+		"image": "bottleneck.jpg"
+	}],
+	"calumny": [{
+		"pos": "noun",
+		"def": "making of a false statement meant to injure a person's reputation; slander",
+		"image": "calumny.jpg"
+	}],
+	"castigate": [{
+		"pos": "verb",
+		"def": "reprimand (someone) severely",
+		"image": "castigate.jpg"
+	}],
+	"censure": [{
+		"pos": "verb",
+		"def": "express severe disapproval of (someone or something), especially in a formal statement",
+		"image": "censure.jpg"
+	}],
+	"chastise": [{
+		"pos": "verb",
+		"def": "reprimand severely",
+		"image": "chastise.jpg"
+	}],
+	"commensurate": [{
+		"pos": "adjective",
+		"def": "corresponding in size or degree; in proportion",
+		"image": "commensurate.jpg"
+	}],
+	"demur": [{
+		"pos": "verb",
+		"def": "raise objections or show reluctance",
+		"image": "demur.jpg"
+	}],
+	"disinterested": [{
+		"pos": "adjective",
+		"def": "unbiased; neutral",
+		"image": "disinterested.jpg"
+	}],
+	"egregious": [{
+		"pos": "adjective",
+		"def": "outstandingly bad or shocking in an obvious way",
+		"image": "egregious.jpg"
+	}],
+	"enervate": [{
+		"pos": "verb",
+		"def": "make (someone) feel drained of energy or vitality",
+		"image": "enervate.png"
+	},{
+		"pos": "adjective",
+		"def": "lacking in energy or vitality",
+		"image": ""
+	}],
+	"equivocal": [{
+		"pos": "adjective",
+		"def": "open to more than one interpretation; ambiguous",
+		"image": "equivocal.png"
+	}],
+	"evasive": [{
+		"pos": "adjective",
+		"def": "tending to avoid commitment, especially by responding only indirectly",
+		"image": "evasive.jpg"
+	}],
+	"extant": [{
+		"pos": "adjective",
+		"def": "still in existence (usually refers to documents)",
+		"image": "extant.jpg"
+	}],
+	"frugal": [{
+		"pos": "adjective",
+		"def": "not spending much money (but spending wisely)",
+		"image": "frugal.jpg"
+	}],
+	"galvanize": [{
+		"pos": "verb",
+		"def": "excite or inspire (someone) into taking action",
+		"image": "galvanize.jpg"
+	}],
+	"gregarious": [{
+		"pos": "adjective",
+		"def": "to be likely to socialize with others",
+		"image": "gregarious.jpg"
+	}],
+	"harangue": [{
+		"pos": "noun",
+		"def": "a lengthy and aggressive speech; tirade",
+		"image": "harangue.jpg"
+	},{
+		"pos": "verb",
+		"def": "lecture (someone) at length in an aggressive and critical manner",
+		"image": ""
+	}],
+	"iconoclast": [{
+		"pos": "noun",
+		"def": "a person who attacks cherished beliefs or institutions",
+		"image": "iconoclast.jpg"
+	}],
+	"impertinent": [{
+		"pos": "adjective",
+		"def": "not showing proper respect; rude",
+		"image": "impertinent.jpg"
+	}],
+	"ingenuous": [{
+		"pos": "adjective",
+		"def": "(of a person or action) innocent and naive",
+		"image": "ingenuous.jpg"
+	}],
+	"innocuous": [{
+		"pos": "adjective",
+		"def": "not harmful or offensive",
+		"image": "innocuous.jpg"
+	}],
+	"intimate": [{
+		"pos": "verb",
+		"def": "to suggest (something) subtly",
+		"image": ""
+	},{
+		"pos": "adjective",
+		"def": "closely acquainted; familiar",
+		"image": ""
+	},{
+		"pos": "adjective",
+		"def": "(of knowledge) obtained from a lot of studying or experience",
+		"image": "intimate.jpg"
+	}],
+	"involved": [{
+		"pos": "adjective",
+		"def": "difficult to understand; complicated",
+		"image": "involved.jpg"
+	}],
+	"laconic": [{
+		"pos": "adjective",
+		"def": "(of a person, speech, or style of writing) using very few words",
+		"image": "laconic.jpg"
+	}],
+	"maintain": [{
+		"pos": "verb",
+		"def": "state something strongly to be the case",
+		"image": "maintain.jpg"
+	}],
+	"mercurial": [{
+		"pos": "adjective",
+		"def": "(of a person) prone to sudden or unpredictable changes in mood",
+		"image": "mercurial.jpg"
+	}],
+	"miser": [{
+		"pos": "noun",
+		"def": "a person who hoards wealth and spends as little money as possible",
+		"image": "miser.jpg"
+	}],
+	"mutation": [{
+		"pos": "noun",
+		"def": "the way in which genes change and produce permanent differences",
+		"image": "mutation.jpg"
+	}],
+	"parsimonious": [{
+		"pos": "adjective",
+		"def": "very unwilling to spend money or use resources",
+		"image": "parsimonious.jpg"
+	}],
+	"parochial": [{
+		"pos": "adjective",
+		"def": "narrowly restricted in scope or outlook",
+		"image": "parochial.jpg"
+	}],
+	"prevaricate": [{
+		"pos": "verb",
+		"def": "speak or act in an evasive way",
+		"image": "prevaricate.jpg"
+	}],
+	"prodigal": [{
+		"pos": "adjective",
+		"def": "spending money or resources recklessly; wastefully extravagant",
+		"image": "prodigal.jpg"
+	}],
+	"profligate": [{
+		"pos": "adjective",
+		"def": "recklessly extravagant or wasteful in the use of resources",
+		"image": "profligate.jpg"
+	},{
+		"pos": "noun",
+		"def": "someone who spends money recklessly or wastefully",
+		"image": ""
+	}],
+	"qualify": [{
+		"pos": "verb",
+		"def": "make (a statement or assertion) less absolute",
+		"image": "qualify.jpg"
+	}],
+	"restive": [{
+		"pos": "adjective",
+		"def": "(of a person) restless",
+		"image": "restive.jpg"
+	}],
+	"tirade": [{
+		"pos": "noun",
+		"def": "a long, angry speech of criticism or accusation",
+		"image": "tirade.jpg"
+	}],
+	"undermine": [{
+		"pos": "verb",
+		"def": "lessen the effectiveness gradually or insidiously",
+		"image": "undermine.jpg"
+	}],
+	"upbraid": [{
+		"pos": "verb",
+		"def": "find fault (with someone); scold",
+		"image": "upbraid.jpg"
+	}],
+	"venal": [{
+		"pos": "adjective",
+		"def": "showing or motivated by susceptibility to bribery; corrupt",
+		"image": "venal.jpg"
+	}],
+	"venerate": [{
+		"pos": "verb",
+		"def": "regard with great respect",
+		"image": "venerate.jpg"
+	}],
+	"veracious": [{
+		"pos": "adjective",
+		"def": "speaking the truth",
+		"image": "veracious.jpg"
+	}],
+	"vindicate": [{
+		"pos": "verb",
+		"def": "clear (someone) of blame or suspicion with supporting proof",
+		"image": "vindicate.jpeg"
+	}],
+	"wanting": [{
+		"pos": "adjective",
+		"def": "lacking in a required quality",
+		"image": "wanting.jpg"
+	}]
+}
