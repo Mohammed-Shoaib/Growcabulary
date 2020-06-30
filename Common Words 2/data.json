@@ -1,0 +1,393 @@
+{
+	"aesthete": [{
+		"pos": "noun",
+		"def": "a person who is appreciative of an sensitive to art and beauty",
+		"synonyms": [],
+		"image": "aesthete.jpg"
+	}],
+	"aesthetic": [{
+		"pos": "adjective",
+		"def": "concerned with the appreciation of beauty",
+		"synonyms": [],
+		"image": "aesthetic.jpg"
+	},{
+		"pos": "noun",
+		"def": "a set of principles underlying the work of a particular artist or artistic movement",
+		"synonyms": [],
+		"image": ""
+	}],
+	"apathetic": [{
+		"pos": "adjective",
+		"def": "marked by lack of interest or enthusiasm",
+		"synonyms": [],
+		"image": "apathetic.jpg"
+	}],
+	"assertion": [{
+		"pos": "noun",
+		"def": "a confident and forceful statement of fact or belief",
+		"synonyms": [],
+		"image": "assertion.jpg"
+	}],
+	"audacious": [{
+		"pos": "adjective",
+		"def": "showing a willingness to take bold risks",
+		"synonyms": [],
+		"image": "audacious.jpg"
+	}],
+	"banal": [{
+		"pos": "adjective",
+		"def": "repeated too often, overfamiliar through overuse",
+		"synonyms": [],
+		"image": "banal.jpg"
+	}],
+	"bucolic": [{
+		"pos": "adjective",
+		"def": "relating to the pleasant aspects of the country",
+		"synonyms": [],
+		"image": "bucolic.jpg"
+	}],
+	"chortle": [{
+		"pos": "verb",
+		"def": "laugh in a noisy, joyful, partly muffled way, often at someone else's bad luck",
+		"synonyms": [],
+		"image": "chortle.jpg"
+	}],
+	"concede": [{
+		"pos": "verb",
+		"def": "admit or agree something is true after denying it",
+		"synonyms": [],
+		"image": ""
+	},{
+		"pos": "verb",
+		"def": "admit (to wrongdoing)",
+		"synonyms": [],
+		"image": ""
+	},{
+		"pos": "verb",
+		"def": "surrender or yield (a possession, right, or privilege)",
+		"synonyms": [],
+		"image": "concede.jpg"
+	}],
+	"conspicuous": [{
+		"pos": "adjective",
+		"def": "clearly visible, without any attempt at concealment",
+		"synonyms": [],
+		"image": "conspicuous.jpg"
+	}],
+	"cryptic": [{
+		"pos": "adjective",
+		"def": "having a meaning that is mysterious or obscure, usually intentionally",
+		"synonyms": [],
+		"image": "cryptic.jpg"
+	}],
+	"culminate": [{
+		"pos": "verb",
+		"def": "reach a climax or point of highest development",
+		"synonyms": [],
+		"image": "culminate.jpg"
+	}],
+	"culpability": [{
+		"pos": "noun",
+		"def": "responsibility for a fault or wrong, a state of guilt",
+		"synonyms": [],
+		"image": "culpability.jpg"
+	}],
+	"curator": [{
+		"pos": "noun",
+		"def": "a keeper or custodian of a museum or other collection",
+		"synonyms": [],
+		"image": "curator.jpg"
+	}],
+	"decorous": [{
+		"pos": "adjective",
+		"def": "characterized by good taste in manners and conduct",
+		"synonyms": [],
+		"image": "decorous.jpeg"
+	}],
+	"deferential": [{
+		"pos": "adjective",
+		"def": "showing respect",
+		"synonyms": [],
+		"image": "deferential.jpg"
+	}],
+	"dictatorial": [{
+		"pos": "adjective",
+		"def": "expecting unquestioning obedience, characteristic of an absolute ruler",
+		"synonyms": [],
+		"image": "dictatorial.jpg"
+	}],
+	"didactic": [{
+		"pos": "adjective",
+		"def": "intended to teach people a moral lesson",
+		"synonyms": [],
+		"image": "didactic.jpg"
+	}],
+	"diffident": [{
+		"pos": "adjective",
+		"def": "modest or shy, lack of self-confidence",
+		"synonyms": [],
+		"image": "diffident.jpg"
+	}],
+	"dogmatic": [{
+		"pos": "adjective",
+		"def": "highly opinionated, not accepting that one's own beliefs may not be correct",
+		"synonyms": [],
+		"image": "dogmatic.jpg"
+	}],
+	"engender": [{
+		"pos": "verb",
+		"def": "cause or give rise to (a feeling or situation)",
+		"synonyms": [],
+		"image": "engender.jpg"
+	}],
+	"entrenched": [{
+		"pos": "adjective",
+		"def": "(of a habit or belief) firmly established or unlikely to change",
+		"synonyms": [],
+		"image": "entrenched.jpg"
+	}],
+	"eschew": [{
+		"pos": "verb",
+		"def": "deliberately avoid using",
+		"synonyms": ["abstain from"],
+		"image": ""
+	}],
+	"exacerbate": [{
+		"pos": "verb",
+		"def": "make (a bad situation or negative feeling) worse",
+		"synonyms": [],
+		"image": "exacerbate.jpg"
+	}],
+	"forsake": [{
+		"pos": "verb",
+		"def": "abandon or leave",
+		"synonyms": [],
+		"image": "forsake.jpg"
+	}],
+	"fortuitous": [{
+		"pos": "adjective",
+		"def": "happening by lucky chance rather than intention",
+		"synonyms": ["fortunate"],
+		"image": "fortuitous.jpg"
+	}],
+	"frivolous": [{
+		"pos": "adjective",
+		"def": "not serious in content or attitude or behaviour",
+		"synonyms": [],
+		"image": "frivolous.jpg"
+	}],
+	"gainsay": [{
+		"pos": "verb",
+		"def": "deny or contradict (a fact or statement)",
+		"synonyms": [],
+		"image": "gainsay.jpg"
+	}],
+	"gall": [{
+		"pos": "noun",
+		"def": "bold and impudent behaviour",
+		"synonyms": [],
+		"image": ""
+	},{
+		"pos": "noun",
+		"def": "a feeling of deep and bitter anger and ill-will",
+		"synonyms": [],
+		"image": "gall.jpg"
+	}],
+	"germane": [{
+		"pos": "adjective",
+		"def": "relevant to a subject under consideration",
+		"synonyms": [],
+		"image": "germane.jpg"
+	}],
+	"glut": [{
+		"pos": "noun",
+		"def": "an excessive supply of something",
+		"synonyms": [],
+		"image": "glut.jpg"
+	},{
+		"pos": "verb",
+		"def": "supply or fill to excess",
+		"synonyms": [],
+		"image": ""
+	}],
+	"gossamer": [{
+		"pos": "adjective",
+		"def": "very delicate and light",
+		"synonyms": [],
+		"image": "gossamer.jpg"
+	}],
+	"impudent": [{
+		"pos": "adjective",
+		"def": "not showing respect",
+		"synonyms": ["impertinent"],
+		"image": "impudent.jpg"
+	}],
+	"incisive": [{
+		"pos": "adjective",
+		"def": "(of a person or mental process) intelligently analytical and clear-thinking",
+		"synonyms": [],
+		"image": "incisive.jpg",
+		"notes": "Terence Tao, a mathematician with an estimated IQ of 230"
+	}],
+	"inexorable": [{
+		"pos": "adjective",
+		"def": "impossible to stop or prevent",
+		"synonyms": [],
+		"image": "inexorable.jpg",
+		"notes": "colliding neutron stars"
+	}],
+	"lambast": [{
+		"pos": "verb",
+		"def": "criticize (someone or something) harshly",
+		"synonyms": [],
+		"image": "lambast.jpg"
+	}],
+	"lawsuit": [{
+		"pos": "noun",
+		"def": "a claim or dispute brought to a law court to obtain a legal decision by a person or organization",
+		"synonyms": [],
+		"image": "lawsuit.jpg"
+	}],
+	"locus": [{
+		"pos": "noun",
+		"def": "a particular position or place where something occurs or is situated",
+		"synonyms": [],
+		"image": "locus.jpg"
+	}],
+	"mawkish": [{
+		"pos": "adjective",
+		"def": "sentimental in an exaggerated or false way",
+		"synonyms": [],
+		"image": "mawkish.jpeg"
+	}],
+	"meticulous": [{
+		"pos": "adjective",
+		"def": "showing great attention to detail, very careful and precise",
+		"synonyms": [],
+		"image": "meticulous.jpg"
+	}],
+	"mitigate": [{
+		"pos": "verb",
+		"def": "make (something bad) less severe or painful",
+		"synonyms": [],
+		"image": "mitigate.jpg"
+	},{
+		"pos": "verb",
+		"def": "lessen the gravity of (an offence)",
+		"synonyms": [],
+		"image": ""
+	}],
+	"monopoly": [{
+		"pos": "noun",
+		"def": "the exclusive possession or control of the supply or trade in a commodity or service",
+		"synonyms": [],
+		"image": "monopoly.jpg"
+	}],
+	"obscure": [{
+		"pos": "verb",
+		"def": "make unclear and difficult to understand",
+		"synonyms": [],
+		"image": ""
+	},{
+		"pos": "adjective",
+		"def": "not known about",
+		"synonyms": ["uncertain"],
+		"image": "obscure.jpg"
+	}],
+	"patronize": [{
+		"pos": "verb",
+		"def": "treat in a way that is apparently kind or helpful but betray a feeling of superiority",
+		"synonyms": ["treat condescendingly"],
+		"image": "patronize.png"
+	}],
+	"perfidy": [{
+		"pos": "noun",
+		"def": "an act of deliberate betrayal; a breach of trust",
+		"synonyms": ["betrayal"],
+		"image": "perfidy.jpg"
+	}],
+	"platitude": [{
+		"pos": "noun",
+		"def": "an obvious remark or statement",
+		"synonyms": ["trite"],
+		"image": "platitude.jpg"
+	}],
+	"preclude": [{
+		"pos": "verb",
+		"def": "prevent from happening, make impossible",
+		"synonyms": [],
+		"image": "preclude.jpg"
+	}],
+	"predilection": [{
+		"pos": "noun",
+		"def": "a strong liking",
+		"synonyms": [],
+		"image": "predilection.png",
+		"notes": "Android vs. Apple, for which one do you predilection?"
+	}],
+	"prescience": [{
+		"pos": "noun",
+		"def": "the fact of knowing something in advance",
+		"synonyms": ["foreknowledge"],
+		"image": "prescience.jpg"
+	}],
+	"querulous": [{
+		"pos": "adjective",
+		"def": "habitually complaining in a whining manner",
+		"synonyms": [],
+		"image": "querulous.jpg"
+	}],
+	"recondite": [{
+		"pos": "adjective",
+		"def": "(of a subject or knowledge) little known and difficult to understand",
+		"synonyms": ["abstruse"],
+		"image": "recondite.jpg"
+	}],
+	"reticent": [{
+		"pos": "adjective",
+		"def": "not revealing one's thoughts or feelings",
+		"synonyms": [],
+		"image": "reticent.jpg"
+	}],
+	"rustic": [{
+		"pos": "adjective",
+		"def": "characteristic of rural life, awkwardly simple and provincial",
+		"synonyms": [],
+		"image": "rustic.jpg"
+	}],
+	"superfluous": [{
+		"pos": "adjective",
+		"def": "serving no useful purpose",
+		"synonyms": [],
+		"image": "superfluous.jpg"
+	},{
+		"pos": "adjective",
+		"def": "unnecessary, especially through being more than enough",
+		"synonyms": [],
+		"image": ""
+	}],
+	"torpor": [{
+		"pos": "noun",
+		"def": "a state of physical and mental inactivity",
+		"synonyms": ["lethargy"],
+		"image": "torpor.jpg"
+	}],
+	"trite": [{
+		"pos": "adjective",
+		"def": "(of a remark or idea) lacking originality or freshness",
+		"synonyms": [],
+		"image": "trite.jpg"
+	}],
+	"vociferous": [{
+		"pos": "adjective",
+		"def": "characterized by vehement opinions, conspicuously loud",
+		"synonyms": [],
+		"image": "vociferous.jpg"
+	}],
+	"voluble": [{
+		"pos": "adjective",
+		"def": "(of a person) talking fluently, with confidence and enthusiasm",
+		"synonyms": [],
+		"image": "voluble.jpg"
+	}]
+}
