@@ -3,6 +3,7 @@
 		"pos": "noun",
 		"def": "a person who is appreciative of an sensitive to art and beauty",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "aesthete.jpg",
 		"notes": ""
 	}],
@@ -10,12 +11,14 @@
 		"pos": "adjective",
 		"def": "concerned with the appreciation of beauty",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "aesthetic.jpg",
 		"notes": ""
 	},{
 		"pos": "noun",
 		"def": "a set of principles underlying the work of a particular artist or artistic movement",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "",
 		"notes": ""
 	}],
@@ -23,6 +26,7 @@
 		"pos": "adjective",
 		"def": "marked by lack of interest or enthusiasm",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "apathetic.jpg",
 		"notes": ""
 	}],
@@ -30,6 +34,7 @@
 		"pos": "noun",
 		"def": "a confident and forceful statement of fact or belief",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "assertion.jpg",
 		"notes": ""
 	}],
@@ -37,6 +42,7 @@
 		"pos": "adjective",
 		"def": "showing a willingness to take bold risks",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "audacious.jpg",
 		"notes": ""
 	}],
@@ -44,6 +50,7 @@
 		"pos": "adjective",
 		"def": "repeated too often, overfamiliar through overuse",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "banal.jpg",
 		"notes": ""
 	}],
@@ -51,6 +58,7 @@
 		"pos": "adjective",
 		"def": "relating to the pleasant aspects of the country",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "bucolic.jpg",
 		"notes": ""
 	}],
@@ -58,6 +66,7 @@
 		"pos": "verb",
 		"def": "laugh in a noisy, joyful, partly muffled way, often at someone else's bad luck",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "chortle.jpg",
 		"notes": ""
 	}],
@@ -65,18 +74,21 @@
 		"pos": "verb",
 		"def": "admit or agree something is true after denying it",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "",
 		"notes": ""
 	},{
 		"pos": "verb",
 		"def": "admit (to wrongdoing)",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "",
 		"notes": ""
 	},{
 		"pos": "verb",
 		"def": "surrender or yield (a possession, right, or privilege)",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "concede.jpg",
 		"notes": ""
 	}],
@@ -84,6 +96,7 @@
 		"pos": "adjective",
 		"def": "clearly visible, without any attempt at concealment",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "conspicuous.jpg",
 		"notes": ""
 	}],
@@ -91,6 +104,7 @@
 		"pos": "adjective",
 		"def": "having a meaning that is mysterious or obscure, usually intentionally",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "cryptic.jpg",
 		"notes": ""
 	}],
@@ -98,6 +112,7 @@
 		"pos": "verb",
 		"def": "reach a climax or point of highest development",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "culminate.jpg",
 		"notes": ""
 	}],
@@ -105,6 +120,7 @@
 		"pos": "noun",
 		"def": "responsibility for a fault or wrong, a state of guilt",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "culpability.jpg",
 		"notes": ""
 	}],
@@ -112,6 +128,7 @@
 		"pos": "noun",
 		"def": "a keeper or custodian of a museum or other collection",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "curator.jpg",
 		"notes": ""
 	}],
@@ -119,6 +136,7 @@
 		"pos": "adjective",
 		"def": "characterized by good taste in manners and conduct",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "decorous.jpeg",
 		"notes": ""
 	}],
@@ -126,6 +144,7 @@
 		"pos": "adjective",
 		"def": "showing respect",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "deferential.jpg",
 		"notes": ""
 	}],
@@ -133,6 +152,7 @@
 		"pos": "adjective",
 		"def": "expecting unquestioning obedience, characteristic of an absolute ruler",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "dictatorial.jpg",
 		"notes": ""
 	}],
@@ -140,6 +160,7 @@
 		"pos": "adjective",
 		"def": "intended to teach people a moral lesson",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "didactic.jpg",
 		"notes": ""
 	}],
@@ -147,6 +168,7 @@
 		"pos": "adjective",
 		"def": "modest or shy, lack of self-confidence",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "diffident.jpg",
 		"notes": ""
 	}],
@@ -154,6 +176,7 @@
 		"pos": "adjective",
 		"def": "highly opinionated, not accepting that one's own beliefs may not be correct",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "dogmatic.jpg",
 		"notes": ""
 	}],
@@ -161,6 +184,7 @@
 		"pos": "verb",
 		"def": "cause or give rise to (a feeling or situation)",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "engender.jpg",
 		"notes": ""
 	}],
@@ -168,6 +192,7 @@
 		"pos": "adjective",
 		"def": "(of a habit or belief) firmly established or unlikely to change",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "entrenched.jpg",
 		"notes": ""
 	}],
@@ -175,6 +200,7 @@
 		"pos": "verb",
 		"def": "deliberately avoid using",
 		"synonyms": ["abstain from"],
+		"antonyms": [],
 		"image": "",
 		"notes": ""
 	}],
@@ -182,6 +208,7 @@
 		"pos": "verb",
 		"def": "make (a bad situation or negative feeling) worse",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "exacerbate.jpg",
 		"notes": ""
 	}],
@@ -189,6 +216,7 @@
 		"pos": "verb",
 		"def": "abandon or leave",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "forsake.jpg",
 		"notes": ""
 	}],
@@ -196,6 +224,7 @@
 		"pos": "adjective",
 		"def": "happening by lucky chance rather than intention",
 		"synonyms": ["fortunate"],
+		"antonyms": [],
 		"image": "fortuitous.jpg",
 		"notes": ""
 	}],
@@ -203,6 +232,7 @@
 		"pos": "adjective",
 		"def": "not serious in content or attitude or behaviour",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "frivolous.jpg",
 		"notes": ""
 	}],
@@ -210,6 +240,7 @@
 		"pos": "verb",
 		"def": "deny or contradict (a fact or statement)",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "gainsay.jpg",
 		"notes": ""
 	}],
@@ -217,12 +248,14 @@
 		"pos": "noun",
 		"def": "bold and impudent behaviour",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "",
 		"notes": ""
 	},{
 		"pos": "noun",
 		"def": "a feeling of deep and bitter anger and ill-will",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "gall.jpg",
 		"notes": ""
 	}],
@@ -230,6 +263,7 @@
 		"pos": "adjective",
 		"def": "relevant to a subject under consideration",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "germane.jpg",
 		"notes": ""
 	}],
@@ -237,12 +271,14 @@
 		"pos": "noun",
 		"def": "an excessive supply of something",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "glut.jpg",
 		"notes": ""
 	},{
 		"pos": "verb",
 		"def": "supply or fill to excess",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "",
 		"notes": ""
 	}],
@@ -250,6 +286,7 @@
 		"pos": "adjective",
 		"def": "very delicate and light",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "gossamer.jpg",
 		"notes": ""
 	}],
@@ -257,6 +294,7 @@
 		"pos": "adjective",
 		"def": "not showing respect",
 		"synonyms": ["impertinent"],
+		"antonyms": [],
 		"image": "impudent.jpg",
 		"notes": ""
 	}],
@@ -264,6 +302,7 @@
 		"pos": "adjective",
 		"def": "(of a person or mental process) intelligently analytical and clear-thinking",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "incisive.jpg",
 		"notes": "Terence Tao, a mathematician with an estimated IQ of 230"
 	}],
@@ -271,6 +310,7 @@
 		"pos": "adjective",
 		"def": "impossible to stop or prevent",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "inexorable.jpg",
 		"notes": "colliding neutron stars"
 	}],
@@ -278,6 +318,7 @@
 		"pos": "verb",
 		"def": "criticize (someone or something) harshly",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "lambast.jpg",
 		"notes": ""
 	}],
@@ -285,6 +326,7 @@
 		"pos": "noun",
 		"def": "a claim or dispute brought to a law court to obtain a legal decision by a person or organization",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "lawsuit.jpg",
 		"notes": ""
 	}],
@@ -292,6 +334,7 @@
 		"pos": "noun",
 		"def": "a particular position or place where something occurs or is situated",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "locus.jpg",
 		"notes": ""
 	}],
@@ -299,6 +342,7 @@
 		"pos": "adjective",
 		"def": "sentimental in an exaggerated or false way",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "mawkish.jpeg",
 		"notes": ""
 	}],
@@ -306,6 +350,7 @@
 		"pos": "adjective",
 		"def": "showing great attention to detail, very careful and precise",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "meticulous.jpg",
 		"notes": ""
 	}],
@@ -313,12 +358,14 @@
 		"pos": "verb",
 		"def": "make (something bad) less severe or painful",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "mitigate.jpg",
 		"notes": ""
 	},{
 		"pos": "verb",
 		"def": "lessen the gravity of (an offence)",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "",
 		"notes": ""
 	}],
@@ -326,6 +373,7 @@
 		"pos": "noun",
 		"def": "the exclusive possession or control of the supply or trade in a commodity or service",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "monopoly.jpg",
 		"notes": ""
 	}],
@@ -333,12 +381,14 @@
 		"pos": "verb",
 		"def": "make unclear and difficult to understand",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "",
 		"notes": ""
 	},{
 		"pos": "adjective",
 		"def": "not known about",
 		"synonyms": ["uncertain"],
+		"antonyms": [],
 		"image": "obscure.jpg",
 		"notes": ""
 	}],
@@ -346,6 +396,7 @@
 		"pos": "verb",
 		"def": "treat in a way that is apparently kind or helpful but betray a feeling of superiority",
 		"synonyms": ["treat condescendingly"],
+		"antonyms": [],
 		"image": "patronize.png",
 		"notes": ""
 	}],
@@ -353,6 +404,7 @@
 		"pos": "noun",
 		"def": "an act of deliberate betrayal; a breach of trust",
 		"synonyms": ["betrayal"],
+		"antonyms": [],
 		"image": "perfidy.jpg",
 		"notes": ""
 	}],
@@ -360,6 +412,7 @@
 		"pos": "noun",
 		"def": "an obvious remark or statement",
 		"synonyms": ["trite"],
+		"antonyms": [],
 		"image": "platitude.jpg",
 		"notes": ""
 	}],
@@ -367,6 +420,7 @@
 		"pos": "verb",
 		"def": "prevent from happening, make impossible",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "preclude.jpg",
 		"notes": ""
 	}],
@@ -374,6 +428,7 @@
 		"pos": "noun",
 		"def": "a strong liking",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "predilection.png",
 		"notes": "Android vs. Apple, for which one do you predilection?"
 	}],
@@ -381,6 +436,7 @@
 		"pos": "noun",
 		"def": "the fact of knowing something in advance",
 		"synonyms": ["foreknowledge"],
+		"antonyms": [],
 		"image": "prescience.jpg",
 		"notes": ""
 	}],
@@ -388,6 +444,7 @@
 		"pos": "adjective",
 		"def": "habitually complaining in a whining manner",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "querulous.jpg",
 		"notes": ""
 	}],
@@ -395,6 +452,7 @@
 		"pos": "adjective",
 		"def": "(of a subject or knowledge) little known and difficult to understand",
 		"synonyms": ["abstruse"],
+		"antonyms": [],
 		"image": "recondite.jpg",
 		"notes": ""
 	}],
@@ -402,6 +460,7 @@
 		"pos": "adjective",
 		"def": "not revealing one's thoughts or feelings",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "reticent.jpg",
 		"notes": ""
 	}],
@@ -409,6 +468,7 @@
 		"pos": "adjective",
 		"def": "characteristic of rural life, awkwardly simple and provincial",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "rustic.jpg",
 		"notes": ""
 	}],
@@ -416,12 +476,14 @@
 		"pos": "adjective",
 		"def": "serving no useful purpose",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "superfluous.jpg",
 		"notes": ""
 	},{
 		"pos": "adjective",
 		"def": "unnecessary, especially through being more than enough",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "",
 		"notes": ""
 	}],
@@ -429,6 +491,7 @@
 		"pos": "noun",
 		"def": "a state of physical and mental inactivity",
 		"synonyms": ["lethargy"],
+		"antonyms": [],
 		"image": "torpor.jpg",
 		"notes": ""
 	}],
@@ -436,6 +499,7 @@
 		"pos": "adjective",
 		"def": "(of a remark or idea) lacking originality or freshness",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "trite.jpg",
 		"notes": ""
 	}],
@@ -443,6 +507,7 @@
 		"pos": "adjective",
 		"def": "characterized by vehement opinions, conspicuously loud",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "vociferous.jpg",
 		"notes": ""
 	}],
@@ -450,6 +515,7 @@
 		"pos": "adjective",
 		"def": "(of a person) talking fluently, with confidence and enthusiasm",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "voluble.jpg",
 		"notes": ""
 	}]

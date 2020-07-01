@@ -3,6 +3,7 @@
 		"pos": "noun",
 		"def": "a deviation from what is normal or expected",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "aberration.jpg",
 		"notes": ""
 	}],
@@ -10,6 +11,7 @@
 		"pos": "noun",
 		"def": "bitterness and ill feeling",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "acrimony.jpg",
 		"notes": ""
 	}],
@@ -17,6 +19,7 @@
 		"pos": "adjective",
 		"def": "(typically of speech or discussion) angry and bitter",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "acrimonious.jpg",
 		"notes": ""
 	}],
@@ -24,6 +27,7 @@
 		"pos": "noun",
 		"def": "a mixture of multiple things",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "amalgam.jpg",
 		"notes": ""
 	}],
@@ -31,6 +35,7 @@
 		"pos": "adjective",
 		"def": "open to more than one interpretation",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "ambiguous.jpg",
 		"notes": ""
 	}],
@@ -38,6 +43,7 @@
 		"pos": "adjective",
 		"def": "having mixed feelings or contradictory ideas about something or someone",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "ambivalent.jpg",
 		"notes": ""
 	}],
@@ -45,6 +51,7 @@
 		"pos": "adjective",
 		"def": "easily persuaded or controlled",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "amenable.jpeg",
 		"notes": ""
 	}],
@@ -52,6 +59,7 @@
 		"pos": "adjective",
 		"def": "without a clearly defined shape or form; shapeless",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "amorphous.jpg",
 		"notes": ""
 	}],
@@ -59,6 +67,7 @@
 		"pos": "adjective",
 		"def": "deviating from what is standard, normal, or expected",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "anomalous.jpg",
 		"notes": ""
 	}],
@@ -66,6 +75,7 @@
 		"pos": "noun",
 		"def": "something that deviates from what is standard, normal, or expected",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "anomaly.jpg",
 		"notes": ""
 	}],
@@ -73,12 +83,14 @@
 		"pos": "adjective",
 		"def": "showing creative skill",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "artful.jpg",
 		"notes": ""
 	},{
 		"pos": "adjective",
 		"def": "clever in a cunning way",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "",
 		"notes": ""
 	}],
@@ -86,6 +98,7 @@
 		"pos": "adjective",
 		"def": "conducive to success",
 		"synonyms": ["favorable"],
+		"antonyms": [],
 		"image": "auspicious.jpg",
 		"notes": ""
 	}],
@@ -93,6 +106,7 @@
 		"pos": "adjective",
 		"def": "fail to give a true impression of (something)",
 		"synonyms": ["misrepresent"],
+		"antonyms": [],
 		"image": "belie.jpg",
 		"notes": ""
 	}],
@@ -100,6 +114,7 @@
 		"pos": "verb",
 		"def": "unintentionally reveal; be evidence of",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "betray.jpg",
 		"notes": ""
 	}],
@@ -107,6 +122,7 @@
 		"pos": "noun",
 		"def": "a situation that causes a delay in a process",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "bottleneck.jpg",
 		"notes": ""
 	}],
@@ -114,6 +130,7 @@
 		"pos": "noun",
 		"def": "making of a false statement meant to injure a person's reputation",
 		"synonyms": ["slander"],
+		"antonyms": [],
 		"image": "calumny.jpg",
 		"notes": ""
 	}],
@@ -121,6 +138,7 @@
 		"pos": "verb",
 		"def": "reprimand (someone) severely",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "castigate.jpg",
 		"notes": ""
 	}],
@@ -128,6 +146,7 @@
 		"pos": "verb",
 		"def": "express severe disapproval of (someone or something), especially in a formal statement",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "censure.jpg",
 		"notes": ""
 	}],
@@ -135,6 +154,7 @@
 		"pos": "verb",
 		"def": "reprimand severely",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "chastise.jpg",
 		"notes": ""
 	}],
@@ -142,6 +162,7 @@
 		"pos": "adjective",
 		"def": "corresponding in size or degree",
 		"synonyms": ["equal", "proportional"],
+		"antonyms": [],
 		"image": "commensurate.jpg",
 		"notes": ""
 	}],
@@ -149,6 +170,7 @@
 		"pos": "verb",
 		"def": "raise objections or show reluctance",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "demur.jpg",
 		"notes": ""
 	}],
@@ -156,6 +178,7 @@
 		"pos": "adjective",
 		"def": "not influenced by considerations of personal advantage",
 		"synonyms": ["unbiased", "neutral"],
+		"antonyms": [],
 		"image": "disinterested.jpg",
 		"notes": ""
 	}],
@@ -163,6 +186,7 @@
 		"pos": "adjective",
 		"def": "outstandingly bad or shocking in an obvious way",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "egregious.jpg",
 		"notes": ""
 	}],
@@ -170,12 +194,14 @@
 		"pos": "verb",
 		"def": "make (someone) feel drained of energy or vitality",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "enervate.png",
 		"notes": ""
 	},{
 		"pos": "adjective",
 		"def": "lacking in energy or vitality",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "",
 		"notes": ""
 	}],
@@ -183,6 +209,7 @@
 		"pos": "adjective",
 		"def": "open to more than one interpretation",
 		"synonyms": ["ambiguous"],
+		"antonyms": [],
 		"image": "equivocal.png",
 		"notes": ""
 	}],
@@ -190,6 +217,7 @@
 		"pos": "adjective",
 		"def": "tending to avoid commitment, especially by responding only indirectly",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "evasive.jpg",
 		"notes": ""
 	}],
@@ -197,6 +225,7 @@
 		"pos": "adjective",
 		"def": "still in existence (usually refers to documents)",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "extant.jpg",
 		"notes": ""
 	}],
@@ -204,6 +233,7 @@
 		"pos": "adjective",
 		"def": "not spending much money (but spending wisely)",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "frugal.jpg",
 		"notes": ""
 	}],
@@ -211,6 +241,7 @@
 		"pos": "verb",
 		"def": "excite or inspire (someone) into taking action",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "galvanize.jpg",
 		"notes": ""
 	}],
@@ -218,6 +249,7 @@
 		"pos": "adjective",
 		"def": "to be likely to socialize with others",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "gregarious.jpg",
 		"notes": ""
 	}],
@@ -225,12 +257,14 @@
 		"pos": "noun",
 		"def": "a lengthy and aggressive speech",
 		"synonyms": ["tirade"],
+		"antonyms": [],
 		"image": "harangue.jpg",
 		"notes": ""
 	},{
 		"pos": "verb",
 		"def": "lecture (someone) at length in an aggressive and critical manner",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "",
 		"notes": ""
 	}],
@@ -238,6 +272,7 @@
 		"pos": "noun",
 		"def": "a person who attacks cherished beliefs or institutions",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "iconoclast.jpg",
 		"notes": ""
 	}],
@@ -245,6 +280,7 @@
 		"pos": "adjective",
 		"def": "not showing proper respect",
 		"synonyms": ["rude"],
+		"antonyms": [],
 		"image": "impertinent.jpg",
 		"notes": ""
 	}],
@@ -252,6 +288,7 @@
 		"pos": "adjective",
 		"def": "(of a person or action) innocent and naive",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "ingenuous.jpg",
 		"notes": ""
 	}],
@@ -259,6 +296,7 @@
 		"pos": "adjective",
 		"def": "not harmful or offensive",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "innocuous.jpg",
 		"notes": ""
 	}],
@@ -266,18 +304,21 @@
 		"pos": "verb",
 		"def": "to suggest (something) subtly",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "",
 		"notes": ""
 	},{
 		"pos": "adjective",
 		"def": "closely acquainted",
 		"synonyms": ["familiar"],
+		"antonyms": [],
 		"image": "",
 		"notes": ""
 	},{
 		"pos": "adjective",
 		"def": "(of knowledge) obtained from a lot of studying or experience",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "intimate.jpg",
 		"notes": ""
 	}],
@@ -285,6 +326,7 @@
 		"pos": "adjective",
 		"def": "difficult to understand",
 		"synonyms": ["complicated"],
+		"antonyms": [],
 		"image": "involved.jpg",
 		"notes": ""
 	}],
@@ -292,6 +334,7 @@
 		"pos": "adjective",
 		"def": "(of a person, speech, or style of writing) using very few words",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "laconic.jpg",
 		"notes": ""
 	}],
@@ -299,6 +342,7 @@
 		"pos": "verb",
 		"def": "state something strongly to be the case",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "maintain.jpg",
 		"notes": ""
 	}],
@@ -306,6 +350,7 @@
 		"pos": "adjective",
 		"def": "(of a person) prone to sudden or unpredictable changes in mood",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "mercurial.jpg",
 		"notes": ""
 	}],
@@ -313,6 +358,7 @@
 		"pos": "noun",
 		"def": "a person who hoards wealth and spends as little money as possible",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "miser.jpg",
 		"notes": ""
 	}],
@@ -320,6 +366,7 @@
 		"pos": "noun",
 		"def": "the way in which genes change and produce permanent differences",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "mutation.jpg",
 		"notes": ""
 	}],
@@ -327,6 +374,7 @@
 		"pos": "adjective",
 		"def": "very unwilling to spend money or use resources",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "parsimonious.jpg",
 		"notes": ""
 	}],
@@ -334,6 +382,7 @@
 		"pos": "adjective",
 		"def": "narrowly restricted in scope or outlook",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "parochial.jpg",
 		"notes": ""
 	}],
@@ -341,6 +390,7 @@
 		"pos": "verb",
 		"def": "speak or act in an evasive way",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "prevaricate.jpg",
 		"notes": ""
 	}],
@@ -348,6 +398,7 @@
 		"pos": "adjective",
 		"def": "spending money or resources recklessly",
 		"synonyms": ["profligate", "wasteful", "extravagant"],
+		"antonyms": [],
 		"image": "prodigal.jpg",
 		"notes": ""
 	}],
@@ -355,11 +406,14 @@
 		"pos": "adjective",
 		"def": "recklessly extravagant or wasteful in the use of resources",
 		"synonyms": ["prodigal", "wasteful", "extravagant"],
+		"antonyms": [],
 		"image": "profligate.jpg",
 		"notes": ""
 	},{
 		"pos": "noun",
 		"def": "someone who spends money recklessly or wastefully",
+		"synonyms": [],
+		"antonyms": [],
 		"image": "",
 		"notes": ""
 	}],
@@ -367,6 +421,7 @@
 		"pos": "verb",
 		"def": "make (a statement or assertion) less absolute",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "qualify.jpg",
 		"notes": ""
 	}],
@@ -374,6 +429,7 @@
 		"pos": "adjective",
 		"def": "(of a person) restless",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "restive.jpg",
 		"notes": ""
 	}],
@@ -381,6 +437,7 @@
 		"pos": "noun",
 		"def": "a long, angry speech of criticism or accusation",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "tirade.jpg",
 		"notes": ""
 	}],
@@ -388,6 +445,7 @@
 		"pos": "verb",
 		"def": "lessen the effectiveness gradually or insidiously",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "undermine.jpg",
 		"notes": ""
 	}],
@@ -395,6 +453,7 @@
 		"pos": "verb",
 		"def": "find fault (with someone)",
 		"synonyms": ["scold"],
+		"antonyms": [],
 		"image": "upbraid.jpg",
 		"notes": ""
 	}],
@@ -402,6 +461,7 @@
 		"pos": "adjective",
 		"def": "showing or motivated by susceptibility to bribery",
 		"synonyms": ["corrupt"],
+		"antonyms": [],
 		"image": "venal.jpg",
 		"notes": ""
 	}],
@@ -409,12 +469,15 @@
 		"pos": "verb",
 		"def": "regard with great respect",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "venerate.jpg",
 		"notes": ""
 	}],
 	"veracious": [{
 		"pos": "adjective",
 		"def": "speaking the truth",
+		"synonyms": [],
+		"antonyms": [],
 		"image": "veracious.jpg",
 		"notes": ""
 	}],
@@ -422,6 +485,7 @@
 		"pos": "verb",
 		"def": "clear (someone) of blame or suspicion with supporting proof",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "vindicate.jpeg",
 		"notes": ""
 	}],
@@ -429,6 +493,7 @@
 		"pos": "adjective",
 		"def": "lacking in a required quality",
 		"synonyms": [],
+		"antonyms": [],
 		"image": "wanting.jpg",
 		"notes": ""
 	}]
