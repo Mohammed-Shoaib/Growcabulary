@@ -1,0 +1,444 @@
+{
+	"abstruse": [{
+		"pos": "adjective",
+		"def": "difficult to understand",
+		"synonyms": ["obscure"],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"adamant": [{
+		"pos": "adjective",
+		"def": "refusing to be persuaded or to change one's mind",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"admonish": [{
+		"pos": "verb",
+		"def": "warn or reprimand someone firmly",
+		"synonyms": ["chastise", "castigate", "censure", "lambast", "upbraid"],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"admonitory": [{
+		"pos": "adjective",
+		"def": "giving or conveying a warning or reprimand",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"apocryphal": [{
+		"pos": "adjective",
+		"def": "(of a story or statement) of doubtful authenticity, although widely circulated as being true",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"blatant": [{
+		"pos": "adjective",
+		"def": "(of bad behaviour) done openly and unashamedly",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"bumbling": [{
+		"pos": "adjective",
+		"def": "acting in a confused way",
+		"synonyms": ["incompetent"],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"burgeon": [{
+		"pos": "verb",
+		"def": "begin to grow or increase rapidly",
+		"synonyms": ["flourish"],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"confound": [{
+		"pos": "verb",
+		"def": "cause surprise or confusion in (someone), especially by not according to their expectations",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	},{
+		"pos": "verb",
+		"def": "mix up (something) with something else",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"contingent": [{
+		"pos": "noun",
+		"def": "subject to chance",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	},{
+		"pos": "noun",
+		"def": "a group of people sharing a common feature, forming part of a larger group",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"copious": [{
+		"pos": "adjective",
+		"def": "abundant in supply or quantity",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"decorum": [{
+		"pos": "noun",
+		"def": "propriety in manners and conduct",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"denigrate": [{
+		"pos": "verb",
+		"def": "to treat as lacking in value or importance",
+		"synonyms": ["disparage"],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	},{
+		"pos": "verb",
+		"def": "criticize in a derogatory manner",
+		"synonyms": ["defame"],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"derogative": [{
+		"pos": "adjective",
+		"def": "expressed as worthless or low opinion",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"discrete": [{
+		"pos": "adjective",
+		"def": "individually separate and distinct",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"eradicate": [{
+		"pos": "verb",
+		"def": "destroy completely; put an end to",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"espouse": [{
+		"pos": "verb",
+		"def": "adopt or support (a cause or idea)",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"exacting": [{
+		"pos": "adjective",
+		"def": "demanding a lot of effort, care, or attention",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"exalt": [{
+		"pos": "verb",
+		"def": "think or speak very highly of (someone or something)",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"exonerate": [{
+		"pos": "verb",
+		"def": "pronounce not guilty of criminal charges",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"expound": [{
+		"pos": "verb",
+		"def": "present and explain (a theory or idea) in detail",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"forthcoming": [{
+		"pos": "adjective",
+		"def": "about to happen or appear",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	},{
+		"pos": "adjective",
+		"def": "ready or made available when needed",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	},{
+		"pos": "adjective",
+		"def": "willing to divulge information",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"hackneyed": [{
+		"pos": "adjective",
+		"def": "(of a phrase or idea) having been overused",
+		"synonyms": ["trite"],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"idiosyncrasy": [{
+		"pos": "noun",
+		"def": "a mode of behaviour or way of thought peculiar to an individual",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"ignoble": [{
+		"pos": "adjective",
+		"def": "not honourable in character or purpose",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"ignoramus": [{
+		"pos": "noun",
+		"def": "an ignorant or stupid person",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"impervious": [{
+		"pos": "adjective",
+		"def": "not allowing fluid to pass through",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	},{
+		"pos": "adjective",
+		"def": "unable to be affected by",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"implacable": [{
+		"pos": "adjective",
+		"def": "unable to be appeased or placated",
+		"synonyms": [],
+		"antonyms": ["placable"],
+		"image": "",
+		"notes": ""
+	}],
+	"implausible": [{
+		"pos": "adjective",
+		"def": "(of an argument or statement) not seeming reasonable; failing to convince",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"incorrigible": [{
+		"pos": "adjective",
+		"def": "(of a person or behaviour) not able to be changed or reformed; impervious to correction",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"indifference": [{
+		"pos": "noun",
+		"def": "lack of interest, concern, or sympathy",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"injunction": [{
+		"pos": "noun",
+		"def": "an authoritative warning or order",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"intransigent": [{
+		"pos": "adjective",
+		"def": "unwilling or refusing to change one's views or to agree about something",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"largess": [{
+		"pos": "noun",
+		"def": "generosity in bestowing money or gifts upon others",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"laudable": [{
+		"pos": "adjective",
+		"def": "(of an action, idea, or aim) deserving praise and commendation",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"myopic": [{
+		"pos": "adjective",
+		"def": "lacking foresight or imagination",
+		"synonyms": ["short-sighted"],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"opaque": [{
+		"pos": "adjective",
+		"def": "not able to be seen through",
+		"synonyms": [],
+		"antonyms": ["transparent"],
+		"image": "",
+		"notes": ""
+	}],
+	"ostentatious": [{
+		"pos": "adjective",
+		"def": "intended to attract notice and impress others",
+		"synonyms": ["vulgar"],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"pedantic": [{
+		"pos": "excessively concerned with minor details or rules",
+		"def": "",
+		"synonyms": ["overscrupulous"],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"petulant": [{
+		"pos": "adjective",
+		"def": "(of a person or their manner) childishly sulky or bad-tempered",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"pragmatic": [{
+		"pos": "adjective",
+		"def": "guided by practical experience and observation rather than theory",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"provincial": [{
+		"pos": "adjective",
+		"def": "characteristic of limited perspective, unsophisticated and narrow-minded",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"reconcile": [{
+		"pos": "verb",
+		"def": "restore friendly relations between",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"refute": [{
+		"pos": "verb",
+		"def": "prove (a statement or theory) to be false or wrong",
+		"synonyms": ["disprove"],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"scrupulous": [{
+		"pos": "adjective",
+		"def": "(of a person or process) careful and extremely attentive to details",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"tawdry": [{
+		"pos": "adjective",
+		"def": "showy but cheap and of poor quality",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"temperance": [{
+		"pos": "adjective",
+		"def": "control of your own behaviour, such as not drinking or eating too much",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"tortuous": [{
+		"pos": "adjective",
+		"def": "ful of twists and turns; excessively lengthy",
+		"synonyms": [],
+		"antonyms": ["straightforward"],
+		"image": "",
+		"notes": ""
+	}],
+	"underscore": [{
+		"pos": "verb",
+		"def": "give extra weight to",
+		"synonyms": ["emphasize"],
+		"antonyms": [],
+		"image": "",
+		"notes": ""
+	}],
+	"unscrupulous": [{
+		"pos": "adjective",
+		"def": "showing no moral principles",
+		"synonyms": [],
+		"antonyms": ["honest"],
+		"image": "",
+		"notes": ""
+	}]
+}
