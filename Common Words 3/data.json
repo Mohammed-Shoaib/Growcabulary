@@ -4,7 +4,7 @@
 		"def": "departing from an accepted standard",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "aberrant.jpg",
 		"notes": ""
 	}],
 	"abstain": [{
@@ -12,7 +12,7 @@
 		"def": "restrain oneself from doing or enjoying something",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "abstain.jpg",
 		"notes": ""
 	}],
 	"acerbic": [{
@@ -20,7 +20,7 @@
 		"def": "harsh in tone",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "acerbic.jpg",
 		"notes": ""
 	}],
 	"ameliorate": [{
@@ -28,7 +28,7 @@
 		"def": "make (something bad or unsatisfactory) better",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "ameliorate.png",
 		"notes": ""
 	}],
 	"apathy": [{
@@ -36,7 +36,7 @@
 		"def": "an absence of emotion or enthusiasm",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "apathy.jpg",
 		"notes": ""
 	}],
 	"ascetic": [{
@@ -44,7 +44,7 @@
 		"def": "avoiding physical pleasures and living a simple life, often for religious reasons",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "ascetic.jpg",
 		"notes": ""
 	},{
 		"pos": "noun",
@@ -54,12 +54,12 @@
 		"image": "",
 		"notes": ""
 	}],
-	"adjective": [{
+	"avaricious": [{
 		"pos": "adjective",
 		"def": "excessively greedy",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "avaricious.jpg",
 		"notes": ""
 	}],
 	"belligerent": [{
@@ -67,7 +67,7 @@
 		"def": "characteristic of one eager to fight, hostile and aggressive",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "belligerent.jpg",
 		"notes": ""
 	}],
 	"circumvent": [{
@@ -75,7 +75,7 @@
 		"def": "to avoid something, especially cleverly or illegally",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "circumvent.png",
 		"notes": ""
 	}],
 	"construe": [{
@@ -83,7 +83,7 @@
 		"def": "interpret (a word or action) in a particular way",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "construe.jpg",
 		"notes": ""
 	}],
 	"contrive": [{
@@ -91,7 +91,7 @@
 		"def": "to pull off a plan or scheme, usually through skill or trickery",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "contrive.jpg",
 		"notes": ""
 	}],
 	"delineate": [{
@@ -99,7 +99,7 @@
 		"def": "describe or portray (something) precisely",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "delineate.jpg",
 		"notes": ""
 	}],
 	"denote": [{
@@ -107,7 +107,7 @@
 		"def": "be a sign of",
 		"synonyms": ["indicate"],
 		"antonyms": [],
-		"image": "",
+		"image": "denote.jpg",
 		"notes": ""
 	}],
 	"derivative": [{
@@ -115,7 +115,7 @@
 		"def": "imitative of the work of another artist, writer, etc., and usually disapproved of for that reason",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "derivative.jpg",
 		"notes": ""
 	}],
 	"derive": [{
@@ -123,7 +123,7 @@
 		"def": "obtain something from (a specified source)",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "derive.jpg",
 		"notes": ""
 	},{
 		"pos": "verb",
@@ -138,7 +138,7 @@
 		"def": "dissatisfied, especially with people in authority or a system of control",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "disaffected.jpg",
 		"notes": ""
 	}],
 	"eclectic": [{
@@ -146,7 +146,7 @@
 		"def": "comprising of a variety of styles or ideas",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "eclectic.jpg",
 		"notes": ""
 	}],
 	"elucidate": [{
@@ -154,7 +154,7 @@
 		"def": "make (something) clear",
 		"synonyms": ["explain"],
 		"antonyms": [],
-		"image": "",
+		"image": "elucidate.png",
 		"notes": ""
 	}],
 	"eminent": [{
@@ -162,7 +162,7 @@
 		"def": "standing above others in quality or position",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "eminent.jpgeminent",
 		"notes": ""
 	}],
 	"ephemeral": [{
@@ -170,7 +170,7 @@
 		"def": "lasting for a very short time",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "ephemeral.jpg",
 		"notes": ""
 	}],
 	"fallacious": [{
@@ -178,7 +178,7 @@
 		"def": "based on a mistaken belief",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "fallacious.jpg",
 		"notes": ""
 	}],
 	"forlorn": [{
@@ -186,7 +186,7 @@
 		"def": "pitifully sad and abandoned or lonely",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "forlorn.jpg",
 		"notes": ""
 	},{
 		"pos": "adjective",
@@ -201,7 +201,7 @@
 		"def": "prevent (a plan or action) from succeeding",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "frustrate.jpg",
 		"notes": ""
 	},{
 		"pos": "verb",
@@ -216,7 +216,7 @@
 		"def": "devoid of guile; innocent and without deception",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "guileless.jpg",
 		"notes": ""
 	}],
 	"haughty": [{
@@ -224,7 +224,7 @@
 		"def": "arrogantly superior and disdainful",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "haughty.jpg",
 		"notes": ""
 	}],
 	"heretic": [{
@@ -240,7 +240,7 @@
 		"def": "belief or opinion contrary to orthodox religious doctrine or what is generally accepted",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "heresy.jpg",
 		"notes": ""
 	}],
 	"iconoclastic": [{
@@ -248,7 +248,7 @@
 		"def": "a person who strongly opposes generally accepted beliefs and traditions",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "iconoclastic.jpg",
 		"notes": ""
 	}],
 	"immutable": [{
@@ -256,7 +256,7 @@
 		"def": "unable to be changed",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "immutable.jpg",
 		"notes": ""
 	}],
 	"incongruous": [{
@@ -264,7 +264,7 @@
 		"def": "not in harmony or with the surroundings or other aspects of something",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "incongruous.jpg",
 		"notes": ""
 	}],
 	"ingratiate": [{
@@ -272,7 +272,7 @@
 		"def": "bring oneself into favour with someone by flattering or trying to please them",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "ingratiate.jpg",
 		"notes": ""
 	}],
 	"insidious": [{
@@ -280,7 +280,7 @@
 		"def": "proceeding in a gradual, subtle way, but with harmful effects",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "insidious.jpg",
 		"notes": ""
 	}],
 	"itinerant": [{
@@ -288,7 +288,7 @@
 		"def": "travelling from place to place, usually to work for a short period",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "itinerant.jpg",
 		"notes": ""
 	}],
 	"jingoism": [{
@@ -296,7 +296,7 @@
 		"def": "extreme patriotism, especially in the form of aggressive or warlike policy",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "jingoism.jpg",
 		"notes": ""
 	}],
 	"jubilant": [{
@@ -304,7 +304,7 @@
 		"def": "feeling or expressing great happiness, especially because of triumph or success",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "jubilant.jpg",
 		"notes": ""
 	}],
 	"juxtapose": [{
@@ -312,7 +312,7 @@
 		"def": "place side by side for contrast",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "juxtapose.jpeg",
 		"notes": ""
 	}],
 	"languid": [{
@@ -320,7 +320,7 @@
 		"def": "(of a person, manner, or gesture) showing disinclination for physical exertion or effort; slow and relaxed",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "languid.jpg",
 		"notes": ""
 	}],
 	"magnanimous": [{
@@ -328,7 +328,7 @@
 		"def": "generous or forgiving, especially towards a rival or less powerful person",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "magnanimous.jpg",
 		"notes": ""
 	}],
 	"mollify": [{
@@ -336,7 +336,7 @@
 		"def": "to make someone angry less angry",
 		"synonyms": ["placate"],
 		"antonyms": [],
-		"image": "",
+		"image": "mollify.jpg",
 		"notes": ""
 	}],
 	"negligible": [{
@@ -344,7 +344,7 @@
 		"def": "so small as to be not worth considering",
 		"synonyms": ["insignificant"],
 		"antonyms": [],
-		"image": "",
+		"image": "negligible.jpg",
 		"notes": ""
 	}],
 	"panache": [{
@@ -352,13 +352,13 @@
 		"def": "flamboyant confidence of style or manner that makes people admire you",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "panache.jpg",
 		"notes": ""
 	}],
 	"placate": [{
 		"pos": "verb",
 		"def": "make (someone) less angry or hostile",
-		"synonyms": [],
+		"synonyms": ["mollify"],
 		"antonyms": [],
 		"image": "",
 		"notes": ""
@@ -368,7 +368,7 @@
 		"def": "(of a child) showing mental development or achievement at an earlier age than is usual",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "precocious.jpg",
 		"notes": ""
 	}],
 	"pundit": [{
@@ -376,15 +376,15 @@
 		"def": "an expert in a particular subject who is frequently called upon to give their opinion",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
-		"notes": ""
+		"image": "pundit.jpg",
+		"notes": "Neil deGrasse Tyson (on the left), an American astrophysicist."
 	}],
 	"quotidian": [{
 		"pos": "adjective",
 		"def": "of or occurring every day",
 		"synonyms": ["daily"],
 		"antonyms": [],
-		"image": "",
+		"image": "quotidian.jpg",
 		"notes": ""
 	}],
 	"rudimentary": [{
@@ -392,7 +392,7 @@
 		"def": "involving or limited to basic principles, relating to an undeveloped or basic form",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "rudimentary.jpg",
 		"notes": ""
 	}],
 	"scholar": [{
@@ -400,7 +400,7 @@
 		"def": "a person who is highly educated or has an aptitude for study",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "scholar.jpg",
 		"notes": ""
 	}],
 	"soporific": [{
@@ -416,7 +416,7 @@
 		"def": "plausible but false",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "spurious.jpg",
 		"notes": ""
 	}],
 	"staunch": [{
@@ -424,7 +424,7 @@
 		"def": "very loyal and committed in attitude",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "staunch.jpg",
 		"notes": ""
 	}],
 	"subsume": [{
@@ -432,7 +432,7 @@
 		"def": "to include (something or someone) as part of a larger group",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "subsume.jpg",
 		"notes": ""
 	}],
 	"supplant": [{
@@ -440,7 +440,7 @@
 		"def": "supersede and replace",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "supplant.jpg",
 		"notes": ""
 	}],
 	"tantamount": [{
@@ -448,7 +448,7 @@
 		"def": "equivalent in seriousness to (usually something bad)",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "tantamount.jpg",
 		"notes": ""
 	}],
 	"tenacious": [{
@@ -456,7 +456,7 @@
 		"def": "tending to keep a firm hold of something",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "tenacious.jpg",
 		"notes": ""
 	}],
 	"travesty": [{
@@ -464,7 +464,7 @@
 		"def": "an absurd representation of something",
 		"synonyms": ["mockery"],
 		"antonyms": [],
-		"image": "",
+		"image": "travesty.jpg",
 		"notes": ""
 	}],
 	"treacherous": [{
@@ -472,7 +472,7 @@
 		"def": "guilty of betrayal or deception",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "treacherous.jpg",
 		"notes": ""
 	},{
 		"pos": "adjective",
@@ -487,7 +487,7 @@
 		"def": "leaving no doubt",
 		"synonyms": ["unambiguous"],
 		"antonyms": [],
-		"image": "",
+		"image": "unequivocal.jpg",
 		"notes": ""
 	}],
 	"unorthodox": [{
@@ -495,7 +495,7 @@
 		"def": "contrary to what is usual, traditional, or accepted",
 		"synonyms": [],
 		"antonyms": ["orthodox"],
-		"image": "",
+		"image": "unorthodox.jpg",
 		"notes": ""
 	}],
 	"vehement": [{
@@ -503,7 +503,7 @@
 		"def": "showing strong feeling or forceful energy",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "vehement.jpg",
 		"notes": ""
 	}],
 	"vilify": [{
@@ -511,7 +511,7 @@
 		"def": "spread negative information about (someone or something)",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "vilify.jpg",
 		"notes": ""
 	}]
 }
