@@ -4,7 +4,7 @@
 		"def": "difficult to understand",
 		"synonyms": ["obscure"],
 		"antonyms": [],
-		"image": "",
+		"image": "abstruse.jpg",
 		"notes": ""
 	}],
 	"adamant": [{
@@ -12,7 +12,7 @@
 		"def": "refusing to be persuaded or to change one's mind",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "adamant.jpg",
 		"notes": ""
 	}],
 	"admonish": [{
@@ -20,7 +20,7 @@
 		"def": "warn or reprimand someone firmly",
 		"synonyms": ["chastise", "castigate", "censure", "lambast", "upbraid"],
 		"antonyms": [],
-		"image": "",
+		"image": "admonish.jpeg",
 		"notes": ""
 	}],
 	"admonitory": [{
@@ -28,7 +28,7 @@
 		"def": "giving or conveying a warning or reprimand",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "admonitory.jpg",
 		"notes": ""
 	}],
 	"apocryphal": [{
@@ -36,7 +36,7 @@
 		"def": "(of a story or statement) of doubtful authenticity, although widely circulated as being true",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "apocryphal.jpg",
 		"notes": ""
 	}],
 	"blatant": [{
@@ -44,7 +44,7 @@
 		"def": "(of bad behaviour) done openly and unashamedly",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "blatant.jpg",
 		"notes": ""
 	}],
 	"bumbling": [{
@@ -52,7 +52,7 @@
 		"def": "acting in a confused way",
 		"synonyms": ["incompetent"],
 		"antonyms": [],
-		"image": "",
+		"image": "bumbling.jpg",
 		"notes": ""
 	}],
 	"burgeon": [{
@@ -60,7 +60,7 @@
 		"def": "begin to grow or increase rapidly",
 		"synonyms": ["flourish"],
 		"antonyms": [],
-		"image": "",
+		"image": "burgeon.jpg",
 		"notes": ""
 	}],
 	"confound": [{
@@ -68,7 +68,7 @@
 		"def": "cause surprise or confusion in (someone), especially by not according to their expectations",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "confound.jpg",
 		"notes": ""
 	},{
 		"pos": "verb",
@@ -83,7 +83,7 @@
 		"def": "subject to chance",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "contingent.jpg",
 		"notes": ""
 	},{
 		"pos": "noun",
@@ -98,7 +98,7 @@
 		"def": "abundant in supply or quantity",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "copious.jpg",
 		"notes": ""
 	}],
 	"decorum": [{
@@ -106,7 +106,7 @@
 		"def": "propriety in manners and conduct",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "decorum.jpg",
 		"notes": ""
 	}],
 	"denigrate": [{
@@ -114,7 +114,7 @@
 		"def": "to treat as lacking in value or importance",
 		"synonyms": ["disparage"],
 		"antonyms": [],
-		"image": "",
+		"image": "denigrate.jpg",
 		"notes": ""
 	},{
 		"pos": "verb",
@@ -129,7 +129,7 @@
 		"def": "expressed as worthless or low opinion",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "derogative.jpg",
 		"notes": ""
 	}],
 	"discrete": [{
@@ -137,7 +137,7 @@
 		"def": "individually separate and distinct",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "discrete.jpg",
 		"notes": ""
 	}],
 	"eradicate": [{
@@ -145,7 +145,7 @@
 		"def": "destroy completely; put an end to",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "eradicate.jpg",
 		"notes": ""
 	}],
 	"espouse": [{
@@ -153,7 +153,7 @@
 		"def": "adopt or support (a cause or idea)",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "espouse.jpg",
 		"notes": ""
 	}],
 	"exacting": [{
@@ -161,7 +161,7 @@
 		"def": "demanding a lot of effort, care, or attention",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "exacting.jpg",
 		"notes": ""
 	}],
 	"exalt": [{
@@ -169,7 +169,7 @@
 		"def": "think or speak very highly of (someone or something)",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "exalt.jpg",
 		"notes": ""
 	}],
 	"exonerate": [{
@@ -177,15 +177,15 @@
 		"def": "pronounce not guilty of criminal charges",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
-		"notes": ""
+		"image": "exonerate.jpg",
+		"notes": "Officer pronounced not guilty after shooting Philando Castile. Justice continues to be denied."
 	}],
 	"expound": [{
 		"pos": "verb",
 		"def": "present and explain (a theory or idea) in detail",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "expound.jpeg",
 		"notes": ""
 	}],
 	"forthcoming": [{
@@ -193,7 +193,7 @@
 		"def": "about to happen or appear",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "forthcoming.jpg",
 		"notes": ""
 	},{
 		"pos": "adjective",
@@ -215,7 +215,7 @@
 		"def": "(of a phrase or idea) having been overused",
 		"synonyms": ["trite"],
 		"antonyms": [],
-		"image": "",
+		"image": "hackneyed.jpg",
 		"notes": ""
 	}],
 	"idiosyncrasy": [{
@@ -223,7 +223,7 @@
 		"def": "a mode of behaviour or way of thought peculiar to an individual",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "idiosyncrasy.jpg",
 		"notes": ""
 	}],
 	"ignoble": [{
@@ -231,7 +231,7 @@
 		"def": "not honourable in character or purpose",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "ignoble.jpg",
 		"notes": ""
 	}],
 	"ignoramus": [{
@@ -239,7 +239,7 @@
 		"def": "an ignorant or stupid person",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "ignoramus.jpg",
 		"notes": ""
 	}],
 	"impervious": [{
@@ -247,7 +247,7 @@
 		"def": "not allowing fluid to pass through",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "impervious.jpg",
 		"notes": ""
 	},{
 		"pos": "adjective",
@@ -262,7 +262,7 @@
 		"def": "unable to be appeased or placated",
 		"synonyms": [],
 		"antonyms": ["placable"],
-		"image": "",
+		"image": "implacable.jpg",
 		"notes": ""
 	}],
 	"implausible": [{
@@ -270,7 +270,7 @@
 		"def": "(of an argument or statement) not seeming reasonable; failing to convince",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "implausible.jpg",
 		"notes": ""
 	}],
 	"incorrigible": [{
@@ -278,7 +278,7 @@
 		"def": "(of a person or behaviour) not able to be changed or reformed; impervious to correction",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "incorrigible.jpg",
 		"notes": ""
 	}],
 	"indifference": [{
@@ -286,7 +286,7 @@
 		"def": "lack of interest, concern, or sympathy",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "indifference.jpg",
 		"notes": ""
 	}],
 	"injunction": [{
@@ -294,7 +294,7 @@
 		"def": "an authoritative warning or order",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "injunction.jpg",
 		"notes": ""
 	}],
 	"intransigent": [{
@@ -302,7 +302,7 @@
 		"def": "unwilling or refusing to change one's views or to agree about something",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "intransigent.jpg",
 		"notes": ""
 	}],
 	"largess": [{
@@ -310,7 +310,7 @@
 		"def": "generosity in bestowing money or gifts upon others",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "largess.jpg",
 		"notes": ""
 	}],
 	"laudable": [{
@@ -318,7 +318,7 @@
 		"def": "(of an action, idea, or aim) deserving praise and commendation",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "laudable.jpg",
 		"notes": ""
 	}],
 	"myopic": [{
@@ -326,7 +326,7 @@
 		"def": "lacking foresight or imagination",
 		"synonyms": ["short-sighted"],
 		"antonyms": [],
-		"image": "",
+		"image": "myopic.jpg",
 		"notes": ""
 	}],
 	"opaque": [{
@@ -334,7 +334,7 @@
 		"def": "not able to be seen through",
 		"synonyms": [],
 		"antonyms": ["transparent"],
-		"image": "",
+		"image": "opaque.jpg",
 		"notes": ""
 	}],
 	"ostentatious": [{
@@ -342,7 +342,7 @@
 		"def": "intended to attract notice and impress others",
 		"synonyms": ["vulgar"],
 		"antonyms": [],
-		"image": "",
+		"image": "ostentatious.jpg",
 		"notes": ""
 	}],
 	"pedantic": [{
@@ -350,7 +350,7 @@
 		"def": "",
 		"synonyms": ["overscrupulous"],
 		"antonyms": [],
-		"image": "",
+		"image": "pedantic.jpg",
 		"notes": ""
 	}],
 	"petulant": [{
@@ -358,7 +358,7 @@
 		"def": "(of a person or their manner) childishly sulky or bad-tempered",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "petulant.jpg",
 		"notes": ""
 	}],
 	"pragmatic": [{
@@ -366,7 +366,7 @@
 		"def": "guided by practical experience and observation rather than theory",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "pragmatic.jpg",
 		"notes": ""
 	}],
 	"provincial": [{
@@ -374,7 +374,7 @@
 		"def": "characteristic of limited perspective, unsophisticated and narrow-minded",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "provincial.jpeg",
 		"notes": ""
 	}],
 	"reconcile": [{
@@ -382,7 +382,7 @@
 		"def": "restore friendly relations between",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "reconcile.jpeg",
 		"notes": ""
 	}],
 	"refute": [{
@@ -390,7 +390,7 @@
 		"def": "prove (a statement or theory) to be false or wrong",
 		"synonyms": ["disprove"],
 		"antonyms": [],
-		"image": "",
+		"image": "refute.jpg",
 		"notes": ""
 	}],
 	"scrupulous": [{
@@ -398,7 +398,7 @@
 		"def": "(of a person or process) careful and extremely attentive to details",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "scrupulous.jpg",
 		"notes": ""
 	}],
 	"tawdry": [{
@@ -406,7 +406,7 @@
 		"def": "showy but cheap and of poor quality",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "tawdry.jpg",
 		"notes": ""
 	}],
 	"temperance": [{
@@ -414,7 +414,7 @@
 		"def": "control of your own behaviour, such as not drinking or eating too much",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "",
+		"image": "temperance.jpeg",
 		"notes": ""
 	}],
 	"tortuous": [{
@@ -422,7 +422,7 @@
 		"def": "ful of twists and turns; excessively lengthy",
 		"synonyms": [],
 		"antonyms": ["straightforward"],
-		"image": "",
+		"image": "tortuous.jpg",
 		"notes": ""
 	}],
 	"underscore": [{
@@ -430,7 +430,7 @@
 		"def": "give extra weight to",
 		"synonyms": ["emphasize"],
 		"antonyms": [],
-		"image": "",
+		"image": "underscore.jpg",
 		"notes": ""
 	}],
 	"unscrupulous": [{
@@ -438,7 +438,7 @@
 		"def": "showing no moral principles",
 		"synonyms": [],
 		"antonyms": ["honest"],
-		"image": "",
-		"notes": ""
+		"image": "unscrupulous.jpeg",
+		"notes": "Cheating in school exam."
 	}]
 }
