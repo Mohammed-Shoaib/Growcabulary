@@ -1,5 +1,6 @@
 import os
 import sys
+import cv2
 import json
 import argparse
 
@@ -110,6 +111,31 @@ def get_wordlist(data: dict) -> List[str]:
 
 
 
+def search(word: str, data: dict) -> bool:
+	similar = []
+	size = min(5, len(word))
+	
+	# loop over the word list
+	for key, value in data.items():
+		if key == word:
+			pretty(key, value)
+			print(f'The word was found.')
+			return True
+		elif key[:size] == word[:size]:
+			similar.append([key, value])
+	
+	print(f'The word {args.word} was not found.')
+	
+	# found similar words
+	if similar:
+		print('Possible matches:')
+		for key, value in similar:
+			pretty(key, value)
+	
+	return False
+
+
+
 # add keyword arguments
 parser = argparse.ArgumentParser()
 parser.add_argument('--word', '-w', help="The word to search", type=str.lower)
@@ -134,3 +160,9 @@ if __name__ == '__main__':
 	# get the wordlist
 	json_files.sort()
 	data = get_data(json_files)
+	
+	# search for word in wordlist
+	if args.word:
+		search(args.word, data)
+	
+	print('[\u2714] All checks passed!')
