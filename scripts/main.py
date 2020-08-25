@@ -2,6 +2,7 @@ import os
 import sys
 import cv2
 import json
+import shutil
 import argparse
 
 from typing import List
@@ -30,6 +31,7 @@ def pretty(key, value):
 
 def get_data(data: dict):
 	words = {}
+	
 	
 	def run_tests(json_files: str) -> dict:
 		# check dictionary of data
@@ -136,6 +138,36 @@ def search(word: str, data: dict) -> bool:
 
 
 
+def copy(src: str, dst: str, data: dict):
+	if not args.dst:
+		sys.exit(f'[\u2718] No destination word specified!')
+	search(src, data)
+	search(dst, data)
+	
+	for ele in data[src]:
+		if ele['image']:
+			file_name, ext = os.path.splitext(ele['image'])
+			break
+	
+	img_src = os.path.join(data[src][0]['path'], 'images', f'{src}{ext}')
+	org_src = os.path.join(data[src][0]['path'], 'original', f'{src}{ext}')
+	
+	if not os.path.exists(img_src):
+		sys.exit(f'[\u2718] The path to the source image {img_src} does not exist.')
+	elif not os.path.exists(org_src):
+		sys.exit(f'[\u2718] The path to the source original {org_src} does not exist.')
+	
+	img_dst = os.path.join(data[dst][0]['path'], 'images', f'{dst}{ext}')
+	org_dst = os.path.join(data[dst][0]['path'], 'original', f'{dst}{ext}')
+	
+	shutil.copy(img_src, img_dst)
+	shutil.copy(org_src, org_dst)
+	
+	print(f'File extension: {ext}')
+	print('Copied image successfully!')
+
+
+
 # add keyword arguments
 parser = argparse.ArgumentParser()
 parser.add_argument('--word', '-w', help="The word to search", type=str.lower)
@@ -164,5 +196,9 @@ if __name__ == '__main__':
 	# search for word in wordlist
 	if args.word:
 		search(args.word, data)
+	
+	# copy image from source word to destination word
+	if args.src:
+		copy(args.src, args.dst, data)
 	
 	print('[\u2714] All checks passed!')
