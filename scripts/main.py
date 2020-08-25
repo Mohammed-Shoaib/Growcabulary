@@ -30,6 +30,52 @@ def pretty(key, value):
 def get_data(data: dict):
 	words = {}
 	
+	def run_tests(json_files: str) -> dict:
+		# check dictionary of data
+		for key, value in data.items():
+			if key in words:
+				pretty(key, words[key])
+				sys.exit(f"[\u2718] Duplicate key '{key}' found in file {file_path}.")
+		
+		# check if wordlist is sorted
+		pairs = []
+		keys = get_wordlist(data)
+		for i in range(1, len(keys)):
+			if keys[i - 1] > keys[i]:
+				pairs.append([keys[i - 1], keys[i]])
+		if pairs:
+			print(pairs)
+			sys.exit(f'[\u2718] Wordlist is not sorted for file {file_path}.')
+		
+		# check if image is present
+		images = set(os.listdir(os.path.join(base_dir, 'images')))
+		original = set(os.listdir(os.path.join(base_dir, 'original')))
+		no_image = []
+		for key, value in data.items():
+			found = False
+			for i in range(len(value)):
+				if value[i]['image'] in images and value[i]['image'] in original:
+					found = True
+			if not found:
+				no_image.append(key)
+		if no_image:
+			print(no_image)
+			sys.exit(f'[\u2718] Incorrect path to images for file {file_path}.')
+		
+		# check if images are square
+		not_square = []
+		for img_path in images:
+			img = cv2.imread(os.path.join(base_dir, 'images', img_path))
+			height, width, _ = img.shape
+			if height != width:
+				not_square.append([img_path, height, width])
+		if not_square:
+			print(not_square)
+			sys.exit(f'[\u2718] Not square images found for file {file_path}.')
+		
+		# print(f'Processed {file_path}.')
+	
+	
 	# read each json file
 	for file_path in json_files:
 		# read contents as json
