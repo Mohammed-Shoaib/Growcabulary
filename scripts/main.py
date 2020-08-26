@@ -138,6 +138,26 @@ def search(word: str, data: dict) -> bool:
 
 
 
+def remove(word: str, data: dict):
+	search(word, data)
+	
+	for ele in data[word]:
+		if ele['image']:
+			file_name, ext = os.path.splitext(ele['image'])
+			break
+	
+	img = os.path.join(data[word][0]['path'], 'images', f'{word}{ext}')
+	org = os.path.join(data[word][0]['path'], 'original', f'{word}{ext}')
+	
+	if os.path.exists(img):
+		os.remove(img)
+	if os.path.exists(org):
+		os.remove(org)
+	
+	print('Deleted image successfully!')
+
+
+
 def copy(src: str, dst: str, data: dict):
 	if not args.dst:
 		sys.exit(f'[\u2718] No destination word specified!')
@@ -171,8 +191,9 @@ def copy(src: str, dst: str, data: dict):
 # add keyword arguments
 parser = argparse.ArgumentParser()
 parser.add_argument('--word', '-w', help="The word to search", type=str.lower)
+parser.add_argument('--remove', '-r', help="The word to remove", type=str.lower)
 parser.add_argument('--src', '-src', help="The source word to copy from", type=str.lower)
-parser.add_argument('--dst', '-dst', help="The destination word to copy to", type=str)
+parser.add_argument('--dst', '-dst', help="The destination word to copy to", type=str.lower)
 parser.add_argument('--tests', '-t', help="Run tests", action='store_true')
 args = parser.parse_args()
 
@@ -196,6 +217,10 @@ if __name__ == '__main__':
 	# search for word in wordlist
 	if args.word:
 		search(args.word, data)
+	
+	# remove image for word
+	if args.remove:
+		remove(args.remove, data)
 	
 	# copy image from source word to destination word
 	if args.src:
