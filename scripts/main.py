@@ -188,6 +188,35 @@ def copy(src: str, dst: str, data: dict):
 
 
 
+def is_image(path: str):
+	_, ext = os.path.splitext(path)
+	return ext in ['.jpg', '.jpeg', '.png']
+
+
+
+def save(path: str, data: dict):
+	if not os.path.exists(path):
+		sys.exit(f'[\u2718] The path to moves images {path} does not exist.')
+	
+	downloads = os.path.expanduser('~/Downloads')
+	files = filter(is_image, os.listdir(downloads))
+	
+	for f in files:
+		file_name, ext = os.path.splitext(f)
+		
+		if file_name.endswith(' (1)'):
+			name = file_name.replace(' (1)', '')
+			dst = os.path.join(path, 'images', f'{name}{ext}')
+		else:
+			dst = os.path.join(path, 'original')
+		
+		src = os.path.join(downloads, f)
+		shutil.move(src, dst)
+		
+		print(f'Successfully moved {file_name} with extension {ext}')
+	
+
+
 # add keyword arguments
 parser = argparse.ArgumentParser()
 parser.add_argument('--word', '-w', help="The word to search", type=str.lower)
@@ -195,6 +224,7 @@ parser.add_argument('--remove', '-r', help="The word to remove", type=str.lower)
 parser.add_argument('--src', '-src', help="The source word to copy from", type=str.lower)
 parser.add_argument('--dst', '-dst', help="The destination word to copy to", type=str.lower)
 parser.add_argument('--tests', '-t', help="Run tests", action='store_true')
+parser.add_argument('--save', '-s', help="The folder to save words from the downloads folder", type=str)
 args = parser.parse_args()
 
 
@@ -225,5 +255,9 @@ if __name__ == '__main__':
 	# copy image from source word to destination word
 	if args.src:
 		copy(args.src, args.dst, data)
+	
+	# moves files from the downloads folder and saves them
+	if args.save:
+		save(args.save, data)
 	
 	print('[\u2714] All checks passed!')
