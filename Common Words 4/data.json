@@ -5,15 +5,19 @@
 		"synonyms": ["obscure"],
 		"antonyms": [],
 		"image": "abstruse.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"adamant": [{
 		"pos": "adjective",
 		"def": "refusing to be persuaded or to change one's mind",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "adamant.jpg",
-		"notes": ""
+		"image": "adamant.jpeg",
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"admonish": [{
 		"pos": "verb",
@@ -21,7 +25,9 @@
 		"synonyms": ["chastise", "castigate", "censure", "lambast", "upbraid"],
 		"antonyms": [],
 		"image": "admonish.jpeg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"admonitory": [{
 		"pos": "adjective",
@@ -29,7 +35,9 @@
 		"synonyms": [],
 		"antonyms": [],
 		"image": "admonitory.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"apocryphal": [{
 		"pos": "adjective",
@@ -37,7 +45,9 @@
 		"synonyms": [],
 		"antonyms": [],
 		"image": "apocryphal.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"blatant": [{
 		"pos": "adjective",
@@ -45,7 +55,9 @@
 		"synonyms": [],
 		"antonyms": [],
 		"image": "blatant.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"bumbling": [{
 		"pos": "adjective",
@@ -53,7 +65,9 @@
 		"synonyms": ["incompetent"],
 		"antonyms": [],
 		"image": "bumbling.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"burgeon": [{
 		"pos": "verb",
@@ -61,7 +75,9 @@
 		"synonyms": ["flourish"],
 		"antonyms": [],
 		"image": "burgeon.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"confound": [{
 		"pos": "verb",
@@ -69,14 +85,18 @@
 		"synonyms": [],
 		"antonyms": [],
 		"image": "confound.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	},{
 		"pos": "verb",
 		"def": "mix up (something) with something else",
 		"synonyms": [],
 		"antonyms": [],
 		"image": "",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"contingent": [{
 		"pos": "noun",
@@ -84,14 +104,18 @@
 		"synonyms": [],
 		"antonyms": [],
 		"image": "contingent.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	},{
 		"pos": "noun",
 		"def": "a group of people sharing a common feature, forming part of a larger group",
 		"synonyms": [],
 		"antonyms": [],
 		"image": "",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"copious": [{
 		"pos": "adjective",
@@ -99,7 +123,9 @@
 		"synonyms": [],
 		"antonyms": [],
 		"image": "copious.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"decorum": [{
 		"pos": "noun",
@@ -107,7 +133,9 @@
 		"synonyms": [],
 		"antonyms": [],
 		"image": "decorum.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"denigrate": [{
 		"pos": "verb",
@@ -115,14 +143,18 @@
 		"synonyms": ["disparage"],
 		"antonyms": [],
 		"image": "denigrate.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	},{
 		"pos": "verb",
 		"def": "criticize in a derogatory manner",
 		"synonyms": ["defame"],
 		"antonyms": [],
 		"image": "",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"derogative": [{
 		"pos": "adjective",
@@ -130,7 +162,9 @@
 		"synonyms": [],
 		"antonyms": [],
 		"image": "derogative.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"discrete": [{
 		"pos": "adjective",
@@ -138,7 +172,9 @@
 		"synonyms": [],
 		"antonyms": [],
 		"image": "discrete.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"eradicate": [{
 		"pos": "verb",
@@ -146,15 +182,19 @@
 		"synonyms": [],
 		"antonyms": [],
 		"image": "eradicate.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"espouse": [{
 		"pos": "verb",
 		"def": "adopt or support (a cause or idea)",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "espouse.jpg",
-		"notes": ""
+		"image": "espouse.png",
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"exacting": [{
 		"pos": "adjective",
@@ -162,7 +202,9 @@
 		"synonyms": [],
 		"antonyms": [],
 		"image": "exacting.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"exalt": [{
 		"pos": "verb",
@@ -170,7 +212,9 @@
 		"synonyms": [],
 		"antonyms": [],
 		"image": "exalt.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"exonerate": [{
 		"pos": "verb",
@@ -186,7 +230,9 @@
 		"synonyms": [],
 		"antonyms": [],
 		"image": "expound.jpeg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"forthcoming": [{
 		"pos": "adjective",
@@ -194,21 +240,27 @@
 		"synonyms": [],
 		"antonyms": [],
 		"image": "forthcoming.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	},{
 		"pos": "adjective",
 		"def": "ready or made available when needed",
 		"synonyms": [],
 		"antonyms": [],
 		"image": "",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	},{
 		"pos": "adjective",
 		"def": "willing to divulge information",
 		"synonyms": [],
 		"antonyms": [],
 		"image": "",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"hackneyed": [{
 		"pos": "adjective",
@@ -216,7 +268,9 @@
 		"synonyms": ["trite"],
 		"antonyms": [],
 		"image": "hackneyed.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"idiosyncrasy": [{
 		"pos": "noun",
@@ -224,7 +278,9 @@
 		"synonyms": [],
 		"antonyms": [],
 		"image": "idiosyncrasy.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"ignoble": [{
 		"pos": "adjective",
@@ -232,7 +288,9 @@
 		"synonyms": [],
 		"antonyms": [],
 		"image": "ignoble.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"ignoramus": [{
 		"pos": "noun",
@@ -240,7 +298,9 @@
 		"synonyms": [],
 		"antonyms": [],
 		"image": "ignoramus.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"impervious": [{
 		"pos": "adjective",
@@ -248,14 +308,18 @@
 		"synonyms": [],
 		"antonyms": [],
 		"image": "impervious.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	},{
 		"pos": "adjective",
 		"def": "unable to be affected by",
 		"synonyms": [],
 		"antonyms": [],
 		"image": "",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"implacable": [{
 		"pos": "adjective",
@@ -263,7 +327,9 @@
 		"synonyms": [],
 		"antonyms": ["placable"],
 		"image": "implacable.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"implausible": [{
 		"pos": "adjective",
@@ -271,7 +337,9 @@
 		"synonyms": [],
 		"antonyms": [],
 		"image": "implausible.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"incorrigible": [{
 		"pos": "adjective",
@@ -279,7 +347,9 @@
 		"synonyms": [],
 		"antonyms": [],
 		"image": "incorrigible.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"indifference": [{
 		"pos": "noun",
@@ -287,7 +357,9 @@
 		"synonyms": [],
 		"antonyms": [],
 		"image": "indifference.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"injunction": [{
 		"pos": "noun",
@@ -295,7 +367,9 @@
 		"synonyms": [],
 		"antonyms": [],
 		"image": "injunction.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"intransigent": [{
 		"pos": "adjective",
@@ -303,7 +377,9 @@
 		"synonyms": [],
 		"antonyms": [],
 		"image": "intransigent.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"largess": [{
 		"pos": "noun",
@@ -311,7 +387,9 @@
 		"synonyms": [],
 		"antonyms": [],
 		"image": "largess.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"laudable": [{
 		"pos": "adjective",
@@ -319,7 +397,9 @@
 		"synonyms": [],
 		"antonyms": [],
 		"image": "laudable.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"myopic": [{
 		"pos": "adjective",
@@ -327,7 +407,9 @@
 		"synonyms": ["short-sighted"],
 		"antonyms": [],
 		"image": "myopic.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"opaque": [{
 		"pos": "adjective",
@@ -335,7 +417,9 @@
 		"synonyms": [],
 		"antonyms": ["transparent"],
 		"image": "opaque.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"ostentatious": [{
 		"pos": "adjective",
@@ -343,7 +427,9 @@
 		"synonyms": ["vulgar"],
 		"antonyms": [],
 		"image": "ostentatious.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"pedantic": [{
 		"pos": "excessively concerned with minor details or rules",
@@ -351,7 +437,9 @@
 		"synonyms": ["overscrupulous"],
 		"antonyms": [],
 		"image": "pedantic.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"petulant": [{
 		"pos": "adjective",
@@ -359,7 +447,9 @@
 		"synonyms": [],
 		"antonyms": [],
 		"image": "petulant.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"pragmatic": [{
 		"pos": "adjective",
@@ -367,7 +457,9 @@
 		"synonyms": [],
 		"antonyms": [],
 		"image": "pragmatic.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"provincial": [{
 		"pos": "adjective",
@@ -375,7 +467,9 @@
 		"synonyms": [],
 		"antonyms": [],
 		"image": "provincial.jpeg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"reconcile": [{
 		"pos": "verb",
@@ -383,7 +477,9 @@
 		"synonyms": [],
 		"antonyms": [],
 		"image": "reconcile.jpeg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"refute": [{
 		"pos": "verb",
@@ -391,7 +487,9 @@
 		"synonyms": ["disprove"],
 		"antonyms": [],
 		"image": "refute.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"scrupulous": [{
 		"pos": "adjective",
@@ -399,7 +497,9 @@
 		"synonyms": [],
 		"antonyms": [],
 		"image": "scrupulous.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"tawdry": [{
 		"pos": "adjective",
@@ -407,7 +507,9 @@
 		"synonyms": [],
 		"antonyms": [],
 		"image": "tawdry.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"temperance": [{
 		"pos": "adjective",
@@ -415,7 +517,9 @@
 		"synonyms": [],
 		"antonyms": [],
 		"image": "temperance.jpeg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"tortuous": [{
 		"pos": "adjective",
@@ -423,7 +527,9 @@
 		"synonyms": [],
 		"antonyms": ["straightforward"],
 		"image": "tortuous.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"underscore": [{
 		"pos": "verb",
@@ -431,7 +537,9 @@
 		"synonyms": ["emphasize"],
 		"antonyms": [],
 		"image": "underscore.jpg",
-		"notes": ""
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"unscrupulous": [{
 		"pos": "adjective",
