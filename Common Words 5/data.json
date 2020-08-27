@@ -1,0 +1,493 @@
+{
+	"accolade": [{
+		"pos": "noun",
+		"def": "an award or privilege granted as a special honour or as an acknowledgement of merit",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "accolade.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"antithetical": [{
+		"pos": "adjective",
+		"def": "sharply contrasted in character or purpose",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "antithetical.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"arbitrary": [{
+		"pos": "adjective",
+		"def": "based on random choice or personal whim, rather than any reason or system",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "arbitrary.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"arcane": [{
+		"pos": "adjective",
+		"def": "understood by few",
+		"synonyms": ["mysterious", "secret"],
+		"antonyms": [],
+		"image": "arcane.jpg",
+		"notes": "A moai statue, very few people have an understanding of the stone heads."
+	}],
+	"audacity": [{
+		"pos": "noun",
+		"def": "a willingness to take bold risks",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "audacity.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}, {
+		"pos": "noun",
+		"def": "rude or disrespectful behaviour",
+		"synonyms": ["impudence"],
+		"antonyms": [],
+		"image": "",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"austere": [{
+		"pos": "adjective",
+		"def": "(way of life) having no comforts or luxuries",
+		"synonyms": ["plain"],
+		"antonyms": [],
+		"image": "austere.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"brazen": [{
+		"pos": "adjective",
+		"def": "bold and without shame",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "brazen.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"circumscribe": [{
+		"pos": "verb",
+		"def": "restrict (something) within limits",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "circumscribe.png",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"constituent": [{
+		"pos": "noun",
+		"def": "a component part of something",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}, {
+		"pos": "noun",
+		"def": "a citizen which elects a representative to a legislative body",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "constituent.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"dilettante": [{
+		"pos": "noun",
+		"def": "a person who cultivates an area of interest, such as the arts, without real commitment or knowledge",
+		"synonyms": ["amateur"],
+		"antonyms": [],
+		"image": "dilettante.png",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"foment": [{
+		"pos": "verb",
+		"def": "stir up a violent sentiment",
+		"synonyms": ["instigate"],
+		"antonyms": [],
+		"image": "foment.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"garrulous": [{
+		"pos": "adjective",
+		"def": "excessively talking, especially on trivial matters",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "garrulous.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"gauche": [{
+		"pos": "adjective",
+		"def": "unsophisticated and socially awkward",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "gauche.png",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"haphazard": [{
+		"pos": "adjective",
+		"def": "lacking any obvious principle of organization, marked by great carelessness",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "haphazard.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"hegemony": [{
+		"pos": "noun",
+		"def": "leadership or dominance, especially by one state or social group over others",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "hegemony.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"inimical": [{
+		"pos": "adjective",
+		"def": "tending to obstruct or harm",
+		"synonyms": ["hostile"],
+		"antonyms": [],
+		"image": "inimical.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"inscrutable": [{
+		"pos": "adjective",
+		"def": "impossible to understand or interpret",
+		"synonyms": ["unfathomable"],
+		"antonyms": [],
+		"image": "inscrutable.jpg",
+		"notes": "The image is inscrutable."
+	}],
+	"insolent": [{
+		"pos": "adjective",
+		"def": "showing a rude arrogant lack of respect",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "insolent.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"intrepid": [{
+		"pos": "adjective",
+		"def": "fearless",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "intrepid.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"inveterate": [{
+		"pos": "adjective",
+		"def": "having a particular habit that is unlikely to change",
+		"synonyms": ["entrenched", "incorrigible"],
+		"antonyms": [],
+		"image": "inveterate.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"irrevocable": [{
+		"pos": "adjective",
+		"def": "not able to be changed",
+		"synonyms": ["irreversible", "final"],
+		"antonyms": [],
+		"image": "irrevocable.jpg",
+		"notes": "Blindness and deafness are irrevocable but it did not stop Helen Keller from earning a Bachelor of Arts degree."
+	}],
+	"lionize": [{
+		"pos": "verb",
+		"def": "give a lot of public attention and approval to (someone)",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "lionize.jpg",
+		"notes": "Abraham Lincoln, the photograph was taken on 5 February 1865."
+	}],
+	"munificent": [{
+		"pos": "adjective",
+		"def": "displaying great generosity",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "munificent.jpeg",
+		"notes": "Children's hospital foundation colorado receiving a US $1000 donation."
+	}],
+	"myriad": [{
+		"pos": "noun",
+		"def": "an extremely great number of people or things",
+		"synonyms": ["countless"],
+		"antonyms": [],
+		"image": "myriad.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"obsequious": [{
+		"pos": "adjective",
+		"def": "showing servile obedience, attempting to win favour from influential people by flattery",
+		"synonyms": ["ingratiating", "bootlicker"],
+		"antonyms": [],
+		"image": "obsequious.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"ostracize": [{
+		"pos": "verb",
+		"def": "exclude from a society or group",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "ostracize.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"pedestrian": [{
+		"pos": "adjective",
+		"def": "lacking inspiration or excitement",
+		"synonyms": ["dull"],
+		"antonyms": [],
+		"image": "pedestrian.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"pernicious": [{
+		"pos": "adjective",
+		"def": "having a harmful effect, especially in a gradual subtle way",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "pernicious.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"poignant": [{
+		"pos": "adjective",
+		"def": "evoking a keen sense of sadness",
+		"synonyms": ["touching"],
+		"antonyms": [],
+		"image": "poignant.jpg",
+		"notes": "Afghan mother comforting her crying child."
+	}],
+	"precipitous": [{
+		"pos": "adjective",
+		"def": "(of an action) done suddenly and without careful consideration",
+		"synonyms": ["hasty"],
+		"antonyms": [],
+		"image": "precipitous.jpg",
+		"notes": "Woman buried hastily thinking she died."
+	}],
+	"prodigious": [{
+		"pos": "adjective",
+		"def": "remarkably great in extent, size, or degree",
+		"synonyms": ["enormous"],
+		"antonyms": [],
+		"image": "prodigious.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"prolific": [{
+		"pos": "adjective",
+		"def": "producing a great number or amount of something",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "prolific.jpg",
+		"notes": "Beehive with hundreds of bees at work."
+	}],
+	"propitious": [{
+		"pos": "adjective",
+		"def": "indicating a good chance of success",
+		"synonyms": ["favourable"],
+		"antonyms": [],
+		"image": "propitious.png",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"ravenous": [{
+		"pos": "adjective",
+		"def": "extremely hungry",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "ravenous.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"repudiate": [{
+		"pos": "verb",
+		"def": "refuse to accept",
+		"synonyms": ["reject"],
+		"antonyms": [],
+		"image": "repudiate.png",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"rescind": [{
+		"pos": "verb",
+		"def": "cancel (an order or agreement)",
+		"synonyms": ["revoke"],
+		"antonyms": [],
+		"image": "rescind.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"resurgent": [{
+		"pos": "adjective",
+		"def": "increasing or reviving after a period of time",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "resurgent.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"reverent": [{
+		"pos": "adjective",
+		"def": "feeling or showing deep respect",
+		"synonyms": ["deferential"],
+		"antonyms": [],
+		"image": "reverent.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"sanction": [{
+		"pos": "verb",
+		"def": "give official permission or approval",
+		"synonyms": ["authorize"],
+		"antonyms": [],
+		"image": "sanction.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}, {
+		"pos": "noun",
+		"def": "a penalty for disobeying a law or rule",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"sporadic": [{
+		"pos": "adjective",
+		"def": "occurring at irregular intervals",
+		"synonyms": ["scattered"],
+		"antonyms": [],
+		"image": "sporadic.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"stale": [{
+		"pos": "adjective",
+		"def": "no longer fresh, usually as a result of being kept for too long",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "stale.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"subversive": [{
+		"pos": "adjective",
+		"def": "tending to destroy or damage something, especially an established political system",
+		"synonyms": ["disruptive"],
+		"antonyms": [],
+		"image": "subversive.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"sycophant": [{
+		"pos": "noun",
+		"def": "someone who praises powerful people in order to gain a personal advantage",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "sycophant.png",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"taciturn": [{
+		"pos": "adjective",
+		"def": "(of a person) uncommunicative in speech",
+		"synonyms": ["reserved"],
+		"antonyms": [],
+		"image": "taciturn.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"temper": [{
+		"pos": "verb",
+		"def": "to soften or tone down",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "temper.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"tractable": [{
+		"pos": "adjective",
+		"def": "(of a person) easy to control or influence",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "tractable.jpeg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"vacillate": [{
+		"pos": "verb",
+		"def": "waver between different opinions or actions",
+		"synonyms": ["indecisive"],
+		"antonyms": [],
+		"image": "vacillate.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"winsome": [{
+		"pos": "adjective",
+		"def": "pleasing often because of a childlike charm and innocence",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "winsome.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}]
+}
