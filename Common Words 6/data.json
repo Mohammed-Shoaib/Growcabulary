@@ -1,0 +1,491 @@
+{
+	"antipathy": [{
+		"pos": "noun",
+		"def": "a feeling of strong dislike",
+		"synonyms": ["aversion"],
+		"antonyms": [],
+		"image": "antipathy.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"appease": [{
+		"pos": "verb",
+		"def": "pacify (someone) by acceding to their demands",
+		"synonyms": ["placate"],
+		"antonyms": [],
+		"image": "appease.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"arduous": [{
+		"pos": "adjective",
+		"def": "difficult, needing a lot of effort and energy",
+		"synonyms": ["laborious", "strenuous"],
+		"antonyms": [],
+		"image": "arduous.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"askance": [{
+		"pos": "adverb",
+		"def": "to look at or think about someone with doubt or disapproval",
+		"synonyms": ["suspiciously"],
+		"antonyms": [],
+		"image": "askance.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"banality": [{
+		"pos": "noun",
+		"def": "something that lacks originality, freshness, or novelty",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "banality.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"bolster": [{
+		"pos": "verb",
+		"def": "support or strengthen",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "bolster.jpg",
+		"notes": "The pillars support the weight of the building."
+	}],
+	"capricious": [{
+		"pos": "adjective",
+		"def": "changing mood or behaviour suddenly and unexpectedly",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "capricious.png",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"compulsory": [{
+		"pos": "adjective",
+		"def": "required by law or a rule",
+		"synonyms": ["obligatory"],
+		"antonyms": [],
+		"image": "compulsory.jpg",
+		"notes": "Due to COVID-19, wearing a mask is compulsory when going out."
+	}],
+	"contrition": [{
+		"pos": "noun",
+		"def": "the feeling of guilt that comes from doing something bad",
+		"synonyms": ["remorse", "repentance"],
+		"antonyms": [],
+		"image": "contrition.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"craven": [{
+		"pos": "adjective",
+		"def": "lacking the least bit of courage",
+		"synonyms": ["cowardly"],
+		"antonyms": [],
+		"image": "craven.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"deleterious": [{
+		"pos": "adjective",
+		"def": "causing harm or damage",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "deleterious.png",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"dilatory": [{
+		"pos": "adjective",
+		"def": "intended to cause delay",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "dilatory.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"dispassionate": [{
+		"pos": "adjective",
+		"def": "not influenced by strong feeling, and so able to be rational",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "dispassionate.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"disseminate": [{
+		"pos": "verb",
+		"def": "spread (something) widely",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "disseminate.jpg",
+		"notes": "Virus spreading across city."
+	}],
+	"duress": [{
+		"pos": "noun",
+		"def": "threats used to force a person to do something",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "duress.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"economical": [{
+		"pos": "adjective",
+		"def": "marked by careful and efficient use of resources",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "economical.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"edifying": [{
+		"pos": "adjective",
+		"def": "enlightening or uplifting so as to encourage intellectual or moral improvement",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "edifying.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"efficacious": [{
+		"pos": "adjective",
+		"def": "successful in producing a desired or intended result",
+		"synonyms": ["effective"],
+		"antonyms": [],
+		"image": "efficacious.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"elicit": [{
+		"pos": "adjective",
+		"def": "to call forth or draw out (something, such as information or a response)",
+		"synonyms": ["evoke"],
+		"antonyms": [],
+		"image": "elicit.jpeg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"erudite": [{
+		"pos": "adjective",
+		"def": "having or showing great knowledge or learning",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "erudite.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"esoteric": [{
+		"pos": "adjective",
+		"def": "understood by only a small number of people with specialized knowledge or interest",
+		"synonyms": ["abstruse", "obscure", "arcane"],
+		"antonyms": [],
+		"image": "esoteric.jpg",
+		"notes": "Rune letters which were used to write Germanic languages."
+	}],
+	"fastidious": [{
+		"pos": "adjective",
+		"def": "giving too much attention to small details and wanting everything to be correct and perfect",
+		"synonyms": ["scrupulous", "meticulous", "exacting", "fussy"],
+		"antonyms": [],
+		"image": "fastidious.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"flux": [{
+		"pos": "noun",
+		"def": "continuous change",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "flux.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"furtive": [{
+		"pos": "adjective",
+		"def": "attempting to avoid notice or attention, typically because discovery would lead to trouble",
+		"synonyms": ["secretive"],
+		"antonyms": [],
+		"image": "furtive.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"harried": [{
+		"pos": "adjective",
+		"def": "worried and angry, especially because people keep wanting things from you",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "harried.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"ignominious": [{
+		"pos": "adjective",
+		"def": "deserving or causing public disgrace or shame",
+		"synonyms": ["ignoble", "embarrassing"],
+		"antonyms": [],
+		"image": "ignominious.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"impartial": [{
+		"pos": "adjective",
+		"def": "not biased partial or biased, treating all equally",
+		"synonyms": ["unbiased"],
+		"antonyms": [],
+		"image": "impartial.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"imprudent": [{
+		"pos": "adjective",
+		"def": "lacking wisdom or good judgement",
+		"synonyms": ["rash", "unwise"],
+		"antonyms": [],
+		"image": "imprudent.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"indecorous": [{
+		"pos": "adjective",
+		"def": "not in keeping with good taste and propriety",
+		"synonyms": ["improper"],
+		"antonyms": [],
+		"image": "indecorous.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"jovial": [{
+		"pos": "adjective",
+		"def": "cheerful and friendly",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "jovial.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"maladroit": [{
+		"pos": "adjective",
+		"def": "lacking adroitness",
+		"synonyms": ["inept", "clumsy"],
+		"antonyms": [],
+		"image": "maladroit.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"maverick": [{
+		"pos": "adjective",
+		"def": "an independent-minded person, often behaving differently from the expected or usual way",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "maverick.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"mendacity": [{
+		"pos": "adjective",
+		"def": "the act of not telling the truth",
+		"synonyms": ["untruthfulness", "lying"],
+		"antonyms": ["veracity"],
+		"image": "mendacity.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"misconstrue": [{
+		"pos": "verb",
+		"def": "interpret (a person's words or actions) wrongly",
+		"synonyms": ["misinterpret", "misunderstand"],
+		"antonyms": ["construe"],
+		"image": "misconstrue.png",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"mundane": [{
+		"pos": "adjective",
+		"def": "lacking interest or excitement",
+		"synonyms": ["dull", "boring", "tedious", "quotidian"],
+		"antonyms": [],
+		"image": "mundane.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}, {
+		"pos": "adjective",
+		"def": "of this earthly world rather than a heavenly or spiritual one",
+		"synonyms": ["temporal", "secular"],
+		"antonyms": [],
+		"image": "",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"nonplussed": [{
+		"pos": "adjective",
+		"def": "so surprised and confused that one is unsure how to react",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "nonplussed.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"nuance": [{
+		"pos": "noun",
+		"def": "a subtle difference in meaning, expression, or sound",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "nuance.png",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"opulence": [{
+		"pos": "noun",
+		"def": "great wealth or luxuriousness",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "opulence.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"pejorative": [{
+		"pos": "adjective",
+		"def": "expressing contempt or disapproval",
+		"synonyms": ["derogatory"],
+		"antonyms": [],
+		"image": "pejorative.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"polemic": [{
+		"pos": "noun",
+		"def": "a strong verbal or written attack on someone or something",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "polemic.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"posit": [{
+		"pos": "verb",
+		"def": "assume as fact or as a basic for argument",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "posit.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"rebuke": [{
+		"pos": "verb",
+		"def": "express sharp disapproval or criticism of (someone) because of their behaviour or actions",
+		"synonyms": ["reprimand", "reproach", "admonish", "censure"],
+		"antonyms": [],
+		"image": "rebuke.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"reproach": [{
+		"pos": "verb",
+		"def": "to criticize someone, especially for not being successful or not doing what is expected",
+		"synonyms": ["rebuke"],
+		"antonyms": [],
+		"image": "reproach.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"specious": [{
+		"pos": "adjective",
+		"def": "superficially plausible, but actually wrong",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "specious.jpg",
+		"notes": "The classic \"my dog ate my homework\"."
+	}],
+	"stringent": [{
+		"pos": "adjective",
+		"def": "marked by rigor, strictness, or severity especially with regard to rule or standard",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "stringent.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"sullen": [{
+		"pos": "adjective",
+		"def": "bad-tempered and sulky",
+		"synonyms": ["grumpy"],
+		"antonyms": [],
+		"image": "sullen.png",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"timorous": [{
+		"pos": "adjective",
+		"def": "showing or suffering from nervousness or a lack of confidence",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "timorous.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"transient": [{
+		"pos": "adjective",
+		"def": "lasting only for a short time",
+		"synonyms": ["ephemeral"],
+		"antonyms": [],
+		"image": "transient.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"truncate": [{
+		"pos": "verb",
+		"def": "to make something shorter or quicker, especially by removing the end of it",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "truncate.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}]
+}
