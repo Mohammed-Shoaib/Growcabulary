@@ -1,0 +1,460 @@
+{
+	"acme": [{
+		"pos": "noun",
+		"def": "the point at which something is at its best or most highly developed",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "acme.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.wallpaperflare.com/silhouette-person-standing-on-peak-of-mountain-hiker-mountain-top-wallpaper-zvmmw"
+	}],
+	"affable": [{
+		"pos": "adjective",
+		"def": "friendly, good-natured, or easy to talk to",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "affable.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pikist.com/free-photo-xwyou"
+	}],
+	"bleak": [{
+		"pos": "adjective",
+		"def": "little or no hope for the future",
+		"synonyms": ["depressing"],
+		"antonyms": [],
+		"image": "bleak.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.flickr.com/photos/66126733@N04/6874652215"
+	}],
+	"candid": [{
+		"pos": "adjective",
+		"def": "truthful and straightforward",
+		"synonyms": ["frank"],
+		"antonyms": [],
+		"image": "candid.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:HONEST_BARCELONA.jpg"
+	}],
+	"censor": [{
+		"pos": "verb",
+		"def": "examine officially and suppress unacceptable parts of it",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "censor.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.flickr.com/photos/billkerr/200721567"
+	}],
+	"demean": [{
+		"pos": "verb",
+		"def": "cause a severe loss in dignity and respect for (someone or something)",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "demean.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.needpix.com/photo/444051/shame-hopelessness-worthlessness-careless-no-good-wrong-unlovable-miserable-depression"
+	}],
+	"demure": [{
+		"pos": "adjective",
+		"def": "reserved, modest, and shy",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "demure.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.wallpaperflare.com/vietnam-girl-friend-shy-portrait-one-person-headshot-wallpaper-eewzl/download/1920x1200"
+	}],
+	"diabolical": [{
+		"pos": "adjective",
+		"def": "characteristic of the devil",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "diabolical.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://pixabay.com/illustrations/devil-hell-horror-red-scary-5379017/"
+	}],
+	"dog": [{
+		"pos": "verb",
+		"def": "to follow or track especially with hostile intent",
+		"synonyms": ["hound"],
+		"antonyms": [],
+		"image": "dog.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pikist.com/free-photo-iyziy"
+	}],
+	"dupe": [{
+		"pos": "noun",
+		"def": "a person who is easily deceived or fooled",
+		"synonyms": ["gull"],
+		"antonyms": [],
+		"image": "",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}, {
+		"pos": "verb",
+		"def": "to deceive or cheat easily",
+		"synonyms": ["trick", "swindle"],
+		"antonyms": [],
+		"image": "dupe.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.needpix.com/photo/1523684/hacker-scammer-scam-identity-man-mask-danger-information-security"
+	}],
+	"embroil": [{
+		"pos": "verb",
+		"def": "involve (someone) deeply in an argument, conflict, or difficult situation",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "embroil.png",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Sumner_Lion.png"
+	}],
+	"err": [{
+		"pos": "verb",
+		"def": "make a mistake",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "err.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://pixabay.com/illustrations/mistake-error-mathematics-1966460/"
+	}],
+	"erratic": [{
+		"pos": "adjective",
+		"def": "not even or regular in pattern or movement",
+		"synonyms": ["unpredictable", "eccentric"],
+		"antonyms": [],
+		"image": "erratic.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://pixabay.com/photos/snake-reptile-long-4228585/"
+	}],
+	"hound": [{
+		"pos": "verb",
+		"def": "harass, persecute, or pursue relentlessly",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "hound.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.flickr.com/photos/anre/11050763126"
+	}],
+	"indict": [{
+		"pos": "verb",
+		"def": "formally accuse of or charge with a crime",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "indict.png",
+		"notes": "",
+		"examples": [],
+		"website": "https://pixabay.com/vectors/prisoner-gangster-convict-296515/"
+	}],
+	"indigenous": [{
+		"pos": "adjective",
+		"def": "originating naturally in a particular place",
+		"synonyms": ["native"],
+		"antonyms": [],
+		"image": "indigenous.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.wallpaperflare.com/festival-local-celebration-tribe-street-dance-traditional-wallpaper-ajvbd"
+	}],
+	"indignant": [{
+		"pos": "adjective",
+		"def": "feeling or showing anger because of something unjust or unworthy",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "indignant.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.flickr.com/photos/fibonacciblue/49940390081"
+	}],
+	"insolvent": [{
+		"pos": "adjective",
+		"def": "unable to pay debts owed",
+		"synonyms": ["bankrupt"],
+		"antonyms": [],
+		"image": "insolvent.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://pixabay.com/photos/no-money-jeans-money-wallet-4865814/"
+	}],
+	"inundate": [{
+		"pos": "verb",
+		"def": "overwhelm (someone) with things or people to be dealt with",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "inundate.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.flickr.com/photos/thenationalguard/4100338601"
+	}],
+	"macabre": [{
+		"pos": "adjective",
+		"def": "disturbing because concerned with or causing a fear of death",
+		"synonyms": ["gruesome"],
+		"antonyms": [],
+		"image": "macabre.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://pxhere.com/en/photo/1408184"
+	}],
+	"mesmerize": [{
+		"pos": "verb",
+		"def": "capture the complete attention of (someone)",
+		"synonyms": ["enthrall"],
+		"antonyms": [],
+		"image": "mesmerize.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.uihere.com/free-photos/woman-looking-through-window-in-city-photography-375518"
+	}],
+	"peruse": [{
+		"pos": "verb",
+		"def": "read (something), typically in a thorough or careful way",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "peruse.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.flickr.com/photos/83633410@N07/7658272558"
+	}],
+	"pine": [{
+		"pos": "verb",
+		"def": "to yearn intensely and persistently especially for something unattainable",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "pine.jpeg",
+		"notes": "An event to honor the lives of those who committed suicide in Biloxi, September 29, 2017.",
+		"examples": [],
+		"website": "https://dod.defense.gov/OIR/gallery/igphoto/2001823064/"
+	}],
+	"pinnacle": [{
+		"pos": "noun",
+		"def": "the highest point of development or achievement",
+		"synonyms": ["acme", "peak"],
+		"antonyms": [],
+		"image": "pinnacle.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.flickr.com/photos/shankaronline/35270954303"
+	}],
+	"profuse": [{
+		"pos": "adjective",
+		"def": "produced or given in large amounts",
+		"synonyms": ["prolific", "copious", "abundant", "extravagant"],
+		"antonyms": [],
+		"image": "profuse.jpg",
+		"notes": "Gold ceiling lighting.",
+		"examples": [],
+		"website": "https://pixabay.com/photos/ceiling-lighting-gold-extravagant-2639360/"
+	}],
+	"remiss": [{
+		"pos": "adjective",
+		"def": "lacking care or attention to duty",
+		"synonyms": ["negligent"],
+		"antonyms": [],
+		"image": "remiss.jpeg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Bank-Security-Guard-Sleeping.jpeg"
+	}],
+	"reprobate": [{
+		"pos": "noun",
+		"def": "a person of bad character and habits",
+		"synonyms": ["unprincipled", "incorrigible"],
+		"antonyms": [],
+		"image": "reprobate.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.wallpaperflare.com/netflix-drug-lords-from-narcos-powder-coke-drugs-cocaine-wallpaper-aaaxi"
+	}],
+	"retiring": [{
+		"pos": "adjective",
+		"def": "shy and fond of being on one's own",
+		"synonyms": ["demure", "timorous"],
+		"antonyms": [],
+		"image": "retiring.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://pixabay.com/photos/girl-shy-hand-nails-pink-4378209/"
+	}],
+	"screed": [{
+		"pos": "noun",
+		"def": "a long speech or piece of writing, typically one regarded as tedious",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "screed.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"serendipity": [{
+		"pos": "noun",
+		"def": "the occurrence and development of events by chance in a happy or beneficial way",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "serendipity.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Alexander_Fleming.jpg"
+	}],
+	"slapdash": [{
+		"pos": "adjective",
+		"def": "done too hurriedly and carelessly",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "slapdash.png",
+		"notes": "",
+		"examples": [],
+		"website": "https://pixabay.com/illustrations/clumsy-careless-fall-mistake-oops-4050065/"
+	}],
+	"spendthrift": [{
+		"pos": "noun",
+		"def": "a person who spends money in an extravagant, irresponsible way",
+		"synonyms": ["profligate", "prodigal"],
+		"antonyms": [],
+		"image": "spendthrift.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pikist.com/free-photo-xseah"
+	}],
+	"stipend": [{
+		"pos": "noun",
+		"def": "a periodic payment, especially a scholarship or allowance granted to a student",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "stipend.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"summit": [{
+		"pos": "noun",
+		"def": "the highest point of a hill or mountain",
+		"synonyms": ["peak", "apex"],
+		"antonyms": [],
+		"image": "",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}, {
+		"pos": "noun",
+		"def": "a meeting between heads of government",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "summit.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.flickr.com/photos/koreanet/4649784730"
+	}],
+	"telling": [{
+		"pos": "adjective",
+		"def": "having a striking or revealing affect",
+		"synonyms": ["significant"],
+		"antonyms": [],
+		"image": "telling.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://pixabay.com/photos/evidence-murder-offense-5298190/"
+	}],
+	"telltale": [{
+		"pos": "adjective",
+		"def": "revealing, indicating, or betraying something",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "telltale.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.flickr.com/photos/stevendepolo/28953565722"
+	}],
+	"tender": [{
+		"pos": "verb",
+		"def": "offer or present (something) formally",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "tender.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pxfuel.com/en/free-photo-xxqyy"
+	}],
+	"thoroughgoing": [{
+		"pos": "adjective",
+		"def": "involving or attending to every detail or aspect of something",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "thoroughgoing.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.ang.af.mil/Media/Photos/igphoto/2001626922/"
+	}],
+	"thrifty": [{
+		"pos": "adjective",
+		"def": "using money and other resources carefully and not wastefully",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "thrifty.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pikist.com/free-photo-siazx"
+	}],
+	"underwrite": [{
+		"pos": "verb",
+		"def": "to provide financial support",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "underwrite.jpeg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.mcrc.marines.mil/Photos/igphoto/2002159984/"
+	}],
+	"unnerve": [{
+		"pos": "verb",
+		"def": "make (someone) lose courage or confidence",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "unnerve.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.flickr.com/photos/jess2284/280004765"
+	}],
+	"variance": [{
+		"pos": "noun",
+		"def": "the fact or quality of being different, divergent, or inconsistent",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "variance.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://pxhere.com/en/photo/1436401"
+	}],
+	"vindictive": [{
+		"pos": "adjective",
+		"def": "showing a strong or unreasoning desire for revenge",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "vindictive.png",
+		"notes": "",
+		"examples": [],
+		"website": "https://pixabay.com/illustrations/voo-doo-doll-pins-voodoo-revenge-5403292/"
+	}],
+	"voracious": [{
+		"pos": "adjective",
+		"def": "very eager for something, especially a lot of food",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "voracious.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.maxpixel.net/Person-Eating-Male-Model-Man-Biting-Hungry-973240"
+	}]
+}
