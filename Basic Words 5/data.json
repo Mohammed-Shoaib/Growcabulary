@@ -1,0 +1,496 @@
+{
+	"brusquely": [{
+		"pos": "adverb",
+		"def": "in a blunt direct manner",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "brusquely.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.flickr.com/photos/jeepersmedia/9624628701"
+	}],
+	"collusion": [{
+		"pos": "noun",
+		"def": "secret or illegal cooperation in order to deceive others",
+		"synonyms": ["conspiracy"],
+		"antonyms": [],
+		"image": "collusion.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:John_Tenniel_Conspiracy.jpg"
+	}],
+	"complacent": [{
+		"pos": "adjective",
+		"def": "uncritical satisfaction with oneself or one's achievements",
+		"synonyms": ["smug"],
+		"antonyms": ["dissatisfied", "humble"],
+		"image": "complacent.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pikist.com/free-photo-srqnq"
+	}],
+	"convoluted": [{
+		"pos": "adjective",
+		"def": "extremely complex and difficult to follow",
+		"synonyms": ["complicated", "involved", "intricate"],
+		"antonyms": [],
+		"image": "convoluted.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.flickr.com/photos/brownpau/14514123378"
+	}],
+	"credulity": [{
+		"pos": "noun",
+		"def": "a tendency to be too ready to believe that something is real or true",
+		"synonyms": ["gullibility"],
+		"antonyms": [],
+		"image": "credulity.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://pxhere.com/en/photo/1611309"
+	}],
+	"destitute": [{
+		"pos": "adjective",
+		"def": "extremely poor and lacking the means to provide for oneself",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "destitute.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://en.wikipedia.org/wiki/Malnutrition#/media/File:Starved_child.jpg"
+	}, {
+		"pos": "adjective",
+		"def": "lacking possessions and resources",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"devolve": [{
+		"pos": "verb",
+		"def": "transfer (power) to a lower level",
+		"synonyms": ["delegate"],
+		"antonyms": [],
+		"image": "devolve.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.maxpixel.net/Delegate-Center-Manager-Delegation-Businessmen-2064940"
+	}, {
+		"pos": "verb",
+		"def": "pass into (a different state, especially a worse one)",
+		"synonyms": ["degenerate"],
+		"antonyms": [],
+		"image": "",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"diligent": [{
+		"pos": "adjective",
+		"def": "showing care and earnest effort in one's work or duties",
+		"synonyms": ["hard-working", "assiduous"],
+		"antonyms": [],
+		"image": "diligent.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Hardworking_Kids.jpg"
+	}],
+	"discord": [{
+		"pos": "noun",
+		"def": "disagreement between people",
+		"synonyms": ["conflict"],
+		"antonyms": [],
+		"image": "discord.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.flickr.com/photos/lumaxart/2136954235"
+	}],
+	"eke": [{
+		"pos": "verb",
+		"def": "to get just enough money or food to be able to continue to exist",
+		"synonyms": ["scrape"],
+		"antonyms": [],
+		"image": "eke.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Shoe_Shine_Boy,_Ethiopia_(8198535107).jpg"
+	}],
+	"elude": [{
+		"pos": "verb",
+		"def": "escape from or avoid (a danger, enemy, or pursuer), typically in a skillful or cunning way",
+		"synonyms": ["evade"],
+		"antonyms": [],
+		"image": "elude.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.flickr.com/photos/dirkhansen/4087376488"
+	}],
+	"enmity": [{
+		"pos": "noun",
+		"def": "a state or feeling of hate or hostility",
+		"synonyms": ["animosity"],
+		"antonyms": [],
+		"image": "enmity.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://pixabay.com/fr/illustrations/paire-l-homme-femme-discussion-707500/"
+	}],
+	"exemplify": [{
+		"pos": "verb",
+		"def": "be a typical example of",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}, {
+		"pos": "verb",
+		"def": "illustrate or clarify by giving an example",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "exemplify.jpeg",
+		"notes": "Ghanaian teacher draws Microsoft Word on a blackboard.",
+		"examples": [],
+		"website": "https://edition.cnn.com/2018/03/01/africa/ghana-teacher-blackboard-intl/index.html"
+	}],
+	"foible": [{
+		"pos": "noun",
+		"def": "a minor weakness or peculiarity in someone's character",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "foible.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Man_with_freckles.jpg"
+	}],
+	"goad": [{
+		"pos": "verb",
+		"def": "provoke or annoy (someone) so as to simulate an action",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "goad.jpeg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Madrid_Bullfight.JPG"
+	}],
+	"impending": [{
+		"pos": "adjective",
+		"def": "about to happen, usually something unpleasant",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "impending.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pxfuel.com/en/free-photo-qnsdg"
+	}],
+	"impregnable": [{
+		"pos": "adjective",
+		"def": "immune to attack; not to be taken by force",
+		"synonyms": ["unassailable"],
+		"antonyms": [],
+		"image": "impregnable.jpg",
+		"notes": "Windsor Castle, a royal residence in the English county of Berkshire.",
+		"examples": [],
+		"website": "https://en.wikipedia.org/wiki/Windsor_Castle#/media/File:Windsor_Castle_Upper_Ward_Quadrangle_2_-_Nov_2006.jpg"
+	}],
+	"irk": [{
+		"pos": "verb",
+		"def": "to annoy someone",
+		"synonyms": ["irritate", "annoy", "vex"],
+		"antonyms": [],
+		"image": "irk.png",
+		"notes": "",
+		"examples": [],
+		"website": "https://simple.wikipedia.org/wiki/File:GirlPullingHair.IMG.png"
+	}],
+	"leery": [{
+		"pos": "adjective",
+		"def": "cautious or wary due to realistic suspicions",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "leery.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.flickr.com/photos/edenpictures/3668120142"
+	}],
+	"malevolent": [{
+		"pos": "adjective",
+		"def": "having or showing a wish to do evil to others",
+		"synonyms": ["malicious"],
+		"antonyms": [],
+		"image": "malevolent.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.flickr.com/photos/sis/268959116"
+	}],
+	"maxim": [{
+		"pos": "noun",
+		"def": "a short, pithy statement expressing a general truth or rule of conduct",
+		"synonyms": ["saying", "aphorism"],
+		"antonyms": [],
+		"image": "maxim.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.flickr.com/photos/free-images-flickr/35057233174"
+	}],
+	"obstinate": [{
+		"pos": "adjective",
+		"def": "stubbornly refusing to change one's opinion or chosen course of action in spite of reason or persuasion",
+		"synonyms": ["intransigent"],
+		"antonyms": [],
+		"image": "obstinate.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://pxhere.com/en/photo/1010143"
+	}],
+	"pastoral": [{
+		"pos": "adjective",
+		"def": "having the simplicity, charm, or other characteristics of country life",
+		"synonyms": ["rural", "countryside"],
+		"antonyms": [],
+		"image": "pastoral.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.flickr.com/photos/13832715@N05/2954765888"
+	}],
+	"peevish": [{
+		"pos": "adjective",
+		"def": "easily irritated or annoyed",
+		"synonyms": ["irascible", "fractious", "fretful", "petulant"],
+		"antonyms": [],
+		"image": "peevish.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://pixabay.com/fr/photos/hulk-merveille-super-h%C3%A9ros-figure-578088/"
+	}],
+	"perturb": [{
+		"pos": "verb",
+		"def": "make (someone) anxious or unsettled",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "perturb.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.maxpixel.net/Public-Anxiety-Fright-Anxious-Speaking-Fear-Stage-4208702"
+	}],
+	"placid": [{
+		"pos": "adjective",
+		"def": "not easily upset or excited",
+		"synonyms": ["calm", "phlegmatic"],
+		"antonyms": [],
+		"image": "placid.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Kanye_West_at_the_2009_Tribeca_Film_Festival.jpg"
+	}],
+	"ploy": [{
+		"pos": "noun",
+		"def": "a cunning plan or action designed to turn a situation to one's own advantage",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "ploy.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.flickr.com/photos/sugarmonster/1094471258"
+	}],
+	"presumption": [{
+		"pos": "noun",
+		"def": "the act of believing something is true without having any proof",
+		"synonyms": ["assumption"],
+		"antonyms": [],
+		"image": "presumption.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:I%27m_A_Smart_Guy.jpg"
+	}, {
+		"pos": "noun",
+		"def": "behaviour perceived as arrogant, disrespectful, or rude",
+		"synonyms": ["audacity"],
+		"antonyms": [],
+		"image": "",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"quip": [{
+		"pos": "noun",
+		"def": "a witty remark",
+		"synonyms": ["joke"],
+		"antonyms": [],
+		"image": "quip.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"rash": [{
+		"pos": "adjective",
+		"def": "acting or done without careful consideration of the possible consequences",
+		"synonyms": ["reckless", "impetuous"],
+		"antonyms": [],
+		"image": "rash.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.maxpixel.net/Courage-Balance-Risk-Rock-Risky-Sky-High-Spirits-3062272"
+	}],
+	"reservation": [{
+		"pos": "noun",
+		"def": "an expression of doubt qualifying overall approval of a plan or statement",
+		"synonyms": ["qualm"],
+		"antonyms": [],
+		"image": "reservation.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://freesvg.org/business-man-in-doubt"
+	}],
+	"retract": [{
+		"pos": "verb",
+		"def": "to draw or pull back",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "retract.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:A2_Midland_painted_turtle.jpg"
+	}],
+	"savvy": [{
+		"pos": "noun",
+		"def": "shrewdness and practical knowledge; the ability to make good judgements",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}, {
+		"pos": "adjective",
+		"def": "shrewd and knowledgeable; having common sense and good judgement",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}, {
+		"pos": "verb",
+		"def": "know or understand",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "savvy.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://en.wikipedia.org/wiki/Apple_Inc.#/media/File:Apple_Watch-.jpg"
+	}],
+	"serene": [{
+		"pos": "adjective",
+		"def": "calm, peaceful, and untroubled",
+		"synonyms": ["tranquil", "calm"],
+		"antonyms": [],
+		"image": "serene.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Bon_Bon_Serene_Sunset.jpg"
+	}],
+	"smug": [{
+		"pos": "adjective",
+		"def": "having or showing an excessive pride in oneself or one's achievements",
+		"synonyms": ["complacent"],
+		"antonyms": [],
+		"image": "smug.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Bill_Gates,_WEF_2009_Davos.jpg"
+	}],
+	"squander": [{
+		"pos": "verb",
+		"def": "waste (something, especially money or time) in a reckless and foolish manner",
+		"synonyms": ["dissipate"],
+		"antonyms": [],
+		"image": "squander.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://pixabay.com/fr/photos/gravure-d-argent-dollars-2113914/"
+	}],
+	"steadfast": [{
+		"pos": "adjective",
+		"def": "firm in belief, determination, or resolution",
+		"synonyms": ["loyal", "committed", "dedicated"],
+		"antonyms": [],
+		"image": "steadfast.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:086-determined-face.svg"
+	}],
+	"tact": [{
+		"pos": "noun",
+		"def": "skill and sensitivity in dealing with others and avoiding giving offense",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "tact.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.health.mil/News/Articles/2020/02/10/5-tips-to-manage-separation-for-military-families"
+	}],
+	"tarnish": [{
+		"pos": "verb",
+		"def": "make or become less valuable or respected",
+		"synonyms": ["besmirch"],
+		"antonyms": [],
+		"image": "tarnish.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pikist.com/free-photo-vmyiz"
+	}],
+	"taxing": [{
+		"pos": "adjective",
+		"def": "physically or mentally demanding",
+		"synonyms": ["exacting", "arduous", "strenuous", "exhausting"],
+		"antonyms": [],
+		"image": "taxing.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pikist.com/free-photo-iotgu"
+	}],
+	"tout": [{
+		"pos": "verb",
+		"def": "attempt to sell (something), typically by a direct or persistent approach",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "tout.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Salesperson_at_Best_Buy_demonstrating_Apple_IPad.jpg"
+	}],
+	"travail": [{
+		"pos": "noun",
+		"def": "painful or laborious effort",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "travail.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pxfuel.com/en/free-photo-omxxj"
+	}],
+	"unprecedented": [{
+		"pos": "adjective",
+		"def": "never done or known before",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "unprecedented.jpg",
+		"notes": "Neil Armstrong, the first person to walk on the Moon.",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Neil_Armstrong_pose.jpg"
+	}],
+	"unseemly": [{
+		"pos": "adjective",
+		"def": "not according with established standards of good form or taste",
+		"synonyms": [],
+		"antonyms": ["decorous"],
+		"image": "unseemly.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://pixabay.com/fr/illustrations/fantaisie-mona-lisa-fumer-r%C3%A9bellion-4065830/"
+	}]
+}
