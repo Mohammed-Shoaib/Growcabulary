@@ -1,0 +1,498 @@
+{
+	"antedate": [{
+		"pos": "verb",
+		"def": "precede in time; come before (something) in date",
+		"synonyms": ["predate"],
+		"antonyms": [],
+		"image": "antedate.jpeg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.nps.gov/articles/images/NPS-Prehistoric-Life.JPG"
+	}],
+	"ascribe": [{
+		"pos": "verb",
+		"def": "to believe or say that something is caused by something else",
+		"synonyms": ["attribute", "credit"],
+		"antonyms": [],
+		"image": "ascribe.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://pixabay.com/fr/photos/succ%C3%A8s-motivation-affiche-iceberg-5301867/"
+	}],
+	"avert": [{
+		"pos": "verb",
+		"def": "turn away (one's eyes or thoughts)",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "avert.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:A_face_turned_away,_suffering_acute_pain._Lithograph_by_P._S_Wellcome_V0009421.jpg"
+	}, {
+		"pos": "verb",
+		"def": "prevent or ward off (an undesirable occurrence)",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"begrudge": [{
+		"pos": "verb",
+		"def": "envy (someone) the possession or enjoyment of (something)",
+		"synonyms": ["grudge", "resent"],
+		"antonyms": [],
+		"image": "",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}, {
+		"pos": "verb",
+		"def": "give reluctantly or resentfully",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "begrudge.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pexels.com/photo/dog-pulling-his-toy-1739093/"
+	}],
+	"behove": [{
+		"pos": "verb",
+		"def": "it is a duty or responsibility for someone to do something",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "behove.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.maxpixel.net/Earth-Hour-Ecosystem-Save-Earth-Protect-Nature-4747351"
+	}],
+	"besmirch": [{
+		"pos": "verb",
+		"def": "damage (someone's reputation)",
+		"synonyms": ["tarnish"],
+		"antonyms": [],
+		"image": "besmirch.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pexels.com/photo/mud-on-man-s-face-2838632/"
+	}],
+	"buttress": [{
+		"pos": "verb",
+		"def": "increase the strength of or justification for",
+		"synonyms": ["reinforce"],
+		"antonyms": [],
+		"image": "buttress.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pikist.com/free-photo-sayty"
+	}],
+	"cavalier": [{
+		"pos": "adjective",
+		"def": "showing a lack of proper concern",
+		"synonyms": ["offhand"],
+		"antonyms": [],
+		"image": "cavalier.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://pixabay.com/fr/illustrations/les-gar%C3%A7ons-shout-allez-vous-en-1421410/"
+	}],
+	"clemency": [{
+		"pos": "noun",
+		"def": "kindness when giving a punishment",
+		"synonyms": ["mercy", "leniency"],
+		"antonyms": [],
+		"image": "clemency.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.flickr.com/photos/trixer/3531445744/"
+	}],
+	"coalesce": [{
+		"pos": "verb",
+		"def": "come together to form one mass or whole",
+		"synonyms": ["unite", "combine", "merge", "fuse"],
+		"antonyms": [],
+		"image": "coalesce.jpeg",
+		"notes": "Rivers merging together",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Confluence_(191021493).jpeg"
+	}],
+	"cohesive": [{
+		"pos": "adjective",
+		"def": "united and working together effectively",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "cohesive.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://freesvg.org/1551735308"
+	}],
+	"consecrate": [{
+		"pos": "verb",
+		"def": "make or declare (something, typically a church) sacred; dedicated formally to a religious purpose",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "consecrate.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pxfuel.com/en/free-photo-eehks"
+	}],
+	"conundrum": [{
+		"pos": "noun",
+		"def": "a confusing and difficult problem",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "conundrum.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Teraminx.jpg"
+	}],
+	"delegate": [{
+		"pos": "verb",
+		"def": "entrust (a task or responsibility) to another person, typically one who is less senior than oneself",
+		"synonyms": ["assign"],
+		"antonyms": [],
+		"image": "delegate.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.flickr.com/photos/vuhung/8095592977"
+	}],
+	"docile": [{
+		"pos": "adjective",
+		"def": "ready to accept control or instruction",
+		"synonyms": ["submissive", "compliant", "obedient", "dutiful"],
+		"antonyms": [],
+		"image": "docile.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://pxhere.com/en/photo/1276436"
+	}],
+	"eccentric": [{
+		"pos": "adjective",
+		"def": "(of a person or their behaviour) unconventional and slightly strange",
+		"synonyms": ["abnormal", "aberrant"],
+		"antonyms": [],
+		"image": "eccentric.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.publicdomainpictures.net/en/view-image.php?image=228060&picture=albert-einstein"
+	}],
+	"emulate": [{
+		"pos": "verb",
+		"def": "match or surpass (a person or achievement), typically by imitation",
+		"synonyms": ["imitate", "reproduce", "mimic"],
+		"antonyms": [],
+		"image": "emulate.jpg",
+		"notes": "Cow race in Vietnam",
+		"examples": [],
+		"website": "https://www.pikist.com/free-photo-ikgue"
+	}],
+	"evenhanded": [{
+		"pos": "adjective",
+		"def": "fair and impartial in treatment or judgement",
+		"synonyms": ["just", "unbiased"],
+		"antonyms": [],
+		"image": "evenhanded.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.flickr.com/photos/northcharleston/15030066870"
+	}],
+	"fawn": [{
+		"pos": "verb",
+		"def": "(of a person) show flattery or affection, typically in order to gain favour",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "fawn.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:All_the_king%27s_servant,_except_Mordecai,_bow_down_before_Haman.jpg"
+	}],
+	"finagle": [{
+		"pos": "verb",
+		"def": "obtain by dishonest or devious means",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "finagle.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Pickpocket_girl.jpg"
+	}],
+	"foolhardy": [{
+		"pos": "adjective",
+		"def": "recklessly bold or rash; foolishly taking unnecessary risks",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "foolhardy.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://pxhere.com/en/photo/9267"
+	}],
+	"forthright": [{
+		"pos": "adjective",
+		"def": "going straight to the point, free from ambiguity or evasiveness",
+		"synonyms": ["frank", "direct", "straightforward", "honest"],
+		"antonyms": [],
+		"image": "forthright.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pikist.com/free-photo-sylax"
+	}],
+	"glean": [{
+		"pos": "verb",
+		"def": "obtain (information) from various sources, often with difficulty",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "glean.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://pixabay.com/fr/illustrations/collage-de-papier-journal-cr%C3%A9ative-1742810/"
+	}],
+	"humdrum": [{
+		"pos": "adjective",
+		"def": "lacking excitement or variety; boringly monotonous",
+		"synonyms": ["mundane", "dull"],
+		"antonyms": [],
+		"image": "humdrum.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:...So_You_Think_Your_Job_is_Monotonous%5E_-_NARA_-_534289.jpg"
+	}],
+	"implicate": [{
+		"pos": "verb",
+		"def": "show (someone) to be involved in a crime",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "implicate.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.maxpixel.net/Judgement-Justice-Court-Gavel-Punishment-Guilty-5343065"
+	}, {
+		"pos": "verb",
+		"def": "convey (a meaning) indirectly through what one says, rather than stating it explicitly",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"incense": [{
+		"pos": "verb",
+		"def": "make very angry",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "incense.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://pxhere.com/en/photo/930606"
+	}],
+	"incumbent": [{
+		"pos": "adjective",
+		"def": "necessary for (someone) as a duty or responsibility",
+		"synonyms": ["obligatory", "mandatory"],
+		"antonyms": [],
+		"image": "incumbent.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.flickr.com/photos/whitehouse/46451130962"
+	}],
+	"industrious": [{
+		"pos": "adjective",
+		"def": "diligent and hard-working",
+		"synonyms": ["assiduous", "sedulous"],
+		"antonyms": [],
+		"image": "industrious.png",
+		"notes": "",
+		"examples": [],
+		"website": "https://pixabay.com/fr/vectors/la-f%C3%AAte-du-travail-mayday-4507469/"
+	}],
+	"insipid": [{
+		"pos": "adjective",
+		"def": "lacking in qualities that interest, stimulate, or challenge",
+		"synonyms": ["dull"],
+		"antonyms": ["interesting"],
+		"image": "insipid.png",
+		"notes": "",
+		"examples": [],
+		"website": "https://pixabay.com/fr/illustrations/ennui-al%C3%A9sage-s-ennuie-somnolent-5270160/"
+	}],
+	"intermittent": [{
+		"pos": "adjective",
+		"def": "occurring at irregular intervals; not continuous or steady",
+		"synonyms": ["sporadic"],
+		"antonyms": [],
+		"image": "intermittent.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.flickr.com/photos/featheredtar/3887965020"
+	}],
+	"irascible": [{
+		"pos": "adjective",
+		"def": "having or showing a tendency to be easily angered",
+		"synonyms": ["irritable", "short-tempered"],
+		"antonyms": [],
+		"image": "irascible.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Hulk_(2540708438).jpg"
+	}],
+	"lethargic": [{
+		"pos": "adjective",
+		"def": "characterized by laziness or lack of energy",
+		"synonyms": ["sluggish", "languid"],
+		"antonyms": [],
+		"image": "lethargic.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pxfuel.com/en/free-photo-jwnbc"
+	}],
+	"melancholy": [{
+		"pos": "noun",
+		"def": "a feeling of deep sadness, typically with no obvious cause",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "melancholy.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Charpentier,_Constance_Marie_-_Melancholy_-_1801.jpg"
+	}],
+	"piquant": [{
+		"pos": "adjective",
+		"def": "having a pleasantly sharp taste or appetizing flavour",
+		"synonyms": ["spicy"],
+		"antonyms": [],
+		"image": "piquant.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pikist.com/free-photo-xkdrx"
+	}],
+	"precarious": [{
+		"pos": "adjective",
+		"def": "dependent on circumstances beyond one's control; dangerously likely to fall or collapse",
+		"synonyms": ["uncertain"],
+		"antonyms": [],
+		"image": "precarious.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.flickr.com/photos/kenlund/66212061"
+	}],
+	"preempt": [{
+		"pos": "verb",
+		"def": "to replace with something considered to be of greater value or priority",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "preempt.png",
+		"notes": "Horses have been replaced by automobiles",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Vienti_with_car.png"
+	}],
+	"presumptuous": [{
+		"pos": "adjective",
+		"def": "overstepping due bounds (as of propriety or courtesy)",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "presumptuous.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.flickr.com/photos/cogdog/6986517701"
+	}],
+	"prevail": [{
+		"pos": "verb",
+		"def": "prove more powerful or superior",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}, {
+		"pos": "verb",
+		"def": "to be widespread or current",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "prevail.png",
+		"notes": "COVID-19 outbreak on world map",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:COVID-19_Outbreak_World_Map_per_Capita.svg"
+	}],
+	"profusion": [{
+		"pos": "noun",
+		"def": "an abundance or large quantity of something",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "profusion.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:A_profusion_of_poppies_-_geograph.org.uk_-_847642.jpg"
+	}],
+	"rakish": [{
+		"pos": "adjective",
+		"def": "unconventional and slightly disreputable, especially in an attractive way",
+		"synonyms": ["raffish"],
+		"antonyms": [],
+		"image": "rakish.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.piqsels.com/en/public-domain-photo-jzoen"
+	}],
+	"redress": [{
+		"pos": "noun",
+		"def": "remedy or compensation for a wrong or grievance",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "redress.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.publicdomainpictures.net/en/view-image.php?image=150635&picture=euros-handshake"
+	}],
+	"rile": [{
+		"pos": "verb",
+		"def": "make (someone) annoyed or irritated",
+		"synonyms": ["irritate"],
+		"antonyms": [],
+		"image": "rile.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.goodfreephotos.com/people/steam-coming-out-of-the-ears-mad-woman.jpg.php"
+	}],
+	"tribulation": [{
+		"pos": "noun",
+		"def": "a cause of great trouble or suffering",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "tribulation.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.needpix.com/photo/download/1031221/war-child-suffering-destruction-loss-victims-misery-not-cry"
+	}],
+	"uncanny": [{
+		"pos": "adjective",
+		"def": "strange or mysterious, especially in an unsettling way",
+		"synonyms": ["unnatural", "supernatural"],
+		"antonyms": [],
+		"image": "uncanny.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Annabelle_Doll_prop_03.jpg"
+	}],
+	"veneer": [{
+		"pos": "noun",
+		"def": "a thin layer of (something, generally wood) used to cover a cheaper material",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "veneer.png",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Laminated_Veneer_Lumber.png"
+	}],
+	"wanton": [{
+		"pos": "adjective",
+		"def": "(of a cruel or violent action) deliberate and without motive or provocation",
+		"synonyms": ["malicious", "malevolent"],
+		"antonyms": [],
+		"image": "wanton.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pickpik.com/person-woman-model-dangerous-kitchen-knife-93832"
+	}]
+}
