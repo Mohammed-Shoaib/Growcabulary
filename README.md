@@ -19,3 +19,4 @@ Your go-to platform to learn vocabulary for GRE.
 * [Basic Words 4](Basic%20Words%204/)
 * [Basic Words 5](Basic%20Words%205/)
 * [Basic Words 6](Basic%20Words%206/)
+* [Basic Words 7](Basic%20Words%207/)
