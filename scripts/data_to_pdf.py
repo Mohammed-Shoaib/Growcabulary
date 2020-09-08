@@ -32,6 +32,11 @@ def data_to_pdf(data: dict) -> None:
 	# create an empty canvas
 	canvas = Canvas('GREPrep.pdf')
 	
+	# write the header
+	# canvas.setFont('Lato-Regular', heading_size)
+	# canvas.drawCentredString(center, start, 'GREPrep')
+	# canvas.showPage()
+	
 	def next_word():
 		nonlocal idx, start
 		idx += 1
@@ -44,6 +49,8 @@ def data_to_pdf(data: dict) -> None:
 		nonlocal start
 		start -= offset
 	
+	import time
+	beg = time.time()
 	prev = ""
 	for key, value in data.items():
 		next_word()
@@ -105,6 +112,9 @@ def data_to_pdf(data: dict) -> None:
 		img = ImageReader(io.BytesIO(img))
 		canvas.drawImage(img, inch / 2, height - img_dim - idx * height / 3 + inch / 8)
 		
+		# if time.time() - beg > 1:
+		# 	break
+
 	canvas.save()
 
 
