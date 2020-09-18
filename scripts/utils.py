@@ -69,8 +69,9 @@ def get_data(is_test: bool = False) -> dict:
 		pairs = []
 		keys = get_wordlist(data)
 		for i in range(1, len(keys)):
-			if keys[i - 1] > keys[i]:
-				pairs.append([keys[i - 1], keys[i]])
+			k1, k2 = keys[i - 1].lower(), keys[i].lower()
+			if k1 > k2:
+				pairs.append([k1, k2])
 		if pairs:
 			print(pairs)
 			sys.exit(f'[\u2718] Wordlist is not sorted for file {file_path}.')

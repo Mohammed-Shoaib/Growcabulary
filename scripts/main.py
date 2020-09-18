@@ -107,10 +107,10 @@ def save(path: str, data: dict):
 
 # add keyword arguments
 parser = argparse.ArgumentParser()
-parser.add_argument('--word', '-w', help="The word to search", type=str.lower)
-parser.add_argument('--remove', '-r', help="The word to remove", type=str.lower)
-parser.add_argument('--src', '-src', help="The source word to copy from", type=str.lower)
-parser.add_argument('--dst', '-dst', help="The destination word to copy to", type=str.lower)
+parser.add_argument('--word', '-w', help="The word to search", type=str)
+parser.add_argument('--remove', '-r', help="The word to remove", type=str)
+parser.add_argument('--src', '-src', help="The source word to copy from", type=str)
+parser.add_argument('--dst', '-dst', help="The destination word to copy to", type=str)
 parser.add_argument('--tests', '-t', help="Run tests", action='store_true')
 parser.add_argument('--save', '-s', help="The folder to save words from the downloads folder", type=str)
 args = parser.parse_args()
