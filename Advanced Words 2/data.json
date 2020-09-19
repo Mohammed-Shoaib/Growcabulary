@@ -1,0 +1,490 @@
+{
+	"arch": [{
+		"pos": "adjective",
+		"def": "deliberately playful and teasing",
+		"synonyms": ["mischievous"],
+		"antonyms": [],
+		"image": "arch.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Court_jester_stockholm.jpg"
+	}],
+	"arriviste": [{
+		"pos": "noun",
+		"def": "an ambitious or ruthlessly self-seeking person who has risen to a higher class, especially by dubious means",
+		"synonyms": ["parvenu"],
+		"antonyms": [],
+		"image": "arriviste.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pikist.com/free-photo-iipcw"
+	}],
+	"benighted": [{
+		"pos": "adjective",
+		"def": "without knowledge or morals, state of ignorance",
+		"synonyms": ["ignorant", "illiterate"],
+		"antonyms": ["enlightened"],
+		"image": "benighted.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://pixabay.com/fr/illustrations/point-d-interrogation-note-l-homme-460868/"
+	}],
+	"bilious": [{
+		"pos": "adjective",
+		"def": "bad-tempered, always in a bad mood",
+		"synonyms": ["irritable", "irascible", "grumpy", "peevish"],
+		"antonyms": [],
+		"image": "bilious.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pickpik.com/incredible-hulk-graphics-hulk-marvel-actionfigure-nerd-61464"
+	}],
+	"blinkered": [{
+		"pos": "adjective",
+		"def": "having a narrow or limited outlook",
+		"synonyms": ["myopic"],
+		"antonyms": [],
+		"image": "blinkered.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pxfuel.com/en/free-photo-xwuhf"
+	}],
+	"cupidity": [{
+		"pos": "noun",
+		"def": "greed for money or possessions",
+		"synonyms": ["avarice"],
+		"antonyms": [],
+		"image": "cupidity.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pikrepo.com/fyxit/illustration-of-businessman-chasing-money-greed-motivation"
+	}],
+	"curmudgeon": [{
+		"pos": "noun",
+		"def": "a bad-tempered person, especially an old one",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "curmudgeon.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pxfuel.com/en/free-photo-iunxr"
+	}],
+	"disabuse": [{
+		"pos": "verb",
+		"def": "persuade (someone) that an idea or belief is mistaken",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "disabuse.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Santa_Claus_makes_an_anonymous_donation_to_Wikipedia%27s_fundraising_drive.jpg"
+	}],
+	"excoriate": [{
+		"pos": "verb",
+		"def": "criticize (someone) severely",
+		"synonyms": ["censure", "lambast"],
+		"antonyms": [],
+		"image": "excoriate.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.maxpixel.net/Boss-Announce-Angry-Man-Afraid-Businessman-3036181"
+	}],
+	"execrate": [{
+		"pos": "verb",
+		"def": "feel or express great loathing for, to utter curses",
+		"synonyms": ["decry"],
+		"antonyms": [],
+		"image": "execrate.png",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.needpix.com/photo/169543/swearing-profanity-cursing-curse-bad-language-angry-shouting-people-boy"
+	}],
+	"expurgate": [{
+		"pos": "verb",
+		"def": "remove matter thought to be objectionable or unsuitable",
+		"synonyms": ["censor", "bowdlerize"],
+		"antonyms": [],
+		"image": "expurgate.png",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Erasmus_censored.png"
+	}],
+	"factitious": [{
+		"pos": "adjective",
+		"def": "artificially created or developed",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "factitious.jpg",
+		"notes": "Sophia, a social humanoid robot developed by Hong Kong-based company Hanson Robotics.",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Sophia_(robot).jpg"
+	}],
+	"fell": [{
+		"pos": "adjective",
+		"def": "of terrible evil",
+		"synonyms": ["malevolent"],
+		"antonyms": [],
+		"image": "fell.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://pixabay.com/fr/illustrations/horreur-mal-peur-masque-de-l-homme-3215319/"
+	}],
+	"gerrymander": [{
+		"pos": "verb",
+		"def": "divide unfairly and to one's advantage; of voting districts",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "gerrymander.png",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:How_to_Steal_an_Election_-_Gerrymandering.svg"
+	}],
+	"hedge": [{
+		"pos": "verb",
+		"def": "limit or qualify (something) by conditions or exceptions; to avoid a rigid commitment so as to permit withdrawal",
+		"synonyms": ["restrict", "impede"],
+		"antonyms": [],
+		"image": "hedge.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:The_Matrix_-_bullet_scene_re-creation.jpg"
+	}],
+	"histrionic": [{
+		"pos": "adjective",
+		"def": "excessively theatrical or dramatic in character or style",
+		"synonyms": ["melodramatic"],
+		"antonyms": [],
+		"image": "histrionic.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pexels.com/photo/theater-actors-acting-4063120/"
+	}],
+	"imbroglio": [{
+		"pos": "noun",
+		"def": "an extremely confused, complicated, or embarrassing situation",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "imbroglio.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.publicdomainpictures.net/en/view-image.php?image=146719&picture=creative-mess"
+	}],
+	"invective": [{
+		"pos": "noun",
+		"def": "insulting, abusive, or highly critical language",
+		"synonyms": ["vituperation"],
+		"antonyms": [],
+		"image": "invective.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://hy.m.wikipedia.org/wiki/%D5%8A%D5%A1%D5%BF%D5%AF%D5%A5%D6%80:Jay_%26_Trey_Cartoon_Swearing.jpg"
+	}],
+	"jaundice": [{
+		"pos": "noun",
+		"def": "to be biased against or have distorted judgement, as by envy or resentment",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "jaundice.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pikist.com/free-photo-vvbpb"
+	}],
+	"jejune": [{
+		"pos": "adjective",
+		"def": "naive, simplistic, and childish",
+		"synonyms": ["immature"],
+		"antonyms": [],
+		"image": "jejune.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}, {
+		"pos": "adjective",
+		"def": "dry and uninteresting",
+		"synonyms": ["dull", "boring", "humdrum"],
+		"antonyms": [],
+		"image": "",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Person_looking_at_a_green_apple.jpg"
+	}],
+	"juggernaut": [{
+		"pos": "noun",
+		"def": "a huge, powerful, and overwhelming force",
+		"synonyms": ["inexorable"],
+		"antonyms": [],
+		"image": "juggernaut.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pikist.com/free-photo-vsnyc"
+	}],
+	"malapropism": [{
+		"pos": "noun",
+		"def": "the mistaken use of a word in place of a similar-sounding one, often with an amusing effect",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "malapropism.jpg",
+		"notes": "Do you mean wait instead of bait?",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Good_things_come_to_those_who_bait_anti-proverb_plaque.jpg"
+	}],
+	"martinet": [{
+		"pos": "noun",
+		"def": "a person who demands complete obedience; a strict disciplinarian",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "martinet.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://freesvg.org/egyptian-slave-driver-and-slave"
+	}],
+	"maudlin": [{
+		"pos": "adjective",
+		"def": "self-pityingly or tearfully sentimental",
+		"synonyms": ["overemotional", "lachrymose"],
+		"antonyms": [],
+		"image": "maudlin.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pikrepo.com/fiawf/photo-of-crying-woman"
+	}],
+	"mellifluous": [{
+		"pos": "adjective",
+		"def": "(of a sound) pleasingly smooth and musical to hear",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "mellifluous.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pxfuel.com/en/free-photo-qqhfv"
+	}],
+	"mettlesome": [{
+		"pos": "adjective",
+		"def": "(of a person or animal) full or spirit and courage",
+		"synonyms": ["intrepid"],
+		"antonyms": [],
+		"image": "mettlesome.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://pixabay.com/fr/illustrations/guerrier-%C3%A9p%C3%A9e-chasse-chevalier-5239386/"
+	}],
+	"mulct": [{
+		"pos": "verb",
+		"def": "take money or possessions from (someone) by fraudulent means",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "mulct.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pxfuel.com/en/free-photo-jraxw"
+	}, {
+		"pos": "verb",
+		"def": "extract money from (someone) by fine or taxation",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"palimpsest": [{
+		"pos": "noun",
+		"def": "something reused or altered but still bearing visible traces of its earlier form",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "palimpsest.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Archimedes_Palimpsest.jpg"
+	}],
+	"parvenu": [{
+		"pos": "noun",
+		"def": "a person of humble origin who has gained wealth, influence, or celebrity",
+		"synonyms": ["arriviste"],
+		"antonyms": [],
+		"image": "parvenu.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.flickr.com/photos/55436166@N03/5212900661"
+	}],
+	"peremptory": [{
+		"pos": "adjective",
+		"def": "insisting on immediate attention or obedience",
+		"synonyms": ["imperious"],
+		"antonyms": [],
+		"image": "peremptory.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://pixabay.com/fr/illustrations/patron-puissance-2179948/"
+	}],
+	"phantasmagoria": [{
+		"pos": "noun",
+		"def": "a sequence of real or imaginary images like that seen in a dream",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "phantasmagoria.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.flickr.com/photos/seriykotik/46371000734"
+	}],
+	"picayune": [{
+		"pos": "adjective",
+		"def": "of little value or significance",
+		"synonyms": ["petty"],
+		"antonyms": [],
+		"image": "picayune.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.publicdomainpictures.net/en/view-image.php?image=252432&picture=coin-pile"
+	}],
+	"Pollyanna": [{
+		"pos": "noun",
+		"def": "an excessively cheerful or optimistic person",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "Pollyanna.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.piqsels.com/en/public-domain-photo-jsdmu"
+	}],
+	"propitiate": [{
+		"pos": "verb",
+		"def": "win or regain the favour of (a god or person) by doing something that pleases them",
+		"synonyms": ["appease", "placate", "mollify", "pacify"],
+		"antonyms": [],
+		"image": "propitiate.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pxfuel.com/en/free-photo-qwyrx"
+	}],
+	"protean": [{
+		"pos": "adjective",
+		"def": "tending or able to change frequently easily; able to do many different things",
+		"synonyms": ["versatile"],
+		"antonyms": [],
+		"image": "protean.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Swiss_Army_Knife_Wenger_Opened_20050627.jpg"
+	}],
+	"pyrrhic": [{
+		"pos": "adjective",
+		"def": "a victory or goal achieved at too great a cost to have been worthwhile",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "pyrrhic.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.needpix.com/photo/1015171/stunt-riding-motorbikes-danger-freedom-jumping"
+	}],
+	"quisling": [{
+		"pos": "noun",
+		"def": "a traitor who collaborates with an enemy",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "quisling.jpg",
+		"notes": "Vidkun Quisling, a Norwegian military officer who collaborated with the Nazis during World War II.",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Portrett_av_Vidkun_Quisling_i_sivile_kl%C3%A6r,_ukjent_datering.jpg"
+	}],
+	"quixotic": [{
+		"pos": "adjective",
+		"def": "extremely idealistic; unrealistic and impractical",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "quixotic.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://pxhere.com/en/photo/1575621"
+	}],
+	"remonstrate": [{
+		"pos": "verb",
+		"def": "to present reasons in complaint; plead in protest",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "remonstrate.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://pxhere.com/en/photo/559920"
+	}],
+	"sangfroid": [{
+		"pos": "noun",
+		"def": "composure or coolness shown in danger or under strain",
+		"synonyms": ["aplomb", "calmness"],
+		"antonyms": [],
+		"image": "sangfroid.jpeg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Dec_26_2008_Crocodile_Farm_075.JPG"
+	}],
+	"sartorial": [{
+		"pos": "adjective",
+		"def": "relating to tailoring, clothes, or style of dress",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "sartorial.jpeg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.mcrdsd.marines.mil/News/Photos/igphoto/2000948529/"
+	}],
+	"schadenfreude": [{
+		"pos": "noun",
+		"def": "satisfaction or pleasure felt at someone else's misfortune",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "schadenfreude.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Taunting_0001.jpg"
+	}],
+	"sententious": [{
+		"pos": "adjective",
+		"def": "given to excessive moralizing",
+		"synonyms": ["sanctimonious", "self-righteous", "maxim", "pithy"],
+		"antonyms": [],
+		"image": "sententious.jpeg",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}],
+	"sybarite": [{
+		"pos": "noun",
+		"def": "a person who is self-indulgent in their fondness of sensuous luxury",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "sybarite.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.uihere.com/free-photos/man-of-luxury-celebrates-photo-752319"
+	}],
+	"tendentious": [{
+		"pos": "adjective",
+		"def": "expressing a point of view or promoting a particular cause, especially a controversial one",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "tendentious.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:White_Lives_Matter_Too_Much_May_Day_2017_in_New_York_City_(34270706462).jpg"
+	}],
+	"venial": [{
+		"pos": "adjective",
+		"def": "(of a fault or offence) slight and pardonable",
+		"synonyms": ["forgivable", "excusable"],
+		"antonyms": [],
+		"image": "venial.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.flickr.com/photos/texese/106442115"
+	}],
+	"vituperate": [{
+		"pos": "verb",
+		"def": "blame or insult (someone) in strong or violent language",
+		"synonyms": ["upbraid", "lambast", "reprimand", "castigate", "chastise", "rebuke"],
+		"antonyms": [],
+		"image": "vituperate.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.needpix.com/photo/393036/shame-child-small-criticism-self-criticism-self-despair-judged-dispirited-critical"
+	}]
+}

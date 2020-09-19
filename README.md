@@ -24,3 +24,4 @@ Your go-to platform to learn vocabulary for GRE.
 ### Advanced Words
 
 * [Advanced Words 1](Advanced%20Words%201/)
+* [Advanced Words 2](Advanced%20Words%202/)
