@@ -1,0 +1,462 @@
+{
+	"asperity": [{
+		"pos": "noun",
+		"def": "harshness of tone or manner",
+		"synonyms": ["acerbity", "acrimony"],
+		"antonyms": [],
+		"image": "asperity.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:A_white_man_whipping_a_black_man_that_has_been_tied_up_and_l_Wellcome_V0041703.jpg"
+	}],
+	"celerity": [{
+		"pos": "noun",
+		"def": "rapidity of motion or action",
+		"synonyms": ["swiftness", "speed"],
+		"antonyms": [],
+		"image": "celerity.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.piqsels.com/en/public-domain-photo-odeex"
+	}],
+	"corollary": [{
+		"pos": "noun",
+		"def": "a natural consequence or result",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "corollary.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://pixabay.com/fr/illustrations/domino-jeu-chute-la-communication-163523/"
+	}],
+	"cosset": [{
+		"pos": "verb",
+		"def": "care for and protect in an overindulgent way",
+		"synonyms": ["pamper"],
+		"antonyms": [],
+		"image": "cosset.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://pixabay.com/fr/illustrations/les-mains-b%C3%A9b%C3%A9-prot%C3%A9ger-nouveau-n%C3%A9-1176673/"
+	}],
+	"crestfallen": [{
+		"pos": "adjective",
+		"def": "sad and disappointed",
+		"synonyms": ["doleful", "dolorous"],
+		"antonyms": [],
+		"image": "crestfallen.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:141100_-_Wheelchair_basketball_Brad_Ness_disappointed_-_3b_-_2000_Sydney_match_photo.jpg"
+	}],
+	"crystallize": [{
+		"pos": "verb",
+		"def": "make or become definite and clear",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "crystallize.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pikrepo.com/fribe/silver-crystal-ball"
+	}],
+	"decry": [{
+		"pos": "verb",
+		"def": "to express strong disapproval of",
+		"synonyms": ["criticize", "lambast", "pillory", "excoriate"],
+		"antonyms": [],
+		"image": "decry.png",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.maxpixel.net/Hate-Bitch-Woman-Mean-Grumpy-Grouchy-Frustrated-5378970"
+	}],
+	"denouement": [{
+		"pos": "noun",
+		"def": "the final resolution of the intricacies of a plot; the outcome of a complex sequence of events",
+		"synonyms": ["climax", "resolution"],
+		"antonyms": [],
+		"image": "denouement.jpg", 
+		"notes": "Connect the dots",
+		"examples": [],
+		"website": "https://freesvg.org/dolphin-connect-the-dots-vector-image"
+	}],
+	"dispensation": [{
+		"pos": "noun",
+		"def": "exemption from a rule or usual requirement",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "dispensation.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pxfuel.com/en/free-photo-qlhcl"
+	}],
+	"dovetail": [{
+		"pos": "verb",
+		"def": "fit together easily and conveniently",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "dovetail.png",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Joinery-throughdovetail.svg"
+	}],
+	"encumber": [{
+		"pos": "verb",
+		"def": "to burden or weigh down",
+		"synonyms": ["hamper", "hinder", "obstruct", "impede"],
+		"antonyms": [],
+		"image": "encumber.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://publicdomainvectors.org/en/free-clipart/Vector-image-of-man-with-heavy-package-on-his-back/20995.html"
+	}],
+	"equitable": [{
+		"pos": "adjective",
+		"def": "characterized by fairness; just and right",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "equitable.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://freesvg.org/pizza-cut"
+	}],
+	"firebrand": [{
+		"pos": "noun",
+		"def": "someone who deliberately foments trouble",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "firebrand.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pikrepo.com/fagph/man-holding-torch"
+	}],
+	"flippant": [{
+		"pos": "adjective",
+		"def": "not showing a serious or respectful attitude",
+		"synonyms": ["frivolous", "glib", "insouciant"],
+		"antonyms": [],
+		"image": "flippant.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.needpix.com/photo/download/520689/joker-villain-comics-character-figurine-superhero-jester-free-pictures-free-photos"
+	}],
+	"hobble": [{
+		"pos": "verb",
+		"def": "to cause to limp, hamper the action or progress of",
+		"synonyms": ["hinder", "impede"],
+		"antonyms": [],
+		"image": "hobble.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Surgical-tubing_hobble.jpg"
+	}],
+	"hubris": [{
+		"pos": "noun",
+		"def": "excessive pride or self-confidence",
+		"synonyms": ["conceit", "haughtiness", "hauteur"],
+		"antonyms": [],
+		"image": "hubris.jpg",
+		"notes": "Johnny Bravo cosplay",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:New_York_Comic_Con_2015_-_Johnny_Bravo_(21931800528).jpg"
+	}],
+	"immure": [{
+		"pos": "verb",
+		"def": "enclose or confine (someone) against their will",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "immure.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pikist.com/free-photo-iyijk"
+	}],
+	"imperious": [{
+		"pos": "adjective",
+		"def": "marked by arrogant superiority",
+		"synonyms": ["peremptory", "overweening"],
+		"antonyms": [],
+		"image": "imperious.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Donald_Trump_(5440392565).jpg"
+	}],
+	"impetuous": [{
+		"pos": "adjective",
+		"def": "acting or done quickly and without thought or care",
+		"synonyms": ["rash", "foolhardy", "imprudent", "precipitate", "precipitous"],
+		"antonyms": [],
+		"image": "impetuous.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pxfuel.com/en/free-photo-xiayx"
+	}],
+	"improvident": [{
+		"pos": "adjective",
+		"def": "not given careful consideration; not providing for the future",
+		"synonyms": ["spendthrift", "prodigal", "profligate", "extravagant", "squandering"],
+		"antonyms": ["thrifty"],
+		"image": "improvident.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Gold-colored_toilet.jpg"
+	}],
+	"incontrovertible": [{
+		"pos": "adjective",
+		"def": "not able to be denied or disputed",
+		"synonyms": ["irrefutable", "unassailable", "unequivocal"],
+		"antonyms": [],
+		"image": "incontrovertible.png",
+		"notes": "",
+		"examples": [],
+		"website": "https://pixabay.com/fr/vectors/professeur-de-math%C3%A9matiques-2004081/"
+	}],
+	"inimitable": [{
+		"pos": "adjective",
+		"def": "so good or unusual as to be impossible to copy",
+		"synonyms": ["unique", "idiosyncratic", "consummate"],
+		"antonyms": [],
+		"image": "inimitable.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://fshoq.com/free-photos/p/151/eiffel-tower-in-paris"
+	}],
+	"intimation": [{
+		"pos": "an indication or an indirect suggestion",
+		"def": "",
+		"synonyms": ["hint", "inkling"],
+		"antonyms": [],
+		"image": "intimation.jpeg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.airforcemedicine.af.mil/News/Display/Article/425866/dentists-know-how-to-take-your-breath-away/"
+	}],
+	"inure": [{
+		"pos": "verb",
+		"def": "accustom (someone) to something, especially something unpleasant",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "inure.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://pxhere.com/en/photo/1326641"
+	}],
+	"invidious": [{
+		"pos": "adjective",
+		"def": "likely to arouse or incur resentment; unfairly discriminating",
+		"synonyms": ["unpleasant", "unjust", "offensive"],
+		"antonyms": [],
+		"image": "invidious.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.needpix.com/photo/306613/punched-bully-hurt-free-pictures-free-photos-free-images-royalty-free"
+	}],
+	"inviolate": [{
+		"pos": "adjective",
+		"def": "free or safe from injury or violation",
+		"synonyms": ["pristine"],
+		"antonyms": [],
+		"image": "inviolate.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pxfuel.com/en/free-photo-eymqz"
+	}],
+	"machinate": [{
+		"pos": "verb",
+		"def": "engage in plots",
+		"synonyms": ["scheme", "conspire", "contrive"],
+		"antonyms": [],
+		"image": "machinate.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Men_sitting_around_a_table_discussing_the_contents_of_the_pi_Wellcome_V0040025.jpg"
+	}],
+	"magisterial": [{
+		"pos": "adjective",
+		"def": "having or showing great authority",
+		"synonyms": ["authoritative"],
+		"antonyms": [],
+		"image": "magisterial.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://pixabay.com/fr/illustrations/juge-cour-maillet-administration-4199434/"
+	}],
+	"nonchalant": [{
+		"pos": "adjective",
+		"def": "coolly unconcerned or indifferent",
+		"synonyms": ["casual", "insouciant", "apathetic"],
+		"antonyms": [],
+		"image": "nonchalant.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pxfuel.com/en/free-photo-qihsc"
+	}],
+	"obstreperous": [{
+		"pos": "adjective",
+		"def": "noisy and difficult to control",
+		"synonyms": ["unruly", "truculent", "refractory", "tumultuous", "tempestuous"],
+		"antonyms": ["calm"],
+		"image": "obstreperous.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pexels.com/photo/tired-ethnic-working-mother-at-home-with-playing-kids-4474029/"
+	}],
+	"ossify": [{
+		"pos": "verb",
+		"def": "to become rigid or inflexible in habits, attitudes, or opinions",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "ossify.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://pixabay.com/illustrations/skeleton-skull-death-dead-bones-5334213/"
+	}],
+	"patent": [{
+		"pos": "adjective",
+		"def": "easily recognizable or obvious",
+		"synonyms": ["conspicuous", "blatant"],
+		"antonyms": [],
+		"image": "patent.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:A_message_from_Captain_Obvious.jpg"
+	}],
+	"peripatetic": [{
+		"pos": "adjective",
+		"def": "walking or travelling from place to place, in particular working or based in various places for relatively short periods",
+		"synonyms": ["itinerant", "wandering"],
+		"antonyms": [],
+		"image": "peripatetic.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pickpik.com/north-sea-walk-alone-sky-nature-holiday-71909"
+	}],
+	"presentiment": [{
+		"pos": "noun",
+		"def": "a feeling or impression that something is about to happen, especially something evil",
+		"synonyms": ["apprehension"],
+		"antonyms": [],
+		"image": "presentiment.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Premonition.jpg"
+	}],
+	"puerile": [{
+		"pos": "adjective",
+		"def": "childishly silly and immature",
+		"synonyms": ["jejune"],
+		"antonyms": [],
+		"image": "puerile.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://hr.wikipedia.org/wiki/Datoteka:Ricqles_Civilite_Puerile_Moustache.jpg"
+	}],
+	"puissant": [{
+		"pos": "adjective",
+		"def": "having great power or influence",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "puissant.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Retrato_de_familia_Fagoga_Arozqueta_-_An%C3%B3nimo_ca.1730.jpg"
+	}],
+	"rarefied": [{
+		"pos": "adjective",
+		"def": "distant from the lives and concerns of ordinary people",
+		"synonyms": ["esoteric"],
+		"antonyms": [],
+		"image": "rarefied.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pikist.com/free-photo-vvqqy"
+	}],
+	"recrimination": [{
+		"pos": "noun",
+		"def": "mutual accusation",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "recrimination.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.needpix.com/photo/download/1332404/finger-pointing-blame-girls-finger-pointing-free-pictures-free-photos-free-images-royalty-free"
+	}],
+	"ribald": [{
+		"pos": "adjective",
+		"def": "referring to sexual matters in an amusingly coarse way; humorously vulgar",
+		"synonyms": ["indecent"],
+		"antonyms": [],
+		"image": "ribald.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.flickr.com/photos/112941004@N05/14887813707"
+	}],
+	"spartan": [{
+		"pos": "adjective",
+		"def": "characterized by a lack of comfort or luxury",
+		"synonyms": ["austere", "harsh", "stringent", "arduous", "ascetic"],
+		"antonyms": ["opulent"],
+		"image": "spartan.jpeg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.102iw.ang.af.mil/Media/Photos/igphoto/2000122087/"
+	}],
+	"stalwart": [{
+		"pos": "adjective",
+		"def": "loyal, reliable, and hard-working",
+		"synonyms": ["staunch", "dependable"],
+		"antonyms": [],
+		"image": "stalwart.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:US_Army_52839_Dog_and_handler_flying_high_over_Afghanistan.jpg"
+	}],
+	"subterfuge": [{
+		"pos": "noun",
+		"def": "deceit used in order to achieve one's goal",
+		"synonyms": ["trickery", "evasion", "guile"],
+		"antonyms": [],
+		"image": "subterfuge.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://pxhere.com/en/photo/1566887"
+	}],
+	"surreptitious": [{
+		"pos": "adjective",
+		"def": "done in a stealthy or secretive way, especially because it would not be approved of",
+		"synonyms": ["furtive"],
+		"antonyms": ["blatant"],
+		"image": "surreptitious.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Heather_Sheehan_Self-Portrait_with_an_Ear_to_the_Past_2016.jpg"
+	}],
+	"tempestuous": [{
+		"pos": "adjective",
+		"def": "characterized by strong and turbulent or conflicting emotion",
+		"synonyms": ["stormy", "tumultuous"],
+		"antonyms": ["peaceful", "placid"],
+		"image": "tempestuous.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Backhuysen,_Ludolf_-_Christ_in_the_Storm_on_the_Sea_of_Galilee_-_1695.jpg"
+	}],
+	"unflappable": [{
+		"pos": "adjective",
+		"def": "having or showing calmness in a crisis",
+		"synonyms": ["imperturbable", "calm", "insouciant", "serene"],
+		"antonyms": ["excitable"],
+		"image": "unflappable.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pickpik.com/meditation-man-meditate-rest-yoga-moonlight-35151"
+	}],
+	"untenable": [{
+		"pos": "adjective",
+		"def": "(especially of a position or view) not able to be defended against attack or objection",
+		"synonyms": [],
+		"antonyms": [],
+		"image": "untenable.png",
+		"notes": "Logo of the Flat Earth Society",
+		"examples": [],
+		"website": ""
+	}]
+}
