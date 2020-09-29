@@ -6,6 +6,7 @@ import json
 from typing import List
 from pathlib import Path
 from pprint import pprint
+from collections import defaultdict
 
 
 
@@ -55,6 +56,19 @@ def load_image(path: str):
 
 def get_wordlist(data: dict) -> List[str]:
 	return list(data.keys())
+
+
+
+def update_stats(files: List[str], data: dict) -> None:
+	freq = defaultdict(int)
+	files = [Path(f).parent.name for f in files]
+	
+	for key, value in data.items():
+		folder = Path(value[0]['path']).name
+		freq[folder] += 1
+	
+	with open('stats.json', 'w') as f:
+		json.dump(freq, f, indent=4)
 
 
 
@@ -167,5 +181,6 @@ def get_data(is_test: bool = False) -> dict:
 	
 	if is_test:
 		print('[\u2714] All checks passed!')
+		update_stats(json_files, words)
 	
 	return words

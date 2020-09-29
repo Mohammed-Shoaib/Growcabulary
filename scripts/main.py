@@ -20,13 +20,13 @@ def search(word: str, data: dict) -> bool:
 		elif key[:size] == word[:size]:
 			similar.append([key, value])
 	
-	print(f'The word {args.word} was not found.')
-	
 	# found similar words
 	if similar:
 		print('Possible matches:')
 		for key, value in similar:
 			pretty(key, value)
+	
+	print(f'The word {args.word} was not found.')
 	
 	return False
 
