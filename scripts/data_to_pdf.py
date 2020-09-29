@@ -21,8 +21,8 @@ def data_to_pdf(data: dict) -> None:
 	
 	# initialization
 	width, height = 8.5 * inch, 11 * inch
-	img_dim = 200
 	idx, mod = -1, 3
+	img_dim = 200
 	text_width, text_height = width - img_dim - 150, height // 3
 	text_start = img_dim + inch / 1.5
 	start, center = height, width / 2
@@ -102,8 +102,7 @@ def data_to_pdf(data: dict) -> None:
 				para.drawOn(canvas, text_start, start)
 			
 			if val['image']:
-				img_path = os.path.join(str(val['path']), 'images', val['image'])
-				img = cv2.imread(img_path)
+				img = load_image(os.path.join(str(val['path']), 'images', val['image']))
 				img = cv2.resize(img, (img_dim, img_dim), interpolation=cv2.INTER_AREA)
 	
 		# draw image
