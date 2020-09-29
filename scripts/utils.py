@@ -4,8 +4,8 @@ import cv2
 import json
 
 from typing import List
-from pprint import pprint
 from pathlib import Path
+from pprint import pprint
 
 
 
@@ -39,6 +39,20 @@ def is_image(path: str):
 
 
 
+def load_image(path: str):
+	# read image with alpha channels
+	img = cv2.imread(path, cv2.IMREAD_UNCHANGED)
+	
+	# convert transparent to white background
+	if len(img.shape) == 3 and img.shape[2] == 4:
+		trans_mask = img[:, :, 3] == 0
+		img[trans_mask] = [255, 255, 255, 255]
+		img = cv2.cvtColor(img, cv2.COLOR_BGRA2BGR)
+	
+	return img
+
+
+
 def get_wordlist(data: dict) -> List[str]:
 	return list(data.keys())
 
@@ -55,9 +69,9 @@ def get_data(is_test: bool = False) -> dict:
 				json_files.append(os.path.join(root, f))
 	
 	# get the wordlist
-	json_files.sort()
+	json_files.sort(key = lambda x: [folders.index(Path(x).parent.name.split()[0]), x])
 
-	
+
 	def run_tests(data: dict) -> None:
 		# check dictionary of data
 		for key, value in data.items():
