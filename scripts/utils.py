@@ -104,10 +104,11 @@ def get_data(is_test: bool = False) -> dict:
 			print(pairs)
 			sys.exit(f'[\u2718] Wordlist is not sorted for file {file_path}.')
 		
-		# check if image is present
+		# check if image and link is present
 		images = os.listdir(os.path.join(base_dir, 'images'))
 		original = os.listdir(os.path.join(base_dir, 'original'))
 		no_image = []
+		no_link = []
 		for key, value in data.items():
 			found = False
 			for i in range(len(value)):
@@ -115,12 +116,17 @@ def get_data(is_test: bool = False) -> dict:
 				if img_path:
 					if img_path not in images or img_path not in original:
 						no_image.append(key)
+					if not value[i]['website']:
+						no_link.append(key)
 					found = True
 			if not found:
 				no_image.append(key)
 		if no_image:
 			print(no_image)
 			sys.exit(f'[\u2718] Incorrect path to images for file {file_path}.')
+		if no_link:
+			print(no_link)
+			sys.exit(f'[\u2718] No website for images specified for file {file_path}.')
 		
 		# check if images are square
 		not_square = []

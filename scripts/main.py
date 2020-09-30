@@ -99,6 +99,8 @@ def save(path: str, data: dict):
 			dst = os.path.join(path, 'original')
 		
 		src = os.path.join(downloads, f)
+		if os.path.exists(os.path.join(dst, f)):
+			os.remove(os.path.join(dst, f))
 		shutil.move(src, dst)
 		
 		print(f'Successfully moved {file_name} with extension {ext}')
