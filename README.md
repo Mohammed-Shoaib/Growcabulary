@@ -29,3 +29,4 @@ Your go-to platform to learn vocabulary for GRE.
 * [Advanced Words 4](Advanced%20Words%204/)
 * [Advanced Words 5](Advanced%20Words%205/)
 * [Advanced Words 6](Advanced%20Words%206/)
+* [Advanced Words 7](Advanced%20Words%207/)
