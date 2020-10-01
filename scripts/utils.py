@@ -60,14 +60,19 @@ def get_wordlist(data: dict) -> List[str]:
 
 
 def update_stats(files: List[str], data: dict) -> None:
+	total = 0
 	freq = defaultdict(int)
 	files = [Path(f).parent.name for f in files]
 	
 	for key, value in data.items():
 		folder = Path(value[0]['path']).name
 		freq[folder] += 1
+		total += 1
+	freq['Total'] = total
 	
-	with open('stats.json', 'w') as f:
+	dir_name = os.path.join(os.path.dirname(os.path.realpath(__file__)))
+	path = os.path.join(dir_name, '..', 'assets', 'stats.json')
+	with open(path, 'w') as f:
 		json.dump(freq, f, indent=4)
 
 
