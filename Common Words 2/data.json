@@ -7,7 +7,7 @@
 		"image": "aesthete.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project.jpg"
 	}],
 	"aesthetic": [{
 		"pos": "adjective",
@@ -17,7 +17,7 @@
 		"image": "aesthetic.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://commons.wikimedia.org/wiki/File:VanGogh-starry_night.jpg"
 	},{
 		"pos": "noun",
 		"def": "a set of principles underlying the work of a particular artist or artistic movement",
@@ -36,7 +36,7 @@
 		"image": "apathetic.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://www.pxfuel.com/en/free-photo-xscmb"
 	}],
 	"assertion": [{
 		"pos": "noun",
@@ -46,7 +46,7 @@
 		"image": "assertion.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://pixabay.com/cs/illustrations/j%C3%A1-hrdost-sebeosvobozen%C3%AD-741508/"
 	}],
 	"audacious": [{
 		"pos": "adjective",
@@ -56,7 +56,7 @@
 		"image": "audacious.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://www.pxfuel.com/en/free-photo-ovslz"
 	}],
 	"banal": [{
 		"pos": "adjective",
@@ -66,7 +66,7 @@
 		"image": "banal.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://www.piqsels.com/en/public-domain-photo-jgspo"
 	}],
 	"bucolic": [{
 		"pos": "adjective",
@@ -76,7 +76,7 @@
 		"image": "bucolic.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://pixabay.com/cs/photos/jezero-irene-colorado-voda-1679708/"
 	}],
 	"chortle": [{
 		"pos": "verb",
@@ -86,7 +86,7 @@
 		"image": "chortle.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://commons.wikimedia.org/wiki/File:Villainc.svg"
 	}],
 	"concede": [{
 		"pos": "verb",
@@ -114,7 +114,7 @@
 		"image": "concede.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://pixabay.com/cs/illustrations/kapitulace-vlajka-poji%C5%A1t%C4%9Bn%C3%AD-b%C3%ADl%C3%A1-4296604/"
 	}],
 	"conspicuous": [{
 		"pos": "adjective",
@@ -124,17 +124,17 @@
 		"image": "conspicuous.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://commons.wikimedia.org/wiki/File:Dettah._State_the_obvious.jpg"
 	}],
 	"cryptic": [{
 		"pos": "adjective",
 		"def": "having a meaning that is mysterious or obscure, usually intentionally",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "cryptic.jpg",
+		"image": "cryptic.png",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://commons.wikimedia.org/wiki/File:Msg-encrypted.png"
 	}],
 	"culminate": [{
 		"pos": "verb",
@@ -144,17 +144,17 @@
 		"image": "culminate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://commons.wikimedia.org/wiki/File:Temba_Tsheri_Sherpa_(R)_and_Chhiring_Dorje_Sherpa_holding_the_flag_of_-Nepal_on_the_top_of_Mt.Denali_(McKinley),_6168m_above_sea_level._On_26_June_2015.jpg"
 	}],
 	"culpability": [{
 		"pos": "noun",
 		"def": "responsibility for a fault or wrong, a state of guilt",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "culpability.jpg",
+		"image": "culpability.png",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://commons.wikimedia.org/wiki/File:Depressed.svg"
 	}],
 	"curator": [{
 		"pos": "noun",
@@ -164,7 +164,7 @@
 		"image": "curator.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://commons.wikimedia.org/wiki/File:US_Navy_040625-N-2568S-006_Curator_for_the_USS_Constitution_Museum,_Sarah_Watkins,_describes_the_Constitution's_rigging_to_Secretary_of_the_Navy,_Gordon_R._England_and_British_Ambassador,_Sir_David_Manning_during_a_tour_of_the.jpg"
 	}],
 	"decorous": [{
 		"pos": "adjective",
@@ -174,7 +174,7 @@
 		"image": "decorous.jpeg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://commons.wikimedia.org/wiki/File:The_Royal_Family_June_2013.JPG"
 	}],
 	"deferential": [{
 		"pos": "adjective",
@@ -184,7 +184,7 @@
 		"image": "deferential.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://www.maxpixels.net/Buddhist-Nun-Theravada-Buddhism-Monastery-Sayalay-4749025"
 	}],
 	"dictatorial": [{
 		"pos": "adjective",
@@ -194,7 +194,7 @@
 		"image": "dictatorial.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-H1216-0500-002,_Adolf_Hitler_(cropped).jpg"
 	}],
 	"didactic": [{
 		"pos": "adjective",
@@ -204,7 +204,7 @@
 		"image": "didactic.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://commons.wikimedia.org/wiki/File:Three_Wise_Monkeys_(2010).jpg"
 	}],
 	"diffident": [{
 		"pos": "adjective",
@@ -214,7 +214,7 @@
 		"image": "diffident.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://commons.wikipedia.org/wiki/File:Shy_Girl_%28Imagicity_830%29.jpg"
 	}],
 	"dogmatic": [{
 		"pos": "adjective",
@@ -224,7 +224,7 @@
 		"image": "dogmatic.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://pixabay.com/cs/illustrations/stop-v%C3%BDzva-zobrazen%C3%AD-znamen%C3%AD-pozor-3077813/"
 	}],
 	"engender": [{
 		"pos": "verb",
@@ -234,7 +234,7 @@
 		"image": "engender.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://pixabay.com/cs/photos/startu-rakety-raketa-vzlet-nasa-67643/"
 	}],
 	"entrenched": [{
 		"pos": "adjective",
@@ -244,7 +244,7 @@
 		"image": "entrenched.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://commons.wikimedia.org/wiki/File:Reading_newspaper.jpg"
 	}],
 	"eschew": [{
 		"pos": "verb",
@@ -254,7 +254,7 @@
 		"image": "eschew.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://pixabay.com/cs/photos/stop-tab%C3%A1k-ukon%C4%8Dit-kou%C5%99en%C3%AD-4036139/"
 	}],
 	"exacerbate": [{
 		"pos": "verb",
@@ -264,7 +264,7 @@
 		"image": "exacerbate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://pxhere.com/en/photo/761418"
 	}],
 	"forsake": [{
 		"pos": "verb",
@@ -274,7 +274,7 @@
 		"image": "forsake.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://pixabay.com/cs/photos/s%C3%A1m-chlapec-s%C3%A1m-chlapec-strana-%C5%99eky-2963218/"
 	}],
 	"fortuitous": [{
 		"pos": "adjective",
@@ -284,7 +284,7 @@
 		"image": "fortuitous.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://commons.wikimedia.org/wiki/File:Child_boy_face_with_butterfly.jpg"
 	}],
 	"frivolous": [{
 		"pos": "adjective",
@@ -294,7 +294,7 @@
 		"image": "frivolous.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://www.pikist.com/free-photo-vqlle"
 	}],
 	"gainsay": [{
 		"pos": "verb",
@@ -304,7 +304,7 @@
 		"image": "gainsay.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://commons.wikimedia.org/wiki/File:Ben_Shapiro_with_attendee_(42913515531).jpg"
 	}],
 	"gall": [{
 		"pos": "noun",
@@ -323,7 +323,7 @@
 		"image": "gall.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://www.pickpik.com/anger-angry-bad-burn-dangerous-emotion-41171"
 	}],
 	"germane": [{
 		"pos": "adjective",
@@ -333,7 +333,7 @@
 		"image": "germane.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://pxhere.com/en/photo/1436891"
 	}],
 	"glut": [{
 		"pos": "noun",
@@ -343,7 +343,7 @@
 		"image": "glut.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://commons.wikimedia.org/wiki/File:The_local_historian_of_Pateros,_Elmer_Nocheseda,_also_joined_the_largest_serving_of_balut_world_record_attempt.jpg"
 	},{
 		"pos": "verb",
 		"def": "supply or fill to excess",
@@ -362,7 +362,7 @@
 		"image": "gossamer.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://www.needpix.com/photo/1769092/spider-web-butterfly-victim-extraction-dead-wings-green-summer-the-lone"
 	}],
 	"impudent": [{
 		"pos": "adjective",
@@ -372,7 +372,7 @@
 		"image": "impudent.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://www.pxfuel.com/en/free-photo-jmacn"
 	}],
 	"incisive": [{
 		"pos": "adjective",
@@ -380,7 +380,9 @@
 		"synonyms": [],
 		"antonyms": [],
 		"image": "incisive.jpg",
-		"notes": "Terence Tao, a mathematician with an estimated IQ of 230"
+		"notes": "Terence Tao, a mathematician with an estimated IQ of 230",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Ttao2006.jpg"
 	}],
 	"inexorable": [{
 		"pos": "adjective",
@@ -388,7 +390,9 @@
 		"synonyms": [],
 		"antonyms": [],
 		"image": "inexorable.jpg",
-		"notes": "colliding neutron stars"
+		"notes": "Colliding neutron stars",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Colliding_neutron_stars_ESA385307.jpg"
 	}],
 	"lambast": [{
 		"pos": "verb",
@@ -398,7 +402,7 @@
 		"image": "lambast.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://commons.wikimedia.org/wiki/File:Drill_instructor_at_the_Officer_Candidate_School.jpg"
 	}],
 	"lawsuit": [{
 		"pos": "noun",
@@ -408,7 +412,7 @@
 		"image": "lawsuit.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://www.publicdomainpictures.net/en/view-image.php?image=268639&picture=woman-in-lawsuit"
 	}],
 	"locus": [{
 		"pos": "noun",
@@ -418,7 +422,7 @@
 		"image": "locus.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://commons.wikimedia.org/wiki/File:Stonehenge_-_Wiltonia_sive_Comitatus_Wiltoniensis;_Anglice_Wilshire_(Atlas_van_Loon).jpg"
 	}],
 	"mawkish": [{
 		"pos": "adjective",
@@ -428,7 +432,7 @@
 		"image": "mawkish.jpeg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://commons.wikimedia.org/wiki/File:Mosaic_depicting_theatrical_masks_of_Tragedy_and_Comedy_(Thermae_Decianae).jpg"
 	}],
 	"meticulous": [{
 		"pos": "adjective",
@@ -438,7 +442,7 @@
 		"image": "meticulous.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://airman.dodlive.mil/2018/07/24/in-perpetual-mission/"
 	}],
 	"mitigate": [{
 		"pos": "verb",
@@ -448,7 +452,7 @@
 		"image": "mitigate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://pixabay.com/cs/photos/prvn%C3%AD-pomoc-souvisej%C3%ADc%C3%AD-pomoc-ruka-1882053/"
 	},{
 		"pos": "verb",
 		"def": "lessen the gravity of (an offence)",
@@ -467,7 +471,7 @@
 		"image": "monopoly.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://pixabay.com/cs/photos/monopol-banky-nemovitost%C3%AD-3691566/"
 	}],
 	"obscure": [{
 		"pos": "verb",
@@ -486,7 +490,7 @@
 		"image": "obscure.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://www.rawpixel.com/image/429711/free-illustration-image-art-deco-word-letter"
 	}],
 	"patronize": [{
 		"pos": "verb",
@@ -496,7 +500,7 @@
 		"image": "patronize.png",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://freesvg.org/uncle-sam-shaking-the-farmers-hand-vector-image"
 	}],
 	"perfidy": [{
 		"pos": "noun",
@@ -506,7 +510,7 @@
 		"image": "perfidy.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://pixabay.com/cs/photos/kdo-p%C5%99ijde-po-l%C3%A1ska-zradil-2371910/"
 	}],
 	"platitude": [{
 		"pos": "noun",
@@ -516,7 +520,7 @@
 		"image": "platitude.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://commons.wikimedia.org/wiki/File:Dettah._State_the_obvious.jpg"
 	}],
 	"preclude": [{
 		"pos": "verb",
@@ -526,7 +530,7 @@
 		"image": "preclude.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://health.mil/News/Gallery/Photos/2016/05/24/Army-units-combine-execute-MASCAL-exercise"
 	}],
 	"predilection": [{
 		"pos": "noun",
@@ -534,7 +538,9 @@
 		"synonyms": [],
 		"antonyms": [],
 		"image": "predilection.png",
-		"notes": "Android vs. Apple, for which one do you predilection?"
+		"notes": "Android vs. Apple, for which one do you have a predilection?",
+		"examples": [],
+		"website": "https://pixabay.com/cs/illustrations/smartphony-maket-jablko-ios-2182838/"
 	}],
 	"prescience": [{
 		"pos": "noun",
@@ -544,7 +550,7 @@
 		"image": "prescience.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://pixabay.com/cs/photos/v%C4%9Bdma-film-za-sc%C3%A9nou-video-z%C3%A1znam-5106947/"
 	}],
 	"querulous": [{
 		"pos": "adjective",
@@ -554,7 +560,7 @@
 		"image": "querulous.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://pixabay.com/cs/photos/ko%C4%8Dka-divok%C3%A1-%C5%A1elma-le%C5%BE%C3%ADc%C3%AD-hlava-4154922/"
 	}],
 	"recondite": [{
 		"pos": "adjective",
@@ -564,7 +570,7 @@
 		"image": "recondite.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://commons.wikimedia.org/wiki/File:ANCIENT_TAMIL_SCRIPTURE.jpg"
 	}],
 	"reticent": [{
 		"pos": "adjective",
@@ -574,7 +580,7 @@
 		"image": "reticent.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://pixabay.com/cs/photos/%C5%BEena-mlad%C3%BD-kr%C3%A1sn%C3%A9-d%C4%9Bv%C4%8De-sexy-3192523/"
 	}],
 	"rustic": [{
 		"pos": "adjective",
@@ -584,7 +590,7 @@
 		"image": "rustic.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://commons.wikimedia.org/wiki/File:Fields_in_Rural_area_of_Pakistan.png"
 	}],
 	"superfluous": [{
 		"pos": "adjective",
@@ -594,7 +600,7 @@
 		"image": "superfluous.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://pixabay.com/cs/photos/objemn%C3%BD-odpad-pohovka-n%C3%A1bytek-2049012/"
 	},{
 		"pos": "adjective",
 		"def": "unnecessary, especially through being more than enough",
@@ -613,7 +619,7 @@
 		"image": "torpor.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://commons.wikimedia.org/wiki/File:Bear_Sleeping_(11842384304).jpg"
 	}],
 	"trite": [{
 		"pos": "adjective",
@@ -623,7 +629,7 @@
 		"image": "trite.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://pxhere.com/en/photo/1573311"
 	}],
 	"vociferous": [{
 		"pos": "adjective",
@@ -633,7 +639,7 @@
 		"image": "vociferous.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://www.pikist.com/free-photo-sxzqk"
 	}],
 	"voluble": [{
 		"pos": "adjective",
@@ -641,8 +647,8 @@
 		"synonyms": [],
 		"antonyms": [],
 		"image": "voluble.jpg",
-		"notes": "",
+		"notes": "Martin Luther King - March on Washington",
 		"examples": [],
-		"website": ""
+		"website": "https://commons.wikimedia.org/wiki/File:Martin_Luther_King_-_March_on_Washington.jpg"
 	}]
 }
