@@ -7,7 +7,7 @@
 		"image": "accolade.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://commons.wikimedia.org/wiki/File:Navy_Adm._James_A._Winnefeld_Jr.,_right,_vice_chairman_of_the_Joint_Chiefs_of_Staff,_presents_Air_Force_Gen._Philip_M._Breedlove,_Supreme_Allied_Commander_Europe_and_commander_of_U.S._European_Command,_with_150430-D-HU462-203a.jpg"
 	}],
 	"antithetical": [{
 		"pos": "adjective",
@@ -17,7 +17,7 @@
 		"image": "antithetical.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://www.maxpixels.net/Devil-Angel-Fight-Gut-Opposites-1218605"
 	}],
 	"arbitrary": [{
 		"pos": "adjective",
@@ -27,7 +27,7 @@
 		"image": "arbitrary.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://pixabay.com/cs/photos/krychle-hr%C3%A1t-n%C3%A1hodn%C3%A9-%C5%A1t%C4%9Bst%C3%AD-body-1979775/"
 	}],
 	"arcane": [{
 		"pos": "adjective",
@@ -35,7 +35,9 @@
 		"synonyms": ["mysterious", "secret"],
 		"antonyms": [],
 		"image": "arcane.jpg",
-		"notes": "A moai statue, very few people have an understanding of the stone heads."
+		"notes": "A moai statue, very few people have an understanding of the stone heads.",
+		"examples": [],
+		"website": "https://www.publicdomainpictures.net/en/view-image.php?image=88464&picture=moai"
 	}],
 	"audacity": [{
 		"pos": "noun",
@@ -45,7 +47,7 @@
 		"image": "audacity.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://pixabay.com/cs/photos/riziko-riskantn%C3%AD-extr%C3%A9mn%C3%AD-3628948/"
 	}, {
 		"pos": "noun",
 		"def": "rude or disrespectful behaviour",
@@ -64,7 +66,7 @@
 		"image": "austere.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://www.geograph.org.uk/photo/67901"
 	}],
 	"brazen": [{
 		"pos": "adjective",
@@ -74,7 +76,7 @@
 		"image": "brazen.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://commons.wikimedia.org/wiki/File:Newton_Bull_farts_G3.jpg"
 	}],
 	"circumscribe": [{
 		"pos": "verb",
@@ -84,7 +86,7 @@
 		"image": "circumscribe.png",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://commons.wikimedia.org/wiki/File:Cyclic_quadrilateral.svg"
 	}],
 	"constituent": [{
 		"pos": "noun",
@@ -103,7 +105,7 @@
 		"image": "constituent.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://pxhere.com/en/photo/1445485"
 	}],
 	"dilettante": [{
 		"pos": "noun",
@@ -113,7 +115,7 @@
 		"image": "dilettante.png",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://pixabay.com/cs/illustrations/slep%C3%BD-c%C3%ADl-%C5%A1ipka-se-nezda%C5%99ilo-823530/"
 	}],
 	"foment": [{
 		"pos": "verb",
@@ -123,7 +125,7 @@
 		"image": "foment.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://www.needpix.com/photo/995465/firecrackers-talayuelas-fifths-bonfire"
 	}],
 	"garrulous": [{
 		"pos": "adjective",
@@ -133,7 +135,7 @@
 		"image": "garrulous.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://www.pikist.com/free-photo-xofcf"
 	}],
 	"gauche": [{
 		"pos": "adjective",
@@ -143,7 +145,7 @@
 		"image": "gauche.png",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://www.sketchport.com/drawing/6587875835510784/awkward-teen-girl"
 	}],
 	"haphazard": [{
 		"pos": "adjective",
@@ -153,7 +155,7 @@
 		"image": "haphazard.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://pxhere.com/en/photo/1233316"
 	}],
 	"hegemony": [{
 		"pos": "noun",
@@ -163,7 +165,7 @@
 		"image": "hegemony.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://www.pikist.com/free-photo-vyutp"
 	}],
 	"inimical": [{
 		"pos": "adjective",
@@ -173,7 +175,7 @@
 		"image": "inimical.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://publicdomainvectors.org/en/free-clipart/Dangerous-red-dragon/78664.html"
 	}],
 	"inscrutable": [{
 		"pos": "adjective",
@@ -181,7 +183,9 @@
 		"synonyms": ["unfathomable"],
 		"antonyms": [],
 		"image": "inscrutable.jpg",
-		"notes": "The image is inscrutable."
+		"notes": "The image is inscrutable.",
+		"examples": [],
+		"website": "https://pxhere.com/en/photo/309350"
 	}],
 	"insolent": [{
 		"pos": "adjective",
@@ -191,7 +195,7 @@
 		"image": "insolent.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://pxhere.com/en/photo/862599"
 	}],
 	"intrepid": [{
 		"pos": "adjective",
@@ -201,7 +205,7 @@
 		"image": "intrepid.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://pxhere.com/en/photo/1143396"
 	}],
 	"inveterate": [{
 		"pos": "adjective",
@@ -211,7 +215,7 @@
 		"image": "inveterate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://www.maxpixels.net/Casino-Card-Game-Cards-Gambling-Poker-4701833"
 	}],
 	"irrevocable": [{
 		"pos": "adjective",
@@ -219,7 +223,9 @@
 		"synonyms": ["irreversible", "final"],
 		"antonyms": [],
 		"image": "irrevocable.jpg",
-		"notes": "Blindness and deafness are irrevocable but it did not stop Helen Keller from earning a Bachelor of Arts degree."
+		"notes": "Blindness and deafness are irrevocable but it did not stop Helen Keller from earning a Bachelor of Arts degree.",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Helen_Keller21.jpg"
 	}],
 	"lionize": [{
 		"pos": "verb",
@@ -227,7 +233,9 @@
 		"synonyms": [],
 		"antonyms": [],
 		"image": "lionize.jpg",
-		"notes": "Abraham Lincoln, the photograph was taken on 5 February 1865."
+		"notes": "Abraham Lincoln, the photograph was taken on 5 February 1865.",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Abraham_Lincoln_(13552661785).jpg"
 	}],
 	"munificent": [{
 		"pos": "adjective",
@@ -235,7 +243,9 @@
 		"synonyms": [],
 		"antonyms": [],
 		"image": "munificent.jpeg",
-		"notes": "Children's hospital foundation colorado receiving a US $1000 donation."
+		"notes": "Children's hospital foundation colorado receiving a US $1000 donation.",
+		"examples": [],
+		"website": "https://www.schriever.af.mil/News/Photos/igphoto/2002071761/"
 	}],
 	"myriad": [{
 		"pos": "noun",
@@ -245,7 +255,7 @@
 		"image": "myriad.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://www.pikist.com/free-photo-vwgla"
 	}],
 	"obsequious": [{
 		"pos": "adjective",
@@ -255,7 +265,7 @@
 		"image": "obsequious.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://commons.wikimedia.org/wiki/File:Mosesbootlicker.jpg"
 	}],
 	"ostracize": [{
 		"pos": "verb",
@@ -265,7 +275,7 @@
 		"image": "ostracize.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://commons.wikimedia.org/wiki/File:Late_19th_century_web_alliance.jpg"
 	}],
 	"pedestrian": [{
 		"pos": "adjective",
@@ -275,7 +285,7 @@
 		"image": "pedestrian.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://www.pexels.com/photo/bored-formal-man-watching-laptop-at-desk-3760811/"
 	}],
 	"pernicious": [{
 		"pos": "adjective",
@@ -285,7 +295,7 @@
 		"image": "pernicious.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://pixabay.com/cs/photos/kou%C5%99en%C3%AD-kou%C5%99-cigareta-tab%C3%A1k-2168601/"
 	}],
 	"poignant": [{
 		"pos": "adjective",
@@ -293,7 +303,9 @@
 		"synonyms": ["touching"],
 		"antonyms": [],
 		"image": "poignant.jpg",
-		"notes": "Afghan mother comforting her crying child."
+		"notes": "",
+		"examples": [],
+		"website": "https://pxhere.com/en/photo/776138"
 	}],
 	"precipitous": [{
 		"pos": "adjective",
@@ -301,7 +313,9 @@
 		"synonyms": ["hasty"],
 		"antonyms": [],
 		"image": "precipitous.jpg",
-		"notes": "Woman buried hastily thinking she died."
+		"notes": "Woman buried hastily thinking she died.",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:The_Hasty_Burial.jpg"
 	}],
 	"prodigious": [{
 		"pos": "adjective",
@@ -311,7 +325,7 @@
 		"image": "prodigious.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://commons.wikimedia.org/wiki/File:Woolly_mammoth_model_Royal_BC_Museum_in_Victoria.jpg"
 	}],
 	"prolific": [{
 		"pos": "adjective",
@@ -319,7 +333,9 @@
 		"synonyms": [],
 		"antonyms": [],
 		"image": "prolific.jpg",
-		"notes": "Beehive with hundreds of bees at work."
+		"notes": "Beehive with hundreds of bees at work.",
+		"examples": [],
+		"website": "https://www.pxfuel.com/en/free-photo-oefaz"
 	}],
 	"propitious": [{
 		"pos": "adjective",
@@ -329,7 +345,7 @@
 		"image": "propitious.png",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://www.needpix.com/photo/1738612/stock-chart-finance-business-statistics-success-forex-graph-financial"
 	}],
 	"ravenous": [{
 		"pos": "adjective",
@@ -339,7 +355,7 @@
 		"image": "ravenous.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://www.pxfuel.com/en/free-photo-exnzh"
 	}],
 	"repudiate": [{
 		"pos": "verb",
@@ -349,17 +365,17 @@
 		"image": "repudiate.png",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://pixabay.com/cs/illustrations/silueta-odm%C3%ADtnut%C3%AD-odm%C3%ADtnout-3618854/"
 	}],
 	"rescind": [{
 		"pos": "verb",
 		"def": "cancel (an order or agreement)",
 		"synonyms": ["revoke"],
 		"antonyms": [],
-		"image": "rescind.jpg",
+		"image": "rescind.png",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://www.needpix.com/photo/180696/shredder-document-paper-shredder-confidential-business-security-shred-garbage-destroy"
 	}],
 	"resurgent": [{
 		"pos": "adjective",
@@ -369,7 +385,7 @@
 		"image": "resurgent.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://commons.wikimedia.org/wiki/File:Tesla_Model_X_P100DL.jpg"
 	}],
 	"reverent": [{
 		"pos": "adjective",
@@ -377,9 +393,9 @@
 		"synonyms": ["deferential"],
 		"antonyms": [],
 		"image": "reverent.jpg",
-		"notes": "",
+		"notes": "People bowing at the Kaizan Shrine.",
 		"examples": [],
-		"website": ""
+		"website": "https://commons.wikimedia.org/wiki/File:People_bowing_at_the_Kaizan_Shrine.jpg"
 	}],
 	"sanction": [{
 		"pos": "verb",
@@ -389,7 +405,7 @@
 		"image": "sanction.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://commons.wikimedia.org/wiki/File:Singapore_MRT_Fines.jpg"
 	}, {
 		"pos": "noun",
 		"def": "a penalty for disobeying a law or rule",
@@ -405,10 +421,10 @@
 		"def": "occurring at irregular intervals",
 		"synonyms": ["scattered"],
 		"antonyms": [],
-		"image": "sporadic.jpg",
+		"image": "sporadic.jpeg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://commons.wikimedia.org/wiki/File:Jubilee_Library,_Brighton_-_Detail_of_Tiling_on_West_Elevation.JPG"
 	}],
 	"stale": [{
 		"pos": "adjective",
@@ -418,7 +434,7 @@
 		"image": "stale.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://commons.wikimedia.org/wiki/File:Stale_bread.jpg"
 	}],
 	"subversive": [{
 		"pos": "adjective",
@@ -428,7 +444,7 @@
 		"image": "subversive.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://commons.wikimedia.org/wiki/File:The_Most_Dangerous_Person_in_the_World_(42728778584).jpg"
 	}],
 	"sycophant": [{
 		"pos": "noun",
@@ -438,7 +454,7 @@
 		"image": "sycophant.png",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://pixabay.com/cs/illustrations/politici-podmanit-pol%C3%ADbit-prdel-2285920/"
 	}],
 	"taciturn": [{
 		"pos": "adjective",
@@ -448,7 +464,7 @@
 		"image": "taciturn.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://www.publicdomainpictures.net/en/view-image.php?image=171383&picture=mime-shows-the-silence-please"
 	}],
 	"temper": [{
 		"pos": "verb",
@@ -458,7 +474,7 @@
 		"image": "temper.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://www.pexels.com/photo/happy-little-kids-having-fun-together-during-pillow-fight-game-3874419/"
 	}],
 	"tractable": [{
 		"pos": "adjective",
@@ -468,7 +484,7 @@
 		"image": "tractable.jpeg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://www.hill.af.mil/News/Photos/igphoto/2001668148/"
 	}],
 	"vacillate": [{
 		"pos": "verb",
@@ -478,7 +494,7 @@
 		"image": "vacillate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://www.pikist.com/free-photo-srqhb"
 	}],
 	"winsome": [{
 		"pos": "adjective",
@@ -488,6 +504,6 @@
 		"image": "winsome.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://www.pikist.com/free-photo-sliir"
 	}]
 }
