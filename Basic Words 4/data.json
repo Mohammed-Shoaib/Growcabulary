@@ -196,7 +196,7 @@
 		"image": "glib.jpeg",
 		"notes": "Brian Baumgartner from the American sitcom television, the Office.",
 		"examples": [],
-		"website": ""
+		"website": "https://commons.wikimedia.org/wiki/File:Brian_Baumgartner_LF.JPG"
 	}],
 	"grovel": [{
 		"pos": "verb",
@@ -238,6 +238,16 @@
 		"examples": [],
 		"website": "https://pxhere.com/en/photo/1205984"
 	}],
+	"impede": [{
+		"pos": "verb",
+		"def": "to slow the progress by means of obstacles or hindrances",
+		"synonyms": ["obstruct", "hinder"],
+		"antonyms": [],
+		"image": "impede.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://pxhere.com/en/photo/596455"
+	}],
 	"irresolute": [{
 		"pos": "adjective",
 		"def": "showing or feeling hesitancy",
@@ -246,7 +256,7 @@
 		"image": "irresolute.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://commons.wikimedia.org/wiki/File:Confused_man.jpg"
 	}],
 	"jargon": [{
 		"pos": "noun",
@@ -256,7 +266,7 @@
 		"image": "jargon.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://commons.wikimedia.org/wiki/File:Apisssss.gif"
 	}],
 	"lucid": [{
 		"pos": "adjective",
@@ -365,7 +375,7 @@
 		"image": "smattering.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "https://www.pikist.com/free-photo-vvtgp"
 	}, {
 		"pos": "noun",
 		"def": "a small amount of something",
