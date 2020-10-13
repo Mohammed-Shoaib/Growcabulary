@@ -30,7 +30,9 @@ def data_to_pdf(data: dict) -> None:
 	heading_size, regular_size = 24, 12
 	
 	# create an empty canvas
-	canvas = Canvas('GREPrep.pdf')
+	dir_name = os.path.join(os.path.dirname(os.path.realpath(__file__)))
+	path = os.path.join(dir_name, '..', 'assets', 'GREPrep.pdf')
+	canvas = Canvas(path)
 	
 	# write the header
 	# canvas.setFont('Lato-Regular', heading_size)
