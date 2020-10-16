@@ -1,0 +1,50 @@
+<nav class="navbar navbar-expand-sm navbar-dark">
+  
+  <a class="navbar-brand" routerLink="/learn">Growcabulary</a>
+  
+  <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarMenu">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  
+  <div class="collapse navbar-collapse" id="navbarMenu">
+    <ul class="navbar-nav mr-auto">
+      <!-- <li class="nav-item dropdown" dropdown>
+        <a class="nav-link dropdown-toggle waves-light" type="button" mdbWavesEffect dropdownToggle href="#">
+          Learn
+        </a>
+        <div class="dropdown dropdown-menu dropdown-primary" role="menu" *dropdownMenu>
+          <a class="dropdown-item waves-light" mdbWavesEffect href="#">Common Words</a>
+          <a class="dropdown-item waves-light" mdbWavesEffect href="#">Basic Words</a>
+          <a class="dropdown-item waves-light" mdbWavesEffect href="#">Advanced Words</a>
+        </div>
+      </li> -->
+      <li class="nav-item">
+        <a class="nav-link waves-light" mdbWavesEffect routerLink='/learn'>Learn</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link waves-light" mdbWavesEffect routerLink='/pricing'>Pricing</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link waves-light" mdbWavesEffect routerLink='/about'>About</a>
+      </li>
+    </ul>
+    <form>
+      <!-- <div class="input-group"> -->
+        <input 
+          type="text" 
+          class="form-control" 
+          placeholder="Search"
+          [(ngModel)]="query"
+          (ngModelChange)="onQuery()"
+          [ngModelOptions]="{standalone: true}">
+        <!-- <div class="input-group-btn">
+          <button class="btn btn-outline-success" type="submit">
+            <span class="fa fa-search"></span>
+          </button>
+        </div>
+      </div> -->
+    </form>
+  </div>
+</nav>
+
+<router-outlet></router-outlet>
