@@ -1,0 +1,6 @@
+@import "./src/scss/variables";
+
+.dropdown-menu > a:hover {
+	background-color: $accent-color;
+	color: $base-color;
+}
