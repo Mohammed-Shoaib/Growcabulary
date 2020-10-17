@@ -1,0 +1,28 @@
+<div *ngFor="let level of wordListService.levels" class="mx-2">
+  <hr>
+  <h2>{{ level }} Words</h2>
+  <hr>
+  <div class="container">
+    <div class="row">
+      <div *ngFor="let i of getLevelIndexes(level)">
+        <div class="card mx-2 my-2">
+          <div class="card-body">
+            <h4>{{ wordListService.folders[i] }}</h4>
+            <div class="container">
+              <div class="row mt-4">
+                <span class="col pl-0">
+                  <em>{{ wordListService.wordLists[i].length }} words</em>
+                </span>
+                <div class="col pr-0 text-right">
+                  <button class="btn btn-outline-primary" type="submit" [routerLink]="wordListService.folders[i]">
+                    <span class="fa fa-book" aria-hidden="true"></span>
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
