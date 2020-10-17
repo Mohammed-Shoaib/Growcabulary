@@ -1,0 +1,26 @@
+@import "bootstrap/scss/functions";
+@import "bootstrap/scss/variables";
+@import "./src/scss/variables";
+
+hr {
+	background-color: $accent-color;
+	margin-left: -($spacer * .5) !important;
+	margin-right: -($spacer * .5) !important;
+}
+
+hr.divider {
+	margin: 0em;
+}
+
+.card {
+	background-color: $accent-color;
+	min-width: 15rem;
+}
+
+.card-body {
+	color: $base-color;
+}
+
+.btn {
+	width: fit-content;
+}
