@@ -1,0 +1,28 @@
+<div class="container">
+  <div class="row mx-2 my-2">
+    <h4 class="col-xs-8">{{ readMode ? "Reading Mode" : "Learning Mode "}}</h4>
+    <div class="ml-auto col-xs-4">
+      <button class="btn btn-primary" type="submit" (click)="toggleMode();">
+        <span class="fa fa-book" aria-hidden="true"></span>
+      </button>
+    </div>
+  </div>
+  <hr>
+  <div *ngIf="!readMode && idx < wordList.length">
+    <app-word-item
+      [idx]="idx"
+      [wordList]="wordList"
+      [readMode]="readMode">
+    </app-word-item>
+  </div>
+  <div *ngIf="readMode">
+    <div #wordItem class="mx-3 my-2" *ngFor="let word of wordList; let i = index">
+      <app-word-item
+        [idx]="i"
+        [wordList]="wordList"
+        [readMode]="readMode"
+        (cardClicked)="cardClick(i)">
+      </app-word-item>
+    </div>
+  </div>
+</div>
