@@ -1,0 +1,120 @@
+@import "bootstrap/scss/mixins";
+@import "bootstrap/scss/functions";
+@import "bootstrap/scss/variables";
+@import "./src/scss/variables";
+@font-face
+{
+	font-family: digital;
+	src: url(digital.ttf);
+}
+@font-face
+{
+	font-family: larabiefont;
+	src: url(larabiefont.ttf);
+}
+@font-face
+{
+	font-family: 'Voces-Regular';
+	src: url(Voces-Regular.ttf);
+}
+@font-face
+{
+	font-family: 'NotoSans-Regular';
+	src: url(NotoSans-Regular.ttf);
+}
+
+.row {
+	max-width: 1000px;
+}
+
+.card {
+	background-color: $accent-color;
+	color: $base-color;
+	position: relative;
+}
+
+.card-body, .card-title, h6 {
+	font-size: 1.75rem;
+}
+
+.card-img {
+	position: relative;
+	max-width: 300px;
+	float: right;
+	z-index: 1;
+}
+
+.middle {
+	display: flex;
+	align-items: center;
+}
+
+.btn-group {
+	width: fit-content;
+}
+
+.btn-outline-dark {
+    @include button-outline-variant($base-color, $accent-color, lighten($base-color,5%), $base-color);
+}
+
+.btn:disabled {
+	cursor: not-allowed;
+	pointer-events: all !important;
+}
+
+.audio-btn {
+	position: relative;
+	z-index: 1;
+	width: 35px;
+	margin-left: -($spacer * .5) !important;
+	margin-bottom: 3px;
+	outline: 0 none;
+	border: none !important;
+	box-shadow: none !important;
+}
+
+.ipa {
+	font-family: 'Voces', cursive;
+}
+
+hr {
+	background-color: $base-color;
+}
+
+textarea, textarea:focus {
+	resize: none;
+	color: $base-color;
+	overflow: auto;
+	font-family: larabiefont;
+	font-size: 1.25rem;
+	font-weight: 600;
+}
+
+.timer {
+	font-size: 2.5rem;
+	font-family: digital;
+}
+
+.details {
+	color: $base-color;
+	font-size: 1.6rem;
+	height: fit-content;
+}
+
+h5, h6 {
+	display: inline-block;
+}
+
+.correct {
+	color: green;
+	background-color: #E7FBD3;
+}
+
+.incorrect {
+	color: red;
+	background-color: #FFC0CB;
+}
+
+.current {
+	text-decoration: underline;
+}
