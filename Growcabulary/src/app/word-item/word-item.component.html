@@ -1,0 +1,197 @@
+<div *ngIf="readMode">
+  <div class="card">
+    <div class="row card-body">
+      <a class="stretched-link" (click)="onCardClick()"></a>
+      <div class="col-sm-4 middle">
+        <a [href]="wordList[idx].imagePath" target="_blank">
+          <img class="card-img" [src]="wordList[idx].imagePath">
+        </a>
+      </div>
+      
+      <div class="col-sm-8">
+        <h5 class="card-title">{{ wordList[idx].key }}</h5>
+        <div>
+          <span>
+            <h6>US</h6>
+            <audio #audio_us [src]="wordList[idx].audio_us" preload="auto"></audio>
+            <button class="btn btn-primary-outline audio-btn" type="button" (click)="onAudioClickUS()">
+              <span class="fa fa-volume-up" aria-hidden="true"></span>
+            </button>
+            <span class="ipa">{{ wordList[idx].phonetic_us }}</span>
+          </span>
+          <span class="ml-4">
+            <h6>UK</h6>
+            <audio #audio_uk [src]="wordList[idx].audio_uk" preload="auto"></audio>
+            <button class="btn btn-primary-outline audio-btn" type="button" (click)="onAudioClickUK()">
+              <span class="fa fa-volume-up" aria-hidden="true"></span>
+            </button>
+            <span class="ipa">{{ wordList[idx].phonetic_uk }}</span>
+          </span>
+        </div>
+      
+        <div *ngFor="let value of wordList[idx].value" class="card-text mt-4">
+          <strong><em>{{ value.pos }}</em></strong><br/>
+          {{ value.def }}<br/>
+          <span *ngIf="value.synonyms.length">
+            <strong>synonyms:</strong> {{ value.synonyms.join(', ') }}<br/>
+          </span>
+          <span *ngIf="value.antonyms.length">
+            <strong>antonyms:</strong> {{ value.antonyms.join(', ') }}<br/>
+          </span>
+          <span *ngIf="value.notes">
+            <strong>Notes:</strong> {{ value.notes }}<br/>
+          </span>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+<div *ngIf="!readMode">
+  <div class="container">
+    <div class="row card mx-auto">
+      <div class="row card-body">
+        <div class="col-sm-4 middle">
+          <a [href]="wordList[idx].imagePath" target="_blank">
+            <img class="card-img" [src]="wordList[idx].imagePath">
+          </a>
+        </div>
+        
+        <div class="col-sm-8">
+          <div>
+            <span>
+              <h6>US</h6>
+              <audio #audio_us [src]="wordList[idx].audio_us" preload="auto" [autoplay]="autoplayAudioUS"></audio>
+              <button class="btn btn-primary-outline audio-btn" type="button" (click)="onAudioClickUS()">
+                <span class="fa fa-volume-up" aria-hidden="true"></span>
+              </button>
+              <span class="ipa">{{ wordList[idx].phonetic_us }}</span>
+            </span>
+            <span class="ml-4">
+              <h6>UK</h6>
+              <audio #audio_uk [src]="wordList[idx].audio_uk" preload="auto" [autoplay]="autoplayAudioUK"></audio>
+              <button class="btn btn-primary-outline audio-btn" type="button" (click)="onAudioClickUK()">
+                <span class="fa fa-volume-up" aria-hidden="true"></span>
+              </button>
+              <span class="ipa">{{ wordList[idx].phonetic_uk }}</span>
+            </span>
+            <span style="float: right">
+              Autoplay: {{ autoplayAudioUK ? 'On' : 'Off' }}
+              <button class="btn btn-primary-outline audio-btn" type="button" (click)="toggleAutoplayAudio()">
+                <span class="fas fa-volume-up" aria-hidden="true" *ngIf="autoplayAudioUK"></span>
+                <span class="fas fa-volume-mute" aria-hidden="true" *ngIf="!autoplayAudioUK"></span>
+              </button>
+            </span>
+          </div>
+          <!-- <h5 class="card-title">{{ wordList[idx].key }}</h5>
+          <div *ngFor="let value of wordList[idx].value" class="card-text mt-4">
+            <strong><em>{{ value.pos }}</em></strong><br/>
+            {{ value.def }}<br/>
+            <span *ngIf="value.synonyms.length">
+              <em>synonyms:</em> {{ value.synonyms.join(', ') }}<br/>
+            </span>
+            <span *ngIf="value.antonyms.length">
+              <em>antonyms:</em>
+              {{ value.antonyms.join(', ') }}<br/>
+            </span>
+            <span *ngIf="value.notes">Notes: {{ value.notes }}<br/></span>
+          </div> -->
+          <div #cardArea></div>
+        </div>
+        <hr>
+        <div class="btn-group mx-auto mb-2">
+          <button
+            (click)="leftArrowClick()"
+            class="btn btn-outline-dark"
+            [disabled]="idx <= 0">
+            <span class="fas fa-long-arrow-alt-left"></span>
+          </button>
+          <span class="mx-4 my-2">
+            {{ idx + 1 }} / {{ wordList.length }}
+          </span>
+          <button
+            (click)="rightArrowClick()"
+            class="btn btn-outline-dark"
+            [disabled]="idx + 1 >= wordList.length">
+            <span class="fas fa-long-arrow-alt-right"></span>
+          </button>
+        </div>
+        
+        <textarea 
+          rows="3"
+          class="form-control"
+          #textArea
+          placeholder="Start typing!"
+          (input)="onTextChange($event.target.value, $event.data)"></textarea>
+          
+        <em *ngIf="nextGame" class="mt-2">
+          <span *ngIf="idx === wordList.length - 1">Set Completed.</span> Press Enter ↵ to continue.
+        </em>
+      </div>
+      <!-- <div class="col-3 card details mx-auto mt-4">
+        <div class="container">
+          <div class="row card-body">
+            <div class="col my-auto">
+              <span>
+                {{ wpm }} WPM
+              </span>
+            </div>
+            <div class="col timer pb-2 text-center">
+              {{ minutes | number:'2.0' }} : {{ seconds | number:'2.0' }}
+            </div>
+            <div class="col my-auto text-right">
+              {{ accuracy | number:'1.0-1' }}% Accuracy
+            </div>
+          </div>
+        </div>
+      </div>
+    </div> -->
+    </div>
+    <div class="row mx-auto">
+      <div class="card col-sm-3 mt-2 details">
+        <div class="container pt-0 card-body">
+          <div class="row timer pb-2">
+            <span class="mx-auto">
+              {{ minutes | number:'2.0' }} : {{ seconds | number:'2.0' }}
+            </span>
+          </div>
+          <div class="row">
+            <span>
+              {{ wpm }} WPM
+            </span>
+          </div>
+          <div class="row">
+            <span>
+              {{ accuracy | number:'1.1-1' }}% Accuracy
+            </span>
+          </div>
+          <hr class="mt-4 mb-0">
+          <div class="row">
+            <strong class="mx-auto">Average</strong>
+          </div>
+          <div class="row timer pb-2">
+            <span class="mx-auto">
+              {{ totalMinutes | number:'2.0' }} : {{ totalSeconds | number:'2.0' }}
+            </span>
+          </div>
+          <div class="row">
+            <span>
+              {{ getAverage(dataWPM) | number:'1.0-0' }} WPM
+            </span>
+          </div>
+          <div class="row">
+            <span>
+              {{ getAverage(dataAccuracy) | number:'1.1-1' }}% Accuracy
+            </span>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-sm-9 mt-2 pr-0 text-right">
+        <app-line-chart
+        [data]="dataWPM"></app-line-chart>
+      </div>
+    </div>
+  </div>
+</div>
