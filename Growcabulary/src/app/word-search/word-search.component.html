@@ -1,0 +1,13 @@
+<div *ngIf="results.length">
+  <div class="mx-3 my-2" *ngFor="let word of results; let i = index">
+    <app-word-item
+      [idx]="i"
+      readMode="true"
+      [wordList]="results"
+      (cardClicked)="cardClick(i)">
+    </app-word-item>
+  </div>
+</div>
+<div *ngIf="results.length === 0" class="text-center">
+  No results found.
+</div>
