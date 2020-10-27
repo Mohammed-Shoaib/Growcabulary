@@ -4,355 +4,461 @@
 		"def": "a feeling of strong dislike",
 		"synonyms": ["aversion"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "antipathy.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pxfuel.com/en/free-photo-xsevp"
+		"website": "https://www.pxfuel.com/en/free-photo-xsevp",
+		"phonetics-us": ["/ænˈtɪp.ə.θi/"],
+		"phonetics-uk": ["/ænˈtɪp.ə.θi/"]
 	}],
 	"appease": [{
 		"pos": "verb",
 		"def": "pacify (someone) by acceding to their demands",
 		"synonyms": ["placate"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "appease.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:A_Lady_with_a_servant_washing_her_feet,_by_Johannes_Voorhout.jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:A_Lady_with_a_servant_washing_her_feet,_by_Johannes_Voorhout.jpg",
+		"phonetics-us": ["/əˈpiːz/"],
+		"phonetics-uk": ["/əˈpiːz/"]
 	}],
 	"arduous": [{
 		"pos": "adjective",
 		"def": "difficult, needing a lot of effort and energy",
 		"synonyms": ["laborious", "strenuous"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "arduous.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pikist.com/free-photo-vzhls"
+		"website": "https://www.pikist.com/free-photo-vzhls",
+		"phonetics-us": ["/ˈɑːr.dʒu.əs/"],
+		"phonetics-uk": ["/ˈɑː.dʒu.əs/"]
 	}],
 	"askance": [{
 		"pos": "adverb",
 		"def": "to look at or think about someone with doubt or disapproval",
 		"synonyms": ["suspiciously"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "askance.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pikist.com/free-photo-ssvkj"
+		"website": "https://www.pikist.com/free-photo-ssvkj",
+		"phonetics-us": ["/əˈskæns/"],
+		"phonetics-uk": ["/əˈskɑːns/"]
 	}],
 	"banality": [{
 		"pos": "noun",
 		"def": "something that lacks originality, freshness, or novelty",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "banality.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.piqsels.com/en/public-domain-photo-jgspo"
+		"website": "https://www.piqsels.com/en/public-domain-photo-jgspo",
+		"phonetics-us": ["/bəˈnɑː.lə.t̬i/"],
+		"phonetics-uk": ["/bəˈnɑː.lə.ti/"]
 	}],
 	"bolster": [{
 		"pos": "verb",
 		"def": "support or strengthen",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "bolster.jpg",
 		"notes": "The pillars support the weight of the building.",
 		"examples": [],
-		"website": "https://pixabay.com/cs/photos/pil%C3%AD%C5%99-architektura-podpora-v%C4%9B%C5%BE-3284422/"
+		"website": "https://pixabay.com/cs/photos/pil%C3%AD%C5%99-architektura-podpora-v%C4%9B%C5%BE-3284422/",
+		"phonetics-us": ["/ˈboʊl.stɚ/"],
+		"phonetics-uk": ["/ˈbəʊl.stər/"]
 	}],
 	"capricious": [{
 		"pos": "adjective",
 		"def": "changing mood or behaviour suddenly and unexpectedly",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "capricious.png",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Mood_dice.svg"
+		"website": "https://commons.wikimedia.org/wiki/File:Mood_dice.svg",
+		"phonetics-us": ["/kəˈprɪʃ.əs/"],
+		"phonetics-uk": ["/kəˈprɪʃ.əs/"]
 	}],
 	"compulsory": [{
 		"pos": "adjective",
 		"def": "required by law or a rule",
 		"synonyms": ["obligatory"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "compulsory.jpg",
 		"notes": "Due to COVID-19, wearing a mask is compulsory when going out.",
 		"examples": [],
-		"website": "https://www.pexels.com/photo/group-of-people-wearing-face-mask-3957992/"
+		"website": "https://www.pexels.com/photo/group-of-people-wearing-face-mask-3957992/",
+		"phonetics-us": ["/kəmˈpʌl.sɚ.i/"],
+		"phonetics-uk": ["/kəmˈpʌl.sər.i/"]
+	}],
+	"contrite": [{
+		"pos": "adjective",
+		"def": "feeling or expressing remorse at the recognition that one has done wrong",
+		"synonyms": [],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "contrite.png",
+		"notes": "",
+		"examples": [],
+		"website": "https://pixabay.com/cs/vectors/pl%C3%A1%C4%8D-roztr%C5%BEen%C3%AD-drop-mourn-smutn%C3%A9-1316458/",
+		"phonetics-us": ["/ˈkɑːn.traɪt/"],
+		"phonetics-uk": ["/kənˈtraɪt/"]
 	}],
 	"contrition": [{
 		"pos": "noun",
 		"def": "the feeling of guilt that comes from doing something bad",
 		"synonyms": ["remorse", "repentance"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "contrition.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Francisco_Jos%C3%A9_de_Goya_-_The_Repentant_St._Peter_-_Google_Art_Project.jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:Francisco_Jos%C3%A9_de_Goya_-_The_Repentant_St._Peter_-_Google_Art_Project.jpg",
+		"phonetics-us": ["/kɑːnˈtrɪʃ.ən/"],
+		"phonetics-uk": ["/kənˈtrɪʃ.ən/"]
 	}],
 	"craven": [{
 		"pos": "adjective",
 		"def": "lacking the least bit of courage",
 		"synonyms": ["cowardly"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "craven.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pexels.com/photo/cartoon-cartoon-character-courage-courage-the-cowardly-dog-568351/"
-	}],
-	"deleterious": [{
-		"pos": "adjective",
-		"def": "causing harm or damage",
-		"synonyms": [],
-		"antonyms": [],
-		"image": "deleterious.png",
-		"notes": "",
-		"examples": [],
-		"website": "https://www.needpix.com/photo/18108/danger-warning-skull-and-crossbones-sign-dangerous-alert-attention-beware-protection"
+		"website": "https://www.pexels.com/photo/cartoon-cartoon-character-courage-courage-the-cowardly-dog-568351/",
+		"phonetics-us": ["/ˈkreɪ.vən/"],
+		"phonetics-uk": ["/ˈkreɪ.vən/"]
 	}],
 	"dilatory": [{
 		"pos": "adjective",
 		"def": "intended to cause delay",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "dilatory.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Funny_traffic_lights.jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:Funny_traffic_lights.jpg",
+		"phonetics-us": ["/ˈdɪl.ə.tɔːr.i/"],
+		"phonetics-uk": ["/ˈdɪl.ə.tər.i/"]
 	}],
 	"dispassionate": [{
 		"pos": "adjective",
 		"def": "not influenced by strong feeling, and so able to be rational",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "dispassionate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Judge_Frank_Caprio.jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:Judge_Frank_Caprio.jpg",
+		"phonetics-us": ["/dɪˈspæʃ.ən.ət/"],
+		"phonetics-uk": ["/dɪˈspæʃ.ən.ət/"]
 	}],
 	"disseminate": [{
 		"pos": "verb",
 		"def": "spread (something) widely",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "disseminate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pikist.com/free-photo-ifaxn"
+		"website": "https://www.pikist.com/free-photo-ifaxn",
+		"phonetics-us": ["/dɪˈsem.ə.neɪt/"],
+		"phonetics-uk": ["/dɪˈsem.ɪ.neɪt/"]
 	}],
 	"duress": [{
 		"pos": "noun",
 		"def": "threats used to force a person to do something",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "duress.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.maxpixels.net/War-Silhouette-Risk-Soldier-Woman-Threat-Fear-1682561"
+		"website": "https://www.maxpixels.net/War-Silhouette-Risk-Soldier-Woman-Threat-Fear-1682561",
+		"phonetics-us": ["/duːˈres/"],
+		"phonetics-uk": ["/dʒuˈres/"]
 	}],
 	"economical": [{
 		"pos": "adjective",
 		"def": "marked by careful and efficient use of resources",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "economical.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pikist.com/free-photo-inldy"
+		"website": "https://www.pikist.com/free-photo-inldy",
+		"phonetics-us": ["/ˌiː.kəˈnɑː.mɪ.kəl/"],
+		"phonetics-uk": ["/ˌiː.kəˈnɒm.ɪ.kəl/"]
 	}],
 	"edifying": [{
 		"pos": "adjective",
 		"def": "enlightening or uplifting so as to encourage intellectual or moral improvement",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "edifying.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pxhere.com/en/photo/1613625"
+		"website": "https://pxhere.com/en/photo/1613625",
+		"phonetics-us": ["/ˈed.ə.faɪ.ɪŋ/"],
+		"phonetics-uk": ["/ˈed.ɪ.faɪ.ɪŋ/"]
 	}],
 	"efficacious": [{
 		"pos": "adjective",
 		"def": "successful in producing a desired or intended result",
 		"synonyms": ["effective"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "efficacious.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.maxpixels.net/Tick-Successful-Person-Expert-Internet-Download-1002802"
+		"website": "https://www.maxpixels.net/Tick-Successful-Person-Expert-Internet-Download-1002802",
+		"phonetics-us": ["/ˌef.əˈkeɪ.ʃəs/"],
+		"phonetics-uk": ["/ˌef.ɪˈkeɪ.ʃəs/"]
 	}],
 	"elicit": [{
-		"pos": "adjective",
+		"pos": "verb",
 		"def": "to call forth or draw out (something, such as information or a response)",
 		"synonyms": ["evoke"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "elicit.jpeg",
 		"notes": "",
 		"examples": [],
-		"website": "https://upload.wikimedia.org/wikipedia/commons/7/77/Deepsea.JPG"
+		"website": "https://upload.wikimedia.org/wikipedia/commons/7/77/Deepsea.JPG",
+		"phonetics-us": ["/iˈlɪs.ɪt/"],
+		"phonetics-uk": ["/iˈlɪs.ɪt/"]
 	}],
 	"erudite": [{
 		"pos": "adjective",
 		"def": "having or showing great knowledge or learning",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "erudite.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pexels.com/photo/young-male-bookworm-reading-old-book-in-library-3771114/"
+		"website": "https://www.pexels.com/photo/young-male-bookworm-reading-old-book-in-library-3771114/",
+		"phonetics-us": ["/ˈer.jə.daɪt/"],
+		"phonetics-uk": ["/ˈer.ʊ.daɪt/"]
 	}],
 	"esoteric": [{
 		"pos": "adjective",
 		"def": "understood by only a small number of people with specialized knowledge or interest",
 		"synonyms": ["abstruse", "obscure", "arcane"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "esoteric.jpg",
 		"notes": "Rune letters which were used to write Germanic languages.",
 		"examples": [],
-		"website": "https://www.maxpixels.net/Esoteric-Rune-Mystic-Alchemy-Geometry-Sacred-2970442"
+		"website": "https://www.maxpixels.net/Esoteric-Rune-Mystic-Alchemy-Geometry-Sacred-2970442",
+		"phonetics-us": ["/ˌes.əˈter.ɪk/"],
+		"phonetics-uk": ["/ˌiː.səˈter.ɪk/"]
 	}],
 	"fastidious": [{
 		"pos": "adjective",
 		"def": "giving too much attention to small details and wanting everything to be correct and perfect",
 		"synonyms": ["scrupulous", "meticulous", "exacting", "fussy"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "fastidious.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pikist.com/free-photo-xukfa"
+		"website": "https://www.pikist.com/free-photo-xukfa",
+		"phonetics-us": ["/fæsˈtɪd.i.əs/"],
+		"phonetics-uk": ["/fæsˈtɪd.i.əs/"]
 	}],
 	"flux": [{
 		"pos": "noun",
 		"def": "continuous change",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "flux.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.needpix.com/photo/528126/seasons-of-the-year-summer-autumn-winter-spring-tree"
+		"website": "https://www.needpix.com/photo/528126/seasons-of-the-year-summer-autumn-winter-spring-tree",
+		"phonetics-us": ["/flʌks/"],
+		"phonetics-uk": ["/flʌks/"]
 	}],
 	"furtive": [{
 		"pos": "adjective",
 		"def": "attempting to avoid notice or attention, typically because discovery would lead to trouble",
 		"synonyms": ["secretive"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "furtive.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.publicdomainpictures.net/en/view-image.php?image=24078&picture=cat-hiding"
+		"website": "https://www.publicdomainpictures.net/en/view-image.php?image=24078&picture=cat-hiding",
+		"phonetics-us": ["/ˈfɝː.t̬ɪv/"],
+		"phonetics-uk": ["/ˈfɜː.tɪv/"]
 	}],
 	"harried": [{
 		"pos": "adjective",
 		"def": "worried and angry, especially because people keep wanting things from you",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "harried.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://freesvg.org/vector-illustration-of-man-trying-to-carry-too-many-boxes"
+		"website": "https://freesvg.org/vector-illustration-of-man-trying-to-carry-too-many-boxes",
+		"phonetics-us": ["/ˈher.id/"],
+		"phonetics-uk": ["/ˈhær.id/"]
 	}],
 	"ignominious": [{
 		"pos": "adjective",
 		"def": "deserving or causing public disgrace or shame",
 		"synonyms": ["ignoble", "embarrassing"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "ignominious.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:The_stoning_of_St_Stephen._Oil_painting_attributed_to_Orazio_Wellcome_V0017355.jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:The_stoning_of_St_Stephen._Oil_painting_attributed_to_Orazio_Wellcome_V0017355.jpg",
+		"phonetics-us": ["/ˌɪɡ.nəˈmɪn.i.əs/"],
+		"phonetics-uk": ["/ˌɪɡ.nəˈmɪn.i.əs/"]
 	}],
 	"impartial": [{
 		"pos": "adjective",
-		"def": "not biased partial or biased, treating all equally",
+		"def": "not partial or biased, treating all equally",
 		"synonyms": ["unbiased"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "impartial.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pikrepo.com/fyhec/illustration-of-judge-ni-robes-with-gavel"
+		"website": "https://www.pikrepo.com/fyhec/illustration-of-judge-ni-robes-with-gavel",
+		"phonetics-us": ["/ɪmˈpɑːr.ʃəl/"],
+		"phonetics-uk": ["/ɪmˈpɑː.ʃəl/"]
 	}],
 	"imprudent": [{
 		"pos": "adjective",
 		"def": "lacking wisdom or good judgement",
 		"synonyms": ["rash", "unwise"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "imprudent.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pxfuel.com/en/free-photo-qxdmd"
+		"website": "https://www.pxfuel.com/en/free-photo-qxdmd",
+		"phonetics-us": ["/ɪmˈpruː.dənt/"],
+		"phonetics-uk": ["/ɪmˈpruː.dənt/"]
 	}],
 	"indecorous": [{
 		"pos": "adjective",
 		"def": "not in keeping with good taste and propriety",
 		"synonyms": ["improper"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "indecorous.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://unsplash.com/photos/NzufsEqOSOk"
+		"website": "https://unsplash.com/photos/NzufsEqOSOk",
+		"phonetics-us": ["/ɪnˈdek.ɚ.əs/"],
+		"phonetics-uk": ["/ɪnˈdek.ər.əs/"]
 	}],
 	"jovial": [{
 		"pos": "adjective",
 		"def": "cheerful and friendly",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "jovial.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pikist.com/free-photo-vfhfh"
+		"website": "https://www.pikist.com/free-photo-vfhfh",
+		"phonetics-us": ["/ˈdʒoʊ.vi.əl/"],
+		"phonetics-uk": ["/ˈdʒəʊ.vi.əl/"]
 	}],
 	"maladroit": [{
 		"pos": "adjective",
 		"def": "lacking adroitness",
 		"synonyms": ["inept", "clumsy"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "maladroit.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pxhere.com/fr/photo/867723"
+		"website": "https://pxhere.com/fr/photo/867723",
+		"phonetics-us": ["/ˌmæl.əˈdrɔɪt/"],
+		"phonetics-uk": ["/ˌmæl.əˈdrɔɪt/"]
 	}],
 	"maverick": [{
-		"pos": "adjective",
+		"pos": "noun",
 		"def": "an independent-minded person, often behaving differently from the expected or usual way",
-		"synonyms": [],
+		"synonyms": ["eccentric"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "maverick.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://en.wikipedia.org/wiki/File:2010_mavericks_competition.jpg"
+		"website": "https://en.wikipedia.org/wiki/File:2010_mavericks_competition.jpg",
+		"phonetics-us": ["/ˈmæv.ɚ.ɪk/"],
+		"phonetics-uk": ["/ˈmæv.ər.ɪk/"]
 	}],
 	"mendacity": [{
-		"pos": "adjective",
-		"def": "the act of not telling the truth",
-		"synonyms": ["untruthfulness", "lying"],
+		"pos": "noun",
+		"def": "the tendency to be untruthful",
+		"synonyms": ["lying"],
 		"antonyms": ["veracity"],
+		"alternatives": [],
 		"image": "mendacity.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pixabay.com/cs/photos/%C5%99%C3%ADm-pinocchio-hra%C4%8Dka-2333104/"
+		"website": "https://pixabay.com/cs/photos/%C5%99%C3%ADm-pinocchio-hra%C4%8Dka-2333104/",
+		"phonetics-us": ["/menˈdæs.ə.t̬i/"],
+		"phonetics-uk": ["/menˈdæs.ə.ti/"]
 	}],
 	"misconstrue": [{
 		"pos": "verb",
 		"def": "interpret (a person's words or actions) wrongly",
 		"synonyms": ["misinterpret", "misunderstand"],
 		"antonyms": ["construe"],
+		"alternatives": [],
 		"image": "misconstrue.png",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.needpix.com/photo/1292181/iceberg-above-water-white-cold-ice-blue-ocean-sea"
+		"website": "https://www.needpix.com/photo/1292181/iceberg-above-water-white-cold-ice-blue-ocean-sea",
+		"phonetics-us": ["/ˌmɪs.kənˈstruː/"],
+		"phonetics-uk": ["/ˌmɪs.kənˈstruː/"]
 	}],
 	"mundane": [{
 		"pos": "adjective",
 		"def": "lacking interest or excitement",
 		"synonyms": ["dull", "boring", "tedious", "quotidian"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "mundane.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "http://www.freestockphotos.biz/stockphoto/15237"
+		"website": "http://www.freestockphotos.biz/stockphoto/15237",
+		"phonetics-us": ["/mʌnˈdeɪn/"],
+		"phonetics-uk": ["/mʌnˈdeɪn/"]
 	}, {
 		"pos": "adjective",
 		"def": "of this earthly world rather than a heavenly or spiritual one",
 		"synonyms": ["temporal", "secular"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "",
 		"notes": "",
 		"examples": [],
@@ -363,139 +469,204 @@
 		"def": "so surprised and confused that one is unsure how to react",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "nonplussed.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pixabay.com/cs/photos/zmaten%C3%BD-%C5%BEena-pochyby-d%C4%9Bv%C4%8De-zmatek-2385799/"
+		"website": "https://pixabay.com/cs/photos/zmaten%C3%BD-%C5%BEena-pochyby-d%C4%9Bv%C4%8De-zmatek-2385799/",
+		"phonetics-us": ["/ˌnɑːnˈplʌst/"],
+		"phonetics-uk": ["/ˌnɒnˈplʌst/"]
 	}],
 	"nuance": [{
 		"pos": "noun",
 		"def": "a subtle difference in meaning, expression, or sound",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "nuance.png",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Spot_the_difference_between_those_two_pirate_ships.svg"
+		"website": "https://commons.wikimedia.org/wiki/File:Spot_the_difference_between_those_two_pirate_ships.svg",
+		"phonetics-us": ["/ˈnuː.ɑːns/"],
+		"phonetics-uk": ["/ˈnjuː.ɑːns/"]
 	}],
 	"opulence": [{
 		"pos": "noun",
 		"def": "great wealth or luxuriousness",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "opulence.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pikist.com/free-photo-xxozq"
+		"website": "https://www.pikist.com/free-photo-xxozq",
+		"phonetics-us": ["/ˈɑː.pjə.ləns/"],
+		"phonetics-uk": ["/ˈɒp.jə.ləns/"]
 	}],
 	"pejorative": [{
 		"pos": "adjective",
 		"def": "expressing contempt or disapproval",
 		"synonyms": ["derogatory"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "pejorative.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://publicdomainvectors.org/en/free-clipart/No-Speaking/76199.html"
+		"website": "https://publicdomainvectors.org/en/free-clipart/No-Speaking/76199.html",
+		"phonetics-us": ["/pɪˈdʒɔːr.ə.t̬ɪv/"],
+		"phonetics-uk": ["/pɪˈdʒɒr.ə.tɪv/"]
 	}],
 	"polemic": [{
 		"pos": "noun",
 		"def": "a strong verbal or written attack on someone or something",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "polemic.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Donald_Trump_(24267946943).jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:Donald_Trump_(24267946943).jpg",
+		"phonetics-us": ["/pəˈlem.ɪk/"],
+		"phonetics-uk": ["/pəˈlem.ɪk/"]
 	}],
 	"posit": [{
 		"pos": "verb",
 		"def": "assume as fact or as a basis for argument",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "posit.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://en.wikipedia.org/wiki/File:Modus_ponens_logical_form.jpg"
+		"website": "https://en.wikipedia.org/wiki/File:Modus_ponens_logical_form.jpg",
+		"phonetics-us": ["/ˈpɑː.zɪt/"],
+		"phonetics-uk": ["/ˈpɒz.ɪt/"]
+	}],
+	"quotidian": [{
+		"pos": "adjective",
+		"def": "of or occurring every day",
+		"synonyms": ["daily"],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "quotidian.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pikist.com/free-photo-sshdf",
+		"phonetics-us": ["/kwoʊˈtɪd.i.ən/"],
+		"phonetics-uk": ["/kwəʊˈtɪd.i.ən/"]
 	}],
 	"rebuke": [{
 		"pos": "verb",
 		"def": "express sharp disapproval or criticism of (someone) because of their behaviour or actions",
 		"synonyms": ["reprimand", "reproach", "admonish", "censure"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "rebuke.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pikist.com/free-photo-xqnax"
+		"website": "https://www.pikist.com/free-photo-xqnax",
+		"phonetics-us": ["/rɪˈbjuːk/"],
+		"phonetics-uk": ["/rɪˈbjuːk/"]
 	}],
 	"reproach": [{
 		"pos": "verb",
 		"def": "to criticize someone, especially for not being successful or not doing what is expected",
 		"synonyms": ["rebuke"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "reproach.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pikist.com/free-photo-iyniy"
+		"website": "https://www.pikist.com/free-photo-iyniy",
+		"phonetics-us": ["/rɪˈproʊtʃ/"],
+		"phonetics-uk": ["/rɪˈprəʊtʃ/"]
 	}],
 	"specious": [{
 		"pos": "adjective",
 		"def": "superficially plausible, but actually wrong",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "specious.jpg",
 		"notes": "The classic \"my dog ate my homework\".",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Feral_dog_eating_from_trash_bin_in_Moscow_02.jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:Feral_dog_eating_from_trash_bin_in_Moscow_02.jpg",
+		"phonetics-us": ["/ˈspiː.ʃəs/"],
+		"phonetics-uk": ["/ˈspiː.ʃəs/"]
+	}, {
+		"pos": "adjective",
+		"def": "misleading in appearance, especially misleadingly attractive",
+		"synonyms": ["deceptive", "fallacious"],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "",
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"stringent": [{
 		"pos": "adjective",
 		"def": "marked by rigor, strictness, or severity especially with regard to rule or standard",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "stringent.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:StateLibQld_1_113036_Cartoon_of_students_receiving_the_cane,_1888.jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:StateLibQld_1_113036_Cartoon_of_students_receiving_the_cane,_1888.jpg",
+		"phonetics-us": ["/ˈstrɪn.dʒənt/"],
+		"phonetics-uk": ["/ˈstrɪn.dʒənt/"]
 	}],
 	"sullen": [{
 		"pos": "adjective",
 		"def": "bad-tempered and sulky",
 		"synonyms": ["grumpy"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "sullen.png",
 		"notes": "",
 		"examples": [],
-		"website": "https://pixabay.com/cs/vectors/ko%C4%8Dka-mieze-dom%C3%A1c%C3%AD-zv%C3%AD%C5%99e-697522/"
+		"website": "https://pixabay.com/cs/vectors/ko%C4%8Dka-mieze-dom%C3%A1c%C3%AD-zv%C3%AD%C5%99e-697522/",
+		"phonetics-us": ["/ˈsʌl.ən/"],
+		"phonetics-uk": ["/ˈsʌl.ən/"]
 	}],
 	"timorous": [{
 		"pos": "adjective",
 		"def": "showing or suffering from nervousness or a lack of confidence",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "timorous.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pxfuel.com/en/free-photo-oxdfy"
+		"website": "https://www.pxfuel.com/en/free-photo-oxdfy",
+		"phonetics-us": ["/ˈtɪm.ɚ.əs/"],
+		"phonetics-uk": ["/ˈtɪm.ər.əs/"]
 	}],
 	"transient": [{
 		"pos": "adjective",
 		"def": "lasting only for a short time",
 		"synonyms": ["ephemeral"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "transient.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pickpik.com/rose-withered-dry-faded-transient-flower-114216"
+		"website": "https://www.pickpik.com/rose-withered-dry-faded-transient-flower-114216",
+		"phonetics-us": ["ˈtræn.zi.ənt"],
+		"phonetics-uk": ["/ˈtræn.zi.ənt/"]
 	}],
 	"truncate": [{
 		"pos": "verb",
 		"def": "to make something shorter or quicker, especially by removing the end of it",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "truncate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pixabay.com/cs/photos/stack-protokoly-p%C5%99ihl%C3%A1sit-d%C5%99evo-5327642/"
+		"website": "https://pixabay.com/cs/photos/stack-protokoly-p%C5%99ihl%C3%A1sit-d%C5%99evo-5327642/",
+		"phonetics-us": ["/trʌŋˈkeɪt/"],
+		"phonetics-uk": ["/trʌŋˈkeɪt/"]
 	}]
 }
