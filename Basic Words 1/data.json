@@ -4,96 +4,150 @@
 		"def": "the point at which something is at its best or most highly developed",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "acme.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.wallpaperflare.com/silhouette-person-standing-on-peak-of-mountain-hiker-mountain-top-wallpaper-zvmmw"
+		"website": "https://www.wallpaperflare.com/silhouette-person-standing-on-peak-of-mountain-hiker-mountain-top-wallpaper-zvmmw",
+		"phonetics-us": ["/ˈæk.mi/"],
+		"phonetics-uk": ["/ˈæk.mi/"]
 	}],
 	"affable": [{
 		"pos": "adjective",
 		"def": "friendly, good-natured, or easy to talk to",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "affable.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pikist.com/free-photo-xwyou"
+		"website": "https://www.pikist.com/free-photo-xwyou",
+		"phonetics-us": ["/ˈæf.ə.bəl/"],
+		"phonetics-uk": ["/ˈæf.ə.bəl/"]
 	}],
 	"bleak": [{
 		"pos": "adjective",
 		"def": "little or no hope for the future",
 		"synonyms": ["depressing"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "bleak.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.flickr.com/photos/66126733@N04/6874652215"
+		"website": "https://www.flickr.com/photos/66126733@N04/6874652215",
+		"phonetics-us": ["/bliːk/"],
+		"phonetics-uk": ["/bliːk/"]
 	}],
 	"candid": [{
 		"pos": "adjective",
 		"def": "truthful and straightforward",
 		"synonyms": ["frank"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "candid.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:HONEST_BARCELONA.jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:HONEST_BARCELONA.jpg",
+		"phonetics-us": ["/ˈkæn.dɪd/"],
+		"phonetics-uk": ["/ˈkæn.dɪd/"]
+	}],
+	"candidness": [{
+		"pos": "noun",
+		"def": "the quality of being honest and straightforward in attitude and speech",
+		"synonyms": ["frankness"],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "candidness.jpg",
+		"notes": "For his honesty, Abraham Lincoln was nicknamed 'Honest Abe'",
+		"examples": [],
+		"website": "https://en.wikipedia.org/wiki/File:Abraham_Lincoln_head_on_shoulders_photo_portrait.jpg",
+		"phonetics-us": ["/ˈkændədnəs/"],
+		"phonetics-uk": ["/ˈkandɪdnəs/"]
 	}],
 	"censor": [{
 		"pos": "verb",
 		"def": "examine officially and suppress unacceptable parts of it",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "censor.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.flickr.com/photos/billkerr/200721567"
+		"website": "https://www.flickr.com/photos/billkerr/200721567",
+		"phonetics-us": ["/ˈsen.sɚ/"],
+		"phonetics-uk": ["/ˈsen.sər/"]
 	}],
 	"demean": [{
 		"pos": "verb",
 		"def": "cause a severe loss in dignity and respect for (someone or something)",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "demean.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.needpix.com/photo/444051/shame-hopelessness-worthlessness-careless-no-good-wrong-unlovable-miserable-depression"
+		"website": "https://www.needpix.com/photo/444051/shame-hopelessness-worthlessness-careless-no-good-wrong-unlovable-miserable-depression",
+		"phonetics-us": ["/dɪˈmiːn/"],
+		"phonetics-uk": ["/dɪˈmiːn/"]
 	}],
 	"demure": [{
 		"pos": "adjective",
 		"def": "reserved, modest, and shy",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "demure.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.wallpaperflare.com/vietnam-girl-friend-shy-portrait-one-person-headshot-wallpaper-eewzl/download/1920x1200"
+		"website": "https://www.wallpaperflare.com/vietnam-girl-friend-shy-portrait-one-person-headshot-wallpaper-eewzl/download/1920x1200",
+		"phonetics-us": ["/dɪˈmjʊr/"],
+		"phonetics-uk": ["/dɪˈmjʊər/"]
+	}],
+	"derogative": [{
+		"pos": "adjective",
+		"def": "expressed as worthless or low opinion",
+		"synonyms": [],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "derogative.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.maxpixels.net/Street-Homeless-Art-Homelessness-Reality-People-2223116",
+		"phonetics-us": ["/diˈräɡətiv/"],
+		"phonetics-uk": ["/dɪˈrɒɡətɪv/"]
 	}],
 	"diabolical": [{
 		"pos": "adjective",
 		"def": "characteristic of the devil",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "diabolical.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pixabay.com/illustrations/devil-hell-horror-red-scary-5379017/"
+		"website": "https://pixabay.com/illustrations/devil-hell-horror-red-scary-5379017/",
+		"phonetics-us": ["/ˌdaɪ.əˈbɑː.lɪ.kəl/"],
+		"phonetics-uk": ["/ˌdaɪ.əˈbɒl.ɪ.kəl/"]
 	}],
 	"dog": [{
 		"pos": "verb",
 		"def": "to follow or track especially with hostile intent",
 		"synonyms": ["hound"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "dog.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pikist.com/free-photo-iyziy"
+		"website": "https://www.pikist.com/free-photo-iyziy",
+		"phonetics-us": ["/dɑːɡ/"],
+		"phonetics-uk": ["/dɒɡ/"]
 	}],
 	"dupe": [{
 		"pos": "noun",
 		"def": "a person who is easily deceived or fooled",
 		"synonyms": ["gull"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "",
 		"notes": "",
 		"examples": [],
@@ -103,246 +157,355 @@
 		"def": "to deceive or cheat easily",
 		"synonyms": ["trick", "swindle"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "dupe.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.needpix.com/photo/1523684/hacker-scammer-scam-identity-man-mask-danger-information-security"
+		"website": "https://www.needpix.com/photo/1523684/hacker-scammer-scam-identity-man-mask-danger-information-security",
+		"phonetics-us": ["/duːp/"],
+		"phonetics-uk": ["/dʒuːp/"]
 	}],
 	"embroil": [{
 		"pos": "verb",
 		"def": "involve (someone) deeply in an argument, conflict, or difficult situation",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "embroil.png",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Sumner_Lion.png"
+		"website": "https://commons.wikimedia.org/wiki/File:Sumner_Lion.png",
+		"phonetics-us": ["/ɪmˈbrɔɪl/"],
+		"phonetics-uk": ["/ɪmˈbrɔɪl/"]
 	}],
 	"err": [{
 		"pos": "verb",
 		"def": "make a mistake",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "err.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pixabay.com/illustrations/mistake-error-mathematics-1966460/"
+		"website": "https://pixabay.com/illustrations/mistake-error-mathematics-1966460/",
+		"phonetics-us": ["/ɝː/"],
+		"phonetics-uk": ["/ɜːr/"]
 	}],
 	"erratic": [{
 		"pos": "adjective",
 		"def": "not even or regular in pattern or movement",
 		"synonyms": ["unpredictable", "eccentric"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "erratic.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pixabay.com/photos/snake-reptile-long-4228585/"
+		"website": "https://pixabay.com/photos/snake-reptile-long-4228585/",
+		"phonetics-us": ["/ɪˈræt̬.ɪk/"],
+		"phonetics-uk": ["/ɪˈræt.ɪk/"]
+	}],
+	"evasive": [{
+		"pos": "adjective",
+		"def": "tending to avoid commitment, especially by responding only indirectly",
+		"synonyms": [],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "evasive.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://pixabay.com/cs/photos/vy%C5%BE%C3%ADna%C4%8De-toreador-toreado%C5%99i-odbyt-2314775/",
+		"phonetics-us": ["/ɪˈveɪ.sɪv/"],
+		"phonetics-uk": ["/ɪˈveɪ.sɪv/"]
+	}, {
+		"pos": "adjective",
+		"def": "avoiding or escaping from difficulty or danger, especially enemy fire",
+		"synonyms": [],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "",
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"hound": [{
 		"pos": "verb",
 		"def": "harass, persecute, or pursue relentlessly",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "hound.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.flickr.com/photos/anre/11050763126"
+		"website": "https://www.flickr.com/photos/anre/11050763126",
+		"phonetics-us": ["/haʊnd/"],
+		"phonetics-uk": ["/haʊnd/"]
 	}],
 	"indict": [{
 		"pos": "verb",
 		"def": "formally accuse of or charge with a crime",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "indict.png",
 		"notes": "",
 		"examples": [],
-		"website": "https://pixabay.com/vectors/prisoner-gangster-convict-296515/"
+		"website": "https://pixabay.com/vectors/prisoner-gangster-convict-296515/",
+		"phonetics-us": ["/ɪnˈdaɪt/"],
+		"phonetics-uk": ["/ɪnˈdaɪt/"]
 	}],
 	"indigenous": [{
 		"pos": "adjective",
 		"def": "originating naturally in a particular place",
 		"synonyms": ["native"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "indigenous.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.wallpaperflare.com/festival-local-celebration-tribe-street-dance-traditional-wallpaper-ajvbd"
+		"website": "https://www.wallpaperflare.com/festival-local-celebration-tribe-street-dance-traditional-wallpaper-ajvbd",
+		"phonetics-us": ["/ɪnˈdɪdʒ.ə.nəs/"],
+		"phonetics-uk": ["/ɪnˈdɪdʒ.ɪ.nəs/"]
 	}],
 	"indignant": [{
 		"pos": "adjective",
 		"def": "feeling or showing anger because of something unjust or unworthy",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "indignant.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.flickr.com/photos/fibonacciblue/49940390081"
+		"website": "https://www.flickr.com/photos/fibonacciblue/49940390081",
+		"phonetics-us": ["/ɪnˈdɪɡ.nənt/"],
+		"phonetics-uk": ["/ɪnˈdɪɡ.nənt/"]
 	}],
 	"insolvent": [{
 		"pos": "adjective",
 		"def": "unable to pay debts owed",
 		"synonyms": ["bankrupt"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "insolvent.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pixabay.com/photos/no-money-jeans-money-wallet-4865814/"
+		"website": "https://pixabay.com/photos/no-money-jeans-money-wallet-4865814/",
+		"phonetics-us": ["/ɪnˈsɑːl.vənt/"],
+		"phonetics-uk": ["/ɪnˈsɒl.vənt/"]
 	}],
 	"inundate": [{
 		"pos": "verb",
 		"def": "overwhelm (someone) with things or people to be dealt with",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "inundate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.flickr.com/photos/thenationalguard/4100338601"
+		"website": "https://www.flickr.com/photos/thenationalguard/4100338601",
+		"phonetics-us": ["/ˈɪn.ʌn.deɪt/"],
+		"phonetics-uk": ["/ˈɪn.ʌn.deɪt/"]
 	}],
 	"macabre": [{
 		"pos": "adjective",
 		"def": "disturbing because concerned with or causing a fear of death",
 		"synonyms": ["gruesome"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "macabre.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pxhere.com/en/photo/1408184"
+		"website": "https://pxhere.com/en/photo/1408184",
+		"phonetics-us": ["/məˈkɑː.brə/"],
+		"phonetics-uk": ["/məˈkɑː.brə/"]
 	}],
 	"mesmerize": [{
 		"pos": "verb",
 		"def": "capture the complete attention of (someone)",
 		"synonyms": ["enthrall"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "mesmerize.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.uihere.com/free-photos/woman-looking-through-window-in-city-photography-375518"
+		"website": "https://www.uihere.com/free-photos/woman-looking-through-window-in-city-photography-375518",
+		"phonetics-us": ["/ˈmez.mə.raɪz/"],
+		"phonetics-uk": ["/ˈmez.mə.raɪz/"]
+	}],
+	"miser": [{
+		"pos": "noun",
+		"def": "a person who hoards wealth and spends as little money as possible",
+		"synonyms": [],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "miser.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Adriaen_Brouwer_-_The_miser.jpg",
+		"phonetics-us": ["/ˈmaɪ.zɚ/"],
+		"phonetics-uk": ["/ˈmaɪ.zər/"]
+	}],
+	"patronize": [{
+		"pos": "verb",
+		"def": "treat in a way that is apparently kind or helpful but betray a feeling of superiority",
+		"synonyms": ["treat condescendingly"],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "patronize.png",
+		"notes": "",
+		"examples": [],
+		"website": "https://freesvg.org/uncle-sam-shaking-the-farmers-hand-vector-image",
+		"phonetics-us": ["/ˈpeɪ.trə.naɪz/"],
+		"phonetics-uk": ["/ˈpæt.rə.naɪz/"]
 	}],
 	"peruse": [{
 		"pos": "verb",
 		"def": "read (something), typically in a thorough or careful way",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "peruse.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.flickr.com/photos/83633410@N07/7658272558"
+		"website": "https://www.flickr.com/photos/83633410@N07/7658272558",
+		"phonetics-us": ["/pəˈruːz/"],
+		"phonetics-uk": ["/pəˈruːz/"]
 	}],
 	"pine": [{
 		"pos": "verb",
 		"def": "to yearn intensely and persistently especially for something unattainable",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "pine.jpeg",
 		"notes": "An event to honor the lives of those who committed suicide in Biloxi, September 29, 2017.",
 		"examples": [],
-		"website": "https://dod.defense.gov/OIR/gallery/igphoto/2001823064/"
+		"website": "https://dod.defense.gov/OIR/gallery/igphoto/2001823064/",
+		"phonetics-us": ["/paɪn/"],
+		"phonetics-uk": ["/paɪn/"]
 	}],
 	"pinnacle": [{
 		"pos": "noun",
 		"def": "the highest point of development or achievement",
 		"synonyms": ["acme", "peak"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "pinnacle.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.flickr.com/photos/shankaronline/35270954303"
+		"website": "https://www.flickr.com/photos/shankaronline/35270954303",
+		"phonetics-us": ["/ˈpɪn.ə.kəl/"],
+		"phonetics-uk": ["/ˈpɪn.ə.kəl/"]
 	}],
 	"profuse": [{
 		"pos": "adjective",
 		"def": "produced or given in large amounts",
 		"synonyms": ["prolific", "copious", "abundant", "extravagant"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "profuse.jpg",
 		"notes": "Gold ceiling lighting.",
 		"examples": [],
-		"website": "https://pixabay.com/photos/ceiling-lighting-gold-extravagant-2639360/"
+		"website": "https://pixabay.com/photos/ceiling-lighting-gold-extravagant-2639360/",
+		"phonetics-us": ["/prəˈfjuːs/"],
+		"phonetics-uk": ["/prəˈfjuːs/"]
 	}],
 	"remiss": [{
 		"pos": "adjective",
 		"def": "lacking care or attention to duty",
 		"synonyms": ["negligent"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "remiss.jpeg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Bank-Security-Guard-Sleeping.jpeg"
+		"website": "https://commons.wikimedia.org/wiki/File:Bank-Security-Guard-Sleeping.jpeg",
+		"phonetics-us": ["/rɪˈmɪs/"],
+		"phonetics-uk": ["/rɪˈmɪs/"]
 	}],
 	"reprobate": [{
 		"pos": "noun",
 		"def": "a person of bad character and habits",
 		"synonyms": ["unprincipled", "incorrigible"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "reprobate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.wallpaperflare.com/netflix-drug-lords-from-narcos-powder-coke-drugs-cocaine-wallpaper-aaaxi"
+		"website": "https://www.wallpaperflare.com/netflix-drug-lords-from-narcos-powder-coke-drugs-cocaine-wallpaper-aaaxi",
+		"phonetics-us": ["/ˈrep.rə.beɪt/"],
+		"phonetics-uk": ["/ˈrep.rə.beɪt/"]
 	}],
 	"retiring": [{
 		"pos": "adjective",
 		"def": "shy and fond of being on one's own",
 		"synonyms": ["demure", "timorous"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "retiring.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pixabay.com/photos/girl-shy-hand-nails-pink-4378209/"
+		"website": "https://pixabay.com/photos/girl-shy-hand-nails-pink-4378209/",
+		"phonetics-us": ["/rɪˈtaɪr.ɪŋ/"],
+		"phonetics-uk": ["/rɪˈtaɪə.rɪŋ/"]
 	}],
 	"screed": [{
 		"pos": "noun",
 		"def": "a long speech or piece of writing, typically one regarded as tedious",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "screed.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pixabay.com/cs/photos/d%C3%ADvka-%C5%BEeny-u%C4%8Dit-se-znud%C4%9Bn%C3%BD-%C4%8D%C3%ADst-1019305/"
-	}],
-	"serendipity": [{
-		"pos": "noun",
-		"def": "the occurrence and development of events by chance in a happy or beneficial way",
-		"synonyms": [],
-		"antonyms": [],
-		"image": "serendipity.jpg",
-		"notes": "",
-		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Alexander_Fleming.jpg"
+		"website": "https://pixabay.com/cs/photos/d%C3%ADvka-%C5%BEeny-u%C4%8Dit-se-znud%C4%9Bn%C3%BD-%C4%8D%C3%ADst-1019305/",
+		"phonetics-us": ["/skriːd/"],
+		"phonetics-uk": ["/skriːd/"]
 	}],
 	"slapdash": [{
 		"pos": "adjective",
 		"def": "done too hurriedly and carelessly",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "slapdash.png",
 		"notes": "",
 		"examples": [],
-		"website": "https://pixabay.com/illustrations/clumsy-careless-fall-mistake-oops-4050065/"
+		"website": "https://pixabay.com/illustrations/clumsy-careless-fall-mistake-oops-4050065/",
+		"phonetics-us": ["/ˈslæp.dæʃ/"],
+		"phonetics-uk": ["/ˈslæp.dæʃ/"]
 	}],
 	"spendthrift": [{
 		"pos": "noun",
 		"def": "a person who spends money in an extravagant, irresponsible way",
 		"synonyms": ["profligate", "prodigal"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "spendthrift.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pikist.com/free-photo-xseah"
+		"website": "https://www.pikist.com/free-photo-xseah",
+		"phonetics-us": ["/ˈspend.θrɪft/"],
+		"phonetics-uk": ["/ˈspend.θrɪft/"]
 	}],
 	"stipend": [{
 		"pos": "noun",
 		"def": "a periodic payment, especially a scholarship or allowance granted to a student",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "stipend.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pexels.com/photo/mother-giving-her-daughter-her-allowance-4968395/"
+		"website": "https://www.pexels.com/photo/mother-giving-her-daughter-her-allowance-4968395/",
+		"phonetics-us": ["/ˈstaɪ.pend/"],
+		"phonetics-uk": ["/ˈstaɪ.pend/"]
 	}],
 	"summit": [{
 		"pos": "noun",
 		"def": "the highest point of a hill or mountain",
 		"synonyms": ["peak", "apex"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "",
 		"notes": "",
 		"examples": [],
@@ -352,109 +515,168 @@
 		"def": "a meeting between heads of government",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "summit.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.flickr.com/photos/koreanet/4649784730"
+		"website": "https://www.flickr.com/photos/koreanet/4649784730",
+		"phonetics-us": ["/ˈsʌm.ɪt/"],
+		"phonetics-uk": ["/ˈsʌm.ɪt/"]
+	}],
+	"tawdry": [{
+		"pos": "adjective",
+		"def": "showy but cheap and of poor quality",
+		"synonyms": [],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "tawdry.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Mitchellandwebb.jpg",
+		"phonetics-us": ["/ˈtɑː.dri/"],
+		"phonetics-uk": ["/ˈtɔː.dri/"]
 	}],
 	"telling": [{
 		"pos": "adjective",
-		"def": "having a striking or revealing affect",
+		"def": "having a striking or revealing effect",
 		"synonyms": ["significant"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "telling.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pixabay.com/photos/evidence-murder-offense-5298190/"
+		"website": "https://pixabay.com/photos/evidence-murder-offense-5298190/",
+		"phonetics-us": ["/ˈtel.ɪŋ/"],
+		"phonetics-uk": ["/ˈtel.ɪŋ/"]
 	}],
 	"telltale": [{
 		"pos": "adjective",
 		"def": "revealing, indicating, or betraying something",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "telltale.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.flickr.com/photos/stevendepolo/28953565722"
+		"website": "https://www.flickr.com/photos/stevendepolo/28953565722",
+		"phonetics-us": ["/ˈtel.teɪl/"],
+		"phonetics-uk": ["/ˈtel.teɪl/"]
 	}],
 	"tender": [{
 		"pos": "verb",
 		"def": "offer or present (something) formally",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "tender.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pxfuel.com/en/free-photo-xxqyy"
+		"website": "https://www.pxfuel.com/en/free-photo-xxqyy",
+		"phonetics-us": ["/ˈten.dɚ/"],
+		"phonetics-uk": ["/ˈten.dər/"]
 	}],
 	"thoroughgoing": [{
 		"pos": "adjective",
 		"def": "involving or attending to every detail or aspect of something",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "thoroughgoing.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.ang.af.mil/Media/Photos/igphoto/2001626922/"
+		"website": "https://www.ang.af.mil/Media/Photos/igphoto/2001626922/",
+		"phonetics-us": ["/ˌθɝː.əˈɡoʊ.ɪŋ/"],
+		"phonetics-uk": ["/ˌθʌr.əˈɡəʊ.ɪŋ/"]
 	}],
 	"thrifty": [{
 		"pos": "adjective",
 		"def": "using money and other resources carefully and not wastefully",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "thrifty.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pikist.com/free-photo-siazx"
+		"website": "https://www.pikist.com/free-photo-siazx",
+		"phonetics-us": ["/ˈθrɪf.ti/"],
+		"phonetics-uk": ["/ˈθrɪf.ti/"]
+	}],
+	"tirade": [{
+		"pos": "noun",
+		"def": "a long, angry speech of criticism or accusation",
+		"synonyms": [],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "tirade.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:President_of_the_United_States_Donald_J._Trump_at_CPAC_2017_February_24th_2017_by_Michael_Vadon_05.jpg",
+		"phonetics-us": ["/ˈtaɪ.reɪd/"],
+		"phonetics-uk": ["/taɪˈreɪd/"]
 	}],
 	"underwrite": [{
 		"pos": "verb",
 		"def": "to provide financial support",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "underwrite.jpeg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.mcrc.marines.mil/Photos/igphoto/2002159984/"
+		"website": "https://www.mcrc.marines.mil/Photos/igphoto/2002159984/",
+		"phonetics-us": ["/ˈʌn.dɚ.raɪt/"],
+		"phonetics-uk": ["/ˌʌn.dərˈaɪt/"]
 	}],
 	"unnerve": [{
 		"pos": "verb",
 		"def": "make (someone) lose courage or confidence",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "unnerve.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.flickr.com/photos/jess2284/280004765"
+		"website": "https://www.flickr.com/photos/jess2284/280004765",
+		"phonetics-us": ["/ʌnˈnɝːv/"],
+		"phonetics-uk": ["/ʌnˈnɜːv/"]
 	}],
 	"variance": [{
 		"pos": "noun",
 		"def": "the fact or quality of being different, divergent, or inconsistent",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "variance.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pxhere.com/en/photo/1436401"
+		"website": "https://pxhere.com/en/photo/1436401",
+		"phonetics-us": ["/ˈver.i.əns/"],
+		"phonetics-uk": ["/ˈveə.ri.əns/"]
 	}],
 	"vindictive": [{
 		"pos": "adjective",
 		"def": "showing a strong or unreasoning desire for revenge",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "vindictive.png",
 		"notes": "",
 		"examples": [],
-		"website": "https://pixabay.com/illustrations/voo-doo-doll-pins-voodoo-revenge-5403292/"
+		"website": "https://pixabay.com/illustrations/voo-doo-doll-pins-voodoo-revenge-5403292/",
+		"phonetics-us": ["/vɪnˈdɪk.tɪv/"],
+		"phonetics-uk": ["/vɪnˈdɪk.tɪv/"]
 	}],
 	"voracious": [{
 		"pos": "adjective",
 		"def": "very eager for something, especially a lot of food",
-		"synonyms": [],
+		"synonyms": ["gluttonous", "ravenous"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "voracious.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.maxpixel.net/Person-Eating-Male-Model-Man-Biting-Hungry-973240"
+		"website": "https://www.maxpixel.net/Person-Eating-Male-Model-Man-Biting-Hungry-973240",
+		"phonetics-us": ["/vəˈreɪ.ʃəs/"],
+		"phonetics-uk": ["/vəˈreɪ.ʃəs/"]
 	}]
 }
