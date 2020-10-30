@@ -40,7 +40,7 @@ def data_to_pdf(data: dict) -> None:
 	
 	# create an empty canvas
 	dir_name = os.path.join(os.path.dirname(os.path.realpath(__file__)))
-	path = os.path.join(dir_name, '..', 'assets', 'GREPrep.pdf')
+	path = os.path.join(dir_name, '..', 'assets', 'Growcabulary.pdf')
 	canvas = Canvas(path)
 	
 	def next_word():
