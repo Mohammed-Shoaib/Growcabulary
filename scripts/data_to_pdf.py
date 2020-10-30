@@ -61,6 +61,7 @@ def data_to_pdf(data: dict) -> None:
 	for key, value in data.items():
 		next_word()
 		folder = os.path.basename(os.path.normpath(value[0]['path']))
+		personal = folder.split()[0] == 'Personal'
 		print(f'Processing word {key} from {folder}...')
 		
 		if prev != folder:
@@ -130,15 +131,16 @@ def data_to_pdf(data: dict) -> None:
 				para.drawOn(canvas, text_start, start)
 			
 			# draw the image
-			if val['image']:
+			if val['image'] and not personal:
 				img = load_image(os.path.join(str(val['path']), 'images', val['image']))
 				img = cv2.resize(img, (img_dim, img_dim), interpolation=cv2.INTER_AREA)
 	
 		# draw image
 		next_line(img_dim + 5)
-		img = cv2.imencode('.jpg', img)[1].tobytes()
-		img = ImageReader(io.BytesIO(img))
-		canvas.drawImage(img, inch / 2, height - img_dim - idx * height / 3 + inch / 8)
+		if not personal:
+			img = cv2.imencode('.jpg', img)[1].tobytes()
+			img = ImageReader(io.BytesIO(img))
+			canvas.drawImage(img, inch / 2, height - img_dim - idx * height / 3 + inch / 8)
 		
 		# if time.time() - beg > 1:
 		# 	break
