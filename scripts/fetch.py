@@ -173,6 +173,23 @@ def scrape_phonetic() -> None:
 
 
 
+def move_audio(data: dict) -> None:
+	keys = os.listdir('audio')
+	keys = set(key.rsplit('-', 1)[0] for key in keys)
+	
+	for key in keys:
+		uk = f'audio/{key}-uk.mp3'
+		us = f'audio/{key}-us.mp3'
+		dst = os.path.join(data[key][0]['path'], 'audio')
+		os.makedirs(dst, exist_ok=True)
+		try:
+			shutil.move(uk, dst)
+			shutil.move(us, dst)
+		except Exception as e:
+			print(e)
+
+
+
 def save_phonetics(data: dict) -> None:
 	with open('phonetics.json', 'r') as f:
 		phonetics = json.load(f)
@@ -219,6 +236,7 @@ def save_phonetics(data: dict) -> None:
 parser = argparse.ArgumentParser()
 parser.add_argument('--wiki', '-w', help="The upload wikipedia link", type=str)
 parser.add_argument('--phonetic', '-p', help="Scrape the phonetics of word", action='store_true')
+parser.add_argument('--audio', '-a', help="Move downloaded audio to the word list", action='store_true')
 parser.add_argument('--save', '-s', help="Save phonetics to the word list", action='store_true')
 parser.add_argument('--tests', '-t', help="Run tests", action='store_true')
 args = parser.parse_args()
@@ -234,5 +252,7 @@ if __name__ == '__main__':
 		extract_wiki(args.wiki)
 	if args.phonetic:
 		scrape_phonetic()
+	if args.audio:
+		move_audio(data)
 	if args.save:
 		save_phonetics(data)
