@@ -33,6 +33,15 @@ def extract_wiki(link: str) -> None:
 
 
 
+def download_audio(url: str, path: str) -> None:
+	if not url:
+		return
+	r = requests.get(url, headers={"User-Agent":"Mozilla/5.0"})
+	with open(path, 'wb') as f:
+		f.write(r.content)
+
+
+
 def get_phonetic(driver, class_name: str) -> str:
 	# extract key
 	title = driver.find_elements_by_class_name('di-title')
@@ -52,7 +61,18 @@ def get_phonetic(driver, class_name: str) -> str:
 		return ["", "", key]
 	phonetic = span[2].text.strip()
 	
-	return [phonetic, '', key]
+	# extract audio
+	sources = ele.find_elements_by_tag_name('audio')
+	if sources:
+		html = sources[0].get_attribute('innerHTML')
+		audio = re.search(r'src="(.*mp3)"', html).group(1)
+		if not audio.startswith('http'):
+			audio = urljoin(base_url, audio)
+	else:
+		audio = ''
+		print(f'{key} not found, audio error.')
+	
+	return [phonetic, audio, key]
 
 
 
@@ -111,6 +131,8 @@ def scrape_phonetic() -> None:
 		phonetics[key] = {}
 		phonetics[key]['uk'] = uk[0]
 		phonetics[key]['us'] = us[0]
+		download_audio(uk[1], f'audio/{key}-uk.mp3')
+		download_audio(us[1], f'audio/{key}-us.mp3')
 		
 		with open(file_name, 'w', encoding='utf8') as f:
 			json.dump(phonetics, f, indent=4, ensure_ascii=False)
