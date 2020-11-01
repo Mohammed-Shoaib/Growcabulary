@@ -1,6 +1,12 @@
-# GREPrep
+# Growcabulary
 
 Your go-to platform to learn vocabulary for GRE.
+
+The word list has been compiled using the following resources:
+
+* [Magoosh](https://s3.amazonaws.com/magoosh.resources/magoosh-gre-1000-words_oct01.pdf) (1000 words)
+* [Barron](https://docshare04.docshare.tips/files/24478/244788962.pdf) (800 words)
+* [PrepScholar](https://www.prepscholar.com/gre/blog/wp-content/uploads/sites/3/2016/11/PrepScholar-357-GRE-words-list.pdf) (357 words)
 
 ### Common Words
 
@@ -31,3 +37,11 @@ Your go-to platform to learn vocabulary for GRE.
 * [Advanced Words 5](Advanced%20Words%205/)
 * [Advanced Words 6](Advanced%20Words%206/)
 * [Advanced Words 7](Advanced%20Words%207/)
+
+### PrepScholar
+
+* [PrepScholar](PrepScholar%20Word%20List/)
+
+### Barron
+
+* [Barron](Barron%20Word%20List/)
