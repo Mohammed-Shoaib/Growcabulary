@@ -13,6 +13,15 @@
 
 ## Python Scripts
 
+### Prerequisites
+
+* [opencv](https://pypi.org/project/opencv-python/)
+* [unidecode](https://pypi.org/project/Unidecode/)
+* [reportlab](https://pypi.org/project/reportlab/)
+* [selenium](https://pypi.org/project/selenium/)
+* [regex](https://pypi.org/project/regex/)
+* [requests](https://pypi.org/project/requests/)
+
 ### `utils.py`
 
 Contains the utility functions that can be used in multiple scripts. Requires the implementation of `argparse` with the `--tests` property.
