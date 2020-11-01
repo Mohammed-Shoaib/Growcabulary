@@ -28,7 +28,7 @@ export class WordItemComponent implements OnInit, AfterViewInit, OnDestroy {
   totalGameMinutes: number; totalGameSeconds: number;
   averageAccuracy: number; prevTotalGameSeconds: number;
   timerInterval: NodeJS.Timer; gameInterval: NodeJS.Timer;
-  nextGame: boolean; autoplayAudioUK: boolean; autoplayAudioUS: boolean;
+  nextGame: boolean; autoplayAudioUK: boolean; autoplayAudioUS: boolean; keyOnly: boolean;
   dataWPM: number[]; dataAccuracy: number[];
   
   @Input() idx: number;
@@ -54,6 +54,7 @@ export class WordItemComponent implements OnInit, AfterViewInit, OnDestroy {
     this.dataAccuracy = [100];
     this.autoplayAudioUK = false;
     this.autoplayAudioUS = true;
+    this.keyOnly = true;
     this.totalMinutes = this.totalSeconds = 0;
     this.totalGameMinutes = this.totalGameSeconds = this.prevTotalGameSeconds = 0;
   }
@@ -69,7 +70,7 @@ export class WordItemComponent implements OnInit, AfterViewInit, OnDestroy {
     this.cardArea.nativeElement.textContent = '';
     
     // add title
-    this.addCharacterSpan(this.wordList[this.idx].key, this.cardArea.nativeElement, ['h5'], ['card-title', 'mb-0']);
+    this.addCharacterSpan(this.wordList[this.idx].key, this.cardArea.nativeElement, ['h5'], ['card-title', 'mb-0', 'keep']);
     this.addCharacterSpan('\n', this.cardArea.nativeElement);
     
     // add body
@@ -141,8 +142,10 @@ export class WordItemComponent implements OnInit, AfterViewInit, OnDestroy {
       
       if (character === '\n')
         character = '↵' + '\n';
-      if (className)
-        prev.classList.add(...className);
+      if (className) {
+        span.classList.add(...className);
+        prev.classList.add(...className); // ! Don't really like the double adding being done here
+      }
       
       prev.innerText = character;
       parent.appendChild(span);
@@ -154,13 +157,16 @@ export class WordItemComponent implements OnInit, AfterViewInit, OnDestroy {
     let incorrectCount = 0;
     
     [...this.cardArea.nativeElement.children].forEach((tag) => {
+      let classId = 'keep';
       if (tag.tagName === 'SPAN') {
-        cardSpans.push(tag);
+        if (!this.keyOnly || this.keyOnly && tag.className.includes(classId))
+          cardSpans.push(tag);
         return;
       }
       for (let child of tag.children)
         if (child.tagName === 'SPAN')
-          cardSpans.push(child);
+          if (!this.keyOnly || this.keyOnly && child.className.includes(classId))
+            cardSpans.push(child);
     });
     
     cardSpans.forEach((characterSpan, index) => {
@@ -202,6 +208,7 @@ export class WordItemComponent implements OnInit, AfterViewInit, OnDestroy {
     if (characterCount === this.userText.length) {
       this.nextGame = true;
       this.dataWPM.push(this.wpm);
+      this.dataAccuracy.push(this.accuracy);
       clearInterval(this.timerInterval);
       this.prevTotalGameSeconds += this.minutes * 60 + this.seconds;
     }
@@ -227,6 +234,10 @@ export class WordItemComponent implements OnInit, AfterViewInit, OnDestroy {
     return sum / values.length;
   }
   
+  getCorrect(data) {
+    return [...data].filter(x => x === 100).length;
+  }
+  
   onCardClick() {
     if (this.readMode)
       this.cardClicked.emit();
@@ -242,6 +253,10 @@ export class WordItemComponent implements OnInit, AfterViewInit, OnDestroy {
   
   toggleAutoplayAudio() {
     this.autoplayAudioUK = !this.autoplayAudioUK;
+  }
+  
+  toggleKeyOnly() {
+    this.keyOnly = !this.keyOnly;
   }
   
   leftArrowClick() {

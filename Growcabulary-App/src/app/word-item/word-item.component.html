@@ -83,6 +83,15 @@
                 <span class="fas fa-volume-mute" aria-hidden="true" *ngIf="!autoplayAudioUK"></span>
               </button>
             </span>
+            <p>
+              <span style="float: right">
+                Key Only: {{ keyOnly ? 'On' : 'Off' }}
+                <button class="btn btn-primary-outline audio-btn" type="button" (click)="toggleKeyOnly()">
+                  <span class="fa fa-lock" aria-hidden="true" *ngIf="keyOnly"></span>
+                  <span class="fa fa-unlock" aria-hidden="true" *ngIf="!keyOnly"></span>
+                </button>
+              </span>
+            </p>
           </div>
           <!-- <h5 class="card-title">{{ wordList[idx].key }}</h5>
           <div *ngFor="let value of wordList[idx].value" class="card-text mt-4">
@@ -126,7 +135,9 @@
           (input)="onTextChange($event.target.value, $event.data)"></textarea>
           
         <em *ngIf="nextGame" class="mt-2">
-          <span *ngIf="idx === wordList.length - 1">Set Completed.</span> Press Enter ↵ to continue.
+          <span *ngIf="idx === wordList.length - 1">Set Completed.</span> 
+          Press Enter ↵ to continue.<br/>
+          <span>You got {{ getCorrect(dataAccuracy) - 1 }} / {{ dataAccuracy.length - 1 }} right. </span>
         </em>
       </div>
       <!-- <div class="col-3 card details mx-auto mt-4">

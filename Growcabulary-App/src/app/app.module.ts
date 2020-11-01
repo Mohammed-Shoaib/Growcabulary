@@ -1,5 +1,5 @@
 import { BrowserModule } from '@angular/platform-browser';
-import { NgModule, NO_ERRORS_SCHEMA, APP_INITIALIZER } from '@angular/core';
+import { NgModule, NO_ERRORS_SCHEMA, APP_INITIALIZER, CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
 import { MDBBootstrapModule } from 'angular-bootstrap-md';
 import { ChartsModule } from 'ng2-charts';
 import { FormsModule } from '@angular/forms';
@@ -35,7 +35,7 @@ import { WordSearchComponent } from './word-search/word-search.component';
     FormsModule,
     MDBBootstrapModule.forRoot()
   ],
-  schemas: [NO_ERRORS_SCHEMA],
+  schemas: [NO_ERRORS_SCHEMA, CUSTOM_ELEMENTS_SCHEMA],
   providers: [WordListService,
     {
       provide: APP_INITIALIZER,

@@ -14,8 +14,8 @@ export class WordListService {
   
   constructor() {
     this.basePath = '../../assets';
-    this.levels = ['Common', 'Basic', 'Advanced'];
-    this.folders = ['Common Words 1', 'Common Words 2', 'Common Words 3', 'Common Words 4', 'Common Words 5', 'Common Words 6', 'Common Words 7', 'Basic Words 1', 'Basic Words 2', 'Basic Words 3', 'Basic Words 4', 'Basic Words 5', 'Basic Words 6', 'Basic Words 7', 'Advanced Words 1', 'Advanced Words 2', 'Advanced Words 3', 'Advanced Words 4', 'Advanced Words 5', 'Advanced Words 6', 'Advanced Words 7'];
+    this.levels = ['Common', 'Basic', 'Advanced', 'Personal'];
+    this.folders = ['Common Words 1', 'Common Words 2', 'Common Words 3', 'Common Words 4', 'Common Words 5', 'Common Words 6', 'Common Words 7', 'Basic Words 1', 'Basic Words 2', 'Basic Words 3', 'Basic Words 4', 'Basic Words 5', 'Basic Words 6', 'Basic Words 7', 'Advanced Words 1', 'Advanced Words 2', 'Advanced Words 3', 'Advanced Words 4', 'Advanced Words 5', 'Advanced Words 6', 'Advanced Words 7', 'Personal Words 1', 'Personal Words 2'];
   }
   
   ngOnInit() {}
