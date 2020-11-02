@@ -2,17 +2,19 @@ import os
 import sys
 import cv2
 import json
+import regex
 
 from typing import List
 from pathlib import Path
 from pprint import pprint
-from collections import defaultdict
+from unidecode import unidecode
+from collections import defaultdict, OrderedDict
 
 
 
 # global variables
 root_dir = os.path.normpath(os.path.join(os.path.dirname(os.path.realpath(__file__)), '..'))
-folders = ['Common', 'Basic', 'Advanced', 'Personal']
+folders = ['Common', 'Basic', 'Advanced', 'PrepScholar', 'Barron']		# ['Personal']
 
 
 
@@ -37,6 +39,11 @@ def pretty(key, value):
 def is_image(path: str):
 	_, ext = os.path.splitext(path)
 	return ext in ['.jpg', '.jpeg', '.png']
+
+
+
+def normalize(s: str) -> str:
+	return unidecode(s.lower())
 
 
 
@@ -77,6 +84,44 @@ def update_stats(files: List[str], data: dict) -> None:
 
 
 
+def format_json(data: dict, path: str, sort_keys=False):
+	if sort_keys:
+		data = OrderedDict(sorted(data.items()))
+	
+	with open('temp.json', 'w', encoding='utf8') as f:
+		json.dump(data, f, indent='\t', ensure_ascii=False)
+	
+	with open('temp.json', 'r') as f:
+		content = f.read()
+	os.remove('temp.json')
+	
+	# ws denotes whitespace
+	# remove the square bracket [ws] curly bracket
+	content = regex.sub(r'\[\n\s*\{', '[{', content)
+	content = regex.sub(r'\}\n\s*\]', '}]', content)
+	
+	# ! only works for \w characters
+	# remove the [ [ws] "words", ] [[ws]w1,[ws]w2,[ws]w3] => [w1,w2,w3]
+	content = regex.sub(r'(?<=\[((\n\s+)?"\w+",)*)\n\s+"', '"', content)
+	content = regex.sub(r'(?<=",?)\n\s+(?=("\w+",?(\n\s+)?)*\])', '', content)
+	
+	# add space between words in array [w1,w2,w3] => [w1, w2, w3]
+	content = regex.sub(r'(?<="\w+",)"', ' "', content)
+	
+	# change 3 tab spaces to 2 tab spaces
+	content = regex.sub(r'\t{3}', '\t\t', content)
+	
+	# remove nesting tab spaces for curly brackets
+	content = regex.sub(r'\t{2}(?=\})', '\t', content)
+	
+	# change } [ws] { => }, {
+	content = regex.sub(r'\},\n\s+\{', '}, {', content)
+	
+	with open(path, 'w') as f:
+		f.write(content)
+
+
+
 def get_data(is_test: bool = False) -> dict:
 	words = {}
 	passed = True
@@ -96,6 +141,7 @@ def get_data(is_test: bool = False) -> dict:
 
 	def run_tests(data: dict, file_path: str) -> None:
 		nonlocal passed
+		is_fast = True
 		
 		# skip the tests involving images if personal word list
 		personal = Path(file_path).parent.name.split()[0] == 'Personal'
@@ -123,13 +169,17 @@ def get_data(is_test: bool = False) -> dict:
 		pairs = []
 		keys = get_wordlist(data)
 		for i in range(1, len(keys)):
-			k1, k2 = keys[i - 1].lower(), keys[i].lower()
+			k1, k2 = normalize(keys[i - 1]), normalize(keys[i])
 			if k1 > k2:
 				pairs.append([k1, k2])
 		if pairs:
 			passed = False
 			print(pairs)
 			print(f'[\u2718] Wordlist is not sorted for file {file_path}.', file=sys.stderr)
+		
+		if is_fast:
+			print(f'Processed {Path(file_path).parent.name}.')
+			return
 		
 		# check if pos is correct
 		wrong_pos = []
@@ -202,6 +252,17 @@ def get_data(is_test: bool = False) -> dict:
 			passed = False
 			print(not_square)
 			print(f'[\u2718] Not square images found for file {file_path}.', file=sys.stderr)
+		
+		# check if image has the same name as the key
+		not_same_key = []
+		keys = set(img.rsplit('.', 1) for img in images)
+		for key, _ in data.items():
+			if key not in keys:
+				not_same_key.append(key)
+		if not_same_key:
+			passed = False
+			print(not_same_key)
+			print(f'[\u2718] Not same key images found for file {file_path}.', file=sys.stderr)
 		
 		# check if additional images files present
 		extra_img = []

@@ -3,7 +3,6 @@ import re
 import sys
 import time
 import json
-import regex
 import shutil
 import argparse
 import requests
@@ -31,38 +30,6 @@ def extract_wiki(link: str) -> None:
 	url = f'https://commons.wikipedia.org/wiki/File:{name}'
 	print(url)
 
-
-
-def format_json(data: dict) -> str:
-	with open('temp.json', 'w', encoding='utf8') as f:
-		json.dump(data, f, indent='\t', ensure_ascii=False)
-	
-	with open('temp.json', 'r') as f:
-		content = f.read()
-	
-	# ws denotes whitespace
-	# remove the square bracket [ws] curly bracket
-	content = regex.sub(r'\[\n\s*\{', '[{', content)
-	content = regex.sub(r'\}\n\s*\]', '}]', content)
-	
-	# ! only works for \w characters
-	# remove the [ [ws] "words", ] [[ws]w1,[ws]w2,[ws]w3] => [w1,w2,w3]
-	content = regex.sub(r'(?<=\[((\n\s+)?"\w+",)*)\n\s+"', '"', content)
-	content = regex.sub(r'(?<=",?)\n\s+(?=("\w+",?(\n\s+)?)*\])', '', content)
-	
-	# add space between words in array [w1,w2,w3] => [w1, w2, w3]
-	content = regex.sub(r'(?<="\w+",)"', ' "', content)
-	
-	# change 3 tab spaces to 2 tab spaces
-	content = regex.sub(r'\t{3}', '\t\t', content)
-	
-	# remove nesting tab spaces for curly brackets
-	content = regex.sub(r'\t{2}(?=\})', '\t', content)
-	
-	# change } [ws] { => }, {
-	content = regex.sub(r'\},\n\s+\{', '}, {', content)
-	
-	return content
 
 
 def get_phonetic(driver, class_name: str) -> str:
@@ -184,6 +151,9 @@ def move_audio(data: dict) -> None:
 		os.makedirs(dst, exist_ok=True)
 		try:
 			shutil.move(uk, dst)
+		except Exception as e:
+			print(e)
+		try:
 			shutil.move(us, dst)
 		except Exception as e:
 			print(e)
@@ -224,9 +194,7 @@ def save_phonetics(data: dict) -> None:
 					# ! It could be both good and bad
 					break
 			
-			content = format_json(data)
-			with open(path, 'w') as f:
-				f.write(content)
+			format_json(data, path)
 			
 			print(f'Finished writing {key}.', file=sys.stderr)
 
@@ -238,14 +206,13 @@ parser.add_argument('--wiki', '-w', help="The upload wikipedia link", type=str)
 parser.add_argument('--phonetic', '-p', help="Scrape the phonetics of word", action='store_true')
 parser.add_argument('--audio', '-a', help="Move downloaded audio to the word list", action='store_true')
 parser.add_argument('--save', '-s', help="Save phonetics to the word list", action='store_true')
-parser.add_argument('--tests', '-t', help="Run tests", action='store_true')
 args = parser.parse_args()
 
 
 
 if __name__ == '__main__':
 	# load data
-	data = get_data(args.tests)
+	data = get_data()
 	os.makedirs('audio', exist_ok=True)
 	
 	if args.wiki:
