@@ -107,6 +107,14 @@ def save(path: str, data: dict):
 
 
 
+def sort_words(path: str) -> None:
+	path = os.path.join(path, 'data.json')
+	with open(path, 'r') as f:
+		data = json.load(f)
+	format_json(data, path, sort_keys=True)
+
+
+
 # add keyword arguments
 parser = argparse.ArgumentParser()
 parser.add_argument('--word', '-w', help="The word to search", type=str)
@@ -115,6 +123,7 @@ parser.add_argument('--src', '-src', help="The source word to copy from", type=s
 parser.add_argument('--dst', '-dst', help="The destination word to copy to", type=str)
 parser.add_argument('--tests', '-t', help="Run tests", action='store_true')
 parser.add_argument('--save', '-s', help="The folder to save words from the downloads folder", type=str)
+parser.add_argument('--sort', '-ss', help="The path to the folder of the word list to sort", type=str)
 args = parser.parse_args()
 
 
@@ -138,3 +147,7 @@ if __name__ == '__main__':
 	# moves files from the downloads folder and saves them
 	if args.save:
 		save(args.save, data)
+	
+	# sorts the json file in the word list
+	if args.sort:
+		sort_words(args.sort)

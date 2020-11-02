@@ -60,6 +60,12 @@ To save the downloaded images (in the `Downloads` directory) to the specific wor
 $ python main.py -s
 ```
 
+To sort keys of a word list,
+
+```bash
+$ python main.py --sort [DIRECTORY CONTAINING WORD LIST]
+```
+
 ### `fetch.py`
 
 Contains all the web scraping code required to fetch data.
