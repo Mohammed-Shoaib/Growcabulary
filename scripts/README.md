@@ -22,6 +22,7 @@
 * [regex](https://pypi.org/project/regex/)
 * [requests](https://pypi.org/project/requests/)
 * [gTTS](https://pypi.org/project/gTTS/)
+* [AudioSegment](https://pypi.org/project/audiosegment/)
 
 ### `utils.py`
 
