@@ -21,6 +21,7 @@
 * [selenium](https://pypi.org/project/selenium/)
 * [regex](https://pypi.org/project/regex/)
 * [requests](https://pypi.org/project/requests/)
+* [gTTS](https://pypi.org/project/gTTS/)
 
 ### `utils.py`
 
