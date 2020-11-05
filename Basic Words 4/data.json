@@ -4,55 +4,71 @@
 		"def": "unselfish concern for the well-being of others, even if it may be harmful for yourself",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "altruism.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pikist.com/free-photo-vmwgg"
+		"website": "https://www.pikist.com/free-photo-vmwgg",
+		"phonetics-us": ["/ˈæl.tru.ɪ.zəm/"],
+		"phonetics-uk": ["/ˈæl.tru.ɪ.zəm/"]
 	}],
 	"assail": [{
 		"pos": "verb",
 		"def": "to attack violently or criticize strongly",
 		"synonyms": ["assault", "censure", "castigate", "chastise"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "assail.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.flickr.com/photos/usarmyeurope_images/12498927763"
+		"website": "https://www.flickr.com/photos/usarmyeurope_images/12498927763",
+		"phonetics-us": ["/əˈseɪl/"],
+		"phonetics-uk": ["/əˈseɪl/"]
 	}],
 	"assuage": [{
 		"pos": "verb",
 		"def": "make (an unpleasant feeling) less intense",
 		"synonyms": ["relieve", "mitigate", "pacify"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "assuage.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pixabay.com/th/photos/%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AB%E0%B8%8D%E0%B8%B4%E0%B8%87-%E0%B8%AB%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1-%E0%B8%99%E0%B8%A7%E0%B8%94-%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD-%E0%B8%AA%E0%B8%9B%E0%B8%B2-3701713/"
+		"website": "https://pixabay.com/th/photos/%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AB%E0%B8%8D%E0%B8%B4%E0%B8%87-%E0%B8%AB%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1-%E0%B8%99%E0%B8%A7%E0%B8%94-%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD-%E0%B8%AA%E0%B8%9B%E0%B8%B2-3701713/",
+		"phonetics-us": ["/əˈsweɪdʒ/"],
+		"phonetics-uk": ["/əˈsweɪdʒ/"]
 	}],
 	"augment": [{
 		"pos": "verb",
 		"def": "make (something) greater by adding to it",
 		"synonyms": ["increase"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "augment.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.flickr.com/photos/86530412@N02/28358183642"
+		"website": "https://www.flickr.com/photos/86530412@N02/28358183642",
+		"phonetics-us": ["/ɑːɡˈment/"],
+		"phonetics-uk": ["/ɔːɡˈment/"]
 	}],
 	"benign": [{
 		"pos": "adjective",
 		"def": "gentle and kind",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "benign.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://publicdomainvectors.org/en/free-clipart/Grandma-resting/72054.html"
+		"website": "https://publicdomainvectors.org/en/free-clipart/Grandma-resting/72054.html",
+		"phonetics-us": ["/bɪˈnaɪn/"],
+		"phonetics-uk": ["/bɪˈnaɪn/"]
 	}, {
 		"pos": "adjective",
 		"def": "(of a disease) not harmful in effect",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "",
 		"notes": "",
 		"examples": [],
@@ -63,276 +79,420 @@
 		"def": "deserving praise",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "commendable.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://obamawhitehouse.archives.gov/sites/default/files/image/image_file/p112013lj-0323.jpg"
+		"website": "https://obamawhitehouse.archives.gov/sites/default/files/image/image_file/p112013lj-0323.jpg",
+		"phonetics-us": ["/kəˈmen.də.bəl/"],
+		"phonetics-uk": ["/kəˈmen.də.bəl/"]
 	}],
 	"conducive": [{
 		"pos": "adjective",
 		"def": "making a certain situation or outcome likely",
 		"synonyms": ["favourable"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "conducive.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Studying.jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:Studying.jpg",
+		"phonetics-us": ["/kənˈduː.sɪv/"],
+		"phonetics-uk": ["/kənˈdʒuː.sɪv/"]
+	}],
+	"constraint": [{
+		"pos": "noun",
+		"def": "a limitation or restriction",
+		"synonyms": [],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "constraint.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.uihere.com/free-photos/chained-hands-2-732489",
+		"phonetics-us": ["/kənˈstreɪnt/"],
+		"phonetics-uk": ["/kənˈstreɪnt/"]
 	}],
 	"cornucopia": [{
 		"pos": "noun",
 		"def": "an abundant, overflowing supply",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "cornucopia.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pikist.com/free-photo-vsqyg"
+		"website": "https://www.pikist.com/free-photo-vsqyg",
+		"phonetics-us": ["/ˌkɔːr.nəˈkoʊ.pi.ə/"],
+		"phonetics-uk": ["/ˌkɔː.njuˈkəʊ.pi.ə/"]
+	}],
+	"cosmopolitan": [{
+		"pos": "adjective",
+		"def": "including people from many different countries",
+		"synonyms": [],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "cosmopolitan.png",
+		"notes": "",
+		"examples": [],
+		"website": "https://pixabay.com/fr/vectors/pays-drapeaux-monde-politiques-1301799/",
+		"phonetics-us": ["/ˌkɑːz.məˈpɑː.lɪ.t̬ən/"],
+		"phonetics-uk": ["/ˌkɒz.məˈpɒl.ɪ.tən/"]
 	}],
 	"credence": [{
 		"pos": "noun",
 		"def": "belief in or acceptance of something as true",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "credence.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.needpix.com/photo/1305586/belief-catholic-catholicism-christ-christian-christianity-church-cross-divine"
+		"website": "https://www.needpix.com/photo/1305586/belief-catholic-catholicism-christ-christian-christianity-church-cross-divine",
+		"phonetics-us": ["/ˈkriː.dəns/"],
+		"phonetics-uk": ["/ˈkriː.dəns/"]
+	}],
+	"creditable": [{
+		"pos": "adjective",
+		"def": "deserving praise but not necessarily outstanding or successful",
+		"synonyms": [],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "creditable.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Young_man_clapping.jpg",
+		"phonetics-us": ["/ˈkred.ɪ.t̬ə.bəl/"],
+		"phonetics-uk": ["/ˈkred.ɪ.tə.bəl/"]
 	}],
 	"debase": [{
 		"pos": "verb",
 		"def": "reduce (something) in quality or value",
 		"synonyms": ["degrade"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "debase.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:10_centavos_de_Oaxaca_de_1915_(busto_de_base_redonda)(anverso_y_reverso).jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:10_centavos_de_Oaxaca_de_1915_(busto_de_base_redonda)(anverso_y_reverso).jpg",
+		"phonetics-us": ["/dɪˈbeɪs/"],
+		"phonetics-uk": ["/dɪˈbeɪs/"]
+	}],
+	"decimation": [{
+		"pos": "noun",
+		"def": "the killing or destruction of a large proportion of a group",
+		"synonyms": [],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "decimation.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pikist.com/free-photo-siggm",
+		"phonetics-us": ["/ˌdes.əˈmeɪ.ʃən/"],
+		"phonetics-uk": ["/ˌdes.ɪˈmeɪ.ʃən/"]
 	}],
 	"derisive": [{
 		"pos": "adjective",
 		"def": "expressing contempt or ridicule",
 		"synonyms": ["mocking", "disparaging", "contemptuous", "sneering", "scornful"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "derisive.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pexels.com/photo/happy-man-funny-sticking-tongue-out-3799761/"
+		"website": "https://www.pexels.com/photo/happy-man-funny-sticking-tongue-out-3799761/",
+		"phonetics-us": ["/dɪˈraɪ.sɪv/"],
+		"phonetics-uk": ["/dɪˈraɪ.sɪv/"]
 	}],
 	"detrimental": [{
 		"pos": "adjective",
 		"def": "tending to cause harm",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "detrimental.jpg",
 		"notes": "Human lungs of a non-smoker (left) vs. smoker (right).",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Human_lungs_smoker_vs_non_smoker.jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:Human_lungs_smoker_vs_non_smoker.jpg",
+		"phonetics-us": ["/ˌdet.rəˈmen.t̬əl/"],
+		"phonetics-uk": ["/ˌdet.rɪˈmen.təl/"]
 	}],
 	"empathetic": [{
 		"pos": "adjective",
 		"def": "showing an ability to understand and share the feelings of another",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "empathetic.jpeg",
 		"notes": "\"I’m myself — and I want to know who they are, I want them to feel comfortable telling me their story.\" — Michelle Obama",
 		"examples": [],
-		"website": "https://obamawhitehouse.archives.gov/blog/2016/08/18/behind-lens-hugger-chief"
+		"website": "https://obamawhitehouse.archives.gov/blog/2016/08/18/behind-lens-hugger-chief",
+		"phonetics-us": ["/ˌem.pəˈθet̬.ɪk/"],
+		"phonetics-uk": ["/ˌem.pəˈθet.ɪk/"]
 	}],
 	"euphoria": [{
 		"pos": "noun",
 		"def": "a feeling or state of intense excitement and happiness",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "euphoria.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Little_girl_laughing_with_excitement_in_France.jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:Little_girl_laughing_with_excitement_in_France.jpg",
+		"phonetics-us": ["/juːˈfɔːr.i.ə/"],
+		"phonetics-uk": ["/juːˈfɔː.ri.ə/"]
 	}],
 	"facetious": [{
 		"pos": "adjective",
 		"def": "treating serious issues with deliberately inappropriate humour",
 		"synonyms": ["flippant", "frivolous"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "facetious.jpg",
 		"notes": "Hokusai, the laughing demon.",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Hokusai,_The_laughing_demon_cph.3g08747.jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:Hokusai,_The_laughing_demon_cph.3g08747.jpg",
+		"phonetics-us": ["/fəˈsiː.ʃəs/"],
+		"phonetics-uk": ["/fəˈsiː.ʃəs/"]
 	}],
 	"fickle": [{
 		"pos": "adjective",
 		"def": "changing frequently, especially as regards one's loyalties or affections",
 		"synonyms": ["capricious", "mercurial"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "fickle.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pixabay.com/th/photos/%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%A1%E0%B8%93%E0%B9%8C-%E0%B8%84%E0%B8%99-%E0%B8%A1%E0%B8%B5%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B8%E0%B8%82-%E0%B9%80%E0%B8%A8%E0%B8%A3%E0%B9%89%E0%B8%B2-%E0%B9%83%E0%B8%9A%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2-371238/"
+		"website": "https://pixabay.com/th/photos/%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%A1%E0%B8%93%E0%B9%8C-%E0%B8%84%E0%B8%99-%E0%B8%A1%E0%B8%B5%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B8%E0%B8%82-%E0%B9%80%E0%B8%A8%E0%B8%A3%E0%B9%89%E0%B8%B2-%E0%B9%83%E0%B8%9A%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2-371238/",
+		"phonetics-us": ["/ˈfɪk.əl/"],
+		"phonetics-uk": ["/ˈfɪk.əl/"]
 	}],
 	"genial": [{
 		"pos": "adjective",
 		"def": "friendly and cheerful",
 		"synonyms": ["affable", "cordial", "congenial", "amiable"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "genial.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pxhere.com/es/photo/347446"
+		"website": "https://pxhere.com/es/photo/347446",
+		"phonetics-us": ["/ˈdʒiː.ni.əl/"],
+		"phonetics-uk": ["/ˈdʒiː.ni.əl/"]
 	}],
 	"genteel": [{
 		"pos": "adjective",
 		"def": "being very polite, gentle, or graceful, typical of a high social class",
 		"synonyms": ["decorous"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "genteel.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:CDV-genteel-lady.jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:CDV-genteel-lady.jpg",
+		"phonetics-us": ["/dʒenˈtiːl/"],
+		"phonetics-uk": ["/dʒenˈtiːl/"]
 	}],
 	"glib": [{
 		"pos": "adjective",
 		"def": "(of words or a speaker) fluent but insincere and shallow",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "glib.jpeg",
 		"notes": "Brian Baumgartner from the American sitcom television, the Office.",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Brian_Baumgartner_LF.JPG"
+		"website": "https://commons.wikimedia.org/wiki/File:Brian_Baumgartner_LF.JPG",
+		"phonetics-us": ["/ɡlɪb/"],
+		"phonetics-uk": ["/ɡlɪb/"]
 	}],
 	"grovel": [{
 		"pos": "verb",
 		"def": "show submission or fear",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "grovel.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Mosesbootlicker.jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:Mosesbootlicker.jpg",
+		"phonetics-us": ["/ˈɡrɑː.vəl/"],
+		"phonetics-uk": ["/ˈɡrɒv.əl/"]
 	}],
 	"hamstrung": [{
 		"pos": "verb",
 		"def": "to render powerless or useless",
 		"synonyms": ["cripple", "thwart"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "hamstrung.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Pieter_Brueghel,_A_cripple_with_hand_crutches._Wellcome_L0011162.jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:Pieter_Brueghel,_A_cripple_with_hand_crutches._Wellcome_L0011162.jpg",
+		"phonetics-us": ["/ˈhæmˌstrʌŋ/"],
+		"phonetics-uk": ["/ˈhæmˌstrʌŋ/"]
 	}],
 	"illicit": [{
 		"pos": "adjective",
 		"def": "contrary to or forbidden by law",
 		"synonyms": ["illegal", "unlawful"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "illicit.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pxhere.com/en/photo/527149"
+		"website": "https://pxhere.com/en/photo/527149",
+		"phonetics-us": ["/ɪˈlɪs.ɪt/"],
+		"phonetics-uk": ["/ɪˈlɪs.ɪt/"]
 	}],
 	"impeccable": [{
 		"pos": "adjective",
 		"def": "in accordance with the highest standards",
 		"synonyms": ["faultless", "flawless"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "impeccable.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pxhere.com/en/photo/1205984"
+		"website": "https://pxhere.com/en/photo/1205984",
+		"phonetics-us": ["/ɪmˈpek.ə.bəl/"],
+		"phonetics-uk": ["/ɪmˈpek.ə.bəl/"]
 	}],
 	"impede": [{
 		"pos": "verb",
 		"def": "to slow the progress by means of obstacles or hindrances",
 		"synonyms": ["obstruct", "hinder"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "impede.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pxhere.com/en/photo/596455"
+		"website": "https://pxhere.com/en/photo/596455",
+		"phonetics-us": ["/ɪmˈpiːd/"],
+		"phonetics-uk": ["/ɪmˈpiːd/"]
 	}],
 	"irresolute": [{
 		"pos": "adjective",
 		"def": "showing or feeling hesitancy",
 		"synonyms": ["uncertain", "indecisive", "vacillating"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "irresolute.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Confused_man.jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:Confused_man.jpg",
+		"phonetics-us": ["/ɪˈrez.əl.uːt/"],
+		"phonetics-uk": ["/ɪˈrez.əl.uːt/"]
 	}],
 	"jargon": [{
 		"pos": "noun",
 		"def": "special words and phrases used by particular groups of people, especially in their work",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "jargon.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Apisssss.gif"
+		"website": "https://commons.wikimedia.org/wiki/File:Apisssss.gif",
+		"phonetics-us": ["/ˈdʒɑːr.ɡən/"],
+		"phonetics-uk": ["/ˈdʒɑː.ɡən/"]
 	}],
 	"lucid": [{
 		"pos": "adjective",
 		"def": "expressed clearly; easy to understand",
 		"synonyms": ["comprehensible", "cogent"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "lucid.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:US_Navy_100819-N-7478G-463_Logistics_Specialist_2nd_Class_Riad_Tah_helps_a_child_with_his_English_lesson.jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:US_Navy_100819-N-7478G-463_Logistics_Specialist_2nd_Class_Riad_Tah_helps_a_child_with_his_English_lesson.jpg",
+		"phonetics-us": ["/ˈluː.sɪd/"],
+		"phonetics-uk": ["/ˈluː.sɪd/"]
 	}],
 	"martial": [{
 		"pos": "adjective",
 		"def": "relating to fighting or war",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "martial.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pixabay.com/th/photos/%E0%B8%97%E0%B8%AB%E0%B8%B2%E0%B8%A3-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88-%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B1%E0%B8%9E-4768756/"
+		"website": "https://pixabay.com/th/photos/%E0%B8%97%E0%B8%AB%E0%B8%B2%E0%B8%A3-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88-%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B1%E0%B8%9E-4768756/",
+		"phonetics-us": ["/ˈmɑːr.ʃəl/"],
+		"phonetics-uk": ["/ˈmɑː.ʃəl/"]
 	}],
 	"perennial": [{
 		"pos": "adjective",
 		"def": "lasting an indefinitely long time; suggesting self-renewal",
 		"synonyms": ["everlasting", "perpetual", "eternal"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "perennial.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Eternal_clock.jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:Eternal_clock.jpg",
+		"phonetics-us": ["/pəˈren.i.əl/"],
+		"phonetics-uk": ["/pəˈren.i.əl/"]
 	}],
 	"perpetuate": [{
 		"pos": "verb",
 		"def": "make (something) continue indefinitely",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "perpetuate.jpg",
 		"notes": "Perpetual motion wheels as designed by Leonardo da Vinci.",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Perpetual_motion_wheels_Vinci.jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:Perpetual_motion_wheels_Vinci.jpg",
+		"phonetics-us": ["/pɚˈpetʃ.u.eɪt/"],
+		"phonetics-uk": ["/pəˈpetʃ.u.eɪt/"]
 	}],
 	"pertinent": [{
 		"pos": "adjective",
 		"def": "relevant or applicable to a particular matter",
 		"synonyms": ["relevant"],
 		"antonyms": ["irrelevant"],
+		"alternatives": [],
 		"image": "pertinent.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pxhere.com/en/photo/1432545"
+		"website": "https://pxhere.com/en/photo/1432545",
+		"phonetics-us": ["/ˈpɝː.tən.ənt/"],
+		"phonetics-uk": ["/ˈpɜː.tɪ.nənt/"]
 	}],
 	"precedent": [{
 		"pos": "noun",
 		"def": "an example that is used to justify similar occurrences at a later time",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "precedent.jpg",
 		"notes": "Women wearing surgical masks during the influenza epidemic, Brisbane (1919).",
 		"examples": [],
-		"website": "https://www.rawpixel.com/image/2298584/free-photo-image-vintage-woman-pandemic"
+		"website": "https://www.rawpixel.com/image/2298584/free-photo-image-vintage-woman-pandemic",
+		"phonetics-us": ["/ˈpres.ə.dent/"],
+		"phonetics-uk": ["/ˈpres.ɪ.dənt/"]
+	}, {
+		"pos": "adjective",
+		"def": "preceding in time, order, or importance",
+		"synonyms": [],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "",
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"pristine": [{
 		"pos": "adjective",
 		"def": "clean and fresh as if new",
 		"synonyms": ["spotless", "immaculate"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "",
 		"notes": "",
 		"examples": [],
@@ -342,108 +502,191 @@
 		"def": "having its original purity",
 		"synonyms": ["pure"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "pristine.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.flickr.com/photos/photommo/11489791766/"
+		"website": "https://www.flickr.com/photos/photommo/11489791766/",
+		"phonetics-us": ["/prɪˈstiːn/"],
+		"phonetics-uk": ["/ˈprɪs.tiːn/"]
 	}],
 	"rankle": [{
 		"pos": "verb",
 		"def": "to cause anger, irritation, or deep bitterness, especially one that lasts a long time",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "rankle.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.flickr.com/photos/tripletsisters/7394261682"
+		"website": "https://www.flickr.com/photos/tripletsisters/7394261682",
+		"phonetics-us": ["/ˈræŋ.kəl/"],
+		"phonetics-uk": ["/ˈræŋ.kəl/"]
 	}],
 	"sentimental": [{
 		"pos": "adjective",
 		"def": "of or prompted by feelings of tenderness, sadness, or nostalgia",
 		"synonyms": ["emotional"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "sentimental.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.needpix.com/photo/1539849/broken-time-old-pocket-watch-vintage-background-timesup-timeout"
+		"website": "https://www.needpix.com/photo/1539849/broken-time-old-pocket-watch-vintage-background-timesup-timeout",
+		"phonetics-us": ["/ˌsen.t̬əˈmen.t̬əl/"],
+		"phonetics-uk": ["/ˌsen.tɪˈmen.təl/"]
 	}],
 	"smattering": [{
 		"pos": "noun",
 		"def": "a slight superficial knowledge of a language or subject",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "smattering.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pikist.com/free-photo-vvtgp"
+		"website": "https://www.pikist.com/free-photo-vvtgp",
+		"phonetics-us": ["/ˈsmæt̬.ɚ.ɪŋ/"],
+		"phonetics-uk": ["/ˈsmæt.ər.ɪŋ/"]
 	}, {
 		"pos": "noun",
 		"def": "a small amount of something",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "",
 		"notes": "",
 		"examples": [],
 		"website": ""
+	}],
+	"sordid": [{
+		"pos": "adjective",
+		"def": "involving immoral or dishonourable actions and motives",
+		"synonyms": ["ignoble", "dirty", "vile"],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "sordid.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Dominatrix_tying_up_man_3.jpg",
+		"phonetics-us": ["/ˈsɔːr.dɪd/"],
+		"phonetics-uk": ["/ˈsɔː.dɪd/"]
 	}],
 	"spurn": [{
 		"pos": "verb",
 		"def": "reject with disdain or contempt",
 		"synonyms": ["refuse", "scorn"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "spurn.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pikist.com/free-photo-ijawy"
+		"website": "https://www.pikist.com/free-photo-ijawy",
+		"phonetics-us": ["/spɝːn/"],
+		"phonetics-uk": ["/spɜːn/"]
+	}],
+	"staid": [{
+		"pos": "adjective",
+		"def": "characterized by respect and propriety, serious and rather boring",
+		"synonyms": [],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "staid.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pexels.com/photo/man-in-black-suit-reading-newspaper-3781911/",
+		"phonetics-us": ["/steɪd/"],
+		"phonetics-uk": ["/steɪd/"]
+	}],
+	"stymie": [{
+		"pos": "verb",
+		"def": "prevent or hinder the progress of",
+		"synonyms": ["impede", "hamper"],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "stymie.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pikist.com/free-photo-xdouy",
+		"phonetics-us": ["/ˈstaɪ.mi/"],
+		"phonetics-uk": ["/ˈstaɪ.mi/"]
 	}],
 	"surly": [{
 		"pos": "adjective",
 		"def": "bad-tempered and unfriendly",
 		"synonyms": ["grumpy"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "surly.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Angry_tiger.jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:Angry_tiger.jpg",
+		"phonetics-us": ["/ˈsɝː.li/"],
+		"phonetics-uk": ["/ˈsɜː.li/"]
 	}],
 	"tumult": [{
 		"pos": "noun",
 		"def": "a loud, confused noise, especially one caused by a large mass of people",
 		"synonyms": ["racket", "uproar", "commotion"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "tumult.jpg",
 		"notes": "Tens of thousands participating in a protest on 22 February 2011 in Manama, Bahrain.",
 		"examples": [],
-		"website": "https://en.wikipedia.org/wiki/March_of_loyalty_to_martyrs#/media/File:Hundreds_of_thousands_of_Bahrainis_taking_part_in_march_of_loyalty_to_martyrs.jpg"
+		"website": "https://en.wikipedia.org/wiki/March_of_loyalty_to_martyrs#/media/File:Hundreds_of_thousands_of_Bahrainis_taking_part_in_march_of_loyalty_to_martyrs.jpg",
+		"phonetics-us": ["/ˈtuː.mʌlt/"],
+		"phonetics-uk": ["/ˈtʃuː.mʌlt/"]
 	}],
 	"uncompromising": [{
 		"pos": "adjective",
 		"def": "showing an unwillingness to make concessions to others, especially by changing one's ways or opinions",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "uncompromising.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pexels.com/photo/close-up-photo-of-screaming-man-with-a-full-beard-covering-his-ears-and-closing-his-eyes-3764535/"
+		"website": "https://www.pexels.com/photo/close-up-photo-of-screaming-man-with-a-full-beard-covering-his-ears-and-closing-his-eyes-3764535/",
+		"phonetics-us": ["/ʌnˈkɑːm.prə.maɪ.zɪŋ/"],
+		"phonetics-uk": ["/ʌnˈkɒm.prə.maɪ.zɪŋ/"]
 	}],
 	"unruly": [{
 		"pos": "adjective",
 		"def": "not readily ruled, disciplined, or managed",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "unruly.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Eerste_schooldag_van_een_weerbarstige_leerling_-_An_unruly_pupil%27s_first_day_at_school_(3921794231).jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:Eerste_schooldag_van_een_weerbarstige_leerling_-_An_unruly_pupil%27s_first_day_at_school_(3921794231).jpg",
+		"phonetics-us": ["/ʌnˈruː.li/"],
+		"phonetics-uk": ["/ʌnˈruː.li/"]
 	}],
 	"vacuous": [{
 		"pos": "adjective",
 		"def": "lacking in ideas or intelligence",
 		"synonyms": ["stupid", "mindless"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "vacuous.png",
 		"notes": "",
 		"examples": [],
-		"website": "https://pixabay.com/fr/illustrations/%C3%A2ne-derpy-dessin-anim%C3%A9-mule-derp-618972/"
+		"website": "https://pixabay.com/fr/illustrations/%C3%A2ne-derpy-dessin-anim%C3%A9-mule-derp-618972/",
+		"phonetics-us": ["/ˈvæk.ju.əs/"],
+		"phonetics-uk": ["/ˈvæk.ju.əs/"]
+	}],
+	"vie": [{
+		"pos": "verb",
+		"def": "compete eagerly with someone in order to do or achieve something",
+		"synonyms": [],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "vie.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.publicdomainpictures.net/en/view-image.php?image=77358&picture=horse-racing-neck-amp-neck",
+		"phonetics-us": ["/vaɪ/"],
+		"phonetics-uk": ["/vaɪ/"]
 	}]
 }
