@@ -4,6 +4,7 @@
 		"def": "not likely to cause offence or disagreement and somewhat dull",
 		"synonyms": ["bland", "innocuous"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "",
 		"notes": "",
 		"examples": [],
@@ -13,234 +14,341 @@
 		"def": "a painkilling drug or medicine",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "anodyne.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pixabay.com/fr/photos/comprim%C3%A9s-sant%C3%A9-m%C3%A9decine-m%C3%A9dical-4083409/"
+		"website": "https://pixabay.com/fr/photos/comprim%C3%A9s-sant%C3%A9-m%C3%A9decine-m%C3%A9dical-4083409/",
+		"phonetics-us": ["/ˈæn.oʊ.daɪn/"],
+		"phonetics-uk": ["/ˈæn.ə.daɪn/"]
 	}],
 	"bowdlerize": [{
 		"pos": "verb",
 		"def": "remove material that is considered improper or offensive",
 		"synonyms": ["expurgate", "censor"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "bowdlerize.png",
 		"notes": "",
 		"examples": [],
-		"website": "https://en.wikipedia.org/wiki/File:Redacted777.png"
+		"website": "https://en.wikipedia.org/wiki/File:Redacted777.png",
+		"phonetics-us": ["/ˈbaʊd.lə.raɪz/"],
+		"phonetics-uk": ["/ˈbaʊd.lə.raɪz/"]
 	}],
 	"cede": [{
 		"pos": "verb",
 		"def": "give up (power or territory)",
 		"synonyms": ["concede"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "cede.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Weihaiwei_surrender.jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:Weihaiwei_surrender.jpg",
+		"phonetics-us": ["/siːd/"],
+		"phonetics-uk": ["/siːd/"]
 	}],
 	"charlatan": [{
 		"pos": "noun",
 		"def": "a person falsely claiming to have a special knowledge or skill",
 		"synonyms": ["fraud"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "charlatan.jpeg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.2ndmlg.marines.mil/Photos/igphoto/2000010532/"
+		"website": "https://www.2ndmlg.marines.mil/Photos/igphoto/2000010532/",
+		"phonetics-us": ["/ˈʃɑːr.lə.t̬ən/"],
+		"phonetics-uk": ["/ˈʃɑː.lə.tən/"]
 	}],
 	"derelict": [{
-		"pos": "adjective",
-		"def": "in a very poor condition as a result of disuse and neglect",
+		"pos": "noun",
+		"def": "personal property abandoned or thrown away by the owner",
 		"synonyms": ["precarious", "dilapidated"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "derelict.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pikist.com/free-photo-xvtai"
+		"website": "https://www.pikist.com/free-photo-xvtai",
+		"phonetics-us": ["/ˈder.ə.lɪkt/"],
+		"phonetics-uk": ["/ˈder.ə.lɪkt/"]
 	}, {
 		"pos": "adjective",
 		"def": "shamefully negligent of one's duties or obligations",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "",
 		"notes": "",
 		"examples": [],
 		"website": ""
+	}],
+	"dissolution": [{
+		"pos": "noun",
+		"def": "debauched living; overindulging in sensual pleasures",
+		"synonyms": ["dissipation", "intemperance", "profligacy"],
+		"antonyms": ["asceticism"],
+		"alternatives": [],
+		"image": "dissolution.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pickpik.com/man-bavaria-dirndl-folklore-woman-women-111234",
+		"phonetics-us": ["/ˌdɪs.əˈluː.ʃən/"],
+		"phonetics-uk": ["/ˌdɪs.əˈluː.ʃən/"]
 	}],
 	"effrontery": [{
 		"pos": "noun",
 		"def": "audacious (even arrogant) behaviour that you have no right to",
 		"synonyms": ["impudence", "impertinence", "insolence", "audacity", "temerity", "gall"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "effrontery.jpg",
 		"notes": "Throwing trash off the bridge.",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Throwing_Trash_Off_the_Bridge_(8540267715).jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:Throwing_Trash_Off_the_Bridge_(8540267715).jpg",
+		"phonetics-us": ["/efˈrʌn.tər.i/"],
+		"phonetics-uk": ["/ɪˈfrʌn.tər.i/"]
 	}],
 	"enjoin": [{
 		"pos": "verb",
 		"def": "instruct or urge (someone) to do something with authority",
 		"synonyms": ["admonish", "goad"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "enjoin.jpeg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.jbcharleston.jb.mil/News/Photos/igphoto/2000481017/"
+		"website": "https://www.jbcharleston.jb.mil/News/Photos/igphoto/2000481017/",
+		"phonetics-us": ["/ɪnˈdʒɔɪn/"],
+		"phonetics-uk": ["/ɪnˈdʒɔɪn/"]
 	}],
 	"enthrall": [{
 		"pos": "verb",
 		"def": "capture the fascinated attention of",
 		"synonyms": ["mesmerize", "fascinate"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "enthrall.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pexels.com/photo/female-backpacker-enjoying-waterfall-streaming-from-green-hills-4571825/"
+		"website": "https://www.pexels.com/photo/female-backpacker-enjoying-waterfall-streaming-from-green-hills-4571825/",
+		"phonetics-us": ["/ɪnˈθrɑːl/"],
+		"phonetics-uk": ["/ɪnˈθrɔːl/"]
 	}],
 	"epiphany": [{
 		"pos": "noun",
 		"def": "a moment of sudden and great revelation or realization",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "epiphany.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.uihere.com/free-photos/light-bulb-head-illustration-681635"
+		"website": "https://www.uihere.com/free-photos/light-bulb-head-illustration-681635",
+		"phonetics-us": ["/ɪˈpɪf.ən.i/"],
+		"phonetics-uk": ["/ɪˈpɪf.ən.i/"]
 	}],
 	"flummox": [{
 		"pos": "verb",
 		"def": "perplex (someone) greatly; be a mystery to",
 		"synonyms": ["bewilder", "confuse", "confound"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "flummox.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pikist.com/free-photo-sowze"
+		"website": "https://www.pikist.com/free-photo-sowze",
+		"phonetics-us": ["/ˈflʌm.əks/"],
+		"phonetics-uk": ["/ˈflʌm.əks/"]
 	}],
 	"gaffe": [{
 		"pos": "noun",
 		"def": "an unintentional act or remark causing embarrassment to its originator",
 		"synonyms": ["blunder", "error"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "gaffe.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pikist.com/free-photo-stifw"
+		"website": "https://www.pikist.com/free-photo-stifw",
+		"phonetics-us": ["/ɡæf/"],
+		"phonetics-uk": ["/ɡæf/"]
 	}],
 	"grandiloquent": [{
 		"pos": "adjective",
 		"def": "extravagant in language, style, or manner, especially in a way that is intended to impress",
 		"synonyms": ["pompous"],
 		"antonyms": ["concise"],
+		"alternatives": [],
 		"image": "grandiloquent.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pexels.com/photo/man-in-black-suit-holding-banknotes-and-credit-card-3831185/"
+		"website": "https://www.pexels.com/photo/man-in-black-suit-holding-banknotes-and-credit-card-3831185/",
+		"phonetics-us": ["/ɡrænˈdɪl.ə.kwənt/"],
+		"phonetics-uk": ["/ɡrænˈdɪl.ə.kwənt/"]
 	}],
 	"hagiographic": [{
 		"pos": "adjective",
 		"def": "excessively flattering and idolizing a person, especially a person who is a saint",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "hagiographic.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pixabay.com/fr/photos/%C3%A9motic%C3%B4ne-coeur-hug-serrant-le-c%C5%93ur-5270658/"
+		"website": "https://pixabay.com/fr/photos/%C3%A9motic%C3%B4ne-coeur-hug-serrant-le-c%C5%93ur-5270658/",
+		"phonetics-us": ["/ˌhæɡ.i.əˈɡræf.ɪk/"],
+		"phonetics-uk": ["/ˌhæɡ.i.əˈɡræf.ɪk/"]
 	}],
 	"hail": [{
 		"pos": "verb",
 		"def": "praise (someone or something) enthusiastically",
 		"synonyms": ["commend", "vaunt", "lionize", "exalt", "laud", "panegyrize"],
 		"antonyms": ["criticize", "condemn"],
+		"alternatives": [],
 		"image": "hail.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.needpix.com/photo/1397078/uplifting-praise-sunset-woman-upliftedhands"
+		"website": "https://www.needpix.com/photo/1397078/uplifting-praise-sunset-woman-upliftedhands",
+		"phonetics-us": ["/heɪl/"],
+		"phonetics-uk": ["/heɪl/"]
 	}],
 	"illustrious": [{
 		"pos": "adjective",
 		"def": "well known, respected, and admired for past achievements",
 		"synonyms": ["eminent"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "illustrious.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.obamalibrary.gov/obamas/president-barack-obama"
+		"website": "https://www.obamalibrary.gov/obamas/president-barack-obama",
+		"phonetics-us": ["/ɪˈlʌs.tri.əs/"],
+		"phonetics-uk": ["/ɪˈlʌs.tri.əs/"]
 	}],
 	"importune": [{
 		"pos": "verb",
 		"def": "harass (someone) persistently for or to do something",
-		"synonyms": ["beg"],
+		"synonyms": ["beg", "hound", "besiege"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "importune.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://freesvg.org/1547692827"
+		"website": "https://freesvg.org/1547692827",
+		"phonetics-us": ["/ˌɪm.pɔːrˈtuːn/"],
+		"phonetics-uk": ["/ˌɪm.pɔːˈtʃuːn/"]
 	}],
 	"impute": [{
 		"pos": "verb",
 		"def": "to lay the responsibility or blame for (something, especially something undesirable) to a person or a cause",
 		"synonyms": ["attribute", "ascribe"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "impute.jpeg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.jbsa.mil/News/Photos/igphoto/2000087752/"
+		"website": "https://www.jbsa.mil/News/Photos/igphoto/2000087752/",
+		"phonetics-us": ["/ɪmˈpjuːt/"],
+		"phonetics-uk": ["/ɪmˈpjuːt/"]
+	}],
+	"ineluctable": [{
+		"pos": "adjective",
+		"def": "unable to be resisted or avoided",
+		"synonyms": ["inescapable", "inevitable"],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "ineluctable.jpg",
+		"notes": "Death is inevitable",
+		"examples": [],
+		"website": "https://publicdomainvectors.org/en/free-clipart/Grim-reaper-with-hourglass/36541.html",
+		"phonetics-us": ["/ˌɪn.ɪˈlʌk.tə.bəl/"],
+		"phonetics-uk": ["/ˌɪn.ɪˈlʌk.tə.bəl/"]
+	}],
+	"infelicitous": [{
+		"pos": "adjective",
+		"def": "not appropriate or well-timed",
+		"synonyms": ["unfortunate", "regrettable"],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "infelicitous.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.pikrepo.com/fghty/tree-fall-down-on-top-of-car",
+		"phonetics-us": ["/ˌɪn.fəˈlɪs.ə.t̬əs/"],
+		"phonetics-uk": ["/ˌɪn.fəˈlɪs.ɪ.təs/"]
 	}],
 	"insouciance": [{
 		"pos": "noun",
 		"def": "casual lack of concern",
 		"synonyms": ["nonchalant", "indifference"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "insouciance.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pexels.com/photo/relaxed-woman-chilling-in-hammock-in-countryside-4353688/"
+		"website": "https://www.pexels.com/photo/relaxed-woman-chilling-in-hammock-in-countryside-4353688/",
+		"phonetics-us": ["/ɪnˈsuː.si.əns/"],
+		"phonetics-uk": ["/ɪnˈsuː.si.əns/"]
 	}],
 	"lampoon": [{
 		"pos": "verb",
 		"def": "publicly criticize (someone or something) by using ridicule, irony, or sarcasm",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "lampoon.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.needpix.com/photo/839687/parody-photoshop-film-barbecue-composing-action"
+		"website": "https://www.needpix.com/photo/839687/parody-photoshop-film-barbecue-composing-action",
+		"phonetics-us": ["/læmˈpuːn/"],
+		"phonetics-uk": ["/læmˈpuːn/"]
 	}],
 	"litany": [{
 		"pos": "noun",
 		"def": "a prolonged or tedious account or a repetitive series",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "litany.png",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.needpix.com/photo/171223/todo-list-despaired-man-person-sad-confused-list-free-vector-graphics-free-pictures"
+		"website": "https://www.needpix.com/photo/171223/todo-list-despaired-man-person-sad-confused-list-free-vector-graphics-free-pictures",
+		"phonetics-us": ["/ˈlɪt.ən.i/"],
+		"phonetics-uk": ["/ˈlɪt.ən.i/"]
 	}],
 	"lugubrious": [{
 		"pos": "adjective",
 		"def": "looking or sounding sad and gloomy, especially in an exaggerated manner",
 		"synonyms": ["mournful"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "lugubrious.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pixabay.com/fr/photos/deuil-femme-cri-destruction-5501796/"
+		"website": "https://pixabay.com/fr/photos/deuil-femme-cri-destruction-5501796/",
+		"phonetics-us": ["/luːˈɡuː.bri.əs/"],
+		"phonetics-uk": ["/luːˈɡuː.bri.əs/"]
 	}],
 	"maunder": [{
 		"pos": "verb",
 		"def": "to move or act in an aimless, confused manner",
 		"synonyms": ["wander", "meander"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "maunder.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pikrepo.com/fhgfz/man-in-white-and-blue-crew-neck-t-shirt-and-blue-shorts-standing-on-green-grass"
+		"website": "https://www.pikrepo.com/fhgfz/man-in-white-and-blue-crew-neck-t-shirt-and-blue-shorts-standing-on-green-grass",
+		"phonetics-us": ["/ˈmɔndər/"],
+		"phonetics-uk": ["/ˈmɔːndə/"]
 	}, {
 		"pos": "verb",
 		"def": "to talk (about unimportant matters) in a rambling, foolish, or meaningless way",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "",
 		"notes": "",
 		"examples": [],
@@ -251,239 +359,324 @@
 		"def": "having a sharp or critical quality, especially of humour",
 		"synonyms": ["biting", "trenchant", "acerbic", "sardonic", "polemic"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "mordant.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pxhere.com/en/photo/629688"
+		"website": "https://pxhere.com/en/photo/629688",
+		"phonetics-us": ["/ˈmɔːr.dənt/"],
+		"phonetics-uk": ["/ˈmɔː.dənt/"]
 	}],
 	"moribund": [{
 		"pos": "adjective",
 		"def": "on the verge of extinction or termination, lacking vitality or vigour",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "moribund.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pexels.com/photo/close-up-photo-of-dying-sunflower-2064439/"
+		"website": "https://www.pexels.com/photo/close-up-photo-of-dying-sunflower-2064439/",
+		"phonetics-us": ["/ˈmɔːr.ɪ.bʌnd/"],
+		"phonetics-uk": ["/ˈmɒr.ɪ.bʌnd/"]
 	}],
 	"pecuniary": [{
 		"pos": "adjective",
 		"def": "relating to or consisting of money",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "pecuniary.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pxhere.com/en/photo/758119"
+		"website": "https://pxhere.com/en/photo/758119",
+		"phonetics-us": ["/pɪˈkjuː.ni.er/"],
+		"phonetics-uk": ["/pɪˈkjuː.njər.i/"]
 	}],
 	"perspicacious": [{
 		"pos": "adjective",
 		"def": "having keen mental perception and understanding of things",
 		"synonyms": ["shrewd", "percipient", "sagacious"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "perspicacious.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.maxpixel.net/Discovery-Man-People-Looking-Binoculars-Vision-1209011"
+		"website": "https://www.maxpixel.net/Discovery-Man-People-Looking-Binoculars-Vision-1209011",
+		"phonetics-us": ["/ˌpɝː.spɪˈkeɪ.ʃəs/"],
+		"phonetics-uk": ["/ˌpɜː.spɪˈkeɪ.ʃəs/"]
 	}],
 	"plucky": [{
 		"pos": "adjective",
 		"def": "having or showing determined courage in the face of difficulties",
 		"synonyms": ["brave", "intrepid", "resolute", "stalwart", "audacious", "mettlesome"],
 		"antonyms": ["timorous"],
+		"alternatives": [],
 		"image": "plucky.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.piqsels.com/en/public-domain-photo-ffzeh"
+		"website": "https://www.piqsels.com/en/public-domain-photo-ffzeh",
+		"phonetics-us": ["/ˈplʌk.i/"],
+		"phonetics-uk": ["/ˈplʌk.i/"]
 	}],
 	"portentous": [{
 		"pos": "adjective",
 		"def": "ominously significant or momentous",
-		"synonyms": ["sinister", "gloomy"],
+		"synonyms": ["sinister", "gloomy", "marvelous", "prodigious"],
 		"antonyms": ["auspicious"],
+		"alternatives": [],
 		"image": "portentous.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.piqsels.com/en/public-domain-photo-faejp"
+		"website": "https://www.piqsels.com/en/public-domain-photo-faejp",
+		"phonetics-us": ["/pɔːrˈten.t̬əs/"],
+		"phonetics-uk": ["/pɔːˈten.təs/"]
 	}],
 	"primacy": [{
 		"pos": "noun",
 		"def": "the state of being first in order, rank, or importance",
 		"synonyms": ["priority", "ascendancy", "pre-eminence"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "primacy.png",
 		"notes": "",
 		"examples": [],
-		"website": "https://pixabay.com/fr/illustrations/homme-des-cavernes-cave-l-homme-1460898/"
+		"website": "https://pixabay.com/fr/illustrations/homme-des-cavernes-cave-l-homme-1460898/",
+		"phonetics-us": ["/ˈpraɪ.mə.si/"],
+		"phonetics-uk": ["/ˈpraɪ.mə.si/"]
 	}],
 	"probity": [{
 		"pos": "noun",
 		"def": "the quality of having strong moral principles; honesty and decency",
 		"synonyms": ["integrity"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "probity.jpeg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Basistajf8264_03.JPG"
-	}],
-	"prognostication": [{
-		"pos": "noun",
-		"def": "the action of prophesying future events",
-		"synonyms": ["prediction"],
-		"antonyms": [],
-		"image": "prognostication.jpg",
-		"notes": "",
-		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:NNAM_Halloween_2008,_palm_reading.jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:Basistajf8264_03.JPG",
+		"phonetics-us": ["/ˈproʊ.bə.t̬i/"],
+		"phonetics-uk": ["/ˈprəʊ.bə.ti/"]
 	}],
 	"prolix": [{
 		"pos": "adjective",
-		"def": "(of speech of writing) using too many words; tediously lengthy",
+		"def": "(of speech or writing) using too many words; tediously lengthy",
 		"synonyms": ["ponderous", "verbose"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "prolix.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:A_Specimen_by_William_Caslon.jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:A_Specimen_by_William_Caslon.jpg",
+		"phonetics-us": ["/ˈproʊ.lɪks/"],
+		"phonetics-uk": ["/ˈprəʊ.lɪks/"]
+	}],
+	"prolixity": [{
+		"pos": "noun",
+		"def": "boring verbosity",
+		"synonyms": ["turgidity"],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "prolixity.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://pixabay.com/cs/photos/str%C3%A1nky-na-str%C3%A1nk%C3%A1ch-knihy-3554116/",
+		"phonetics-us": ["/prəˈlɪk.sə.t̬i/"],
+		"phonetics-uk": ["/prəˈlɪk.sə.ti/"]
 	}],
 	"provident": [{
 		"pos": "adjective",
 		"def": "making or indicative of timely preparation for the future, especially by saving money",
-		"synonyms": ["prudent", "far-sighted", "shrewd", "sagacious", "thrifty", "frugal", "economical"],
+		"synonyms": ["prudent", "far-sighted","shrewd", "sagacious", "thrifty", "frugal", "economical"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "provident.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.publicdomainpictures.net/en/view-image.php?image=332088&picture=money-saving-and-passive-income-concept"
+		"website": "https://www.publicdomainpictures.net/en/view-image.php?image=332088&picture=money-saving-and-passive-income-concept",
+		"phonetics-us": ["/ˈprɑː.və.dənt/"],
+		"phonetics-uk": ["/ˈprɒv.ɪ.dənt/"]
 	}],
 	"punctilious": [{
 		"pos": "adjective",
 		"def": "showing great attention to detail or correct behaviour",
 		"synonyms": ["meticulous", "scrupulous"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "punctilious.jpg",
 		"notes": "Fruit art, carving on vegetables",
 		"examples": [],
-		"website": "https://www.maxpixel.net/Carving-Eat-Art-Artfully-Pumpkin-Fruit-Vegetables-1737962"
+		"website": "https://www.maxpixel.net/Carving-Eat-Art-Artfully-Pumpkin-Fruit-Vegetables-1737962",
+		"phonetics-us": ["/pʌŋkˈtɪl.i.əs/"],
+		"phonetics-uk": ["/pʌŋkˈtɪl.i.əs/"]
 	}],
 	"quail": [{
 		"pos": "verb",
 		"def": "feel or show fear or apprehension",
 		"synonyms": ["cower"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "quail.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pxhere.com/en/photo/1569057"
+		"website": "https://pxhere.com/en/photo/1569057",
+		"phonetics-us": ["/kweɪl/"],
+		"phonetics-uk": ["/kweɪl/"]
 	}],
 	"raconteur": [{
 		"pos": "noun",
 		"def": "a person who tells anecdotes in a skillful and amusing way",
 		"synonyms": ["storyteller"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "raconteur.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pxfuel.com/en/free-photo-xtswg"
+		"website": "https://www.pxfuel.com/en/free-photo-xtswg",
+		"phonetics-us": ["/ˌræk.ɑːnˈtɝː/"],
+		"phonetics-uk": ["/ˌræk.ɒnˈtɜːr/"]
 	}],
 	"recapitulation": [{
 		"pos": "noun",
 		"def": "an act or instance of summarizing and restating the main points of something",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "recapitulation.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://publicdomainvectors.org/en/free-clipart/Recap-post-it/70921.html"
+		"website": "https://publicdomainvectors.org/en/free-clipart/Recap-post-it/70921.html",
+		"phonetics-us": ["/ˌriː.kəˌpɪtʃ.əˈleɪ.ʃən/"],
+		"phonetics-uk": ["/ˌriː.kəˌpɪtʃ.əˈleɪ.ʃən/"]
 	}],
 	"redoubtable": [{
 		"pos": "adjective",
 		"def": "causing fear or alarm, especially as an opponent",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "redoubtable.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pixabay.com/fr/illustrations/strong-homme-black-caract%C3%A8re-1529195/"
+		"website": "https://pixabay.com/fr/illustrations/strong-homme-black-caract%C3%A8re-1529195/",
+		"phonetics-us": ["/rɪˈdaʊ.t̬ə.bəl/"],
+		"phonetics-uk": ["/rɪˈdaʊ.tə.bəl/"]
 	}],
 	"sagacious": [{
 		"pos": "adjective",
 		"def": "having or showing keen insight and good judgement",
 		"synonyms": ["wise", "shrewd"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "sagacious.jpg",
 		"notes": "Yoda, a Star Wars Character who is small in size but wise and powerful.",
 		"examples": [],
-		"website": "https://www.pikist.com/free-photo-sgzsd"
+		"website": "https://www.pikist.com/free-photo-sgzsd",
+		"phonetics-us": ["/səˈɡeɪ.ʃəs/"],
+		"phonetics-uk": ["/səˈɡeɪ.ʃəs/"]
 	}],
 	"semblance": [{
 		"pos": "noun",
 		"def": "the outward appearance or apparent form of something, especially when the reality is different",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "semblance.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pickpik.com/grimace-funny-expression-mask-happy-queer-1541"
+		"website": "https://www.pickpik.com/grimace-funny-expression-mask-happy-queer-1541",
+		"phonetics-us": ["/ˈsem.bləns/"],
+		"phonetics-uk": ["/ˈsem.bləns/"]
 	}],
 	"sinecure": [{
 		"pos": "noun",
 		"def": "a position requiring little or no work but giving the holder status or financial benefit",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "sinecure.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pexels.com/photo/dreamy-female-employee-relaxing-with-feet-on-table-in-office-3791119/"
+		"website": "https://www.pexels.com/photo/dreamy-female-employee-relaxing-with-feet-on-table-in-office-3791119/",
+		"phonetics-us": ["/ˈsaɪ.nə.kjʊr/"],
+		"phonetics-uk": ["/ˈsɪn.ɪ.kjʊər/"]
+	}],
+	"surfeit": [{
+		"pos": "noun",
+		"def": "an excessive amount of something",
+		"synonyms": ["surplus", "superfluity", "glut"],
+		"antonyms": ["dearth"],
+		"alternatives": [],
+		"image": "surfeit.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.needpix.com/photo/1331041/hamburger-big-size-lunch-food-fast",
+		"phonetics-us": ["/ˈsɝː.fɪt/"],
+		"phonetics-uk": ["/ˈsɜː.fɪt/"]
 	}],
 	"temerity": [{
 		"pos": "noun",
 		"def": "excessive confidence or boldness",
 		"synonyms": ["audacity"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "temerity.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pikist.com/free-photo-snaoa"
+		"website": "https://www.pikist.com/free-photo-snaoa",
+		"phonetics-us": ["/təˈmer.ə.t̬i/"],
+		"phonetics-uk": ["/təˈmer.ə.ti/"]
 	}],
 	"umbrage": [{
 		"pos": "noun",
 		"def": "a feeling of anger caused by being offended",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "umbrage.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pikist.com/free-photo-vbrfx"
+		"website": "https://www.pikist.com/free-photo-vbrfx",
+		"phonetics-us": ["/ˈʌm.brɪdʒ/"],
+		"phonetics-uk": ["/ˈʌm.brɪdʒ/"]
 	}],
 	"unforthcoming": [{
 		"pos": "adjective",
 		"def": "(of a person) not willing to divulge information",
 		"synonyms": ["uncooperative", "reticent", "taciturn"],
 		"antonyms": ["affable", "sociable"],
+		"alternatives": [],
 		"image": "unforthcoming.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pikist.com/free-photo-vcumq"
+		"website": "https://www.pikist.com/free-photo-vcumq",
+		"phonetics-us": ["/ˌənfɔrθˈkəmɪŋ/"],
+		"phonetics-uk": ["/ʌnfɔːθˈkʌmɪŋ/"]
 	}],
 	"vitriol": [{
 		"pos": "noun",
 		"def": "bitter criticism or malice",
 		"synonyms": ["invective", "vituperate"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "vitriol.png",
 		"notes": "",
 		"examples": [],
-		"website": "https://pixabay.com/fr/vectors/col%C3%A8re-cri-%C3%A9motion-la-bouche-canon-3985887/"
+		"website": "https://pixabay.com/fr/vectors/col%C3%A8re-cri-%C3%A9motion-la-bouche-canon-3985887/",
+		"phonetics-us": ["/ˈvɪt.ri.əl/"],
+		"phonetics-uk": ["/ˈvɪt.ri.əl/"]
 	}],
 	"vitriolic": [{
 		"pos": "adjective",
 		"def": "filled with bitter criticism or malice",
 		"synonyms": ["acrimonious", "mordant", "acerbic", "pernicious"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "vitriolic.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pexels.com/photo/woman-holding-burning-newspaper-2258357/"
+		"website": "https://www.pexels.com/photo/woman-holding-burning-newspaper-2258357/",
+		"phonetics-us": ["/ˌvɪt.riˈɑː.lɪk/"],
+		"phonetics-uk": ["/ˌvɪt.riˈɒl.ɪk/"]
 	}]
 }
