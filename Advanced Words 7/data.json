@@ -1,508 +1,702 @@
 {
-	"abrogate": [{
+	"afford": [{
 		"pos": "verb",
-		"def": "to abolish by formal or official means",
-		"synonyms": ["repudiate", "revoke", "rescind"],
-		"antonyms": [],
-		"image": "abrogate.png",
-		"notes": "Abolish the death penalty",
-		"examples": [],
-		"website": "https://pixabay.com/cs/vectors/zru%C5%A1en%C3%AD-trest-smrti-proveden%C3%AD-147726/"
-	}],
-	"adjudicate": [{
-		"pos": "verb",
-		"def": "make a formal judgement on a disputed matter; act as a judge in a competition",
+		"def": "provide or supply (an opportunity or facility)",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "adjudicate.jpg",
+		"alternatives": [],
+		"image": "afford.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Judges_hold_up_their_respective_scores.jpg"
+		"website": "https://www.needpix.com/photo/download/839239/hiring-recruitment-job-hire-employer-recruit-recruiting-worker-hr",
+		"phonetics-us": ["/əˈfɔːrd/"],
+		"phonetics-uk": ["/əˈfɔːd/"]
 	}],
-	"bereft": [{
-		"pos": "adjective",
-		"def": "deprived of or lacking (something)",
-		"synonyms": ["wanting"],
-		"antonyms": [],
-		"image": "",
+	"alacrity": [{
+		"pos": "noun",
+		"def": "promptness in response, cheerful readiness",
+		"synonyms": ["dispatch"],
+		"antonyms": ["apathy"],
+		"alternatives": [],
+		"image": "alacrity.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
-	}, {
-		"pos": "(of a person) sad and lonely, especially through someone's death or departure",
-		"def": "",
+		"website": "https://www.pikrepo.com/fyzte/man-standing-on-a-rocket-holding-a-flag-after-great-achievement",
+		"phonetics-us": ["/əˈlæk.rə.t̬i/"],
+		"phonetics-uk": ["/əˈlæk.rə.ti/"]
+	}],
+	"anathema": [{
+		"pos": "noun",
+		"def": "something or someone that one intensely dislikes",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "bereft.jpg",
+		"alternatives": [],
+		"image": "anathema.png",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pikist.com/free-photo-sckxc"
+		"website": "https://pixabay.com/cs/vectors/nechu%C5%A5-ruka-palec-dol%C5%AF-ne-%C4%8Derven%C3%A1-157252/",
+		"phonetics-us": ["/əˈnæθ.ə.mə/"],
+		"phonetics-uk": ["/əˈnæθ.ə.mə/"]
 	}],
-	"canard": [{
-		"pos": "noun",
-		"def": "an unfounded rumour or story",
-		"synonyms": ["false", "fabrication"],
-		"antonyms": [],
-		"image": "canard.jpg",
-		"notes": "",
-		"examples": [],
-		"website": "https://www.flickr.com/photos/jeepersmedia/49420528061"
-	}],
-	"capitulate": [{
-		"pos": "verb",
-		"def": "to surrender often after negotiation of terms",
-		"synonyms": ["yield"],
-		"antonyms": ["resist"],
-		"image": "capitulate.jpg",
-		"notes": "Mamoru Shigemitsu signs the Instrument of Surrender, officially ending the Second World War",
-		"examples": [],
-		"website": "https://en.wikipedia.org/wiki/File:Shigemitsu-signs-surrender.jpg"
-	}],
-	"cataclysm": [{
-		"pos": "noun",
-		"def": "an event resulting in great lose and misfortune",
-		"synonyms": ["catastrophe", "bale"],
-		"antonyms": [],
-		"image": "cataclysm.jpg",
-		"notes": "",
-		"examples": [],
-		"website": "https://pixabay.com/cs/illustrations/dinosaurus-meteor-dopad-apokalypsa-5277285/"
-	}],
-	"concomitant": [{
+	"anemic": [{
 		"pos": "adjective",
-		"def": "existing or occurring with something else",
-		"synonyms": ["accompanying", "consequent"],
+		"def": "lacking power, vigor, or vitality",
+		"synonyms": [],
 		"antonyms": [],
-		"image": "concomitant.jpg",
+		"alternatives": ["anaemic"],
+		"image": "anemic.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:NO_FACE_MASK,_NO_ENTRY.jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:Sleeping_students.jpg",
+		"phonetics-us": ["/əˈniː.mɪk/"],
+		"phonetics-uk": ["/əˈniː.mɪk/"]
 	}],
-	"countermand": [{
-		"pos": "verb",
-		"def": "revoke or cancel (an order)",
-		"synonyms": ["rescind", "retract", "abrogate"],
-		"antonyms": [],
-		"image": "countermand.png",
-		"notes": "",
-		"examples": [],
-		"website": "http://wizapp.sourceforge.net/manual.html"
-	}],
-	"despot": [{
+	"apotheosis": [{
 		"pos": "noun",
-		"def": "a ruler or other person who holds absolute power, typically one who exercises it in a cruel or oppressive way",
-		"synonyms": ["dictator", "autocrat"],
-		"antonyms": [],
-		"image": "despot.jpg",
-		"notes": "Kim Jong-un, Supreme Leader of North Korea",
+		"def": "the highest point in the development of something; model of excellence",
+		"synonyms": ["peak", "zenith", "apex", "acme", "apogee", "paragon"],
+		"antonyms": ["nadir"],
+		"alternatives": [],
+		"image": "apotheosis.jpg",
+		"notes": "The Starry Night painting by Vincent van Gogh",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Kim_Jong-un_(2019-04-25)_04.jpg"
-	}],
-	"diminutive": [{
-		"pos": "adjective",
-		"def": "extremely or unusually small",
-		"synonyms": ["tiny"],
-		"antonyms": [],
-		"image": "diminutive.jpg",
-		"notes": "",
-		"examples": [],
-		"website": "https://pxhere.com/en/photo/825877"
+		"website": "https://en.wikipedia.org/wiki/File:Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+		"phonetics-us": ["/əˌpɑː.θiˈoʊ.sɪs/"],
+		"phonetics-uk": ["/əˌpɒθ.iˈəʊ.sɪs/"]
 	}, {
 		"pos": "noun",
-		"def": "a shortened form of a name, typically used informally; to indicate smallness",
+		"def": "the elevation of someone to divine status",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "",
 		"notes": "",
 		"examples": [],
 		"website": ""
 	}],
-	"dissemble": [{
-		"pos": "verb",
-		"def": "conceal or disguise one's true feelings or beliefs",
-		"synonyms": ["pretend", "deceive"],
+	"approbatory": [{
+		"pos": "adjective",
+		"def": "expressing praise or approval",
+		"synonyms": [],
 		"antonyms": [],
-		"image": "dissemble.jpg",
+		"alternatives": [],
+		"image": "approbatory.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pikrepo.com/fqlxj/woman-in-black-dress-right-foot-on-sofa-hiding-gun-behind-her-back-photo"
+		"website": "https://www.pikrepo.com/fhuuy/man-in-white-crew-neck-t-shirt-wearing-silver-round-analog-watch",
+		"phonetics-us": ["/əˈproʊbəˌtɔri/"],
+		"phonetics-uk": ["/ˈaprəˌbeɪtəri/"]
 	}],
-	"dissipate": [{
+	"bastardize": [{
 		"pos": "verb",
-		"def": "to spend or use wastefully or extravagantly",
-		"synonyms": ["squander"],
+		"def": "change (something) in such a way as to lower its quality or value, typically by adding new elements",
+		"synonyms": ["corrupt", "debase", "degrade"],
 		"antonyms": [],
-		"image": "dissipate.jpg",
+		"alternatives": ["bastardise"],
+		"image": "bastardize.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pixabay.com/cs/photos/fu%C4%8D-pen%C3%ADze-odpad-d%C5%99ez-m%C4%9Bny-4708734/"
+		"website": "https://commons.wikimedia.org/wiki/File:Contaminated_Lake.jpg",
+		"phonetics-us": ["/ˈbæs.tɚ.daɪz/"],
+		"phonetics-uk": ["/ˈbɑː.stə.daɪz/"]
+	}],
+	"beg": [{
+		"pos": "verb",
+		"def": "to fail or refuse to come to grips with",
+		"synonyms": ["evade", "dodge"],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "beg.jpeg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.dyess.af.mil/News/Photos/igphoto/2000507699/",
+		"phonetics-us": ["/beɡ/"],
+		"phonetics-uk": ["/beɡ/"]
+	}],
+	"chagrin": [{
+		"pos": "noun",
+		"def": "annoyance or distress at having failed or been humiliated",
+		"synonyms": ["exasperation"],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "",
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}, {
 		"pos": "verb",
-		"def": "to scatter in various directions",
-		"synonyms": ["disperse", "evanesce"],
+		"def": "feel distressed or humiliated",
+		"synonyms": ["irked"],
 		"antonyms": [],
+		"alternatives": [],
+		"image": "chagrin.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Draupadi_humiliated_RRV.jpg",
+		"phonetics-us": ["/ˈʃæɡ.rɪn/"],
+		"phonetics-uk": ["/ˈʃæɡ.rɪn/"]
+	}],
+	"conflagration": [{
+		"pos": "noun",
+		"def": "an extensive fire which destroys a great deal of land or property",
+		"synonyms": [],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "conflagration.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Deerfire_high_res_edit.jpg",
+		"phonetics-us": ["/ˌkɑːn.fləˈɡreɪ.ʃən/"],
+		"phonetics-uk": ["/ˌkɒn.fləˈɡreɪ.ʃən/"]
+	}],
+	"demonstrative": [{
+		"pos": "adjective",
+		"def": "(of a person) unrestrained in showing feelings, especially those of affection",
+		"synonyms": [],
+		"antonyms": ["reserved"],
+		"alternatives": [],
+		"image": "demonstrative.jpeg",
+		"notes": "",
+		"examples": [],
+		"website": "https://pixnio.com/people/child-togetherness-affection-mother-son-smile-portrait-woman-embrace-together",
+		"phonetics-us": ["/dɪˈmɑːn.strə.t̬ɪv/"],
+		"phonetics-uk": ["/dɪˈmɒn.strə.tɪv/"]
+	}],
+	"discursive": [{
+		"pos": "adjective",
+		"def": "tending to depart from the main point or passing aimlessly from one subject to another",
+		"synonyms": ["meandering", "wandering", "maundering", "prolix"],
+		"antonyms": ["concise"],
+		"alternatives": [],
+		"image": "discursive.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.publicdomainpictures.net/pt/view-image.php?image=119378&picture=arrow-espiral",
+		"phonetics-us": ["/dɪˈskɝː.sɪv/"],
+		"phonetics-uk": ["/dɪˈskɜː.sɪv/"]
+	}, {
+		"pos": "adjective",
+		"def": "proceeding to a conclusion by reason or argument rather than intuition",
+		"synonyms": [],
+		"antonyms": [],
+		"alternatives": [],
 		"image": "",
 		"notes": "",
 		"examples": [],
 		"website": ""
 	}],
-	"dissolution": [{
-		"pos": "noun",
-		"def": "debauched living; overindulging in sensual pleasures",
-		"synonyms": ["dissipation", "intemperance", "profligacy"],
-		"antonyms": ["asceticism"],
-		"image": "dissolution.jpg",
+	"disingenuous": [{
+		"pos": "adjective",
+		"def": "not candid or sincere, typically by pretending that one knows less about something than one really does",
+		"synonyms": ["duplicitous", "mendacious", "crafty"],
+		"antonyms": ["frank"],
+		"alternatives": [],
+		"image": "disingenuous.png",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pickpik.com/man-bavaria-dirndl-folklore-woman-women-111234"
+		"website": "https://www.maxpixels.net/Skull-Strange-Two-faced-Face-Weird-4908263",
+		"phonetics-us": ["/ˌdɪs.ɪnˈdʒen.ju.əs/"],
+		"phonetics-uk": ["/ˌdɪs.ɪnˈdʒen.ju.əs/"]
+	}],
+	"duplicity": [{
+		"pos": "noun",
+		"def": "deceitfulness in speech or conduct; pretending to entertain one set of intentions while acting under the influence of another",
+		"synonyms": ["dissembling"],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "duplicity.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:Htoo_Wunna_Ko_Ko_,_Anonymous_Mask_,_Hacker.jpg",
+		"phonetics-us": ["/duːˈplɪs.ə.t̬i/"],
+		"phonetics-uk": ["/dʒuˈplɪs.ə.ti/"]
 	}],
 	"ebullient": [{
 		"pos": "adjective",
 		"def": "cheerful and full of energy",
 		"synonyms": ["euphoric", "jubilant", "effervescent"],
 		"antonyms": ["depressed"],
+		"alternatives": [],
 		"image": "ebullient.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pixabay.com/cs/photos/d%C4%9Bv%C4%8De-skok-%C5%A1%C5%A5astn%C3%BD-sk%C3%A1k%C3%A1n%C3%AD-joy-4886316/"
+		"website": "https://pixabay.com/cs/photos/d%C4%9Bv%C4%8De-skok-%C5%A1%C5%A5astn%C3%BD-sk%C3%A1k%C3%A1n%C3%AD-joy-4886316/",
+		"phonetics-us": ["/ɪbˈʊl.i.ənt/"],
+		"phonetics-uk": ["/ɪbˈʊl.i.ənt/"]
 	}],
 	"enamor": [{
 		"pos": "verb",
 		"def": "be filled with love for",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "enamor.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pickpik.com/heart-love-hug-person-man-poor-75237"
+		"website": "https://www.pickpik.com/heart-love-hug-person-man-poor-75237",
+		"phonetics-us": ["/ɪˈnæm.ɚ/"],
+		"phonetics-uk": ["/ɪˈnæm.ər/"]
 	}],
 	"eponym": [{
 		"pos": "noun",
 		"def": "a person after whom a discovery, invention, or place is named",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "eponym.jpg",
 		"notes": "Anders Celsius, a Swedish Astronomer who invented the Celsius temperature scale.",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Anders_Celsius.jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:Anders_Celsius.jpg",
+		"phonetics-us": ["/ˈep.ə.nɪm/"],
+		"phonetics-uk": ["/ˈep.ə.nɪm/"]
 	}],
 	"estimable": [{
 		"pos": "adjective",
 		"def": "worthy of great respect",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "estimable.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pxfuel.com/en/free-photo-xsswq"
+		"website": "https://www.pxfuel.com/en/free-photo-xsswq",
+		"phonetics-us": ["/ˈes.tə.mə.bəl/"],
+		"phonetics-uk": ["/ˈes.tɪ.mə.bəl/"]
+	}, {
+		"pos": "adjective",
+		"def": "capable of being estimated",
+		"synonyms": [],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "",
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"evanescent": [{
 		"pos": "adjective",
 		"def": "tending to vanish like vapor",
 		"synonyms": ["ephemeral", "transient"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "evanescent.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pexels.com/photo/photo-of-lightning-1114690/"
+		"website": "https://www.pexels.com/photo/photo-of-lightning-1114690/",
+		"phonetics-us": ["/ˌev.əˈnes.ənt/"],
+		"phonetics-uk": ["/ˌiː.vəˈnes.ənt/"]
 	}],
 	"exiguity": [{
 		"pos": "noun",
-		"def": "the quality of being meager; very small in size or amount",
+		"def": "the quality of being meagre; very small in size or amount",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "exiguity.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pxfuel.com/en/free-photo-jsnwl"
-	}],
-	"exorbitant": [{
-		"pos": "adjective",
-		"def": "greatly exceeding bounds of reason or moderation, especially in amount or extent",
-		"synonyms": [],
-		"antonyms": [],
-		"image": "exorbitant.jpg",
-		"notes": "",
-		"examples": [],
-		"website": "https://freesvg.org/man-worried-about-the-bill-vector"
+		"website": "https://www.pxfuel.com/en/free-photo-jsnwl",
+		"phonetics-us": ["/ˌɛksəˈɡjuədi/"],
+		"phonetics-uk": ["/ɛɡzɪˈɡjuːɪti/"]
 	}],
 	"extrapolate": [{
 		"pos": "verb",
 		"def": "to infer (an unknown) from something that is known; draw from specific cases for more general cases",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "extrapolate.png",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Regressions_sine_demo.svg"
+		"website": "https://commons.wikimedia.org/wiki/File:Regressions_sine_demo.svg",
+		"phonetics-us": ["/ɪkˈstræp.ə.leɪt/"],
+		"phonetics-uk": ["/ɪkˈstræp.ə.leɪt/"]
 	}],
 	"flag": [{
 		"pos": "verb",
 		"def": "become tired or less enthusiastic",
 		"synonyms": ["weaken", "languish"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "flag.png",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Tired_Cartoon_Woman_Working_Overtime.svg"
+		"website": "https://commons.wikimedia.org/wiki/File:Tired_Cartoon_Woman_Working_Overtime.svg",
+		"phonetics-us": ["/flæɡ/"],
+		"phonetics-uk": ["/flæɡ/"]
 	}],
 	"graft": [{
 		"pos": "noun",
 		"def": "bribery and other corrupt practices used to secure illicit advantages",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "graft.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pixabay.com/cs/photos/%C5%BEel%C3%ADzka-pen%C3%ADze-korupce-hospod%C3%A1%C5%99stv%C3%AD-2070580/"
+		"website": "https://pixabay.com/cs/photos/%C5%BEel%C3%ADzka-pen%C3%ADze-korupce-hospod%C3%A1%C5%99stv%C3%AD-2070580/",
+		"phonetics-us": ["/ɡræft/"],
+		"phonetics-uk": ["/ɡrɑːft/"]
 	}],
 	"halcyon": [{
 		"pos": "adjective",
 		"def": "denoting a period of time in the past that was idyllically happy and peaceful",
 		"synonyms": ["serene", "placid"],
 		"antonyms": ["troubled"],
+		"alternatives": [],
 		"image": "halcyon.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.needpix.com/photo/1146374/peaceful-happy-sea-sunshine-harmony-wellness-water-beach-ocean"
+		"website": "https://www.needpix.com/photo/1146374/peaceful-happy-sea-sunshine-harmony-wellness-water-beach-ocean",
+		"phonetics-us": ["/ˈhælsiən/"],
+		"phonetics-uk": ["/ˈhalsɪən/"]
 	}],
 	"hoodwink": [{
 		"pos": "verb",
 		"def": "deceive or trick",
 		"synonyms": ["dupe", "defraud", "swindle", "mulct"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "hoodwink.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pikist.com/free-photo-vbyfo"
+		"website": "https://www.pikist.com/free-photo-vbyfo",
+		"phonetics-us": ["/ˈhʊd.wɪŋk/"],
+		"phonetics-uk": ["/ˈhʊd.wɪŋk/"]
 	}],
-	"ineluctable": [{
+	"impecunious": [{
 		"pos": "adjective",
-		"def": "unable to be resisted or avoided",
-		"synonyms": ["inescapable", "inevitable"],
+		"def": "having little or no money",
+		"synonyms": ["penurious", "indigent", "destitute"],
 		"antonyms": [],
-		"image": "ineluctable.jpg",
-		"notes": "Death is inevitable",
-		"examples": [],
-		"website": "https://publicdomainvectors.org/en/free-clipart/Grim-reaper-with-hourglass/36541.html"
-	}],
-	"infelicitous": [{
-		"pos": "adjective",
-		"def": "not appropriate or well-timed",
-		"synonyms": ["unfortunate", "regrettable"],
-		"antonyms": [],
-		"image": "infelicitous.jpg",
+		"alternatives": [],
+		"image": "impecunious.png",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pikrepo.com/fghty/tree-fall-down-on-top-of-car"
+		"website": "https://commons.wikimedia.org/wiki/File:Cartoon_Guy_Looking_For_Money_In_His_Empty_Wallet.svg",
+		"phonetics-us": ["/ˌɪm.pəˈkjuː.ni.əs/"],
+		"phonetics-uk": ["/ˌɪm.pəˈkjuː.ni.əs/"]
+	}],
+	"irrefutable": [{
+		"pos": "adjective",
+		"def": "impossible to deny or disprove",
+		"synonyms": ["incontrovertible", "unassailable", "impregnable", "indubitable"],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "irrefutable.png",
+		"notes": "",
+		"examples": [],
+		"website": "https://pixabay.com/cs/vectors/afrika-afri%C4%8Dan-tabule-k%C5%99%C3%ADda-2027813/",
+		"phonetics-us": ["/ˌɪr.əˈfjuː.t̬ə.bəl/"],
+		"phonetics-uk": ["/ˌɪr.ɪˈfjuː.tə.bəl/"]
+	}],
+	"lacerate": [{
+		"pos": "verb",
+		"def": "criticize forcefully or severely; deeply hurt the feelings of",
+		"synonyms": [],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "lacerate.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://pixabay.com/cs/photos/pl%C3%A1%C4%8D-pla%C4%8D%C3%ADc%C3%AD-mu%C5%BE-smutek-plakat-4670799/",
+		"phonetics-us": ["/ˈlæs.ə.reɪt/"],
+		"phonetics-uk": ["/ˈlæs.ər.eɪt/"]
 	}],
 	"lachrymose": [{
 		"pos": "adjective",
 		"def": "tearful or given to weeping",
 		"synonyms": ["sorrowful", "morose", "melancholy", "doleful", "maudlin", "lugubrious", "dolorous"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "lachrymose.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.needpix.com/photo/284674/crying-children-cry"
+		"website": "https://www.needpix.com/photo/284674/crying-children-cry",
+		"phonetics-us": ["/ˈlæk.rɪ.moʊs/"],
+		"phonetics-uk": ["/ˈlæk.rɪ.məʊs/"]
+	}],
+	"limpid": [{
+		"pos": "adjective",
+		"def": "clearly expressed and easily understood, especially of writing or music",
+		"synonyms": ["lucid"],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "limpid.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://pxhere.com/en/photo/721292",
+		"phonetics-us": ["/ˈlɪm.pɪd/"],
+		"phonetics-uk": ["/ˈlɪm.pɪd/"]
 	}],
 	"loath": [{
 		"pos": "adjective",
 		"def": "unwilling to do something contrary to one's ways of thinking",
 		"synonyms": ["reluctant"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "loath.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.needpix.com/photo/download/1456962/man-grandfather-helping-girl-granddaughter-younggirl-jump-jumpoff-divingboard"
+		"website": "https://www.needpix.com/photo/download/1456962/man-grandfather-helping-girl-granddaughter-younggirl-jump-jumpoff-divingboard",
+		"phonetics-us": ["/loʊθ/"],
+		"phonetics-uk": ["/ləʊθ/"]
 	}],
 	"misattribute": [{
 		"pos": "verb",
 		"def": "to incorrectly indicate the cause, origin, or creator of (something); wrongly attribute",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "misattribute.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pxfuel.com/en/free-photo-jpxso"
+		"website": "https://www.pxfuel.com/en/free-photo-jpxso",
+		"phonetics-us": ["/ˌmɪsəˈtrɪbjuːt/"],
+		"phonetics-uk": ["/ˌmɪsəˈtrɪbjuːt/"]
 	}],
 	"modicum": [{
 		"pos": "noun",
 		"def": "a small quantity of a particular thing, especially something desirable or valuable",
-		"synonyms": [],
+		"synonyms": ["speck", "smattering"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "modicum.jpg",
 		"notes": "A diamond ring",
 		"examples": [],
-		"website": "https://www.pxfuel.com/en/free-photo-xfqhd"
+		"website": "https://www.pxfuel.com/en/free-photo-xfqhd",
+		"phonetics-us": ["/ˈmɑː.dɪ.kəm/"],
+		"phonetics-uk": ["/ˈmɒd.ɪ.kəm/"]
 	}],
 	"oblique": [{
 		"pos": "adjective",
 		"def": "not expressed or done in a direct way",
 		"synonyms": ["evasive"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "oblique.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pxhere.com/en/photo/1154521"
+		"website": "https://pxhere.com/en/photo/1154521",
+		"phonetics-us": ["/oʊˈbliːk/"],
+		"phonetics-uk": ["/əˈbliːk/"]
 	}],
 	"obtain": [{
 		"pos": "verb",
 		"def": "be prevalent, customary, or established",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "obtain.jpeg",
 		"notes": "Jar for tips at a restaurant",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Jar_for_tips_at_a_restaurant_in_New_Jersey.JPG"
+		"website": "https://commons.wikimedia.org/wiki/File:Jar_for_tips_at_a_restaurant_in_New_Jersey.JPG",
+		"phonetics-us": ["/əbˈteɪn/"],
+		"phonetics-uk": ["/əbˈteɪn/"]
 	}],
 	"officious": [{
 		"pos": "adjective",
 		"def": "aggressive in offering one's unrequested services, especially with regard to trivial matters",
 		"synonyms": ["bossy", "interfering"],
 		"antonyms": ["self-effacing"],
+		"alternatives": [],
 		"image": "officious.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.peakpx.com/616898/basketball-players-beside-referee"
+		"website": "https://www.peakpx.com/616898/basketball-players-beside-referee",
+		"phonetics-us": ["/əˈfɪʃ.əs/"],
+		"phonetics-uk": ["/əˈfɪʃ.əs/"]
 	}],
-	"palaver": [{
-		"pos": "verb",
-		"def": "talk unproductively and at length",
-		"synonyms": ["maunder"],
-		"antonyms": [],
-		"image": "palaver.jpg",
-		"notes": "",
-		"examples": [],
-		"website": "https://pixabay.com/cs/photos/%C5%BEeny-holky-mluv%C3%AD-kr%C3%A1sa-model-4027275/"
-	}],
-	"panacea": [{
+	"palimpsest": [{
 		"pos": "noun",
-		"def": "a solution or remedy for all difficulties or diseases",
+		"def": "something reused or altered but still bearing visible traces of its earlier form",
 		"synonyms": [],
 		"antonyms": [],
-		"image": "panacea.jpeg",
+		"alternatives": [],
+		"image": "palimpsest.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Panadol.JPG"
+		"website": "https://commons.wikimedia.org/wiki/File:Archimedes_Palimpsest.jpg",
+		"phonetics-us": ["/ˈpæl.ɪmp.sest/"],
+		"phonetics-uk": ["/ˈpæl.ɪm.sest/"]
 	}],
-	"pillory": [{
-		"pos": "verb",
-		"def": "attack or ridicule publicly",
-		"synonyms": ["criticize", "censure"],
-		"antonyms": [],
-		"image": "pillory.jpeg",
+	"perfunctory": [{
+		"pos": "adjective",
+		"def": "(of an action) carried out without real interest, feeling, or effort",
+		"synonyms": ["indifferent"],
+		"antonyms": ["thorough"],
+		"alternatives": [],
+		"image": "perfunctory.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:William_Pyne-_The_Costume_of_Great_Britain_(1805)_-_The_Pillory.JPG"
+		"website": "https://commons.wikimedia.org/wiki/File:Washing_dishes_for_Our_Community_Place_soup_kitchen_Little_Grill_Collective_Harrisonburg_VA_June_2008.jpg",
+		"phonetics-us": ["/pɚˈfʌŋk.tɚ.i/"],
+		"phonetics-uk": ["/pəˈfʌŋk.tər.i/"]
 	}],
-	"promulgate": [{
+	"precipitate": [{
 		"pos": "verb",
-		"def": "promote or make widely known (an idea or cause)",
-		"synonyms": ["spread", "disseminate"],
+		"def": "cause (an event, typically one that is undesirable) to happen suddenly or unexpectedly",
+		"synonyms": [],
 		"antonyms": [],
-		"image": "promulgate.jpg",
+		"alternatives": [],
+		"image": "",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pexels.com/photo/cheerful-young-woman-screaming-into-megaphone-3761509/"
+		"website": ""
+	}, {
+		"pos": "adjective",
+		"def": "done, made, or acting suddenly or without careful consideration",
+		"synonyms": ["hasty", "rash", "impetuous", "imprudent", "foolhardy"],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "precipitate.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.piqsels.com/en/public-domain-photo-zatqe",
+		"phonetics-us": ["/prɪˈsɪp.ə.teɪt/"],
+		"phonetics-uk": ["/prɪˈsɪp.ɪ.teɪt/"]
+	}],
+	"prognostication": [{
+		"pos": "noun",
+		"def": "the action of prophesying future events",
+		"synonyms": ["prediction"],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "prognostication.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "https://commons.wikimedia.org/wiki/File:NNAM_Halloween_2008,_palm_reading.jpg",
+		"phonetics-us": ["/prɑːɡ.nɑː.stəˈkeɪ.ʃən/"],
+		"phonetics-uk": ["/prɒɡ.nɒs.tɪˈkeɪ.ʃən/"]
 	}],
 	"raillery": [{
 		"pos": "noun",
 		"def": "good-humoured teasing",
 		"synonyms": ["banter"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "raillery.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Girl_Teasing_a_Boy_attributed_to_Bernhard_Keil_Mauritshuis_825.jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:Girl_Teasing_a_Boy_attributed_to_Bernhard_Keil_Mauritshuis_825.jpg",
+		"phonetics-us": ["/ˈreɪ.lɚ.i/"],
+		"phonetics-uk": ["/ˈreɪ.lər.i/"]
 	}],
 	"row": [{
 		"pos": "noun",
 		"def": "a noisy dispute or quarrel",
-		"synonyms": [""],
+		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "row.png",
 		"notes": "",
 		"examples": [],
-		"website": "https://pixabay.com/cs/illustrations/argumentuj%C3%AD-rozzloben%C3%BD-3767380/"
+		"website": "https://pixabay.com/cs/illustrations/argumentuj%C3%AD-rozzloben%C3%BD-3767380/",
+		"phonetics-us": ["/roʊ/"],
+		"phonetics-uk": ["/rəʊ/"]
 	}],
 	"sardonic": [{
 		"pos": "adjective",
 		"def": "grimly mocking or cynical; disdainfully or ironically humorous",
 		"synonyms": ["derisive"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "sardonic.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pxfuel.com/en/free-photo-okxgc"
+		"website": "https://www.pxfuel.com/en/free-photo-okxgc",
+		"phonetics-us": ["/sɑːrˈdɑː.nɪk/"],
+		"phonetics-uk": ["/sɑːˈdɒn.ɪk/"]
 	}],
-	"simulacrum": [{
+	"solecism": [{
 		"pos": "noun",
-		"def": "an image or representation of someone or something, especially in the form of sculpture",
-		"synonyms": [],
+		"def": "a breach of good manners; an instance of incorrect behaviour",
+		"synonyms": ["gaffe"],
 		"antonyms": [],
-		"image": "",
-		"notes": "",
+		"alternatives": [],
+		"image": "solecism.jpeg",
+		"notes": "Man sneezing without covering his mouth",
 		"examples": [],
-		"website": ""
-	}, {
-		"pos": "noun",
-		"def": "an unsatisfactory imitation",
-		"synonyms": ["semblance"],
-		"antonyms": [],
-		"image": "simulacrum.jpg",
-		"notes": "",
-		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:ScannedImage-2MONA_LISA.jpg"
+		"website": "https://en.wikipedia.org/wiki/File:Sneeze.JPG",
+		"phonetics-us": ["/ˈsɑː.lə.sɪ.zəm/"],
+		"phonetics-uk": ["/ˈsɒl.ɪ.sɪ.zəm/"]
 	}],
 	"splenetic": [{
 		"pos": "adjective",
-		"def": "bad-tempered; very irritable",
-		"synonyms": ["peevish", "petulant", "irascible"],
+		"def": "very irritable",
+		"synonyms": ["bad-tempered", "peevish", "petulant", "irascible"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "splenetic.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pxfuel.com/en/free-photo-obief"
-	}],
-	"surfeit": [{
-		"pos": "noun",
-		"def": "an excessive amount of something",
-		"synonyms": ["surplus", "superfluity", "glut"],
-		"antonyms": ["dearth"],
-		"image": "surfeit.jpg",
-		"notes": "",
-		"examples": [],
-		"website": "https://www.needpix.com/photo/1331041/hamburger-big-size-lunch-food-fast"
+		"website": "https://www.pxfuel.com/en/free-photo-obief",
+		"phonetics-us": ["/splɪˈnet̬.ɪk/"],
+		"phonetics-uk": ["/spləˈnet.ɪk/"]
 	}],
 	"trenchant": [{
 		"pos": "adjective",
 		"def": "vigorous or incisive in expression or style",
-		"synonyms": ["acute"],
+		"synonyms": ["acute", "mordant", "acerbic"],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "trenchant.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pixabay.com/cs/illustrations/data-anal%C3%BDza-%C3%BA%C4%8Detn%C3%AD-dokument-3938447/"
+		"website": "https://pixabay.com/cs/illustrations/data-anal%C3%BDza-%C3%BA%C4%8Detn%C3%AD-dokument-3938447/",
+		"phonetics-us": ["/ˈtren.tʃənt/"],
+		"phonetics-uk": ["/ˈtren.tʃənt/"]
+	}],
+	"unpropitious": [{
+		"pos": "adjective",
+		"def": "(of a circumstance) not giving or indicating a good chance of success",
+		"synonyms": ["unfavourable"],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "unpropitious.png",
+		"notes": "",
+		"examples": [],
+		"website": "https://pixabay.com/cs/illustrations/slep%C3%BD-c%C3%ADl-%C5%A1ipka-se-nezda%C5%99ilo-823530/",
+		"phonetics-us": ["/ˌənprəˈpɪʃəs/"],
+		"phonetics-uk": ["/ʌnprəˈpɪʃəs/"]
+	}],
+	"unviable": [{
+		"pos": "adjective",
+		"def": "not capable of working successfully, especially financially",
+		"synonyms": [],
+		"antonyms": ["feasible"],
+		"alternatives": [],
+		"image": "unviable.jpeg",
+		"notes": "",
+		"examples": [],
+		"website": "https://www.edwards.af.mil/News/Photos/igphoto/2001289978/",
+		"phonetics-us": ["/ʌnˈvaɪ.ə.bəl/"],
+		"phonetics-uk": ["/ʌnˈvaɪ.ə.bəl/"]
 	}],
 	"verisimilitude": [{
 		"pos": "noun",
 		"def": "the appearance of being true or real",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "verisimilitude.jpg",
-		"notes": "Hyper realistic drawing of bottle",
+		"notes": "Hyper-realistic drawing of bottle",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Hyper_realistic_drawing_of_bottle.jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:Hyper_realistic_drawing_of_bottle.jpg",
+		"phonetics-us": ["/ˌver.ə.səˈmɪl.ə.tuːd/"],
+		"phonetics-uk": ["/ˌver.ɪ.sɪˈmɪl.ɪ.tʃuːd/"]
 	}],
 	"veritable": [{
 		"pos": "adjective",
 		"def": "being in fact the thing named and not false; often used to quality a metaphor",
 		"synonyms": [],
 		"antonyms": [],
+		"alternatives": [],
 		"image": "veritable.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.peakpx.com/465131/2-black-and-white-sheep"
+		"website": "https://www.peakpx.com/465131/2-black-and-white-sheep",
+		"phonetics-us": ["/ˈver.ə.t̬ə.bəl/"],
+		"phonetics-uk": ["/ˈver.ɪ.tə.bəl/"]
 	}]
 }
