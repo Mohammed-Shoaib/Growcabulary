@@ -8,7 +8,9 @@
 		"image": "acumen.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/əˈkjuː.mən/"],
+		"phonetics-uk": ["/ˈæk.jə.mən/"]
 	}],
 	"aver": [{
 		"pos": "verb",
@@ -19,7 +21,9 @@
 		"image": "aver.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/əˈvɝː/"],
+		"phonetics-uk": ["/əˈvɜːr/"]
 	}],
 	"cacophony": [{
 		"pos": "noun",
@@ -30,7 +34,9 @@
 		"image": "cacophony.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/kəˈkɑː.fə.ni/"],
+		"phonetics-uk": ["/kəˈkɒf.ə.ni/"]
 	}],
 	"caustic": [{
 		"pos": "adjective",
@@ -54,7 +60,9 @@
 		"image": "chicanery.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ʃɪˈkeɪ.nɚ.i/"],
+		"phonetics-uk": ["/ʃɪˈkeɪ.nər.i/"]
 	}],
 	"condone": [{
 		"pos": "verb",
@@ -65,7 +73,9 @@
 		"image": "condone.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/kənˈdoʊn/"],
+		"phonetics-uk": ["/kənˈdəʊn/"]
 	}],
 	"connoisseur": [{
 		"pos": "noun",
@@ -76,7 +86,9 @@
 		"image": "connoisseur.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌkɑː.nəˈsɝː/"],
+		"phonetics-uk": ["/ˌkɒn.əˈsɜːr/"]
 	}],
 	"consequential": [{
 		"pos": "adjective",
@@ -87,7 +99,9 @@
 		"image": "consequential.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌkɑnsəˈkwɛn(t)ʃəl/"],
+		"phonetics-uk": ["/kɒnsɪˈkwɛnʃ(ə)l/"]
 	}, {
 		"pos": "noun",
 		"def": "having important issues or results",
@@ -108,7 +122,9 @@
 		"image": "contend.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/kənˈtend/"],
+		"phonetics-uk": ["/kənˈtend/"]
 	}, {
 		"pos": "verb",
 		"def": "assert something as a position in an argument",
@@ -129,7 +145,9 @@
 		"image": "covet.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈkʌv.ət/"],
+		"phonetics-uk": ["/ˈkʌv.ɪt/"]
 	}],
 	"credulous": [{
 		"pos": "adjective",
@@ -140,7 +158,9 @@
 		"image": "credulous.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈkredʒ.ə.ləs/"],
+		"phonetics-uk": ["/ˈkredʒ.ə.ləs/"]
 	}],
 	"deflect": [{
 		"pos": "verb",
@@ -151,7 +171,9 @@
 		"image": "deflect.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/dɪˈflekt/"],
+		"phonetics-uk": ["/dɪˈflekt/"]
 	}],
 	"deftness": [{
 		"pos": "noun",
@@ -162,7 +184,9 @@
 		"image": "deftness.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pxfuel.com/en/free-photo-euzry"
+		"website": "https://www.pxfuel.com/en/free-photo-euzry",
+		"phonetics-us": ["/ˈdeft.nəs/"],
+		"phonetics-uk": ["/ˈdeft.nəs/"]
 	}],
 	"desultory": [{
 		"pos": "adjective",
@@ -173,7 +197,9 @@
 		"image": "desultory.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈdes.əl.tɔːr.i/"],
+		"phonetics-uk": ["/ˈdes.əl.tər.i/"]
 	}],
 	"dirge": [{
 		"pos": "noun",
@@ -184,7 +210,9 @@
 		"image": "dirge.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Dirge_of_the_Three_Queens_MET_DT203398.jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:Dirge_of_the_Three_Queens_MET_DT203398.jpg",
+		"phonetics-us": ["/dɝːdʒ/"],
+		"phonetics-uk": ["/dɜːdʒ/"]
 	}],
 	"discern": [{
 		"pos": "verb",
@@ -195,7 +223,9 @@
 		"image": "discern.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/dɪˈsɝːn/"],
+		"phonetics-uk": ["/dɪˈsɜːn/"]
 	}],
 	"dogma": [{
 		"pos": "noun",
@@ -206,7 +236,9 @@
 		"image": "dogma.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈdɑːɡ.mə/"],
+		"phonetics-uk": ["/ˈdɒɡ.mə/"]
 	}],
 	"eloquence": [{
 		"pos": "noun",
@@ -217,7 +249,9 @@
 		"image": "eloquence.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈel.ə.kwəns/"],
+		"phonetics-uk": ["/ˈel.ə.kwəns/"]
 	}],
 	"empirical": [{
 		"pos": "adjective",
@@ -228,7 +262,9 @@
 		"image": "empirical.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/emˈpɪr.ɪ.kəl/"],
+		"phonetics-uk": ["/ɪmˈpɪr.ɪ.kəl/"]
 	}],
 	"enhance": [{
 		"pos": "verb",
@@ -239,7 +275,9 @@
 		"image": "enhance.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪnˈhæns/"],
+		"phonetics-uk": ["/ɪnˈhɑːns/"]
 	}],
 	"eulogy": [{
 		"pos": "noun",
@@ -250,7 +288,9 @@
 		"image": "eulogy.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈjuː.lə.dʒi/"],
+		"phonetics-uk": ["/ˈjuː.lə.dʒi/"]
 	}],
 	"exculpate": [{
 		"pos": "verb",
@@ -261,7 +301,9 @@
 		"image": "exculpate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈek.skəl.peɪt/"],
+		"phonetics-uk": ["/ˈek.skəl.peɪt/"]
 	}],
 	"expatiate": [{
 		"pos": "verb",
@@ -272,7 +314,9 @@
 		"image": "expatiate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ekˈspeɪ.ʃi.eɪt/"],
+		"phonetics-uk": ["/ekˈspeɪ.ʃi.eɪt/"]
 	}],
 	"explicate": [{
 		"pos": "verb",
@@ -283,7 +327,9 @@
 		"image": "explicate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈek.splə.keɪt/"],
+		"phonetics-uk": ["/ˈek.splɪ.keɪt/"]
 	}],
 	"exposition": [{
 		"pos": "noun",
@@ -304,7 +350,9 @@
 		"image": "exposition.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Exposition_temporaire_Les_Fables_du_paysage_flamand_(2012-2013).jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:Exposition_temporaire_Les_Fables_du_paysage_flamand_(2012-2013).jpg",
+		"phonetics-us": ["/ˌek.spəˈzɪʃ.ən/"],
+		"phonetics-uk": ["/ˌek.spəˈzɪʃ.ən/"]
 	}],
 	"facilitate": [{
 		"pos": "verb",
@@ -315,7 +363,9 @@
 		"image": "facilitate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/fəˈsɪl.ə.teɪt/"],
+		"phonetics-uk": ["/fəˈsɪl.ɪ.teɪt/"]
 	}],
 	"fluctuate": [{
 		"pos": "verb",
@@ -326,7 +376,9 @@
 		"image": "fluctuate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈflʌk.tʃu.eɪt/"],
+		"phonetics-uk": ["/ˈflʌk.tʃu.eɪt/"]
 	}],
 	"forestall": [{
 		"pos": "verb",
@@ -337,7 +389,9 @@
 		"image": "forestall.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/fɔːrˈstɑːl/"],
+		"phonetics-uk": ["/fɔːˈstɔːl/"]
 	}],
 	"guile": [{
 		"pos": "noun",
@@ -348,7 +402,9 @@
 		"image": "guile.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɡaɪl/"],
+		"phonetics-uk": ["/ɡaɪl/"]
 	}],
 	"homogenous": [{
 		"pos": "adjective",
@@ -359,7 +415,9 @@
 		"image": "homogenous.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Ice_cubes_openphoto.jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:Ice_cubes_openphoto.jpg",
+		"phonetics-us": ["/ˌhoʊ.moʊˈdʒiː.ni.əs/"],
+		"phonetics-uk": ["/ˌhɒm.əˈdʒiː.ni.əs/"]
 	}],
 	"hyperbole": [{
 		"pos": "noun",
@@ -370,7 +428,9 @@
 		"image": "hyperbole.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/haɪˈpɝː.bəl.i/"],
+		"phonetics-uk": ["/haɪˈpɜː.bəl.i/"]
 	}],
 	"imperturbable": [{
 		"pos": "adjective",
@@ -381,7 +441,9 @@
 		"image": "imperturbable.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌɪm.pɚˈtɝː.bə.bəl/"],
+		"phonetics-uk": ["/ˌɪm.pəˈtɜː.bə.bəl/"]
 	}],
 	"inconclusive": [{
 		"pos": "adjective",
@@ -392,7 +454,9 @@
 		"image": "inconclusive.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌɪn.kəŋˈkluː.sɪv/"],
+		"phonetics-uk": ["/ˌɪn.kəŋˈkluː.sɪv/"]
 	}],
 	"indebted": [{
 		"pos": "adjective",
@@ -403,7 +467,9 @@
 		"image": "indebted.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪnˈdet̬.ɪd/"],
+		"phonetics-uk": ["/ɪnˈdet.ɪd/"]
 	}],
 	"insular": [{
 		"pos": "adjective",
@@ -414,7 +480,9 @@
 		"image": "insular.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈɪn.sə.lɚ/"],
+		"phonetics-uk": ["/ˈɪn.sjə.lər/"]
 	}, {
 		"pos": "adjective",
 		"def": "relating to or from an island",
@@ -435,7 +503,9 @@
 		"image": "intensive.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪnˈten.sɪv/"],
+		"phonetics-uk": ["/ɪnˈten.sɪv/"]
 	}],
 	"invulnerable": [{
 		"pos": "adjective",
@@ -446,7 +516,9 @@
 		"image": "invulnerable.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪnˈvʌl.nɚ.ə.bəl/"],
+		"phonetics-uk": ["/ɪnˈvʌl.nər.ə.bəl/"]
 	}],
 	"litigation": [{
 		"pos": "noun",
@@ -457,7 +529,9 @@
 		"image": "litigation.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌlɪt̬.əˈɡeɪ.ʃən/"],
+		"phonetics-uk": ["/ˌlɪt.ɪˈɡeɪ.ʃən/"]
 	}],
 	"monotony": [{
 		"pos": "noun",
@@ -468,7 +542,9 @@
 		"image": "monotony.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/məˈnɑː.t̬ən.i/"],
+		"phonetics-uk": ["/məˈnɒt.ən.i/"]
 	}, {
 		"pos": "noun",
 		"def": "constancy of tone or pitch in a sound or utterance",
@@ -489,7 +565,9 @@
 		"image": "onerous.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈɑː.nɚ.əs/"],
+		"phonetics-uk": ["/ˈəʊ.nər.əs/"]
 	}],
 	"opprobrium": [{
 		"pos": "noun",
@@ -510,7 +588,9 @@
 		"image": "opprobrium.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/əˈproʊ.bri.əm/"],
+		"phonetics-uk": ["/əˈprəʊ.bri.əm/"]
 	}],
 	"outstrip": [{
 		"pos": "verb",
@@ -521,7 +601,9 @@
 		"image": "outstrip.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌaʊtˈstrɪp/"],
+		"phonetics-uk": ["/ˌaʊtˈstrɪp/"]
 	}],
 	"painstaking": [{
 		"pos": "adjective",
@@ -532,7 +614,9 @@
 		"image": "painstaking.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈpeɪnzˌteɪ.kɪŋ/"],
+		"phonetics-uk": ["/ˈpeɪnzˌteɪ.kɪŋ/"]
 	}],
 	"partisan": [{
 		"pos": "noun",
@@ -543,7 +627,9 @@
 		"image": "partisan.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈpɑːr.t̬ə.zən/"],
+		"phonetics-uk": ["/ˌpɑː.tɪˈzæn/"]
 	}],
 	"peripheral": [{
 		"pos": "adjective",
@@ -554,7 +640,9 @@
 		"image": "peripheral.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/pəˈrɪf.ɚ.əl/"],
+		"phonetics-uk": ["/pəˈrɪf.ər.əl/"]
 	}, {
 		"pos": "adjective",
 		"def": "relating to or situated on the edge of something",
@@ -575,7 +663,9 @@
 		"image": "phenomena.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/fɪˈnɒmənə/"],
+		"phonetics-uk": ["/fɪˈnɒmənə/"]
 	}],
 	"phenomenon": [{
 		"pos": "noun",
@@ -586,7 +676,9 @@
 		"image": "phenomenon.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/fəˈnɑː.mə.nɑːn/"],
+		"phonetics-uk": ["/fəˈnɒm.ɪ.nən/"]
 	}, {
 		"pos": "noun",
 		"def": "something that is impressive or extraordinary; a remarkable person or thing",
@@ -607,7 +699,9 @@
 		"image": "plastic.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈplæs.tɪk/"],
+		"phonetics-uk": ["/ˈplæs.tɪk/"]
 	}],
 	"prescient": [{
 		"pos": "adjective",
@@ -618,7 +712,9 @@
 		"image": "prescient.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈpres.i.ənt/"],
+		"phonetics-uk": ["/ˈpres.i.ənt/"]
 	}],
 	"tacit": [{
 		"pos": "adjective",
@@ -629,6 +725,8 @@
 		"image": "tacit.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈtæs.ɪt/"],
+		"phonetics-uk": ["/ˈtæs.ɪt/"]
 	}]
 }
