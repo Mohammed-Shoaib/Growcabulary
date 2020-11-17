@@ -8,7 +8,9 @@
 		"image": "aggrandize.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/əˈɡræn.daɪz/"],
+		"phonetics-uk": ["/əˈɡræn.daɪz/"]
 	}],
 	"alleviate": [{
 		"pos": "verb",
@@ -19,7 +21,9 @@
 		"image": "alleviate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/əˈliː.vi.eɪt/"],
+		"phonetics-uk": ["/əˈliː.vi.eɪt/"]
 	}],
 	"biased": [{
 		"pos": "adjective",
@@ -30,7 +34,9 @@
 		"image": "biased.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈbaɪ.əst/"],
+		"phonetics-uk": ["/ˈbaɪ.əst/"]
 	}],
 	"bombastic": [{
 		"pos": "adjective",
@@ -41,7 +47,9 @@
 		"image": "bombastic.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/bɑːmˈbæs.tɪk/"],
+		"phonetics-uk": ["/bɒmˈbæs.tɪk/"]
 	}],
 	"canon": [{
 		"pos": "noun",
@@ -72,7 +80,9 @@
 		"image": "canon.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈkæn.ən/"],
+		"phonetics-uk": ["/ˈkæn.ən/"]
 	}],
 	"capacity": [{
 		"pos": "noun",
@@ -83,7 +93,9 @@
 		"image": "capacity.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/kəˈpæs.ə.t̬i/"],
+		"phonetics-uk": ["/kəˈpæs.ə.ti/"]
 	}, {
 		"pos": "noun",
 		"def": "the amount that something can produce; actual or potential ability to perform, yield, or withstand",
@@ -114,7 +126,9 @@
 		"image": "chronological.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌkrɒn.əˈlɑː.dʒɪ.kəl/"],
+		"phonetics-uk": ["/ˌkrɒn.əˈlɒdʒ.ɪ.kəl/"]
 	}],
 	"compelling": [{
 		"pos": "adjective",
@@ -125,7 +139,9 @@
 		"image": "compelling.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/kəmˈpel.ɪŋ/"],
+		"phonetics-uk": ["/kəmˈpel.ɪŋ/"]
 	}, {
 		"pos": "adjective",
 		"def": "tending to persuade by forcefulness of argument; not able to be refuted",
@@ -156,7 +172,9 @@
 		"image": "craft.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/kræft/"],
+		"phonetics-uk": ["/krɑːft/"]
 	}],
 	"deference": [{
 		"pos": "noun",
@@ -167,7 +185,9 @@
 		"image": "deference.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈdef.ɚ.əns/"],
+		"phonetics-uk": ["/ˈdef.ər.əns/"]
 	}],
 	"diverge": [{
 		"pos": "verb",
@@ -188,7 +208,9 @@
 		"image": "diverge.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/dɪˈvɝːdʒ/"],
+		"phonetics-uk": ["/ˌdaɪˈvɜːdʒ/"]
 	}],
 	"efficacy": [{
 		"pos": "noun",
@@ -199,7 +221,9 @@
 		"image": "efficacy.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈef.ə.kə.si/"],
+		"phonetics-uk": ["/ˈef.ɪ.kə.si/"]
 	}],
 	"elegy": [{
 		"pos": "noun",
@@ -210,18 +234,22 @@
 		"image": "elegy.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈel.ə.dʒi/"],
+		"phonetics-uk": ["/ˈel.ə.dʒi/"]
 	}],
 	"equable": [{
 		"pos": "adjective",
 		"def": "not easily disturbed or angered",
-		"synonyms": ["calm", "even-tempered", "nonchalant", "insouciant", "serene", "unperturbed", "unflappable", "placid"],
+		"synonyms": ["calm", "even-tempered","nonchalant", "insouciant", "serene", "unperturbed", "unflappable", "placid"],
 		"antonyms": [],
 		"alternatives": [],
 		"image": "equable.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈek.wə.bəl/"],
+		"phonetics-uk": ["/ˈek.wə.bəl/"]
 	}, {
 		"pos": "adjective",
 		"def": "marked by lack of variation or change; not fluctuating greatly",
@@ -242,7 +270,9 @@
 		"image": "erroneous.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/əˈroʊ.ni.əs/"],
+		"phonetics-uk": ["/ɪˈrəʊ.ni.əs/"]
 	}, {
 		"pos": "adjective",
 		"def": "straying from what is moral, decent, or proper",
@@ -263,7 +293,9 @@
 		"image": "extraneous.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪkˈstreɪ.ni.əs/"],
+		"phonetics-uk": ["/ɪkˈstreɪ.ni.əs/"]
 	}, {
 		"pos": "adjective",
 		"def": "existing on or coming from the outside",
@@ -278,13 +310,15 @@
 	"hedonism": [{
 		"pos": "noun",
 		"def": "the doctrine that pleasure or happiness is the highest good; devotion to pleasure as a way of life",
-		"synonyms": ["self-indulgence", "extravagance"],
+		"synonyms": ["self-indulgence","extravagance"],
 		"antonyms": [],
 		"alternatives": [],
 		"image": "hedonism.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈhed.ən.ɪ.zəm/"],
+		"phonetics-uk": ["/ˈhed.ən.ɪ.zəm/"]
 	}],
 	"imprudence": [{
 		"pos": "noun",
@@ -295,7 +329,9 @@
 		"image": "imprudence.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪmˈpruː.dəns/"],
+		"phonetics-uk": ["/ɪmˈpruː.dəns/"]
 	}],
 	"indefatigable": [{
 		"pos": "adjective",
@@ -306,7 +342,9 @@
 		"image": "indefatigable.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌɪn.dɪˈfæt̬.ɪ.ɡə.bəl/"],
+		"phonetics-uk": ["/ˌɪn.dɪˈfæt.ɪ.ɡə.bəl/"]
 	}],
 	"indolent": [{
 		"pos": "adjective",
@@ -317,7 +355,9 @@
 		"image": "indolent.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈɪn.dəl.ənt/"],
+		"phonetics-uk": ["/ˈɪn.dəl.ənt/"]
 	}, {
 		"pos": "adjective",
 		"def": "(of a disease or condition) slow to heal or develop, usually causing little or no pain",
@@ -338,7 +378,9 @@
 		"image": "intermediary.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pixabay.com/cs/illustrations/barma-myanmar-m%C3%ADr-zprost%C5%99edkuj%C3%ADc%C3%AD-2288964/"
+		"website": "https://pixabay.com/cs/illustrations/barma-myanmar-m%C3%ADr-zprost%C5%99edkuj%C3%ADc%C3%AD-2288964/",
+		"phonetics-us": ["/ˌɪn.t̬ɚˈmiː.di.ə.ri/"],
+		"phonetics-uk": ["/ˌɪn.təˈmiː.di.ə.ri/"]
 	}],
 	"intractable": [{
 		"pos": "adjective",
@@ -349,7 +391,9 @@
 		"image": "intractable.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪnˈtræk.tə.bəl/"],
+		"phonetics-uk": ["/ɪnˈtræk.tə.bəl/"]
 	}],
 	"laud": [{
 		"pos": "verb",
@@ -360,7 +404,9 @@
 		"image": "laud.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/lɑːd/"],
+		"phonetics-uk": ["/lɔːd/"]
 	}],
 	"loquacious": [{
 		"pos": "adjective",
@@ -371,7 +417,9 @@
 		"image": "loquacious.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/loʊˈkweɪ.ʃəs/"],
+		"phonetics-uk": ["/ləˈkweɪ.ʃəs/"]
 	}],
 	"luminous": [{
 		"pos": "adjective",
@@ -382,7 +430,9 @@
 		"image": "luminous.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈluː.mə.nəs/"],
+		"phonetics-uk": ["/ˈluː.mɪ.nəs/"]
 	}, {
 		"pos": "adjective",
 		"def": "brilliant intellectually; enlightening as a writer",
@@ -403,7 +453,9 @@
 		"image": "magnanimity.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌmæɡ.nəˈnɪm.ə.t̬i/"],
+		"phonetics-uk": ["/ˌmæɡ.nəˈnɪm.ə.ti/"]
 	}],
 	"malign": [{
 		"pos": "verb",
@@ -424,18 +476,22 @@
 		"image": "malign.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/məˈlaɪn/"],
+		"phonetics-uk": ["/məˈlaɪn/"]
 	}],
 	"modest": [{
 		"pos": "adjective",
 		"def": "unassuming in the estimation of one's abilities or achievements; humble estimate of one's merits",
-		"synonyms": ["self-effacing", "unpretentious"],
+		"synonyms": ["self-effacing","unpretentious"],
 		"antonyms": ["boastful"],
 		"alternatives": [],
 		"image": "modest.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈmɑː.dɪst/"],
+		"phonetics-uk": ["/ˈmɒd.ɪst/"]
 	}, {
 		"pos": "adjective",
 		"def": "limited or moderate in size, amount, or extent; free from ostentation or showy extravagance",
@@ -466,7 +522,9 @@
 		"image": "naïve.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/naɪˈiːv/"],
+		"phonetics-uk": ["/naɪˈiːv/"]
 	}],
 	"nascent": [{
 		"pos": "adjective",
@@ -477,7 +535,9 @@
 		"image": "nascent.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈneɪ.sənt/"],
+		"phonetics-uk": ["/ˈneɪ.sənt/"]
 	}],
 	"neglect": [{
 		"pos": "verb",
@@ -488,7 +548,9 @@
 		"image": "neglect.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.needpix.com/photo/download/1488911/alcoholic-alcohol-alcoholism-addiction-children-bottle-abuse-child-unhealthy"
+		"website": "https://www.needpix.com/photo/download/1488911/alcoholic-alcohol-alcoholism-addiction-children-bottle-abuse-child-unhealthy",
+		"phonetics-us": ["/nɪˈɡlekt/"],
+		"phonetics-uk": ["/nɪˈɡlekt/"]
 	}],
 	"obviate": [{
 		"pos": "verb",
@@ -499,7 +561,9 @@
 		"image": "obviate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈɑːb.vi.eɪt/"],
+		"phonetics-uk": ["/ˈɒb.vi.eɪt/"]
 	}],
 	"occlude": [{
 		"pos": "verb",
@@ -510,7 +574,9 @@
 		"image": "occlude.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/əˈkluːd/"],
+		"phonetics-uk": ["/əˈkluːd/"]
 	}],
 	"occult": [{
 		"pos": "noun",
@@ -521,7 +587,9 @@
 		"image": "occult.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈɑː.kʌlt/"],
+		"phonetics-uk": ["/əˈkʌlt/"]
 	}, {
 		"pos": "adjective",
 		"def": "beyond the range of ordinary knowledge or understanding",
@@ -552,7 +620,9 @@
 		"image": "opportunism.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌɑː.pɚˈtuː.nɪ.zəm/"],
+		"phonetics-uk": ["/ˌɒp.əˈtʃuː.nɪ.zəm/"]
 	}],
 	"oscillate": [{
 		"pos": "verb",
@@ -573,7 +643,9 @@
 		"image": "oscillate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈɑː.səl.eɪt/"],
+		"phonetics-uk": ["/ˈɒs.ɪ.leɪt/"]
 	}],
 	"perseverance": [{
 		"pos": "noun",
@@ -584,7 +656,9 @@
 		"image": "perseverance.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌpɝː.səˈvɪr.əns/"],
+		"phonetics-uk": ["/ˌpɜː.sɪˈvɪə.rəns/"]
 	}],
 	"pervasive": [{
 		"pos": "adjective",
@@ -595,7 +669,9 @@
 		"image": "pervasive.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/pɚˈveɪ.sɪv/"],
+		"phonetics-uk": ["/pəˈveɪ.sɪv/"]
 	}],
 	"plummet": [{
 		"pos": "verb",
@@ -606,7 +682,9 @@
 		"image": "plummet.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pixabay.com/cs/photos/%C3%BAtes-skok-vodop%C3%A1d-skok-pike-skok-491430/"
+		"website": "https://pixabay.com/cs/photos/%C3%BAtes-skok-vodop%C3%A1d-skok-pike-skok-491430/",
+		"phonetics-us": ["/ˈplʌm.ɪt/"],
+		"phonetics-uk": ["/ˈplʌm.ɪt/"]
 	}],
 	"polarize": [{
 		"pos": "verb",
@@ -617,7 +695,9 @@
 		"image": "polarize.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈpoʊ.lə.raɪz/"],
+		"phonetics-uk": ["/ˈpəʊ.lə.raɪz/"]
 	}],
 	"polemical": [{
 		"pos": "adjective",
@@ -628,7 +708,9 @@
 		"image": "polemical.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/pəˈlem.ɪ.kəl/"],
+		"phonetics-uk": ["/pəˈlem.ɪ.kəl/"]
 	}],
 	"proliferate": [{
 		"pos": "verb",
@@ -639,7 +721,9 @@
 		"image": "proliferate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/prəˈlɪf.ə.reɪt/"],
+		"phonetics-uk": ["/prəˈlɪf.ər.eɪt/"]
 	}],
 	"rhetoric": [{
 		"pos": "noun",
@@ -660,7 +744,9 @@
 		"image": "rhetoric.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈret̬.ɚ.ɪk/"],
+		"phonetics-uk": ["/ˈret.ər.ɪk/"]
 	}],
 	"salubrious": [{
 		"pos": "adjective",
@@ -671,7 +757,9 @@
 		"image": "salubrious.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/səˈluː.bri.əs/"],
+		"phonetics-uk": ["/səˈluː.bri.əs/"]
 	}],
 	"substantiate": [{
 		"pos": "verb",
@@ -682,7 +770,9 @@
 		"image": "substantiate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/səbˈstæn.ʃi.eɪt/"],
+		"phonetics-uk": ["/səbˈstæn.ʃi.eɪt/"]
 	}],
 	"tenuous": [{
 		"pos": "adjective",
@@ -703,7 +793,9 @@
 		"image": "tenuous.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈten.ju.əs/"],
+		"phonetics-uk": ["/ˈten.ju.əs/"]
 	}],
 	"ubiquitous": [{
 		"pos": "adjective",
@@ -714,7 +806,9 @@
 		"image": "ubiquitous.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/juːˈbɪk.wə.t̬əs/"],
+		"phonetics-uk": ["/juːˈbɪk.wɪ.təs/"]
 	}],
 	"unadorned": [{
 		"pos": "adjective",
@@ -725,7 +819,9 @@
 		"image": "unadorned.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌʌnəˈdɔːrnd/"],
+		"phonetics-uk": ["/ˌʌnəˈdɔːnd/"]
 	}],
 	"vexation": [{
 		"pos": "noun",
@@ -736,7 +832,9 @@
 		"image": "vexation.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/vekˈseɪ.ʃən/"],
+		"phonetics-uk": ["/vekˈseɪ.ʃən/"]
 	}],
 	"volatile": [{
 		"pos": "adjective",
@@ -747,6 +845,8 @@
 		"image": "volatile.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈvɑː.lə.t̬əl/"],
+		"phonetics-uk": ["/ˈvɒl.ə.taɪl/"]
 	}]
 }
