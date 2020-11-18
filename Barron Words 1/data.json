@@ -21,7 +21,9 @@
 		"image": "abstemious.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/æbˈstiː.mi.əs/"],
+		"phonetics-uk": ["/æbˈstiː.mi.əs/"]
 	}],
 	"affinity": [{
 		"pos": "noun",
@@ -32,7 +34,9 @@
 		"image": "affinity.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/əˈfɪn.ə.t̬i/"],
+		"phonetics-uk": ["/əˈfɪn.ə.ti/"]
 	}, {
 		"pos": "noun",
 		"def": "relationship by marriage or by ties other than those of blood",
@@ -63,7 +67,9 @@
 		"image": "allure.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/əˈlʊr/"],
+		"phonetics-uk": ["/əˈljʊər/"]
 	}],
 	"antecedent": [{
 		"pos": "adjective",
@@ -74,7 +80,9 @@
 		"image": "antecedent.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌæn.t̬əˈsiː.dənt/"],
+		"phonetics-uk": ["/ˌæn.tiˈsiː.dənt/"]
 	}],
 	"apposite": [{
 		"pos": "adjective",
@@ -105,7 +113,7 @@
 	"cantankerous": [{
 		"pos": "adjective",
 		"def": "difficult or irritating to deal with",
-		"synonyms": ["irascible", "irritable", "grumpy", "contentious", "peevish", "bad-tempered", "argumentative", "uncooperative", "obstinate"],
+		"synonyms": ["irascible", "irritable", "grumpy", "contentious", "peevish", "bad-tempered","argumentative", "uncooperative", "obstinate"],
 		"antonyms": [],
 		"alternatives": [],
 		"image": "cantankerous.jpg",
@@ -124,7 +132,9 @@
 		"image": "clique.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/klɪk/"],
+		"phonetics-uk": ["/kliːk/"]
 	}],
 	"congenial": [{
 		"pos": "adjective",
@@ -148,7 +158,9 @@
 		"image": "covert.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈkoʊ.vɝːt/"],
+		"phonetics-uk": ["/ˈkəʊ.vɜːt/"]
 	}],
 	"covetous": [{
 		"pos": "adjective",
@@ -159,7 +171,9 @@
 		"image": "covetous.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈkʌv.ə.t̬əs/"],
+		"phonetics-uk": ["/ˈkʌv.ɪ.təs/"]
 	}],
 	"defame": [{
 		"pos": "verb",
@@ -170,7 +184,9 @@
 		"image": "defame.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/dɪˈfeɪm/"],
+		"phonetics-uk": ["/dɪˈfeɪm/"]
 	}],
 	"deterrent": [{
 		"pos": "noun",
@@ -181,7 +197,9 @@
 		"image": "deterrent.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/dɪˈter.ənt/"],
+		"phonetics-uk": ["/dɪˈter.ənt/"]
 	}],
 	"disparage": [{
 		"pos": "verb",
@@ -205,7 +223,9 @@
 		"image": "divest.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/dɪˈvest/"],
+		"phonetics-uk": ["/daɪˈvest/"]
 	}],
 	"emaciated": [{
 		"pos": "adjective",
@@ -229,7 +249,9 @@
 		"image": "encomium.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/enˈkoʊ.mi.əm/"],
+		"phonetics-uk": ["/ɪnˈkəʊ.mi.əm/"]
 	}],
 	"equanimity": [{
 		"pos": "noun",
@@ -240,7 +262,9 @@
 		"image": "equanimity.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌek.wəˈnɪm.ə.t̬i/"],
+		"phonetics-uk": ["/ˌek.wəˈnɪm.ə.ti/"]
 	}],
 	"extrinsic": [{
 		"pos": "adjective",
@@ -251,7 +275,9 @@
 		"image": "extrinsic.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ekˈstrɪn.zɪk/"],
+		"phonetics-uk": ["/ekˈstrɪn.zɪk/"]
 	}, {
 		"pos": "adjective",
 		"def": "originating or operating from outside",
@@ -282,7 +308,9 @@
 		"image": "flourish.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈflɝː.ɪʃ/"],
+		"phonetics-uk": ["/ˈflʌr.ɪʃ/"]
 	}],
 	"flout": [{
 		"pos": "verb",
@@ -293,7 +321,9 @@
 		"image": "flout.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/flaʊt/"],
+		"phonetics-uk": ["/flaʊt/"]
 	}],
 	"formidable": [{
 		"pos": "adjective",
@@ -304,7 +334,9 @@
 		"image": "formidable.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/fɔːrˈmɪd.ə.bəl/"],
+		"phonetics-uk": ["/fɔːˈmɪd.ə.bəl/"]
 	}, {
 		"pos": "adjective",
 		"def": "extremely impressive in strength or excellence",
@@ -325,7 +357,9 @@
 		"image": "hirsute.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Montreal_Comiccon_2015_-_Chewbacca_(19270950588).jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:Montreal_Comiccon_2015_-_Chewbacca_(19270950588).jpg",
+		"phonetics-us": ["/ˈhɝː.suːt/"],
+		"phonetics-uk": ["/ˈhɜː.sjuːt/"]
 	}],
 	"inconsequential": [{
 		"pos": "adjective",
@@ -336,7 +370,9 @@
 		"image": "inconsequential.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪnˌkɑːn.sɪˈkwen.ʃəl/"],
+		"phonetics-uk": ["/ɪnˌkɒn.sɪˈkwen.ʃəl/"]
 	}],
 	"inherent": [{
 		"pos": "adjective",
@@ -347,7 +383,9 @@
 		"image": "inherent.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪnˈhɪr.ənt/"],
+		"phonetics-uk": ["/ɪnˈher.ənt/"]
 	}],
 	"insinuate": [{
 		"pos": "verb",
@@ -358,7 +396,9 @@
 		"image": "insinuate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪnˈsɪn.ju.eɪt/"],
+		"phonetics-uk": ["/ɪnˈsɪn.ju.eɪt/"]
 	}, {
 		"pos": "verb",
 		"def": "slide (oneself or a thing) slowly and smoothly into a particular place; introduce in a subtle manner",
@@ -379,7 +419,9 @@
 		"image": "jibe.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/dʒaɪb/"],
+		"phonetics-uk": ["/dʒaɪb/"]
 	}, {
 		"pos": "verb",
 		"def": "be in accord; coincide in characteristics",
@@ -423,7 +465,9 @@
 		"image": "mnemonic.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/nɪˈmɑː.nɪk/"],
+		"phonetics-uk": ["/nɪˈmɒn.ɪk/"]
 	}],
 	"neophyte": [{
 		"pos": "noun",
@@ -434,7 +478,9 @@
 		"image": "neophyte.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈniː.oʊ.faɪt/"],
+		"phonetics-uk": ["/ˈniː.ə.faɪt/"]
 	}, {
 		"pos": "noun",
 		"def": "a new convert to a religion",
@@ -455,7 +501,9 @@
 		"image": "nostalgia.jpeg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pixnio.com/people/male-men/nostalgia-retro-people-street-monochrome-man-railway-woman"
+		"website": "https://pixnio.com/people/male-men/nostalgia-retro-people-street-monochrome-man-railway-woman",
+		"phonetics-us": ["/nɑːˈstæl.dʒə/"],
+		"phonetics-uk": ["/nɒsˈtæl.dʒə/"]
 	}],
 	"paean": [{
 		"pos": "noun",
@@ -466,7 +514,9 @@
 		"image": "paean.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈpiː.ən/"],
+		"phonetics-uk": ["/ˈpiː.ən/"]
 	}],
 	"pathological": [{
 		"pos": "adjective",
@@ -477,7 +527,9 @@
 		"image": "pathological.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌpæθ.əˈlɑː.dʒɪ.kəl/"],
+		"phonetics-uk": ["/ˌpæθ.əˈlɒdʒ.ɪ.kəl/"]
 	}, {
 		"pos": "adjective",
 		"def": "being such to a degree that is extreme, excessive, or markedly abnormal",
@@ -498,7 +550,9 @@
 		"image": "penchant.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈpen.tʃənt/"],
+		"phonetics-uk": ["/ˈpɑ̃ːŋ.ʃɑ̃ːŋ/"]
 	}],
 	"purport": [{
 		"pos": "verb",
@@ -509,7 +563,9 @@
 		"image": "purport.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/pɝːˈpɔːrt/"],
+		"phonetics-uk": ["/pəˈpɔːt/"]
 	}],
 	"quagmire": [{
 		"pos": "noun",
@@ -520,7 +576,9 @@
 		"image": "quagmire.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Quagmire_-_geograph.org.uk_-_1425200.jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:Quagmire_-_geograph.org.uk_-_1425200.jpg",
+		"phonetics-us": ["/ˈkwæɡ.maɪr/"],
+		"phonetics-uk": ["/ˈkwɒɡ.maɪər/"]
 	}, {
 		"pos": "noun",
 		"def": "an awkward, complex, or hazardous situation from which extrication is difficult",
@@ -541,7 +599,9 @@
 		"image": "quibble.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈkwɪb.əl/"],
+		"phonetics-uk": ["/ˈkwɪb.əl/"]
 	}],
 	"rail": [{
 		"pos": "verb",
@@ -552,7 +612,9 @@
 		"image": "rail.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/reɪl/"],
+		"phonetics-uk": ["/reɪl/"]
 	}],
 	"ramification": [{
 		"pos": "noun",
@@ -563,7 +625,9 @@
 		"image": "ramification.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌræm.ə.fəˈkeɪ.ʃənz/"],
+		"phonetics-uk": ["/ˌræm.ɪ.fɪˈkeɪ.ʃənz/"]
 	}, {
 		"pos": "noun",
 		"def": "the act of branching out or dividing into branches",
@@ -584,7 +648,9 @@
 		"image": "rococo.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/rəˈkoʊ.koʊ/"],
+		"phonetics-uk": ["/rəˈkəʊ.kəʊ/"]
 	}, {
 		"pos": "noun",
 		"def": "fanciful but graceful asymmetric ornamentation in art and architecture that originated in France in the 18th century",
@@ -615,7 +681,9 @@
 		"image": "salutary.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈsæl.jə.ter.i/"],
+		"phonetics-uk": ["/ˈsæl.jə.tər.i/"]
 	}],
 	"sensuous": [{
 		"pos": "adjective",
@@ -652,7 +720,9 @@
 		"image": "skeptic.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈskep.tɪk/"],
+		"phonetics-uk": ["/ˈskep.tɪk/"]
 	}, {
 		"pos": "noun",
 		"def": "a person who doubts the truth of a religion, especially Christianity, or of important elements of it",
@@ -673,7 +743,9 @@
 		"image": "treatise.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈtriː.t̬ɪs/"],
+		"phonetics-uk": ["/ˈtriː.tɪs/"]
 	}],
 	"verbose": [{
 		"pos": "adjective",
@@ -684,7 +756,9 @@
 		"image": "verbose.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/vɚˈboʊs/"],
+		"phonetics-uk": ["/vɜːˈbəʊs/"]
 	}],
 	"virtuoso": [{
 		"pos": "noun",
@@ -695,7 +769,9 @@
 		"image": "virtuoso.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌvɝː.tʃuˈoʊ.soʊ/"],
+		"phonetics-uk": ["/ˌvɜː.tʃuˈəʊ.səʊ/"]
 	}],
 	"vitiate": [{
 		"pos": "verb",
@@ -716,7 +792,9 @@
 		"image": "vitiate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈvɪʃ.i.eɪt/"],
+		"phonetics-uk": ["/ˈvɪʃ.i.eɪt/"]
 	}],
 	"wistful": [{
 		"pos": "adjective",
@@ -727,6 +805,8 @@
 		"image": "wistful.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈwɪst.fəl/"],
+		"phonetics-uk": ["/ˈwɪst.fəl/"]
 	}]
 }
