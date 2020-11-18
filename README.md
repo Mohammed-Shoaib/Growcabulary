@@ -38,10 +38,13 @@ The word list has been compiled using the following resources:
 * [Advanced Words 6](Advanced%20Words%206/)
 * [Advanced Words 7](Advanced%20Words%207/)
 
-### PrepScholar
+### PrepScholar Words
 
-* [PrepScholar](PrepScholar%20Word%20List/)
+* [PrepScholar Words 1](PrepScholar%20Words%201/)
+* [PrepScholar Words 2](PrepScholar%20Words%202/)
+* [PrepScholar Word List](PrepScholar%20Word%20List/)
 
-### Barron
+### Barron Words
 
-* [Barron](Barron%20Word%20List/)
+* [Barron Words 1](Barron%20Words%201/)
+* [Barron Word List](Barron%20Word%20List/)
