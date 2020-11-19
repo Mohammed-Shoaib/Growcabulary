@@ -23,6 +23,7 @@
 * [requests](https://pypi.org/project/requests/)
 * [gTTS](https://pypi.org/project/gTTS/)
 * [AudioSegment](https://pypi.org/project/audiosegment/)
+* [mutagen](https://pypi.org/project/mutagen/)
 
 ### `utils.py`
 

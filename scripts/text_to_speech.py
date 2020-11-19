@@ -5,6 +5,8 @@ import argparse
 from utils import *
 from gtts import gTTS
 from pydub import AudioSegment
+from mutagen.mp3 import MP3
+from mutagen.id3 import ID3, APIC
 
 
 
@@ -29,20 +31,48 @@ def convert_text_to_speech(data: dict) -> None:
 def save_text_to_speech(data: dict) -> None:
 	os.makedirs('export', exist_ok=True)
 	for key, value in data.items():
-		folder = os.path.basename(os.path.normpath(value[0]['path']))
+		# initialization
+		base = value[0]['path']
+		folder = os.path.basename(os.path.normpath(base))
+		file_name = os.path.join('export', folder, f'{key}.mp3')
+		
 		print(f'Processing word {key} from {folder}...')
 		
-		base = value[0]['path']
+		# create the audio file
 		audio = AudioSegment.empty()
 		audio += AudioSegment.from_mp3(os.path.join(base, 'audio', f'{key}-us.mp3'))
+		audio += AudioSegment.silent(duration=3000)
 		
-		for i, v in enumerate(value):
-			audio += AudioSegment.silent(duration=2000)
+		for i, v in enumerate(value):	
 			audio += AudioSegment.from_mp3(f'import/{v["pos"]}.mp3')
 			audio += AudioSegment.from_mp3(f'import/{key}/def-{i + 1}.mp3')
+			audio += AudioSegment.silent()
 		
-		os.makedirs(os.path.join('export', folder), exist_ok=True)
-		audio.export(os.path.join('export', folder, f'{key}.mp3'), format='mp3')
+		# save the audio file
+		os.makedirs(Path(file_name).parent, exist_ok=True)
+		audio.export(file_name, format='mp3')
+		
+		# check if image is present
+		img_path = ''
+		for v in value:
+			if v['image'] and os.path.exists(os.path.join(base, 'images', v['image'])):
+				img_path = os.path.join(base, 'images', v['image'])
+		if not img_path:
+			print(f'[\u2718] Path to image does not exist for {key} in {folder}.', file=sys.stderr)
+			continue
+		ext = os.path.splitext(img_path)[1]
+		
+		# add the album art
+		audio = MP3(file_name, ID3=ID3)
+		audio.tags.add(APIC(
+			encoding=3, # 3 is for utf-8
+			mime='image/png' if ext == 'png' else 'image/jpeg',
+			type=3, # 3 is for the cover image
+			desc=key,
+			data=open(img_path, 'rb').read()
+		))
+		audio.save()
+		
 
 
 
