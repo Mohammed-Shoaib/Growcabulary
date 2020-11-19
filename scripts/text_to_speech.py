@@ -55,6 +55,16 @@ args = parser.parse_args()
 if __name__ == '__main__':
 	data = get_data()
 	
+	for key, value in list(data.items()):
+		# check if definition exists
+		skip = False
+		for v in value:
+			if not v['pos'] or not v['def']:
+				skip = True
+		if skip:
+			print(f'[\u2718] Definition missing for {key} present in {value[0]["path"]}.', file=sys.stderr)
+			del data[key]
+	
 	if args.convert:
 		convert_text_to_speech(data)
 	if args.save:
