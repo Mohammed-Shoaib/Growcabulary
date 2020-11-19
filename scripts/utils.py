@@ -14,7 +14,7 @@ from collections import defaultdict, OrderedDict
 
 # global variables
 root_dir = os.path.normpath(os.path.join(os.path.dirname(os.path.realpath(__file__)), '..'))
-folders = ['Common', 'Basic', 'Advanced', 'PrepScholar', 'Barron']		# ['Personal']
+folders = ['Common', 'Basic', 'Advanced', 'PrepScholar', 'Barron', 'NYTimes', 'Personal']	# ['Common', 'Basic', 'Advanced']
 
 
 
@@ -68,8 +68,7 @@ def get_wordlist(data: dict) -> List[str]:
 
 def update_stats(files: List[str], data: dict) -> None:
 	total = 0
-	freq = defaultdict(int)
-	files = [Path(f).parent.name for f in files]
+	freq = OrderedDict({Path(f).parent.name: 0 for f in files})
 	
 	for key, value in data.items():
 		folder = Path(value[0]['path']).name
@@ -135,16 +134,28 @@ def get_data(is_test: bool = False) -> dict:
 			if f.endswith('.json') and any(folder in root for folder in folders):
 				json_files.append(os.path.join(root, f))
 	
-	# get the wordlist
-	json_files.sort(key = lambda x: [folders.index(Path(x).parent.name.split()[0]), x])
+	# process json files in order
+	folder = {}
+	for json_file in json_files:
+		folder[json_file] = Path(json_file).parent.name
+	json_files.sort(key = lambda x: [
+		folders.index(folder[x].split()[0]), 
+		int(folder[x].split()[2]) if folder[x].split()[2].isnumeric() else 0
+	])
 
 
 	def run_tests(data: dict, file_path: str) -> None:
 		nonlocal passed
-		is_fast = True
+		skip_image = True
 		
-		# skip the tests involving images if personal word list
-		personal = Path(file_path).parent.name.split()[0] == 'Personal'
+		# skip the tests involving images if word list is 'Barron', 'PrepScholar', or 'Personal'
+		is_fast = False
+		for x in ['Barron', 'PrepScholar', 'Personal', 'NYTimes']:
+			folder = Path(file_path).parent.name.split()
+			if folder[0] == x:
+				if folder[0] in ['PrepScholar', 'Barron'] and folder[2] != 'List':
+					continue
+				is_fast = True
 		
 		# check dictionary of data
 		for key, value in data.items():
@@ -185,7 +196,7 @@ def get_data(is_test: bool = False) -> dict:
 		wrong_pos = []
 		for key, value in data.items():
 			for v in value:
-				if v['pos'] not in ['noun', 'adjective', 'verb', 'adverb']:
+				if v['pos'] not in ['noun', 'adjective', 'verb', 'adverb', 'preposition']:
 					wrong_pos.append(key)
 		if wrong_pos:
 			passed = False
@@ -199,26 +210,37 @@ def get_data(is_test: bool = False) -> dict:
 		no_link = []
 		no_phonetics = []
 		seen_images = []
+		multiple_images = []
 		for key, value in data.items():
 			found = False
 			for i in range(len(value)):
 				img_path = value[i]['image']
 				if img_path:
+					found = True
+					if img_path in seen_images:
+						multiple_images.append(key)
+					else:
+						seen_images.append(img_path)
+					if 'phonetics-us' not in value[i] or not value[i]['phonetics-us'] \
+					or 'phonetics-uk' not in value[i] or not value[i]['phonetics-uk']:
+						no_phonetics.append(key)
+					if skip_image:
+						continue
 					if img_path not in images or img_path not in original:
 						no_image.append(key)
 					if not value[i]['website']:
 						no_link.append(key)
-					if not value[i]['phonetics-us'] or not value[i]['phonetics-uk']:
-						no_phonetics.append(key)
-					seen_images.append(img_path)
-					found = True
 			if not found:
 				no_image.append(key)
-		if no_image and not personal:
+		if multiple_images:
+			passed = False
+			print(multiple_images)
+			print(f'[\u2718] Multiple image paths specified for file {file_path}.', file=sys.stderr)
+		if no_image:
 			passed = False
 			print(no_image)
 			print(f'[\u2718] Incorrect path to images for file {file_path}.', file=sys.stderr)
-		if no_link and not personal:
+		if no_link:
 			passed = False
 			print(no_link)
 			print(f'[\u2718] No website for images specified for file {file_path}.', file=sys.stderr)
@@ -244,18 +266,20 @@ def get_data(is_test: bool = False) -> dict:
 		# check if images are square
 		not_square = []
 		for img_path in images:
+			if skip_image:
+				continue
 			img = cv2.imread(os.path.join(base_dir, 'images', img_path))
 			height, width, _ = img.shape
 			if height != width:
 				not_square.append([img_path, height, width])
-		if not_square and not personal:
+		if not_square:
 			passed = False
 			print(not_square)
 			print(f'[\u2718] Not square images found for file {file_path}.', file=sys.stderr)
 		
 		# check if image has the same name as the key
 		not_same_key = []
-		keys = set(img.rsplit('.', 1) for img in images)
+		keys = set(img.rsplit('.', 1)[0] for img in seen_images)
 		for key, _ in data.items():
 			if key not in keys:
 				not_same_key.append(key)
@@ -330,9 +354,9 @@ def get_data(is_test: bool = False) -> dict:
 		words.update(data)
 	
 	if is_test:
+		update_stats(json_files, words)
 		if passed:
 			print('[\u2714] All checks passed!', file=sys.stderr)
-			update_stats(json_files, words)
 		else:
 			print('[\u2718] Failed to pass all checks!', file=sys.stderr)
 	
