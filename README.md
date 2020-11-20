@@ -48,3 +48,7 @@ The word list has been compiled using the following resources:
 
 * [Barron Words 1](Barron%20Words%201/)
 * [Barron Word List](Barron%20Word%20List/)
+
+### Personal Words
+
+* [Personal Words 1](Personal%20Words%201/)

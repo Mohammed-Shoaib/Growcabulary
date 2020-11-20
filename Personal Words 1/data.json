@@ -8,7 +8,9 @@
 		"image": "accede.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/əkˈsid/"],
+		"phonetics-uk": ["/əkˈsiːd/"]
 	}],
 	"adroitness": [{
 		"pos": "noun",
@@ -19,7 +21,9 @@
 		"image": "adroitness.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/əˈdrɔɪt.nəs/"],
+		"phonetics-uk": ["/əˈdrɔɪt.nəs/"]
 	}],
 	"blistering": [{
 		"pos": "adjective",
@@ -30,7 +34,9 @@
 		"image": "blistering.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈblɪs.tɚ.ɪŋ/"],
+		"phonetics-uk": ["/ˈblɪs.tər.ɪŋ/"]
 	}],
 	"boisterous": [{
 		"pos": "adjective",
@@ -41,7 +47,9 @@
 		"image": "boisterous.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈbɔɪ.stɚ.əs/"],
+		"phonetics-uk": ["/ˈbɔɪ.stər.əs/"]
 	}],
 	"condemn": [{
 		"pos": "verb",
@@ -52,7 +60,9 @@
 		"image": "condemn.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/kənˈdem/"],
+		"phonetics-uk": ["/kənˈdem/"]
 	}, {
 		"pos": "verb",
 		"def": "sentence (someone) to a particular punishment, especially death",
@@ -73,7 +83,9 @@
 		"image": "contempt.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/kənˈtempt/"],
+		"phonetics-uk": ["/kənˈtempt/"]
 	}],
 	"cripple": [{
 		"pos": "verb",
@@ -84,7 +96,9 @@
 		"image": "cripple.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈkrɪp.əl/"],
+		"phonetics-uk": ["/ˈkrɪp.əl/"]
 	}],
 	"defiance": [{
 		"pos": "noun",
@@ -95,7 +109,9 @@
 		"image": "defiance.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/dɪˈfaɪ.əns/"],
+		"phonetics-uk": ["/dɪˈfaɪ.əns/"]
 	}],
 	"defraud": [{
 		"pos": "verb",
@@ -106,7 +122,9 @@
 		"image": "defraud.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/dɪˈfrɑːd/"],
+		"phonetics-uk": ["/dɪˈfrɔːd/"]
 	}],
 	"denounce": [{
 		"pos": "verb",
@@ -117,7 +135,9 @@
 		"image": "denounce.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/dɪˈnaʊns/"],
+		"phonetics-uk": ["/dɪˈnaʊns/"]
 	}],
 	"denunciation": [{
 		"pos": "noun",
@@ -128,7 +148,9 @@
 		"image": "denunciation.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/dɪˌnʌn.siˈeɪ.ʃən/"],
+		"phonetics-uk": ["/dɪˌnʌn.siˈeɪ.ʃən/"]
 	}],
 	"derange": [{
 		"pos": "verb",
@@ -139,7 +161,9 @@
 		"image": "derange.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/dəˈreɪndʒ/"],
+		"phonetics-uk": ["/dɪˈreɪn(d)ʒ/"]
 	}],
 	"disdainful": [{
 		"pos": "adjective",
@@ -150,7 +174,9 @@
 		"image": "disdainful.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/dɪsˈdeɪn.fəl/"],
+		"phonetics-uk": ["/dɪsˈdeɪn.fəl/"]
 	}],
 	"disreputable": [{
 		"pos": "adjective",
@@ -161,7 +187,9 @@
 		"image": "disreputable.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/dɪsˈrep.jə.t̬ə.bəl/"],
+		"phonetics-uk": ["/dɪsˈrep.jə.tə.bəl/"]
 	}],
 	"dissension": [{
 		"pos": "noun",
@@ -172,7 +200,9 @@
 		"image": "dissension.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/dɪˈsen.ʃən/"],
+		"phonetics-uk": ["/dɪˈsen.ʃən/"]
 	}],
 	"dissuade": [{
 		"pos": "verb",
@@ -183,7 +213,9 @@
 		"image": "dissuade.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/dɪˈsweɪd/"],
+		"phonetics-uk": ["/dɪˈsweɪd/"]
 	}],
 	"dreary": [{
 		"pos": "adjective",
@@ -194,7 +226,9 @@
 		"image": "dreary.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈdrɪr.i/"],
+		"phonetics-uk": ["/ˈdrɪə.ri/"]
 	}],
 	"emasculate": [{
 		"pos": "verb",
@@ -205,7 +239,9 @@
 		"image": "emasculate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪˈmæs.kjə.leɪt/"],
+		"phonetics-uk": ["/ɪˈmæs.kjə.leɪt/"]
 	}, {
 		"pos": "verb",
 		"def": "make (someone or something) weaker or less effective",
@@ -226,7 +262,9 @@
 		"image": "extricate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈek.strɪ.keɪt/"],
+		"phonetics-uk": ["/ˈek.strɪ.keɪt/"]
 	}],
 	"feign": [{
 		"pos": "verb",
@@ -237,7 +275,9 @@
 		"image": "feign.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/feɪn/"],
+		"phonetics-uk": ["/feɪn/"]
 	}],
 	"fertile": [{
 		"pos": "adjective",
@@ -248,7 +288,9 @@
 		"image": "fertile.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈfɝː.t̬əl/"],
+		"phonetics-uk": ["/ˈfɜː.taɪl/"]
 	}],
 	"frolic": [{
 		"pos": "verb",
@@ -259,7 +301,9 @@
 		"image": "frolic.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈfrɑː.lɪk/"],
+		"phonetics-uk": ["/ˈfrɒl.ɪk/"]
 	}],
 	"gaunt": [{
 		"pos": "adjective",
@@ -270,7 +314,9 @@
 		"image": "gaunt.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɡɑːnt/"],
+		"phonetics-uk": ["/ɡɔːnt/"]
 	}],
 	"grouchy": [{
 		"pos": "adjective",
@@ -281,7 +327,9 @@
 		"image": "grouchy.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈɡraʊ.tʃi/"],
+		"phonetics-uk": ["/ˈɡraʊ.tʃi/"]
 	}],
 	"gull": [{
 		"pos": "noun",
@@ -292,7 +340,9 @@
 		"image": "gull.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɡʌl/"],
+		"phonetics-uk": ["/ɡʌl/"]
 	}],
 	"gusto": [{
 		"pos": "noun",
@@ -303,7 +353,9 @@
 		"image": "gusto.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈɡʌs.toʊ/"],
+		"phonetics-uk": ["/ˈɡʌs.təʊ/"]
 	}],
 	"haggard": [{
 		"pos": "adjective",
@@ -314,7 +366,9 @@
 		"image": "haggard.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈhæɡ.ɚd/"],
+		"phonetics-uk": ["/ˈhæɡ.əd/"]
 	}],
 	"holier-than-thou": [{
 		"pos": "adjective",
@@ -325,7 +379,9 @@
 		"image": "holier-than-thou.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌhoʊ.li.ɚ.ðənˈðaʊ/"],
+		"phonetics-uk": ["/ˌhəʊ.li.ə.ðənˈðaʊ/"]
 	}],
 	"immaculate": [{
 		"pos": "adjective",
@@ -336,7 +392,9 @@
 		"image": "immaculate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪˈmæk.jə.lət/"],
+		"phonetics-uk": ["/ɪˈmæk.jə.lət/"]
 	}],
 	"impassive": [{
 		"pos": "adjective",
@@ -347,7 +405,9 @@
 		"image": "impassive.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪmˈpæs.ɪv/"],
+		"phonetics-uk": ["/ɪmˈpæs.ɪv/"]
 	}],
 	"indomitable": [{
 		"pos": "adjective",
@@ -358,7 +418,9 @@
 		"image": "indomitable.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪnˈdɑː.mə.t̬ə.bəl/"],
+		"phonetics-uk": ["/ɪnˈdɒm.ɪ.tə.bəl/"]
 	}],
 	"inflammatory": [{
 		"pos": "adjective",
@@ -369,7 +431,9 @@
 		"image": "inflammatory.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪnˈflæm.ə.tɔːr.i/"],
+		"phonetics-uk": ["/ɪnˈflæm.ə.tər.i/"]
 	}],
 	"judicious": [{
 		"pos": "adjective",
@@ -380,7 +444,9 @@
 		"image": "judicious.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/dʒuːˈdɪʃ.əs/"],
+		"phonetics-uk": ["/dʒuːˈdɪʃ.əs/"]
 	}],
 	"juvenile": [{
 		"pos": "adjective",
@@ -391,7 +457,9 @@
 		"image": "juvenile.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈdʒuː.və.nəl/"],
+		"phonetics-uk": ["/ˈdʒuː.vən.aɪl/"]
 	}],
 	"loathe": [{
 		"pos": "verb",
@@ -402,7 +470,9 @@
 		"image": "loathe.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/loʊð/"],
+		"phonetics-uk": ["/ləʊð/"]
 	}],
 	"openhanded": [{
 		"pos": "adjective",
@@ -413,7 +483,9 @@
 		"image": "openhanded.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌoʊpənˈhændəd/"],
+		"phonetics-uk": ["/ˌəʊ.pənˈhæn.dɪd/"]
 	}, {
 		"pos": "adjective",
 		"def": "giving freely",
@@ -434,7 +506,9 @@
 		"image": "pacify.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈpæs.ə.faɪ/"],
+		"phonetics-uk": ["/ˈpæs.ɪ.faɪ/"]
 	}],
 	"petty": [{
 		"pos": "adjective",
@@ -445,7 +519,9 @@
 		"image": "petty.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈpet̬.i/"],
+		"phonetics-uk": ["/ˈpet.i/"]
 	}],
 	"pliable": [{
 		"pos": "adjective",
@@ -456,7 +532,9 @@
 		"image": "pliable.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈplaɪ.ə.bəl/"],
+		"phonetics-uk": ["/ˈplaɪ.ə.bəl/"]
 	}],
 	"quell": [{
 		"pos": "verb",
@@ -467,7 +545,9 @@
 		"image": "quell.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/kwel/"],
+		"phonetics-uk": ["/kwel/"]
 	}],
 	"ramble": [{
 		"pos": "verb",
@@ -478,7 +558,9 @@
 		"image": "ramble.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈræm.bəl/"],
+		"phonetics-uk": ["/ˈræm.bəl/"]
 	}],
 	"ravine": [{
 		"pos": "noun",
@@ -489,7 +571,9 @@
 		"image": "ravine.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/rəˈviːn/"],
+		"phonetics-uk": ["/rəˈviːn/"]
 	}],
 	"resent": [{
 		"pos": "verb",
@@ -500,7 +584,9 @@
 		"image": "resent.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/rɪˈzent/"],
+		"phonetics-uk": ["/rɪˈzent/"]
 	}],
 	"spiteful": [{
 		"pos": "adjective",
@@ -511,7 +597,9 @@
 		"image": "spiteful.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈspaɪt.fəl/"],
+		"phonetics-uk": ["/ˈspaɪt.fəl/"]
 	}],
 	"subdued": [{
 		"pos": "adjective",
@@ -522,7 +610,9 @@
 		"image": "subdued.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/səbˈduːd/"],
+		"phonetics-uk": ["/səbˈdʒuːd/"]
 	}],
 	"sumptuous": [{
 		"pos": "adjective",
@@ -533,7 +623,9 @@
 		"image": "sumptuous.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈsʌmp.tʃu.əs/"],
+		"phonetics-uk": ["/ˈsʌmp.tʃu.əs/"]
 	}],
 	"swindle": [{
 		"pos": "noun",
@@ -544,7 +636,9 @@
 		"image": "swindle.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈswɪn.dəl/"],
+		"phonetics-uk": ["/ˈswɪn.dəl/"]
 	}, {
 		"pos": "verb",
 		"def": "use deception to deprive (someone) of money or possessions",
@@ -565,7 +659,9 @@
 		"image": "terse.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/tɝːs/"],
+		"phonetics-uk": ["/tɜːs/"]
 	}],
 	"trifling": [{
 		"pos": "adjective",
@@ -576,7 +672,9 @@
 		"image": "trifling.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈtraɪ.flɪŋ/"],
+		"phonetics-uk": ["/ˈtraɪ.flɪŋ/"]
 	}],
 	"unmoved": [{
 		"pos": "adjective",
@@ -587,6 +685,8 @@
 		"image": "unmoved.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ʌnˈmuːvd/"],
+		"phonetics-uk": ["/ʌnˈmuːvd/"]
 	}]
 }
