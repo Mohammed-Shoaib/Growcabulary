@@ -52,3 +52,4 @@ The word list has been compiled using the following resources:
 ### Personal Words
 
 * [Personal Words 1](Personal%20Words%201/)
+* [Personal Words 2](Personal%20Words%202/)
