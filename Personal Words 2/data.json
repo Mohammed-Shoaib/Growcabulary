@@ -8,7 +8,9 @@
 		"image": "abolish.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/əˈbɑː.lɪʃ/"],
+		"phonetics-uk": ["/əˈbɒl.ɪʃ/"]
 	}],
 	"acclaim": [{
 		"pos": "verb",
@@ -19,7 +21,9 @@
 		"image": "acclaim.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/əˈkleɪm/"],
+		"phonetics-uk": ["/əˈkleɪm/"]
 	}, {
 		"pos": "noun",
 		"def": "enthusiastic and public praise",
@@ -50,7 +54,9 @@
 		"image": "acute.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/əˈkjuːt/"],
+		"phonetics-uk": ["/əˈkjuːt/"]
 	}],
 	"affront": [{
 		"pos": "noun",
@@ -61,7 +67,9 @@
 		"image": "affront.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/əˈfrʌnt/"],
+		"phonetics-uk": ["/əˈfrʌnt/"]
 	}],
 	"agitate": [{
 		"pos": "verb",
@@ -72,7 +80,9 @@
 		"image": "agitate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Nervous.jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:Nervous.jpg",
+		"phonetics-us": ["/ˈædʒ.ə.teɪt/"],
+		"phonetics-uk": ["/ˈædʒ.ɪ.teɪt/"]
 	}],
 	"anaemic": [{
 		"pos": "adjective",
@@ -83,7 +93,9 @@
 		"image": "anaemic.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/əˈniː.mɪk/"],
+		"phonetics-uk": ["/əˈniː.mɪk/"]
 	}],
 	"anecdote": [{
 		"pos": "noun",
@@ -94,7 +106,9 @@
 		"image": "anecdote.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈæn.ɪk.doʊt/"],
+		"phonetics-uk": ["/ˈæn.ɪk.dəʊt/"]
 	}],
 	"astute": [{
 		"pos": "adjective",
@@ -105,7 +119,9 @@
 		"image": "astute.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/əˈstuːt/"],
+		"phonetics-uk": ["/əˈstʃuːt/"]
 	}],
 	"berate": [{
 		"pos": "verb",
@@ -116,7 +132,9 @@
 		"image": "berate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/bɪˈreɪt/"],
+		"phonetics-uk": ["/bɪˈreɪt/"]
 	}],
 	"bewilder": [{
 		"pos": "verb",
@@ -127,7 +145,9 @@
 		"image": "bewilder.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/bɪˈwɪl.dɚ/"],
+		"phonetics-uk": ["/bɪˈwɪl.dər/"]
 	}],
 	"connive": [{
 		"pos": "verb",
@@ -138,7 +158,9 @@
 		"image": "connive.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/kəˈnaɪv/"],
+		"phonetics-uk": ["/kəˈnaɪv/"]
 	}],
 	"criticize": [{
 		"pos": "verb",
@@ -149,7 +171,9 @@
 		"image": "criticize.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈkrɪt̬.ɪ.saɪz/"],
+		"phonetics-uk": ["/ˈkrɪt.ɪ.saɪz/"]
 	}],
 	"crotchety": [{
 		"pos": "adjective",
@@ -160,7 +184,9 @@
 		"image": "crotchety.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈkrɑː.tʃə.t̬i/"],
+		"phonetics-uk": ["/ˈkrɒtʃ.ɪ.ti/"]
 	}],
 	"curb": [{
 		"pos": "noun",
@@ -171,7 +197,9 @@
 		"image": "curb.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Blinkers_crop.jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:Blinkers_crop.jpg",
+		"phonetics-us": ["/kɝːb/"],
+		"phonetics-uk": ["/kɜːb/"]
 	}],
 	"debauched": [{
 		"pos": "adjective",
@@ -182,7 +210,9 @@
 		"image": "debauched.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/dɪˈbɑːtʃt/"],
+		"phonetics-uk": ["/dɪˈbɔːtʃt/"]
 	}],
 	"decadent": [{
 		"pos": "noun",
@@ -193,7 +223,9 @@
 		"image": "decadent.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈdek.ə.dənt/"],
+		"phonetics-uk": ["/ˈdek.ə.dənt/"]
 	}],
 	"delinquent": [{
 		"pos": "adjective",
@@ -204,7 +236,9 @@
 		"image": "delinquent.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/dɪˈlɪŋ.kwənt/"],
+		"phonetics-uk": ["/dɪˈlɪŋ.kwənt/"]
 	}, {
 		"pos": "adjective",
 		"def": "failing in one's duty",
@@ -225,7 +259,9 @@
 		"image": "digress.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/daɪˈɡres/"],
+		"phonetics-uk": ["/daɪˈɡres/"]
 	}],
 	"discernment": [{
 		"pos": "noun",
@@ -236,7 +272,9 @@
 		"image": "discernment.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/dɪˈsɝːn.mənt/"],
+		"phonetics-uk": ["/dɪˈsɜːn.mənt/"]
 	}],
 	"idyll": [{
 		"pos": "noun",
@@ -247,7 +285,9 @@
 		"image": "idyll.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈɪd.əl/"],
+		"phonetics-uk": ["/ˈɪd.əl/"]
 	}, {
 		"pos": "noun",
 		"def": "a short poem descriptive of rural or pastoral life; a simple descriptive or narrative piece in verse or prose",
@@ -268,7 +308,9 @@
 		"image": "infatuation.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪnˌfætʃ.uˈeɪ.ʃən/"],
+		"phonetics-uk": ["/ɪnˌfætʃ.uˈeɪ.ʃən/"]
 	}],
 	"inopportune": [{
 		"pos": "adjective",
@@ -279,7 +321,9 @@
 		"image": "inopportune.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌɪnˌɑː.pɚˈtuːn/"],
+		"phonetics-uk": ["/ɪˈnɒp.ə.tʃuːn/"]
 	}],
 	"irreverent": [{
 		"pos": "adjective",
@@ -290,7 +334,9 @@
 		"image": "irreverent.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪˈrev.ɚ.ənt/"],
+		"phonetics-uk": ["/ɪˈrev.ər.ənt/"]
 	}],
 	"meagre": [{
 		"pos": "adjective",
@@ -301,7 +347,9 @@
 		"image": "meagre.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈmiː.ɡɚ/"],
+		"phonetics-uk": ["/ˈmiː.ɡər/"]
 	}],
 	"messianic": [{
 		"pos": "adjective",
@@ -312,7 +360,9 @@
 		"image": "messianic.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌmes.iˈæn.ɪk/"],
+		"phonetics-uk": ["/ˌmes.iˈæn.ɪk/"]
 	}],
 	"momentous": [{
 		"pos": "adjective",
@@ -323,7 +373,9 @@
 		"image": "momentous.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/məˈmen.t̬əs/"],
+		"phonetics-uk": ["/məˈmen.təs/"]
 	}],
 	"morass": [{
 		"pos": "noun",
@@ -334,7 +386,9 @@
 		"image": "morass.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/məˈræs/"],
+		"phonetics-uk": ["/məˈræs/"]
 	}, {
 		"pos": "noun",
 		"def": "a complicated or confused situation",
@@ -355,7 +409,9 @@
 		"image": "pastiche.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/pɑːˈstiːʃ/"],
+		"phonetics-uk": ["/pæsˈtiːʃ/"]
 	}],
 	"poise": [{
 		"pos": "noun",
@@ -366,7 +422,9 @@
 		"image": "poise.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/pɔɪz/"],
+		"phonetics-uk": ["/pɔɪz/"]
 	}, {
 		"pos": "noun",
 		"def": "graceful and elegant bearing in a person",
@@ -387,7 +445,9 @@
 		"image": "pompous.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈpɑːm.pəs/"],
+		"phonetics-uk": ["/ˈpɒm.pəs/"]
 	}],
 	"prejudice": [{
 		"pos": "noun",
@@ -398,7 +458,9 @@
 		"image": "prejudice.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈpredʒ.ə.dɪs/"],
+		"phonetics-uk": ["/ˈpredʒ.ə.dɪs/"]
 	}],
 	"propound": [{
 		"pos": "verb",
@@ -409,7 +471,9 @@
 		"image": "propound.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/prəˈpaʊnd/"],
+		"phonetics-uk": ["/prəˈpaʊnd/"]
 	}],
 	"relent": [{
 		"pos": "verb",
@@ -420,7 +484,9 @@
 		"image": "relent.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/rɪˈlent/"],
+		"phonetics-uk": ["/rɪˈlent/"]
 	}],
 	"remit": [{
 		"pos": "verb",
@@ -431,7 +497,9 @@
 		"image": "remit.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/rɪˈmɪt/"],
+		"phonetics-uk": ["/rɪˈmɪt/"]
 	}, {
 		"pos": "verb",
 		"def": "send (money) in payment or as a gift",
@@ -452,7 +520,9 @@
 		"image": "retaliation.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/rɪˌtæl.iˈeɪ.ʃən/"],
+		"phonetics-uk": ["/rɪˌtæl.iˈeɪ.ʃən/"]
 	}],
 	"sacrosanct": [{
 		"pos": "adjective",
@@ -463,7 +533,9 @@
 		"image": "sacrosanct.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈsæk.rə.sæŋkt/"],
+		"phonetics-uk": ["/ˈsæk.rə.sæŋkt/"]
 	}, {
 		"pos": "adjective",
 		"def": "extremely sacred or holy",
@@ -484,7 +556,9 @@
 		"image": "scant.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/skænt/"],
+		"phonetics-uk": ["/skænt/"]
 	}],
 	"scanty": [{
 		"pos": "adjective",
@@ -495,7 +569,9 @@
 		"image": "scanty.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈskæn.t̬i/"],
+		"phonetics-uk": ["/ˈskæn.ti/"]
 	}],
 	"shirk": [{
 		"pos": "verb",
@@ -506,7 +582,9 @@
 		"image": "shirk.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ʃɝːk/"],
+		"phonetics-uk": ["/ʃɜːk/"]
 	}],
 	"shrewd": [{
 		"pos": "adjective",
@@ -517,7 +595,9 @@
 		"image": "shrewd.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ʃruːd/"],
+		"phonetics-uk": ["/ʃruːd/"]
 	}],
 	"shrug": [{
 		"pos": "verb",
@@ -528,7 +608,9 @@
 		"image": "shrug.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ʃrʌɡ/"],
+		"phonetics-uk": ["/ʃrʌɡ/"]
 	}],
 	"slur": [{
 		"pos": "noun",
@@ -539,7 +621,9 @@
 		"image": "slur.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/slɝː/"],
+		"phonetics-uk": ["/slɜːr/"]
 	}, {
 		"pos": "noun",
 		"def": "an act of speaking indistinctly so that sounds or words run into one another",
@@ -560,7 +644,9 @@
 		"image": "sneer.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/snɪr/"],
+		"phonetics-uk": ["/snɪər/"]
 	}],
 	"succumb": [{
 		"pos": "verb",
@@ -571,7 +657,9 @@
 		"image": "succumb.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/səˈkʌm/"],
+		"phonetics-uk": ["/səˈkʌm/"]
 	}],
 	"superficial": [{
 		"pos": "adjective",
@@ -582,7 +670,9 @@
 		"image": "superficial.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌsuː.pɚˈfɪʃ.əl/"],
+		"phonetics-uk": ["/ˌsuː.pəˈfɪʃ.əl/"]
 	}],
 	"tactless": [{
 		"pos": "adjective",
@@ -593,7 +683,9 @@
 		"image": "tactless.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈtækt.ləs/"],
+		"phonetics-uk": ["/ˈtækt.ləs/"]
 	}],
 	"tedious": [{
 		"pos": "adjective",
@@ -604,7 +696,9 @@
 		"image": "tedious.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈtiː.di.əs/"],
+		"phonetics-uk": ["/ˈtiː.di.əs/"]
 	}],
 	"trammel": [{
 		"pos": "verb",
@@ -615,7 +709,9 @@
 		"image": "trammel.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈtræməl/"],
+		"phonetics-uk": ["/ˈtram(ə)l/"]
 	}],
 	"wile": [{
 		"pos": "noun",
@@ -626,7 +722,9 @@
 		"image": "wile.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/waɪl/"],
+		"phonetics-uk": ["/wʌɪl/"]
 	}, {
 		"pos": "adjective",
 		"def": "very bad, used to emphasize the extent of something, especially something negative",
@@ -647,6 +745,8 @@
 		"image": "withering.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈwɪð.ɚ.ɪŋ/"],
+		"phonetics-uk": ["/ˈwɪð.ər.ɪŋ/"]
 	}]
 }
