@@ -8,7 +8,9 @@
 		"image": "benefactor.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈben.ə.fæk.tɚ/"],
+		"phonetics-uk": ["/ˈben.ɪ.fæk.tər/"]
 	}],
 	"bout": [{
 		"pos": "noun",
@@ -19,7 +21,9 @@
 		"image": "bout.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/baʊt/"],
+		"phonetics-uk": ["/baʊt/"]
 	}],
 	"captivate": [{
 		"pos": "verb",
@@ -30,7 +34,9 @@
 		"image": "captivate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈkæp.tə.veɪt/"],
+		"phonetics-uk": ["/ˈkæp.tɪ.veɪt/"]
 	}],
 	"captivating": [{
 		"pos": "adjective",
@@ -41,7 +47,9 @@
 		"image": "captivating.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈkæp.tə.veɪ.t̬ɪŋ/"],
+		"phonetics-uk": ["/ˈkæp.tɪ.veɪ.tɪŋ/"]
 	}],
 	"carouse": [{
 		"pos": "verb",
@@ -52,7 +60,9 @@
 		"image": "carouse.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/kəˈraʊz/"],
+		"phonetics-uk": ["/kəˈraʊz/"]
 	}],
 	"contemporary": [{
 		"pos": "adjective",
@@ -63,7 +73,9 @@
 		"image": "contemporary.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/kənˈtem.pə.rer.i/"],
+		"phonetics-uk": ["/kənˈtem.pər.ər.i/"]
 	}, {
 		"pos": "adjective",
 		"def": "living or occurring at the same time",
@@ -84,7 +96,9 @@
 		"image": "dabbler.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈdæb.lɚ/"],
+		"phonetics-uk": ["/ˈdæb.lər/"]
 	}],
 	"depravity": [{
 		"pos": "noun",
@@ -95,7 +109,9 @@
 		"image": "depravity.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/dɪˈpræv.ə.t̬i/"],
+		"phonetics-uk": ["/dɪˈpræv.ə.ti/"]
 	}],
 	"despondent": [{
 		"pos": "adjective",
@@ -106,7 +122,9 @@
 		"image": "despondent.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/dɪˈspɑːn.dənt/"],
+		"phonetics-uk": ["/dɪˈspɒn.dənt/"]
 	}],
 	"dignified": [{
 		"pos": "adjective",
@@ -117,7 +135,9 @@
 		"image": "dignified.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈdɪɡ.nə.faɪd/"],
+		"phonetics-uk": ["/ˈdɪɡ.nɪ.faɪd/"]
 	}],
 	"dignify": [{
 		"pos": "verb",
@@ -128,7 +148,9 @@
 		"image": "dignify.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈdɪɡ.nə.faɪ/"],
+		"phonetics-uk": ["/ˈdɪɡ.nɪ.faɪ/"]
 	}],
 	"dispel": [{
 		"pos": "verb",
@@ -139,7 +161,9 @@
 		"image": "dispel.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/dɪˈspel/"],
+		"phonetics-uk": ["/dɪˈspel/"]
 	}, {
 		"pos": "verb",
 		"def": "to drive off in various directions",
@@ -160,7 +184,9 @@
 		"image": "disperse.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/dɪˈspɝːs/"],
+		"phonetics-uk": ["/dɪˈspɜːs/"]
 	}],
 	"edifice": [{
 		"pos": "noun",
@@ -171,7 +197,9 @@
 		"image": "edifice.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈed.ə.fɪs/"],
+		"phonetics-uk": ["/ˈed.ɪ.fɪs/"]
 	}],
 	"enigmatic": [{
 		"pos": "adjective",
@@ -182,7 +210,9 @@
 		"image": "enigmatic.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌen.ɪɡˈmæt̬.ɪk/"],
+		"phonetics-uk": ["/ˌen.ɪɡˈmæt.ɪk/"]
 	}],
 	"feud": [{
 		"pos": "noun",
@@ -193,7 +223,9 @@
 		"image": "feud.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/fjuːd/"],
+		"phonetics-uk": ["/fjuːd/"]
 	}],
 	"fiasco": [{
 		"pos": "noun",
@@ -204,7 +236,9 @@
 		"image": "fiasco.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/fiˈæs.koʊ/"],
+		"phonetics-uk": ["/fiˈæs.kəʊ/"]
 	}],
 	"fleeting": [{
 		"pos": "adjective",
@@ -215,7 +249,9 @@
 		"image": "fleeting.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈfliː.t̬ɪŋ/"],
+		"phonetics-uk": ["/ˈfliː.tɪŋ/"]
 	}],
 	"gloomy": [{
 		"pos": "adjective",
@@ -226,7 +262,9 @@
 		"image": "gloomy.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈɡluː.mi/"],
+		"phonetics-uk": ["/ˈɡluː.mi/"]
 	}],
 	"hapless": [{
 		"pos": "adjective",
@@ -237,7 +275,9 @@
 		"image": "hapless.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈhæp.ləs/"],
+		"phonetics-uk": ["/ˈhæp.ləs/"]
 	}],
 	"idler": [{
 		"pos": "noun",
@@ -248,7 +288,9 @@
 		"image": "idler.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈaɪdlər/"],
+		"phonetics-uk": ["/ˈʌɪdlə/"]
 	}],
 	"imperative": [{
 		"pos": "adjective",
@@ -259,7 +301,9 @@
 		"image": "imperative.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪmˈper.ə.t̬ɪv/"],
+		"phonetics-uk": ["/ɪmˈper.ə.tɪv/"]
 	}, {
 		"pos": "adjective",
 		"def": "giving an authoritative command",
@@ -280,7 +324,9 @@
 		"image": "indulgent.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪnˈdʌl.dʒənt/"],
+		"phonetics-uk": ["/ɪnˈdʌl.dʒənt/"]
 	}],
 	"indurate": [{
 		"pos": "verb",
@@ -291,7 +337,9 @@
 		"image": "indurate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈɪnd(j)əˌreɪt/"],
+		"phonetics-uk": ["/ˈɪndjʊreɪt/"]
 	}],
 	"inhibited": [{
 		"pos": "adjective",
@@ -302,7 +350,9 @@
 		"image": "inhibited.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪnˈhɪb.ə.t̬ɪd/"],
+		"phonetics-uk": ["/ɪnˈhɪb.ɪ.tɪd/"]
 	}],
 	"ludicrous": [{
 		"pos": "adjective",
@@ -313,7 +363,9 @@
 		"image": "ludicrous.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈluː.də.krəs/"],
+		"phonetics-uk": ["/ˈluː.dɪ.krəs/"]
 	}],
 	"manoeuvre": [{
 		"pos": "noun",
@@ -324,7 +376,9 @@
 		"image": "manoeuvre.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/məˈnuː.vɚ/"],
+		"phonetics-uk": ["/məˈnuː.vər/"]
 	}, {
 		"pos": "verb",
 		"def": "carefully guide or manipulate (someone or something) in order to achieve an end",
@@ -345,7 +399,9 @@
 		"image": "merriment.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈmer.i.mənt/"],
+		"phonetics-uk": ["/ˈmer.i.mənt/"]
 	}],
 	"overseer": [{
 		"pos": "noun",
@@ -356,7 +412,9 @@
 		"image": "overseer.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈoʊ.vɚˌsiː.ɚ/"],
+		"phonetics-uk": ["/ˈəʊ.vəˌsiː.ər/"]
 	}],
 	"petrify": [{
 		"pos": "verb",
@@ -367,7 +425,9 @@
 		"image": "petrify.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈpet.rə.faɪ/"],
+		"phonetics-uk": ["/ˈpet.rə.faɪ/"]
 	}],
 	"polyglot": [{
 		"pos": "noun",
@@ -378,7 +438,9 @@
 		"image": "polyglot.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈpɑː.li.ɡlɑːt/"],
+		"phonetics-uk": ["/ˈpɒl.i.ɡlɒt/"]
 	}],
 	"preeminent": [{
 		"pos": "adjective",
@@ -389,7 +451,9 @@
 		"image": "preeminent.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/priˈɛmənənt/"],
+		"phonetics-uk": ["/priːˈɛmɪnənt/"]
 	}],
 	"premeditated": [{
 		"pos": "adjective",
@@ -400,7 +464,9 @@
 		"image": "premeditated.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌpriːˈmed.ə.teɪ.t̬ɪd/"],
+		"phonetics-uk": ["/ˌpriːˈmed.ɪ.teɪ.tɪd/"]
 	}],
 	"prod": [{
 		"pos": "verb",
@@ -411,7 +477,9 @@
 		"image": "prod.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/prɑːd/"],
+		"phonetics-uk": ["/prɒd/"]
 	}],
 	"rebut": [{
 		"pos": "verb",
@@ -422,7 +490,9 @@
 		"image": "rebut.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/rɪˈbʌt/"],
+		"phonetics-uk": ["/rɪˈbʌt/"]
 	}, {
 		"pos": "verb",
 		"def": "drive back or repel (a person or attack)",
@@ -443,7 +513,9 @@
 		"image": "revelry.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈrev.əl.ri/"],
+		"phonetics-uk": ["/ˈrev.əl.ri/"]
 	}],
 	"ruse": [{
 		"pos": "noun",
@@ -454,7 +526,9 @@
 		"image": "ruse.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ruːz/"],
+		"phonetics-uk": ["/ruːz/"]
 	}],
 	"self-indulgent": [{
 		"pos": "adjective",
@@ -465,7 +539,9 @@
 		"image": "self-indulgent.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌself.ɪnˈdʌl.dʒənt/"],
+		"phonetics-uk": ["/ˌself.ɪnˈdʌl.dʒənt/"]
 	}],
 	"smitten": [{
 		"pos": "adjective",
@@ -476,7 +552,9 @@
 		"image": "smitten.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈsmɪt̬.ən/"],
+		"phonetics-uk": ["/ˈsmɪt.ən/"]
 	}, {
 		"pos": "adjective",
 		"def": "marked by foolish or unreasoning fondness; very much in love",
@@ -497,7 +575,9 @@
 		"image": "stopgap.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈstɑːp.ɡæp/"],
+		"phonetics-uk": ["/ˈstɒp.ɡæp/"]
 	}],
 	"stratagem": [{
 		"pos": "noun",
@@ -508,7 +588,9 @@
 		"image": "stratagem.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈstræt̬.ə.dʒəm/"],
+		"phonetics-uk": ["/ˈstræt.ə.dʒəm/"]
 	}],
 	"surveyor": [{
 		"pos": "noun",
@@ -519,7 +601,9 @@
 		"image": "surveyor.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/sɚˈveɪ.ɚ/"],
+		"phonetics-uk": ["/səˈveɪ.ər/"]
 	}],
 	"taper": [{
 		"pos": "verb",
@@ -530,7 +614,9 @@
 		"image": "taper.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈteɪ.pɚ/"],
+		"phonetics-uk": ["/ˈteɪ.pər/"]
 	}],
 	"tepid": [{
 		"pos": "adjective",
@@ -541,7 +627,9 @@
 		"image": "tepid.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈtep.ɪd/"],
+		"phonetics-uk": ["/ˈtep.ɪd/"]
 	}, {
 		"pos": "adjective",
 		"def": "showing little enthusiasm",
@@ -562,7 +650,9 @@
 		"image": "timid.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈtɪm.ɪd/"],
+		"phonetics-uk": ["/ˈtɪm.ɪd/"]
 	}],
 	"verbiage": [{
 		"pos": "noun",
@@ -573,7 +663,9 @@
 		"image": "verbiage.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈvɝː.bi.ɪdʒ/"],
+		"phonetics-uk": ["/ˈvɜː.bi.ɪdʒ/"]
 	}],
 	"wade": [{
 		"pos": "verb",
@@ -584,7 +676,9 @@
 		"image": "wade.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/weɪd/"],
+		"phonetics-uk": ["/weɪd/"]
 	}, {
 		"pos": "verb",
 		"def": "to make one's way slowly or laboriously",
@@ -605,7 +699,9 @@
 		"image": "wallow.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈwɑː.loʊ/"],
+		"phonetics-uk": ["/ˈwɒl.əʊ/"]
 	}],
 	"wheeze": [{
 		"pos": "verb",
@@ -616,7 +712,9 @@
 		"image": "wheeze.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/wiːz/"],
+		"phonetics-uk": ["/wiːz/"]
 	}],
 	"whit": [{
 		"pos": "noun",
@@ -627,6 +725,8 @@
 		"image": "whit.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/wɪt/"],
+		"phonetics-uk": ["/wɪt/"]
 	}]
 }
