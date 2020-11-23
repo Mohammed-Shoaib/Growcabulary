@@ -8,7 +8,9 @@
 		"image": "abhorrent.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/æbˈhɔːr.ənt/"],
+		"phonetics-uk": ["/əˈbɒr.ənt/"]
 	}],
 	"absurd": [{
 		"pos": "adjective",
@@ -19,7 +21,9 @@
 		"image": "absurd.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/əbˈsɝːd/"],
+		"phonetics-uk": ["/əbˈsɜːd/"]
 	}],
 	"agile": [{
 		"pos": "adjective",
@@ -30,28 +34,22 @@
 		"image": "agile.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈædʒ.əl/"],
+		"phonetics-uk": ["/ˈædʒ.aɪl/"]
 	}],
 	"anterior": [{
 		"pos": "adjective",
-		"def": "coming before in time or sequence; earlier in time",
-		"synonyms": ["precedent", "antecedent"],
-		"antonyms": ["posterior"],
+		"def": "coming before in time",
+		"synonyms": ["earlier", "precedent", "antecedent"],
+		"antonyms": [],
 		"alternatives": [],
 		"image": "anterior.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
-	}, {
-		"pos": "adjective",
-		"def": "situated toward the front",
-		"synonyms": [],
-		"antonyms": [],
-		"alternatives": [],
-		"image": "",
-		"notes": "",
-		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ænˈtɪr.i.ɚ/"],
+		"phonetics-uk": ["/ænˈtɪə.ri.ər/"]
 	}],
 	"ardent": [{
 		"pos": "adjective",
@@ -62,7 +60,9 @@
 		"image": "ardent.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈɑːr.dənt/"],
+		"phonetics-uk": ["/ˈɑː.dənt/"]
 	}],
 	"aversion": [{
 		"pos": "noun",
@@ -73,7 +73,9 @@
 		"image": "aversion.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/əˈvɝː.ʒən/"],
+		"phonetics-uk": ["/əˈvɜː.ʃən/"]
 	}],
 	"beguile": [{
 		"pos": "verb",
@@ -84,7 +86,9 @@
 		"image": "beguile.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/bɪˈɡaɪl/"],
+		"phonetics-uk": ["/bɪˈɡaɪl/"]
 	}],
 	"benevolent": [{
 		"pos": "adjective",
@@ -95,7 +99,9 @@
 		"image": "benevolent.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/bəˈnev.əl.ənt/"],
+		"phonetics-uk": ["/bəˈnev.əl.ənt/"]
 	}],
 	"billow": [{
 		"pos": "noun",
@@ -106,7 +112,35 @@
 		"image": "billow.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈbɪl.oʊ/"],
+		"phonetics-uk": ["/ˈbɪl.əʊ/"]
+	}],
+	"boycott": [{
+		"pos": "verb",
+		"def": "to abstain from buying or using; refuse to do business with",
+		"synonyms": [],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "boycott.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "",
+		"phonetics-us": ["/ˈbɔɪ.kɑːt/"],
+		"phonetics-uk": ["/ˈbɔɪ.kɒt/"]
+	}],
+	"ceaseless": [{
+		"pos": "adjective",
+		"def": "without stop or pause",
+		"synonyms": ["constant", "incessant", "unending"],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "ceaseless.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "",
+		"phonetics-us": ["/ˈsiːs.ləs/"],
+		"phonetics-uk": ["/ˈsiːs.ləs/"]
 	}],
 	"charitable": [{
 		"pos": "adjective",
@@ -117,7 +151,9 @@
 		"image": "charitable.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈtʃer.ə.t̬ə.bəl/"],
+		"phonetics-uk": ["/ˈtʃær.ə.tə.bəl/"]
 	}],
 	"coherent": [{
 		"pos": "adjective",
@@ -128,7 +164,9 @@
 		"image": "coherent.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/koʊˈhɪr.ənt/"],
+		"phonetics-uk": ["/kəʊˈhɪə.rənt/"]
 	}, {
 		"pos": "adjective",
 		"def": "forming a unified whole",
@@ -149,7 +187,9 @@
 		"image": "compel.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/kəmˈpel/"],
+		"phonetics-uk": ["/kəmˈpel/"]
 	}],
 	"compulsive": [{
 		"pos": "adjective",
@@ -160,7 +200,9 @@
 		"image": "compulsive.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/kəmˈpʌl.sɪv/"],
+		"phonetics-uk": ["/kəmˈpʌl.sɪv/"]
 	}],
 	"conjecture": [{
 		"pos": "noun",
@@ -171,7 +213,9 @@
 		"image": "conjecture.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/kənˈdʒek.tʃɚ/"],
+		"phonetics-uk": ["/kənˈdʒek.tʃər/"]
 	}],
 	"crackle": [{
 		"pos": "noun",
@@ -182,7 +226,9 @@
 		"image": "crackle.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈkræk.əl/"],
+		"phonetics-uk": ["/ˈkræk.əl/"]
 	}],
 	"cursory": [{
 		"pos": "adjective",
@@ -193,7 +239,9 @@
 		"image": "cursory.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈkɝː.sɚ.i/"],
+		"phonetics-uk": ["/ˈkɜː.sər.i/"]
 	}],
 	"draconian": [{
 		"pos": "adjective",
@@ -204,7 +252,9 @@
 		"image": "draconian.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/drəˈkoʊ.ni.ən/"],
+		"phonetics-uk": ["/drəˈkəʊ.ni.ən/"]
 	}],
 	"dwindle": [{
 		"pos": "verb",
@@ -215,7 +265,9 @@
 		"image": "dwindle.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈdwɪn.dəl/"],
+		"phonetics-uk": ["/ˈdwɪn.dəl/"]
 	}],
 	"effluent": [{
 		"pos": "noun",
@@ -226,7 +278,9 @@
 		"image": "effluent.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈef.lu.ənt/"],
+		"phonetics-uk": ["/ˈef.lu.ənt/"]
 	}],
 	"expedite": [{
 		"pos": "verb",
@@ -237,7 +291,9 @@
 		"image": "expedite.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈek.spə.daɪt/"],
+		"phonetics-uk": ["/ˈek.spə.daɪt/"]
 	}],
 	"gaiety": [{
 		"pos": "noun",
@@ -248,7 +304,9 @@
 		"image": "gaiety.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈɡeɪ.ə.t̬i/"],
+		"phonetics-uk": ["/ˈɡeɪ.ə.ti/"]
 	}],
 	"ghastly": [{
 		"pos": "adjective",
@@ -259,7 +317,9 @@
 		"image": "ghastly.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈɡæst.li/"],
+		"phonetics-uk": ["/ˈɡɑːst.li/"]
 	}, {
 		"pos": "adjective",
 		"def": "resembling a ghost, especially in being very pale; extremely unwell",
@@ -290,7 +350,9 @@
 		"image": "hysteria.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/hɪˈstɪr.i.ə/"],
+		"phonetics-uk": ["/hɪˈstɪə.ri.ə/"]
 	}],
 	"inane": [{
 		"pos": "adjective",
@@ -301,7 +363,9 @@
 		"image": "inane.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪˈneɪn/"],
+		"phonetics-uk": ["/ɪˈneɪn/"]
 	}],
 	"irate": [{
 		"pos": "adjective",
@@ -312,7 +376,9 @@
 		"image": "irate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/aɪˈreɪt/"],
+		"phonetics-uk": ["/aɪˈreɪt/"]
 	}],
 	"jar": [{
 		"pos": "verb",
@@ -323,7 +389,9 @@
 		"image": "jar.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/dʒɑːr/"],
+		"phonetics-uk": ["/dʒɑːr/"]
 	}],
 	"jarring": [{
 		"pos": "adjective",
@@ -334,7 +402,9 @@
 		"image": "jarring.png",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.needpix.com/photo/download/1665319/noise-pollution-anxiety-noise-traffic-anger-anxious-auto-city-commuter"
+		"website": "https://www.needpix.com/photo/download/1665319/noise-pollution-anxiety-noise-traffic-anger-anxious-auto-city-commuter",
+		"phonetics-us": ["/ˈdʒɑːr.ɪŋ/"],
+		"phonetics-uk": ["/ˈdʒɑː.rɪŋ/"]
 	}],
 	"logorrhea": [{
 		"pos": "noun",
@@ -345,7 +415,9 @@
 		"image": "logorrhea.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌlɔɡəˈriə/"],
+		"phonetics-uk": ["/ˌlɒɡəˈrɪə/"]
 	}],
 	"musing": [{
 		"pos": "adjective",
@@ -356,7 +428,9 @@
 		"image": "musing.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/mjuːz/"],
+		"phonetics-uk": ["/mjuːz/"]
 	}],
 	"nonpareil": [{
 		"pos": "adjective",
@@ -367,7 +441,9 @@
 		"image": "nonpareil.jpeg",
 		"notes": "Muhammad Ali, an American professional boxer nicknamed \"The Greatest\".",
 		"examples": [],
-		"website": "http://www.mepixels.com/photo/muhammad-ali-2558"
+		"website": "http://www.mepixels.com/photo/muhammad-ali-2558",
+		"phonetics-us": ["/ˌnɑːn.pəˈrel/"],
+		"phonetics-uk": ["/ˌnɒn.pəˈreɪl/"]
 	}],
 	"novel": [{
 		"pos": "adjective",
@@ -378,7 +454,9 @@
 		"image": "novel.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈnɑː.vəl/"],
+		"phonetics-uk": ["/ˈnɒv.əl/"]
 	}],
 	"pensive": [{
 		"pos": "adjective",
@@ -389,39 +467,9 @@
 		"image": "pensive.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
-	}],
-	"posterior": [{
-		"pos": "adjective",
-		"def": "coming after in time or order, as in a series; later in time",
-		"synonyms": ["subsequent"],
-		"antonyms": ["anterior"],
-		"alternatives": [],
-		"image": "posterior.jpg",
-		"notes": "",
-		"examples": [],
-		"website": ""
-	}, {
-		"pos": "adjective",
-		"def": "located at, behind a part, or near the end of a structure",
-		"synonyms": [],
-		"antonyms": [],
-		"alternatives": [],
-		"image": "",
-		"notes": "",
-		"examples": [],
-		"website": ""
-	}],
-	"posterity": [{
-		"pos": "noun",
-		"def": "all future generations of people",
-		"synonyms": [],
-		"antonyms": [],
-		"alternatives": [],
-		"image": "posterity.jpg",
-		"notes": "",
-		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈpen.sɪv/"],
+		"phonetics-uk": ["/ˈpen.sɪv/"]
 	}],
 	"prodigy": [{
 		"pos": "noun",
@@ -432,7 +480,9 @@
 		"image": "prodigy.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Akash-_Global_Child_Prodigy_Awardee.jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:Akash-_Global_Child_Prodigy_Awardee.jpg",
+		"phonetics-us": ["/ˈprɑː.də.dʒi/"],
+		"phonetics-uk": ["/ˈprɒd.ɪ.dʒi/"]
 	}],
 	"pronouncement": [{
 		"pos": "noun",
@@ -443,7 +493,9 @@
 		"image": "pronouncement.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/prəˈnaʊnsmənt/"],
+		"phonetics-uk": ["/prəˈnaʊnsmənt/"]
 	}],
 	"puffery": [{
 		"pos": "noun",
@@ -454,7 +506,9 @@
 		"image": "puffery.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈpʌf.ɚ.i/"],
+		"phonetics-uk": ["/ˈpʌf.ər.i/"]
 	}],
 	"reckon": [{
 		"pos": "verb",
@@ -465,7 +519,9 @@
 		"image": "reckon.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈrek.ən/"],
+		"phonetics-uk": ["/ˈrek.ən/"]
 	}, {
 		"pos": "verb",
 		"def": "establish by calculation",
@@ -477,23 +533,25 @@
 		"examples": [],
 		"website": ""
 	}],
-	"reckoning": [{
+	"reminiscence": [{
 		"pos": "noun",
-		"def": "the action or process of calculating or estimating something; a person's opinion or judgement",
-		"synonyms": ["evaluation", "appraisal"],
+		"def": "the enjoyable recollection of past events",
+		"synonyms": [],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "reminiscence.jpg",
+		"notes": "",
+		"examples": [],
+		"website": "",
+		"phonetics-us": ["/ˌrem.əˈnɪs.əns/"],
+		"phonetics-uk": ["/ˌrem.ɪˈnɪs.əns/"]
+	}, {
+		"pos": "noun",
+		"def": "a characteristic of one thing that is suggestive of another",
+		"synonyms": [],
 		"antonyms": [],
 		"alternatives": [],
 		"image": "",
-		"notes": "",
-		"examples": [],
-		"website": ""
-	}, {
-		"pos": "noun",
-		"def": "the avenging or punishing of past mistakes or misdeeds",
-		"synonyms": ["retribution", "nemesis"],
-		"antonyms": [],
-		"alternatives": [],
-		"image": "reckoning.jpg",
 		"notes": "",
 		"examples": [],
 		"website": ""
@@ -507,7 +565,9 @@
 		"image": "repugnant.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/rɪˈpʌɡ.nənt/"],
+		"phonetics-uk": ["/rɪˈpʌɡ.nənt/"]
 	}],
 	"rigorous": [{
 		"pos": "adjective",
@@ -518,7 +578,9 @@
 		"image": "rigorous.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈrɪɡ.ɚ.əs/"],
+		"phonetics-uk": ["/ˈrɪɡ.ər.əs/"]
 	}],
 	"scathing": [{
 		"pos": "adjective",
@@ -529,7 +591,9 @@
 		"image": "scathing.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈskeɪ.ðɪŋ/"],
+		"phonetics-uk": ["/ˈskeɪ.ðɪŋ/"]
 	}],
 	"sober": [{
 		"pos": "adjective",
@@ -540,7 +604,9 @@
 		"image": "sober.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈsoʊ.bɚ/"],
+		"phonetics-uk": ["/ˈsəʊ.bər/"]
 	}, {
 		"pos": "adjective",
 		"def": "lacking brightness or color",
@@ -561,7 +627,9 @@
 		"image": "stagnate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈstæɡ.neɪt/"],
+		"phonetics-uk": ["/stæɡˈneɪt/"]
 	}],
 	"triumvir": [{
 		"pos": "noun",
@@ -572,7 +640,9 @@
 		"image": "triumvir.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/traɪˈəmvər/"],
+		"phonetics-uk": ["/trʌɪˈʌmvə/"]
 	}],
 	"triumvirate": [{
 		"pos": "noun",
@@ -583,7 +653,9 @@
 		"image": "triumvirate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:The_First_Triumvirate_of_the_Roman_Republic_1200X800.jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:The_First_Triumvirate_of_the_Roman_Republic_1200X800.jpg",
+		"phonetics-us": ["/traɪˈʌm.vɪ.rət/"],
+		"phonetics-uk": ["/traɪˈʌm.vɪ.rət/"]
 	}],
 	"undulate": [{
 		"pos": "verb",
@@ -594,7 +666,9 @@
 		"image": "undulate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pxhere.com/en/photo/1454413"
+		"website": "https://pxhere.com/en/photo/1454413",
+		"phonetics-us": ["/ˈʌn.djʊ.leɪt/"],
+		"phonetics-uk": ["/ˈʌn.djʊ.leɪt/"]
 	}],
 	"vet": [{
 		"pos": "verb",
@@ -605,7 +679,9 @@
 		"image": "vet.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/vet/"],
+		"phonetics-uk": ["/vet/"]
 	}, {
 		"pos": "verb",
 		"def": "investigate (someone) thoroughly, especially in order to ensure that they are suitable for a job requiring secrecy, loyalty, or trustworthiness; evaluate for possible approval or acceptance",
@@ -636,7 +712,9 @@
 		"image": "veteran.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Russia-VD-Veteran.jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:Russia-VD-Veteran.jpg",
+		"phonetics-us": ["/ˈve.t̬ɚ.ən/"],
+		"phonetics-uk": ["/ˈvet.ər.ən/"]
 	}],
 	"wrought": [{
 		"pos": "adjective",
@@ -647,7 +725,9 @@
 		"image": "wrought.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/rɑːt/"],
+		"phonetics-uk": ["/rɔːt/"]
 	}, {
 		"pos": "adjective",
 		"def": "(of metals) beaten out or shaped by hammering",
