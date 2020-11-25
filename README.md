@@ -55,3 +55,5 @@ The word list has been compiled using the following resources:
 * [Personal Words 2](Personal%20Words%202/)
 * [Personal Words 3](Personal%20Words%203/)
 * [Personal Words 4](Personal%20Words%204/)
+* [Personal Words 5](Personal%20Words%205/)
+* [Personal Words 6](Personal%20Words%206/)
