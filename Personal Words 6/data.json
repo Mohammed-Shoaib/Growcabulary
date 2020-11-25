@@ -8,7 +8,9 @@
 		"image": "antagonism.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ænˈtæɡ.ən.ɪ.zəm/"],
+		"phonetics-uk": ["/ænˈtæɡ.ən.ɪ.zəm/"]
 	}],
 	"avant-garde": [{
 		"pos": "adjective",
@@ -19,7 +21,9 @@
 		"image": "avant-garde.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌævɑntˈɡɑrd/"],
+		"phonetics-uk": ["/ˌavɒ̃ˈɡɑːd/"]
 	}],
 	"avow": [{
 		"pos": "verb",
@@ -30,7 +34,9 @@
 		"image": "avow.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/əˈvaʊ/"],
+		"phonetics-uk": ["/əˈvaʊ/"]
 	}],
 	"belabour": [{
 		"pos": "verb",
@@ -61,7 +67,9 @@
 		"image": "belabour.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/bɪˈleɪ.bɚ/"],
+		"phonetics-uk": ["/bɪˈleɪ.bər/"]
 	}],
 	"bistro": [{
 		"pos": "noun",
@@ -72,7 +80,9 @@
 		"image": "bistro.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈbiː.stroʊ/"],
+		"phonetics-uk": ["/ˈbiː.strəʊ/"]
 	}],
 	"brash": [{
 		"pos": "adjective",
@@ -83,7 +93,9 @@
 		"image": "brash.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/bræʃ/"],
+		"phonetics-uk": ["/bræʃ/"]
 	}, {
 		"pos": "noun",
 		"def": "loose broken rock or ice",
@@ -104,7 +116,9 @@
 		"image": "brio.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈbriː.oʊ/"],
+		"phonetics-uk": ["/ˈbriː.əʊ/"]
 	}],
 	"cabal": [{
 		"pos": "noun",
@@ -115,7 +129,9 @@
 		"image": "cabal.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/kəˈbɑːl/"],
+		"phonetics-uk": ["/kəˈbæl/"]
 	}],
 	"chic": [{
 		"pos": "adjective",
@@ -126,7 +142,9 @@
 		"image": "chic.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Persian_Chic-_Fashion_Show_(16466072611).jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:Persian_Chic-_Fashion_Show_(16466072611).jpg",
+		"phonetics-us": ["/ʃiːk/"],
+		"phonetics-uk": ["/ʃiːk/"]
 	}],
 	"coarse": [{
 		"pos": "adjective",
@@ -137,7 +155,9 @@
 		"image": "coarse.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/kɔːrs/"],
+		"phonetics-uk": ["/kɔːs/"]
 	}, {
 		"pos": "adjective",
 		"def": "(of a person or their speech) rude or vulgar",
@@ -158,7 +178,9 @@
 		"image": "consort.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/kənˈsɔːrt/"],
+		"phonetics-uk": ["/kənˈsɔːt/"]
 	}],
 	"counterpoint": [{
 		"pos": "verb",
@@ -169,7 +191,9 @@
 		"image": "counterpoint.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈkaʊn.t̬ɚ.pɔɪnt/"],
+		"phonetics-uk": ["/ˈkaʊn.tə.pɔɪnt/"]
 	}],
 	"deluge": [{
 		"pos": "noun",
@@ -180,7 +204,9 @@
 		"image": "deluge.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈdel.juːdʒ/"],
+		"phonetics-uk": ["/ˈdel.juːdʒ/"]
 	}],
 	"demeanour": [{
 		"pos": "noun",
@@ -191,7 +217,9 @@
 		"image": "demeanour.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/dɪˈmiː.nɚ/"],
+		"phonetics-uk": ["/dɪˈmiː.nər/"]
 	}],
 	"disembodied": [{
 		"pos": "adjective",
@@ -202,7 +230,9 @@
 		"image": "disembodied.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌdɪs.ɪmˈbɑː.did/"],
+		"phonetics-uk": ["/ˌdɪs.ɪmˈbɒd.id/"]
 	}],
 	"distended": [{
 		"pos": "adjective",
@@ -213,7 +243,9 @@
 		"image": "distended.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/dɪˈstɛndəd/"],
+		"phonetics-uk": ["/dɪˈstɛndɪd/"]
 	}],
 	"distort": [{
 		"pos": "verb",
@@ -224,7 +256,9 @@
 		"image": "distort.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/dɪˈstɔːrt/"],
+		"phonetics-uk": ["/dɪˈstɔːt/"]
 	}],
 	"entrapment": [{
 		"pos": "noun",
@@ -235,7 +269,9 @@
 		"image": "entrapment.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪnˈtræp.mənt/"],
+		"phonetics-uk": ["/ɪnˈtræp.mənt/"]
 	}],
 	"gavel": [{
 		"pos": "noun",
@@ -246,7 +282,9 @@
 		"image": "gavel.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Legal_Gavel_(27571702173).jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:Legal_Gavel_(27571702173).jpg",
+		"phonetics-us": ["/ˈɡæv.əl/"],
+		"phonetics-uk": ["/ˈɡæv.əl/"]
 	}],
 	"grim": [{
 		"pos": "adjective",
@@ -257,7 +295,9 @@
 		"image": "grim.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɡrɪm/"],
+		"phonetics-uk": ["/ɡrɪm/"]
 	}, {
 		"pos": "adjective",
 		"def": "of a sinister or ghastly character; inspiring horror",
@@ -278,7 +318,9 @@
 		"image": "heedless.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈhiːd.ləs/"],
+		"phonetics-uk": ["/ˈhiːd.ləs/"]
 	}],
 	"hobnob": [{
 		"pos": "verb",
@@ -289,7 +331,9 @@
 		"image": "hobnob.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈhɑːb.nɑːb/"],
+		"phonetics-uk": ["/ˈhɒb.nɒb/"]
 	}],
 	"impunity": [{
 		"pos": "noun",
@@ -300,7 +344,9 @@
 		"image": "impunity.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪmˈpjuː.ə.t̬i/"],
+		"phonetics-uk": ["/ɪmˈpjuː.nə.ti/"]
 	}],
 	"incendiary": [{
 		"pos": "noun",
@@ -311,7 +357,9 @@
 		"image": "incendiary.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪnˈsen.di.er.i/"],
+		"phonetics-uk": ["/ɪnˈsen.di.ə.ri/"]
 	}, {
 		"pos": "adjective",
 		"def": "tending to stir up conflict",
@@ -332,7 +380,9 @@
 		"image": "incipient.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪnˈsɪp.i.ənt/"],
+		"phonetics-uk": ["/ɪnˈsɪp.i.ənt/"]
 	}],
 	"lament": [{
 		"pos": "noun",
@@ -343,7 +393,9 @@
 		"image": "lament.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ləˈment/"],
+		"phonetics-uk": ["/ləˈment/"]
 	}],
 	"locution": [{
 		"pos": "noun",
@@ -364,7 +416,9 @@
 		"image": "locution.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ləˈkjuː.ʃən/"],
+		"phonetics-uk": ["/ləˈkjuː.ʃən/"]
 	}],
 	"lurid": [{
 		"pos": "adjective",
@@ -375,7 +429,9 @@
 		"image": "lurid.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈlʊr.ɪd/"],
+		"phonetics-uk": ["/ˈlʊə.rɪd/"]
 	}, {
 		"pos": "adjective",
 		"def": "presented in vividly shocking or sensational terms",
@@ -396,7 +452,9 @@
 		"image": "meek.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/miːk/"],
+		"phonetics-uk": ["/miːk/"]
 	}],
 	"milieu": [{
 		"pos": "noun",
@@ -407,7 +465,9 @@
 		"image": "milieu.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/miːlˈjɜː/"],
+		"phonetics-uk": ["/miːlˈjɜː/"]
 	}],
 	"motif": [{
 		"pos": "noun",
@@ -428,7 +488,9 @@
 		"image": "motif.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/moʊˈtiːf/"],
+		"phonetics-uk": ["/məʊˈtiːf/"]
 	}],
 	"muckrake": [{
 		"pos": "verb",
@@ -439,7 +501,9 @@
 		"image": "muckrake.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈməkˌreɪk/"],
+		"phonetics-uk": ["/ˈmʌkreɪk/"]
 	}],
 	"oblivious": [{
 		"pos": "adjective",
@@ -450,7 +514,9 @@
 		"image": "oblivious.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/əˈblɪv.i.əs/"],
+		"phonetics-uk": ["/əˈblɪv.i.əs/"]
 	}],
 	"peddle": [{
 		"pos": "verb",
@@ -461,7 +527,9 @@
 		"image": "peddle.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pxfuel.com/en/free-photo-ogxtj"
+		"website": "https://www.pxfuel.com/en/free-photo-ogxtj",
+		"phonetics-us": ["/ˈped.əl/"],
+		"phonetics-uk": ["/ˈped.əl/"]
 	}, {
 		"pos": "verb",
 		"def": "promote (an idea or view) persistently or widely",
@@ -492,7 +560,9 @@
 		"image": "ply.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/plaɪ/"],
+		"phonetics-uk": ["/plaɪ/"]
 	}],
 	"polarity": [{
 		"pos": "noun",
@@ -503,7 +573,9 @@
 		"image": "polarity.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/poʊˈler.ə.t̬i/"],
+		"phonetics-uk": ["/pəˈlær.ə.ti/"]
 	}],
 	"preside": [{
 		"pos": "verb",
@@ -514,7 +586,9 @@
 		"image": "preside.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/prɪˈzaɪd/"],
+		"phonetics-uk": ["/prɪˈzaɪd/"]
 	}],
 	"renown": [{
 		"pos": "noun",
@@ -525,7 +599,9 @@
 		"image": "renown.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/rɪˈnaʊn/"],
+		"phonetics-uk": ["/rɪˈnaʊn/"]
 	}],
 	"repress": [{
 		"pos": "verb",
@@ -536,7 +612,9 @@
 		"image": "repress.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/rɪˈpres/"],
+		"phonetics-uk": ["/rɪˈpres/"]
 	}],
 	"retaliate": [{
 		"pos": "verb",
@@ -547,7 +625,9 @@
 		"image": "retaliate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/rɪˈtæl.i.eɪt/"],
+		"phonetics-uk": ["/rɪˈtæl.i.eɪt/"]
 	}],
 	"retort": [{
 		"pos": "verb",
@@ -558,7 +638,9 @@
 		"image": "retort.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/rɪˈtɔːrt/"],
+		"phonetics-uk": ["/rɪˈtɔːt/"]
 	}],
 	"schmooze": [{
 		"pos": "verb",
@@ -569,7 +651,9 @@
 		"image": "schmooze.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ʃmuːz/"],
+		"phonetics-uk": ["/ʃmuːz/"]
 	}],
 	"sly": [{
 		"pos": "adjective",
@@ -580,7 +664,9 @@
 		"image": "sly.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/slaɪ/"],
+		"phonetics-uk": ["/slaɪ/"]
 	}],
 	"subvert": [{
 		"pos": "verb",
@@ -591,7 +677,9 @@
 		"image": "subvert.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/səbˈvɝːt/"],
+		"phonetics-uk": ["/səbˈvɜːt/"]
 	}, {
 		"pos": "verb",
 		"def": "to undermine the principles of",
@@ -612,7 +700,9 @@
 		"image": "susceptibility.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/səˌsep.təˈbɪl.ə.i/"],
+		"phonetics-uk": ["/səˌsep.təˈbɪl.ə.ti/"]
 	}, {
 		"pos": "noun",
 		"def": "a person's feelings, typically considered as being easily hurt",
@@ -633,7 +723,9 @@
 		"image": "tavern.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈtæv.ɚn/"],
+		"phonetics-uk": ["/ˈtæv.ən/"]
 	}],
 	"trope": [{
 		"pos": "noun",
@@ -644,7 +736,9 @@
 		"image": "trope.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/troʊp/"],
+		"phonetics-uk": ["/trəʊp/"]
 	}, {
 		"pos": "noun",
 		"def": "a word or expression used in a figurative or non-literal sense",
@@ -665,7 +759,9 @@
 		"image": "unpretentious.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌʌn.prɪˈten.ʃəs/"],
+		"phonetics-uk": ["/ˌʌn.prɪˈten.ʃəs/"]
 	}],
 	"vigour": [{
 		"pos": "noun",
@@ -676,7 +772,9 @@
 		"image": "vigour.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈvɪɡ.ɚ/"],
+		"phonetics-uk": ["/ˈvɪɡ.ər/"]
 	}, {
 		"pos": "noun",
 		"def": "effort, energy, and enthusiasm",
@@ -697,6 +795,8 @@
 		"image": "vivacity.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/vɪˈvæs.ə.t̬i/"],
+		"phonetics-uk": ["/vɪˈvæs.ə.ti/"]
 	}]
 }
