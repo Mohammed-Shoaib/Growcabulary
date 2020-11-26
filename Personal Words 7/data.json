@@ -8,7 +8,9 @@
 		"image": "advent.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈæd.vent/"],
+		"phonetics-uk": ["/ˈæd.vent/"]
 	}],
 	"alienate": [{
 		"pos": "verb",
@@ -19,7 +21,9 @@
 		"image": "alienate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈeɪ.li.ə.neɪt/"],
+		"phonetics-uk": ["/ˈeɪ.li.ə.neɪt/"]
 	}],
 	"anticipate": [{
 		"pos": "verb",
@@ -30,7 +34,9 @@
 		"image": "anticipate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ænˈtɪs.ə.peɪt/"],
+		"phonetics-uk": ["/ænˈtɪs.ɪ.peɪt/"]
 	}],
 	"armoire": [{
 		"pos": "noun",
@@ -41,7 +47,9 @@
 		"image": "armoire.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɑrmˈwɑr/"],
+		"phonetics-uk": ["/ɑːˈmwɑː/"]
 	}],
 	"bisque": [{
 		"pos": "noun",
@@ -52,7 +60,9 @@
 		"image": "bisque.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:M%C3%A9daillon_prince_de_Mayence_S%C3%A8vres.jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:M%C3%A9daillon_prince_de_Mayence_S%C3%A8vres.jpg",
+		"phonetics-us": ["/biːsk/"],
+		"phonetics-uk": ["/biːsk/"]
 	}],
 	"bluff": [{
 		"pos": "noun",
@@ -63,7 +73,9 @@
 		"image": "bluff.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/blʌf/"],
+		"phonetics-uk": ["/blʌf/"]
 	}],
 	"brandish": [{
 		"pos": "verb",
@@ -74,7 +86,9 @@
 		"image": "brandish.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈbræn.dɪʃ/"],
+		"phonetics-uk": ["/ˈbræn.dɪʃ/"]
 	}],
 	"clutch": [{
 		"pos": "noun",
@@ -85,7 +99,9 @@
 		"image": "clutch.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/klʌtʃ/"],
+		"phonetics-uk": ["/klʌtʃ/"]
 	}],
 	"connate": [{
 		"pos": "adjective",
@@ -96,7 +112,9 @@
 		"image": "connate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈkɑneɪt/"],
+		"phonetics-uk": ["/ˈkɒneɪt/"]
 	}],
 	"curative": [{
 		"pos": "adjective",
@@ -107,7 +125,9 @@
 		"image": "curative.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈkjʊr.ə.t̬ɪv/"],
+		"phonetics-uk": ["/ˈkjʊə.rə.tɪv/"]
 	}],
 	"dainty": [{
 		"pos": "adjective",
@@ -128,7 +148,9 @@
 		"image": "dainty.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈdeɪn.t̬i/"],
+		"phonetics-uk": ["/ˈdeɪn.ti/"]
 	}, {
 		"pos": "adjective",
 		"def": "excessively fastidious and easily disgusted",
@@ -149,7 +171,9 @@
 		"image": "deficient.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/dɪˈfɪʃ.ənt/"],
+		"phonetics-uk": ["/dɪˈfɪʃ.ənt/"]
 	}],
 	"deft": [{
 		"pos": "adjective",
@@ -160,7 +184,9 @@
 		"image": "deft.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/deft/"],
+		"phonetics-uk": ["/deft/"]
 	}, {
 		"pos": "adjective",
 		"def": "demonstrating skill and cleverness",
@@ -181,7 +207,9 @@
 		"image": "dexterous.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈdek.strəs/"],
+		"phonetics-uk": ["/ˈdek.strəs/"]
 	}],
 	"disputatious": [{
 		"pos": "adjective",
@@ -192,7 +220,9 @@
 		"image": "disputatious.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌdɪs.pjuːˈteɪ.ʃəs/"],
+		"phonetics-uk": ["/ˌdɪs.pjuˈteɪ.ʃəs/"]
 	}],
 	"estrange": [{
 		"pos": "verb",
@@ -203,7 +233,9 @@
 		"image": "estrange.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪˈstreɪndʒ/"],
+		"phonetics-uk": ["/ɪˈstreɪndʒ/"]
 	}],
 	"exert": [{
 		"pos": "verb",
@@ -214,7 +246,9 @@
 		"image": "exert.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪɡˈzɝːt/"],
+		"phonetics-uk": ["/ɪɡˈzɜːt/"]
 	}],
 	"expedient": [{
 		"pos": "noun",
@@ -225,7 +259,9 @@
 		"image": "expedient.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪkˈspiː.di.ənt/"],
+		"phonetics-uk": ["/ɪkˈspiː.di.ənt/"]
 	}],
 	"extol": [{
 		"pos": "verb",
@@ -236,7 +272,9 @@
 		"image": "extol.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪkˈstoʊl/"],
+		"phonetics-uk": ["/ɪkˈstəʊl/"]
 	}],
 	"falter": [{
 		"pos": "verb",
@@ -247,7 +285,9 @@
 		"image": "falter.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈfɑːl.tɚ/"],
+		"phonetics-uk": ["/ˈfɒl.tər/"]
 	}, {
 		"pos": "verb",
 		"def": "to move unsteadily, as if about to give way",
@@ -268,7 +308,9 @@
 		"image": "flicker.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈflɪk.ɚ/"],
+		"phonetics-uk": ["/ˈflɪk.ər/"]
 	}],
 	"flutter": [{
 		"pos": "verb",
@@ -279,7 +321,9 @@
 		"image": "flutter.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈflʌt̬.ɚ/"],
+		"phonetics-uk": ["/ˈflʌt.ər/"]
 	}],
 	"fracking": [{
 		"pos": "adjective",
@@ -290,7 +334,9 @@
 		"image": "fracking.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈfræk.ɪŋ/"],
+		"phonetics-uk": ["/ˈfræk.ɪŋ/"]
 	}],
 	"fracture": [{
 		"pos": "verb",
@@ -301,7 +347,9 @@
 		"image": "fracture.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈfræk.tʃɚ/"],
+		"phonetics-uk": ["/ˈfræk.tʃər/"]
 	}],
 	"granular": [{
 		"pos": "adjective",
@@ -312,7 +360,9 @@
 		"image": "granular.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈɡræn.jə.lɚ/"],
+		"phonetics-uk": ["/ˈɡræn.jə.lər/"]
 	}, {
 		"pos": "adjective",
 		"def": "having many small and distinct parts; highly detailed",
@@ -333,7 +383,9 @@
 		"image": "healthful.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈhelθ.fəl/"],
+		"phonetics-uk": ["/ˈhelθ.fəl/"]
 	}],
 	"heavy-handed": [{
 		"pos": "adjective",
@@ -354,7 +406,9 @@
 		"image": "heavy-handed.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌhev.iˈhæn.dɪd/"],
+		"phonetics-uk": ["/ˌhev.iˈhæn.dɪd/"]
 	}],
 	"imperceptible": [{
 		"pos": "adjective",
@@ -365,7 +419,9 @@
 		"image": "imperceptible.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌɪm.pɚˈsep.tə.bəl/"],
+		"phonetics-uk": ["/ˌɪm.pəˈsep.tə.bəl/"]
 	}],
 	"importunate": [{
 		"pos": "adjective",
@@ -376,7 +432,9 @@
 		"image": "importunate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪmˈpɔːr.tʃə.nət/"],
+		"phonetics-uk": ["/ɪmˈpɔː.tjə.nət/"]
 	}],
 	"inconsistent": [{
 		"pos": "adjective",
@@ -387,7 +445,9 @@
 		"image": "inconsistent.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌɪn.kənˈsɪs.tənt/"],
+		"phonetics-uk": ["/ˌɪn.kənˈsɪs.tənt/"]
 	}, {
 		"pos": "adjective",
 		"def": "not compatible or in keeping with",
@@ -408,7 +468,9 @@
 		"image": "infamous.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈɪn.fə.məs/"],
+		"phonetics-uk": ["/ˈɪn.fə.məs/"]
 	}],
 	"innate": [{
 		"pos": "adjective",
@@ -419,7 +481,9 @@
 		"image": "innate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪˈneɪt/"],
+		"phonetics-uk": ["/ɪˈneɪt/"]
 	}],
 	"notable": [{
 		"pos": "adjective",
@@ -430,7 +494,9 @@
 		"image": "notable.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈnoʊ.t̬ə.bəl/"],
+		"phonetics-uk": ["/ˈnəʊ.tə.bəl/"]
 	}, {
 		"pos": "noun",
 		"def": "a famous or important person",
@@ -451,7 +517,9 @@
 		"image": "ostensibly.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɑːˈsten.sə.bli/"],
+		"phonetics-uk": ["/ɒsˈten.sə.bli/"]
 	}],
 	"otherworldly": [{
 		"pos": "adjective",
@@ -462,7 +530,9 @@
 		"image": "otherworldly.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌʌð.ɚˈwɝːld.li/"],
+		"phonetics-uk": ["/ˌʌð.əˈwɜːld.li/"]
 	}],
 	"outspoken": [{
 		"pos": "adjective",
@@ -473,7 +543,9 @@
 		"image": "outspoken.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌaʊtˈspoʊ.kən/"],
+		"phonetics-uk": ["/ˌaʊtˈspəʊ.kən/"]
 	}],
 	"palpitate": [{
 		"pos": "verb",
@@ -484,7 +556,9 @@
 		"image": "palpitate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈpæl.pə.teɪt/"],
+		"phonetics-uk": ["/ˈpæl.pɪ.teɪt/"]
 	}],
 	"parcel": [{
 		"pos": "verb",
@@ -495,7 +569,9 @@
 		"image": "parcel.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈpɑːr.səl/"],
+		"phonetics-uk": ["/ˈpɑː.səl/"]
 	}],
 	"populace": [{
 		"pos": "noun",
@@ -506,7 +582,9 @@
 		"image": "populace.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈpɑː.pjə.ləs/"],
+		"phonetics-uk": ["/ˈpɒp.jə.ləs/"]
 	}],
 	"populous": [{
 		"pos": "adjective",
@@ -517,7 +595,9 @@
 		"image": "populous.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈpɑː.pjə.ləs/"],
+		"phonetics-uk": ["/ˈpɒp.jə.ləs/"]
 	}],
 	"pore": [{
 		"pos": "verb",
@@ -528,7 +608,9 @@
 		"image": "pore.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/pɔːr/"],
+		"phonetics-uk": ["/pɔːr/"]
 	}, {
 		"pos": "noun",
 		"def": "any tiny hole admitting passage of a liquid (fluid or gas); a minute opening especially in an animal or plant",
@@ -549,7 +631,9 @@
 		"image": "protuberant.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/prəˈtuː.bɚ.ənt/"],
+		"phonetics-uk": ["/prəˈtʃuː.bər.ənt/"]
 	}],
 	"quiver": [{
 		"pos": "noun",
@@ -560,7 +644,9 @@
 		"image": "quiver.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈkwɪv.ɚ/"],
+		"phonetics-uk": ["/ˈkwɪv.ər/"]
 	}],
 	"rivet": [{
 		"pos": "verb",
@@ -581,7 +667,9 @@
 		"image": "rivet.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈrɪv.ɪt/"],
+		"phonetics-uk": ["/ˈrɪv.ɪt/"]
 	}],
 	"shoddy": [{
 		"pos": "adjective",
@@ -602,7 +690,9 @@
 		"image": "shoddy.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈʃɑː.di/"],
+		"phonetics-uk": ["/ˈʃɒd.i/"]
 	}],
 	"succinct": [{
 		"pos": "adjective",
@@ -613,7 +703,9 @@
 		"image": "succinct.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/səkˈsɪŋkt/"],
+		"phonetics-uk": ["/səkˈsɪŋkt/"]
 	}],
 	"tentative": [{
 		"pos": "adjective",
@@ -624,7 +716,9 @@
 		"image": "tentative.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈten.t̬ə.t̬ɪv/"],
+		"phonetics-uk": ["/ˈten.tə.tɪv/"]
 	}, {
 		"pos": "adjective",
 		"def": "done without confidence",
@@ -645,7 +739,9 @@
 		"image": "undiplomatic.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌənˌdɪpləˈmædɪk/"],
+		"phonetics-uk": ["/ˌʌndɪpləˈmatɪk/"]
 	}],
 	"waver": [{
 		"pos": "verb",
@@ -656,7 +752,9 @@
 		"image": "waver.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈweɪ.vɚ/"],
+		"phonetics-uk": ["/ˈweɪ.vər/"]
 	}, {
 		"pos": "verb",
 		"def": "become weaker",
@@ -677,6 +775,8 @@
 		"image": "wordy.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈwɝː.di/"],
+		"phonetics-uk": ["/ˈwɜː.di/"]
 	}]
 }
