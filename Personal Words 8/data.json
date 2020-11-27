@@ -8,7 +8,9 @@
 		"image": "abnegation.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌæb.nəˈɡeɪ.ʃən/"],
+		"phonetics-uk": ["/ˌæb.nɪˈɡeɪ.ʃən/"]
 	}],
 	"adoration": [{
 		"pos": "noun",
@@ -19,7 +21,9 @@
 		"image": "adoration.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌæd.əˈreɪ.ʃən/"],
+		"phonetics-uk": ["/ˌæd.əˈreɪ.ʃən/"]
 	}],
 	"adulation": [{
 		"pos": "noun",
@@ -30,7 +34,9 @@
 		"image": "adulation.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌædʒ.əˈleɪ.ʃən/"],
+		"phonetics-uk": ["/ˌædʒ.əˈleɪ.ʃən/"]
 	}],
 	"agnostic": [{
 		"pos": "noun",
@@ -51,7 +57,9 @@
 		"image": "agnostic.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/æɡˈnɑː.stɪk/"],
+		"phonetics-uk": ["/æɡˈnɒs.tɪk/"]
 	}],
 	"atrocity": [{
 		"pos": "noun",
@@ -62,7 +70,9 @@
 		"image": "atrocity.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/əˈtrɑː.sə.t̬i/"],
+		"phonetics-uk": ["/əˈtrɒs.ə.ti/"]
 	}],
 	"berserk": [{
 		"pos": "adjective",
@@ -73,7 +83,9 @@
 		"image": "berserk.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/bɚˈzɝːk/"],
+		"phonetics-uk": ["/bəˈzɜːk/"]
 	}],
 	"calve": [{
 		"pos": "verb",
@@ -94,7 +106,9 @@
 		"image": "calve.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/kæv/"],
+		"phonetics-uk": ["/kɑːv/"]
 	}],
 	"chatty": [{
 		"pos": "adjective",
@@ -105,7 +119,9 @@
 		"image": "chatty.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈtʃæt̬.i/"],
+		"phonetics-uk": ["/ˈtʃæt.i/"]
 	}],
 	"collocation": [{
 		"pos": "noun",
@@ -116,7 +132,9 @@
 		"image": "collocation.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌkɑː.ləˈkeɪ.ʃən/"],
+		"phonetics-uk": ["/ˌkɒl.əˈkeɪ.ʃən/"]
 	}],
 	"conceive": [{
 		"pos": "verb",
@@ -127,7 +145,9 @@
 		"image": "conceive.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/kənˈsiːv/"],
+		"phonetics-uk": ["/kənˈsiːv/"]
 	}],
 	"conspiratorial": [{
 		"pos": "adjective",
@@ -138,7 +158,9 @@
 		"image": "conspiratorial.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/kənˌspɪr.əˈtɔː.ri.əl/"],
+		"phonetics-uk": ["/kənˌspɪr.əˈtɔː.ri.əl/"]
 	}],
 	"contemporaneous": [{
 		"pos": "adjective",
@@ -149,7 +171,9 @@
 		"image": "contemporaneous.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/kənˌtem.pəˈreɪ.ni.əs/"],
+		"phonetics-uk": ["/kənˌtem.pəˈreɪ.ni.əs/"]
 	}],
 	"conventional": [{
 		"pos": "adjective",
@@ -160,7 +184,9 @@
 		"image": "conventional.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/kənˈven.ʃən.əl/"],
+		"phonetics-uk": ["/kənˈven.ʃən.əl/"]
 	}],
 	"curtail": [{
 		"pos": "verb",
@@ -171,7 +197,9 @@
 		"image": "curtail.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/kɚˈteɪl/"],
+		"phonetics-uk": ["/kəˈteɪl/"]
 	}],
 	"debilitating": [{
 		"pos": "adjective",
@@ -182,7 +210,9 @@
 		"image": "debilitating.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/dɪˈbɪl.ə.teɪ.t̬ɪŋ/"],
+		"phonetics-uk": ["/dɪˈbɪl.ɪ.teɪ.tɪŋ/"]
 	}],
 	"dicey": [{
 		"pos": "adjective",
@@ -193,7 +223,9 @@
 		"image": "dicey.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈdaɪ.si/"],
+		"phonetics-uk": ["/ˈdaɪ.si/"]
 	}],
 	"dignity": [{
 		"pos": "noun",
@@ -204,7 +236,9 @@
 		"image": "dignity.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈdɪɡ.ə.t̬i/"],
+		"phonetics-uk": ["/ˈdɪɡ.nə.ti/"]
 	}, {
 		"pos": "noun",
 		"def": "formality in bearing or appearance; a composed or serious manner or style",
@@ -225,7 +259,9 @@
 		"image": "dire.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/daɪr/"],
+		"phonetics-uk": ["/daɪər/"]
 	}],
 	"disposition": [{
 		"pos": "noun",
@@ -236,7 +272,9 @@
 		"image": "disposition.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌdɪs.pəˈzɪʃ.ən/"],
+		"phonetics-uk": ["/ˌdɪs.pəˈzɪʃ.ən/"]
 	}, {
 		"pos": "noun",
 		"def": "the way in which something is placed or arranged, especially in relation to other things",
@@ -267,7 +305,9 @@
 		"image": "doctrine.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈdɑːk.trɪn/"],
+		"phonetics-uk": ["/ˈdɒk.trɪn/"]
 	}],
 	"ennobled": [{
 		"pos": "verb",
@@ -278,7 +318,9 @@
 		"image": "ennobled.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪˈnoʊ.bəl/"],
+		"phonetics-uk": ["/ɪˈnəʊ.bəl/"]
 	}],
 	"expedition": [{
 		"pos": "noun",
@@ -289,7 +331,9 @@
 		"image": "expedition.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌek.spəˈdɪʃ.ən/"],
+		"phonetics-uk": ["/ˌek.spəˈdɪʃ.ən/"]
 	}],
 	"foreshadowed": [{
 		"pos": "verb",
@@ -300,7 +344,9 @@
 		"image": "foreshadowed.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/fɔːrˈʃæd.oʊ/"],
+		"phonetics-uk": ["/fɔːˈʃæd.əʊ/"]
 	}],
 	"fraught": [{
 		"pos": "adjective",
@@ -311,7 +357,9 @@
 		"image": "fraught.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/frɑːt/"],
+		"phonetics-uk": ["/frɔːt/"]
 	}],
 	"indiscernible": [{
 		"pos": "adjective",
@@ -322,7 +370,9 @@
 		"image": "indiscernible.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌɪn.dɪˈsɝː.nə.bəl/"],
+		"phonetics-uk": ["/ˌɪn.dɪˈsɜː.nə.bəl/"]
 	}],
 	"infirm": [{
 		"pos": "adjective",
@@ -333,7 +383,9 @@
 		"image": "infirm.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪnˈfɝːm/"],
+		"phonetics-uk": ["/ɪnˈfɜːm/"]
 	}],
 	"kinship": [{
 		"pos": "noun",
@@ -344,7 +396,9 @@
 		"image": "kinship.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈkɪn.ʃɪp/"],
+		"phonetics-uk": ["/ˈkɪn.ʃɪp/"]
 	}, {
 		"pos": "noun",
 		"def": "a close connection marked by community of interests or similarity in nature or character",
@@ -365,7 +419,9 @@
 		"image": "libation.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/laɪˈbeɪ.ʃən/"],
+		"phonetics-uk": ["/laɪˈbeɪ.ʃən/"]
 	}],
 	"malignant": [{
 		"pos": "adjective",
@@ -376,7 +432,9 @@
 		"image": "malignant.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/məˈlɪɡ.nənt/"],
+		"phonetics-uk": ["/məˈlɪɡ.nənt/"]
 	}],
 	"notorious": [{
 		"pos": "adjective",
@@ -387,7 +445,9 @@
 		"image": "notorious.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/noʊˈtɔːr.i.əs/"],
+		"phonetics-uk": ["/nəʊˈtɔː.ri.əs/"]
 	}],
 	"overblown": [{
 		"pos": "adjective",
@@ -398,7 +458,9 @@
 		"image": "overblown.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌoʊ.vɚˈbloʊn/"],
+		"phonetics-uk": ["/ˌəʊ.vəˈbləʊn/"]
 	}],
 	"peril": [{
 		"pos": "noun",
@@ -409,7 +471,9 @@
 		"image": "peril.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈper.əl/"],
+		"phonetics-uk": ["/ˈper.əl/"]
 	}],
 	"predisposition": [{
 		"pos": "noun",
@@ -420,7 +484,9 @@
 		"image": "predisposition.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌpriː.dɪs.pəˈzɪʃ.ən/"],
+		"phonetics-uk": ["/ˌpriː.dɪs.pəˈzɪʃ.ən/"]
 	}],
 	"prone": [{
 		"pos": "adjective",
@@ -431,7 +497,9 @@
 		"image": "prone.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/proʊn/"],
+		"phonetics-uk": ["/prəʊn/"]
 	}],
 	"protracted": [{
 		"pos": "adjective",
@@ -442,7 +510,9 @@
 		"image": "protracted.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/prəˈtræk.tɪd/"],
+		"phonetics-uk": ["/prəˈtræk.tɪd/"]
 	}],
 	"puritan": [{
 		"pos": "noun",
@@ -453,7 +523,9 @@
 		"image": "puritan.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈpjʊr.ɪ.t̬ən/"],
+		"phonetics-uk": ["/ˈpjʊə.rɪ.tən/"]
 	}],
 	"rapture": [{
 		"pos": "noun",
@@ -464,7 +536,9 @@
 		"image": "rapture.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈræp.tʃɚ/"],
+		"phonetics-uk": ["/ˈræp.tʃər/"]
 	}],
 	"renounce": [{
 		"pos": "verb",
@@ -475,7 +549,9 @@
 		"image": "renounce.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/rɪˈnaʊns/"],
+		"phonetics-uk": ["/rɪˈnaʊns/"]
 	}],
 	"riparian": [{
 		"pos": "adjective",
@@ -486,7 +562,9 @@
 		"image": "riparian.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/raɪˈper.i.ən/"],
+		"phonetics-uk": ["/raɪˈpeə.ri.ən/"]
 	}],
 	"secularism": [{
 		"pos": "noun",
@@ -497,7 +575,9 @@
 		"image": "secularism.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈsek.jə.lər.ɪ.zəm/"],
+		"phonetics-uk": ["/ˈsek.jə.lər.ɪ.zəm/"]
 	}],
 	"self-aggrandizing": [{
 		"pos": "adjective",
@@ -508,7 +588,9 @@
 		"image": "self-aggrandizing.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌsɛlfəˈɡrænˌdaɪzɪŋ/"],
+		"phonetics-uk": ["/ˌsɛlfəˈɡrandʌɪzɪŋ/"]
 	}],
 	"sombre": [{
 		"pos": "adjective",
@@ -529,7 +611,9 @@
 		"image": "sombre.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈsɑːm.bɚ/"],
+		"phonetics-uk": ["/ˈsɒm.bər/"]
 	}],
 	"stifle": [{
 		"pos": "verb",
@@ -550,7 +634,9 @@
 		"image": "stifle.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈstaɪ.fəl/"],
+		"phonetics-uk": ["/ˈstaɪ.fəl/"]
 	}],
 	"thrive": [{
 		"pos": "verb",
@@ -561,7 +647,9 @@
 		"image": "thrive.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/θraɪv/"],
+		"phonetics-uk": ["/θraɪv/"]
 	}],
 	"trumpet": [{
 		"pos": "verb",
@@ -572,7 +660,9 @@
 		"image": "trumpet.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈtrʌm.pət/"],
+		"phonetics-uk": ["/ˈtrʌm.pɪt/"]
 	}],
 	"twilight": [{
 		"pos": "noun",
@@ -583,7 +673,9 @@
 		"image": "twilight.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈtwaɪ.laɪt/"],
+		"phonetics-uk": ["/ˈtwaɪ.laɪt/"]
 	}],
 	"unyielding": [{
 		"pos": "adjective",
@@ -594,7 +686,9 @@
 		"image": "unyielding.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ʌnˈjiːl.dɪŋ/"],
+		"phonetics-uk": ["/ʌnˈjiːl.dɪŋ/"]
 	}],
 	"usher": [{
 		"pos": "verb",
@@ -605,7 +699,9 @@
 		"image": "usher.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈʌʃ.ɚ/"],
+		"phonetics-uk": ["/ˈʌʃ.ər/"]
 	}, {
 		"pos": "noun",
 		"def": "a person who shows people to their seats, especially in a cinema or theatre or at a wedding",
@@ -626,7 +722,9 @@
 		"image": "virulent.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈvɪr.jə.lənt/"],
+		"phonetics-uk": ["/ˈvɪr.ə.lənt/"]
 	}, {
 		"pos": "adjective",
 		"def": "bitterly hostile",
@@ -647,7 +745,9 @@
 		"image": "wholesome.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈhoʊl.səm/"],
+		"phonetics-uk": ["/ˈhəʊl.səm/"]
 	}, {
 		"pos": "adjective",
 		"def": "conducive to or characterized by moral well-being",

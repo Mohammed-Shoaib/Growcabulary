@@ -58,3 +58,4 @@ The word list has been compiled using the following resources:
 * [Personal Words 5](Personal%20Words%205/)
 * [Personal Words 6](Personal%20Words%206/)
 * [Personal Words 7](Personal%20Words%207/)
+* [Personal Words 8](Personal%20Words%208/)
