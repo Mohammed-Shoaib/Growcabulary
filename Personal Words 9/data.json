@@ -8,7 +8,9 @@
 		"image": "abomination.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/əˌbɑː.məˈneɪ.ʃən/"],
+		"phonetics-uk": ["/əˌbɒm.ɪˈneɪ.ʃən/"]
 	}],
 	"affect": [{
 		"pos": "verb",
@@ -29,7 +31,9 @@
 		"image": "affect.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/əˈfekt/"],
+		"phonetics-uk": ["/əˈfekt/"]
 	}],
 	"affirm": [{
 		"pos": "verb",
@@ -40,7 +44,9 @@
 		"image": "affirm.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/əˈfɝːm/"],
+		"phonetics-uk": ["/əˈfɜːm/"]
 	}],
 	"alluvium": [{
 		"pos": "noun",
@@ -51,7 +57,9 @@
 		"image": "alluvium.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/əˈluː.vi.əm/"],
+		"phonetics-uk": ["/əˈluː.vi.əm/"]
 	}],
 	"backwater": [{
 		"pos": "noun",
@@ -62,7 +70,9 @@
 		"image": "backwater.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://www.pxfuel.com/en/free-photo-eebim"
+		"website": "https://www.pxfuel.com/en/free-photo-eebim",
+		"phonetics-us": ["/ˈbæk.wɑː.t̬ɚ/"],
+		"phonetics-uk": ["/ˈbæk.wɔː.tər/"]
 	}, {
 		"pos": "noun",
 		"def": "an isolated or peaceful place",
@@ -83,7 +93,9 @@
 		"image": "bicker.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈbɪk.ɚ/"],
+		"phonetics-uk": ["/ˈbɪk.ər/"]
 	}],
 	"blemish": [{
 		"pos": "noun",
@@ -94,7 +106,9 @@
 		"image": "blemish.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈblem.ɪʃ/"],
+		"phonetics-uk": ["/ˈblem.ɪʃ/"]
 	}],
 	"bog": [{
 		"pos": "verb",
@@ -105,7 +119,9 @@
 		"image": "bog.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/bɑːɡ/"],
+		"phonetics-uk": ["/bɒɡ/"]
 	}, {
 		"pos": "verb",
 		"def": "be prevented from making progress in a task of activity",
@@ -126,7 +142,9 @@
 		"image": "cessation.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/sesˈeɪ.ʃən/"],
+		"phonetics-uk": ["/sesˈeɪ.ʃən/"]
 	}],
 	"coax": [{
 		"pos": "verb",
@@ -137,7 +155,9 @@
 		"image": "coax.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/koʊks/"],
+		"phonetics-uk": ["/kəʊks/"]
 	}],
 	"compassion": [{
 		"pos": "noun",
@@ -148,7 +168,9 @@
 		"image": "compassion.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/kəmˈpæʃ.ən/"],
+		"phonetics-uk": ["/kəmˈpæʃ.ən/"]
 	}],
 	"dissent": [{
 		"pos": "verb",
@@ -159,7 +181,9 @@
 		"image": "dissent.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/dɪˈsent/"],
+		"phonetics-uk": ["/dɪˈsent/"]
 	}],
 	"dissertation": [{
 		"pos": "noun",
@@ -170,7 +194,9 @@
 		"image": "dissertation.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌdɪs.ɚˈteɪ.ʃən/"],
+		"phonetics-uk": ["/ˌdɪs.əˈteɪ.ʃən/"]
 	}],
 	"distress": [{
 		"pos": "noun",
@@ -191,7 +217,9 @@
 		"image": "distress.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/dɪˈstres/"],
+		"phonetics-uk": ["/dɪˈstres/"]
 	}],
 	"endeavour": [{
 		"pos": "verb",
@@ -202,7 +230,9 @@
 		"image": "endeavour.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/enˈdev.ɚ/"],
+		"phonetics-uk": ["/enˈdev.ər/"]
 	}],
 	"erstwhile": [{
 		"pos": "adjective",
@@ -213,7 +243,9 @@
 		"image": "erstwhile.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈɝːst.waɪl/"],
+		"phonetics-uk": ["/ˈɜːst.waɪl/"]
 	}],
 	"esteem": [{
 		"pos": "noun",
@@ -224,7 +256,9 @@
 		"image": "esteem.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪˈstiːm/"],
+		"phonetics-uk": ["/ɪˈstiːm/"]
 	}],
 	"even-tempered": [{
 		"pos": "adjective",
@@ -235,7 +269,9 @@
 		"image": "even-tempered.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌiː.vənˈtem.pɚd/"],
+		"phonetics-uk": ["/ˌiː.vənˈtem.pəd/"]
 	}],
 	"fedora": [{
 		"pos": "noun",
@@ -246,7 +282,9 @@
 		"image": "fedora.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Fedora_Hat.jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:Fedora_Hat.jpg",
+		"phonetics-us": ["/fəˈdɔːr.ə/"],
+		"phonetics-uk": ["/fəˈdɔː.rə/"]
 	}],
 	"feeble": [{
 		"pos": "adjective",
@@ -257,7 +295,9 @@
 		"image": "feeble.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈfiː.bəl/"],
+		"phonetics-uk": ["/ˈfiː.bəl/"]
 	}, {
 		"pos": "adjective",
 		"def": "(of a sound) lacking in volume or loudness",
@@ -278,7 +318,9 @@
 		"image": "folklore.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈfoʊk.lɔːr/"],
+		"phonetics-uk": ["/ˈfəʊk.lɔːr/"]
 	}],
 	"foray": [{
 		"pos": "noun",
@@ -289,7 +331,9 @@
 		"image": "foray.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈfɔːr.eɪ/"],
+		"phonetics-uk": ["/ˈfɒr.eɪ/"]
 	}],
 	"funereal": [{
 		"pos": "adjective",
@@ -300,7 +344,9 @@
 		"image": "funereal.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/fjuːˈnɪr.i.əl/"],
+		"phonetics-uk": ["/fjuːˈnɪə.ri.əl/"]
 	}],
 	"holistic": [{
 		"pos": "adjective",
@@ -311,7 +357,9 @@
 		"image": "holistic.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/hoʊlˈɪs.tɪk/"],
+		"phonetics-uk": ["/həˈlɪs.tɪk/"]
 	}],
 	"idiom": [{
 		"pos": "noun",
@@ -322,7 +370,9 @@
 		"image": "idiom.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈɪd.i.əm/"],
+		"phonetics-uk": ["/ˈɪd.i.əm/"]
 	}],
 	"impart": [{
 		"pos": "verb",
@@ -333,7 +383,9 @@
 		"image": "impart.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪmˈpɑːrt/"],
+		"phonetics-uk": ["/ɪmˈpɑːt/"]
 	}],
 	"inapt": [{
 		"pos": "adjective",
@@ -344,7 +396,9 @@
 		"image": "inapt.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪˈnæpt/"],
+		"phonetics-uk": ["/ɪˈnæpt/"]
 	}],
 	"inference": [{
 		"pos": "noun",
@@ -355,7 +409,9 @@
 		"image": "inference.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈɪn.fɚ.əns/"],
+		"phonetics-uk": ["/ˈɪn.fər.əns/"]
 	}],
 	"intersperse": [{
 		"pos": "verb",
@@ -366,7 +422,9 @@
 		"image": "intersperse.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌɪn.t̬ɚˈspɝːs/"],
+		"phonetics-uk": ["/ˌɪn.təˈspɜːs/"]
 	}, {
 		"pos": "verb",
 		"def": "diversify (a thing or things) with other things at intervals",
@@ -387,7 +445,9 @@
 		"image": "jaunt.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/dʒɑːnt/"],
+		"phonetics-uk": ["/dʒɔːnt/"]
 	}],
 	"jeopardy": [{
 		"pos": "noun",
@@ -398,7 +458,9 @@
 		"image": "jeopardy.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈdʒep.ɚ.di/"],
+		"phonetics-uk": ["/ˈdʒep.ə.di/"]
 	}],
 	"libel": [{
 		"pos": "noun",
@@ -409,7 +471,9 @@
 		"image": "libel.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈlaɪ.bəl/"],
+		"phonetics-uk": ["/ˈlaɪ.bəl/"]
 	}],
 	"manifest": [{
 		"pos": "adjective",
@@ -420,7 +484,9 @@
 		"image": "manifest.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈmæn.ə.fest/"],
+		"phonetics-uk": ["/ˈmæn.ɪ.fest/"]
 	}],
 	"obturate": [{
 		"pos": "verb",
@@ -431,7 +497,9 @@
 		"image": "obturate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈɒbtəˌreɪt/"],
+		"phonetics-uk": ["/əbˈtjʊəreɪt/"]
 	}],
 	"overwhelm": [{
 		"pos": "verb",
@@ -442,7 +510,9 @@
 		"image": "overwhelm.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌoʊ.vɚˈwelm/"],
+		"phonetics-uk": ["/ˌəʊ.vəˈwelm/"]
 	}],
 	"pell-mell": [{
 		"pos": "adverb",
@@ -453,7 +523,9 @@
 		"image": "pell-mell.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌpelˈmel/"],
+		"phonetics-uk": ["/ˌpelˈmel/"]
 	}],
 	"pepper": [{
 		"pos": "verb",
@@ -464,7 +536,9 @@
 		"image": "pepper.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈpep.ɚ/"],
+		"phonetics-uk": ["/ˈpep.ər/"]
 	}],
 	"perish": [{
 		"pos": "verb",
@@ -475,7 +549,9 @@
 		"image": "perish.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈper.ɪʃ/"],
+		"phonetics-uk": ["/ˈper.ɪʃ/"]
 	}, {
 		"pos": "verb",
 		"def": "suffer complete ruin or destruction",
@@ -496,7 +572,9 @@
 		"image": "proclaim.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/proʊˈkleɪm/"],
+		"phonetics-uk": ["/prəˈkleɪm/"]
 	}, {
 		"pos": "verb",
 		"def": "indicate clearly",
@@ -527,7 +605,9 @@
 		"image": "pronged.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/prɔŋd/"],
+		"phonetics-uk": ["/prɒŋd/"]
 	}],
 	"revile": [{
 		"pos": "verb",
@@ -538,7 +618,9 @@
 		"image": "revile.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/rɪˈvaɪl/"],
+		"phonetics-uk": ["/rɪˈvaɪl/"]
 	}],
 	"scaffold": [{
 		"pos": "noun",
@@ -549,7 +631,9 @@
 		"image": "scaffold.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://nara.getarchive.net/media/seabees-of-construction-battalion-unit-402-cbu-402-build-a-scaffold-to-support-9fa47f"
+		"website": "https://nara.getarchive.net/media/seabees-of-construction-battalion-unit-402-cbu-402-build-a-scaffold-to-support-9fa47f",
+		"phonetics-us": ["/ˈskæf.foʊld/"],
+		"phonetics-uk": ["/ˈskæf.əʊld/"]
 	}],
 	"sparingly": [{
 		"pos": "adjective",
@@ -560,7 +644,9 @@
 		"image": "sparingly.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈsper.ɪŋ.li/"],
+		"phonetics-uk": ["/ˈspeə.rɪŋ.li/"]
 	}],
 	"squabble": [{
 		"pos": "noun",
@@ -571,7 +657,9 @@
 		"image": "squabble.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈskwɑː.bəl/"],
+		"phonetics-uk": ["/ˈskwɒb.əl/"]
 	}],
 	"subsistence": [{
 		"pos": "noun",
@@ -582,7 +670,9 @@
 		"image": "subsistence.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/səbˈsɪs.təns/"],
+		"phonetics-uk": ["/səbˈsɪs.təns/"]
 	}],
 	"thesis": [{
 		"pos": "noun",
@@ -603,7 +693,9 @@
 		"image": "thesis.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈθiː.sɪs/"],
+		"phonetics-uk": ["/ˈθiː.sɪs/"]
 	}],
 	"tributary": [{
 		"pos": "noun",
@@ -614,7 +706,9 @@
 		"image": "tributary.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈtrɪb.jə.ter.i/"],
+		"phonetics-uk": ["/ˈtrɪb.jə.tər.i/"]
 	}],
 	"unanimous": [{
 		"pos": "adjective",
@@ -625,7 +719,9 @@
 		"image": "unanimous.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/juːˈnæn.ə.məs/"],
+		"phonetics-uk": ["/juːˈnæn.ɪ.məs/"]
 	}],
 	"uphold": [{
 		"pos": "verb",
@@ -636,7 +732,9 @@
 		"image": "uphold.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ʌpˈhoʊld/"],
+		"phonetics-uk": ["/ʌpˈhəʊld/"]
 	}],
 	"ward": [{
 		"pos": "verb",
@@ -667,6 +765,8 @@
 		"image": "ward.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/wɔːrd/"],
+		"phonetics-uk": ["/wɔːd/"]
 	}]
 }
