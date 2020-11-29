@@ -8,7 +8,9 @@
 		"image": "afflict.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/əˈflɪkt/"],
+		"phonetics-uk": ["/əˈflɪkt/"]
 	}],
 	"amplitude": [{
 		"pos": "noun",
@@ -19,7 +21,9 @@
 		"image": "amplitude.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈæm.plə.tuːd/"],
+		"phonetics-uk": ["/ˈæm.plɪ.tʃuːd/"]
 	}, {
 		"pos": "noun",
 		"def": "the property of copious abundance; large or full measure",
@@ -40,7 +44,9 @@
 		"image": "anonymity.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pixabay.com/cs/illustrations/anonym-anonymita-skryt%C3%A1-internet-4764566/"
+		"website": "https://pixabay.com/cs/illustrations/anonym-anonymita-skryt%C3%A1-internet-4764566/",
+		"phonetics-us": ["/ˌæn.əˈnɪm.ə.t̬i/"],
+		"phonetics-uk": ["/ˌæn.ɒnˈɪm.ə.ti/"]
 	}],
 	"apportion": [{
 		"pos": "verb",
@@ -51,7 +57,9 @@
 		"image": "apportion.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/əˈpɔːr.ʃən/"],
+		"phonetics-uk": ["/əˈpɔː.ʃən/"]
 	}],
 	"bequeath": [{
 		"pos": "verb",
@@ -62,7 +70,9 @@
 		"image": "bequeath.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/bɪˈkwiːð/"],
+		"phonetics-uk": ["/bɪˈkwiːð/"]
 	}],
 	"bounty": [{
 		"pos": "noun",
@@ -73,7 +83,9 @@
 		"image": "bounty.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈbaʊn.t̬i/"],
+		"phonetics-uk": ["/ˈbaʊn.ti/"]
 	}],
 	"boutique": [{
 		"pos": "noun",
@@ -84,7 +96,9 @@
 		"image": "boutique.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://commons.wikimedia.org/wiki/File:Zabo_Fashion_Boutique_in_Linz.jpg"
+		"website": "https://commons.wikimedia.org/wiki/File:Zabo_Fashion_Boutique_in_Linz.jpg",
+		"phonetics-us": ["/buːˈtiːk/"],
+		"phonetics-uk": ["/buːˈtiːk/"]
 	}],
 	"canopy": [{
 		"pos": "noun",
@@ -95,7 +109,9 @@
 		"image": "canopy.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈkæn.ə.pi/"],
+		"phonetics-uk": ["/ˈkæn.ə.pi/"]
 	}],
 	"choppy": [{
 		"pos": "adjective",
@@ -106,7 +122,9 @@
 		"image": "choppy.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈtʃɑː.pi/"],
+		"phonetics-uk": ["/ˈtʃɒp.i/"]
 	}],
 	"clientele": [{
 		"pos": "noun",
@@ -117,7 +135,9 @@
 		"image": "clientele.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌkliː.ɑːnˈtel/"],
+		"phonetics-uk": ["/ˌkliː.ɒnˈtel/"]
 	}],
 	"commonplace": [{
 		"pos": "noun",
@@ -128,7 +148,9 @@
 		"image": "commonplace.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈkɑː.mən.pleɪs/"],
+		"phonetics-uk": ["/ˈkɒm.ən.pleɪs/"]
 	}],
 	"concession": [{
 		"pos": "noun",
@@ -139,7 +161,9 @@
 		"image": "concession.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/kənˈseʃ.ən/"],
+		"phonetics-uk": ["/kənˈseʃ.ən/"]
 	}, {
 		"pos": "noun",
 		"def": "a preferential allowance or rate given by an organization",
@@ -160,7 +184,9 @@
 		"image": "concision.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/kənˈsɪʒən/"],
+		"phonetics-uk": ["/kənˈsɪʒən/"]
 	}],
 	"dissemination": [{
 		"pos": "noun",
@@ -171,7 +197,9 @@
 		"image": "dissemination.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/dɪˌsem.əˈneɪ.ʃən/"],
+		"phonetics-uk": ["/dɪˌsem.ɪˈneɪ.ʃən/"]
 	}],
 	"dissimilitude": [{
 		"pos": "noun",
@@ -182,7 +210,9 @@
 		"image": "dissimilitude.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌdɪs.səˈmɪl.ə.tuːd/"],
+		"phonetics-uk": ["/ˌdɪs.sɪˈmɪl.ɪ.tʃuːd/"]
 	}],
 	"distinction": [{
 		"pos": "noun",
@@ -203,7 +233,9 @@
 		"image": "distinction.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/dɪˈstɪŋk.ʃən/"],
+		"phonetics-uk": ["/dɪˈstɪŋk.ʃən/"]
 	}],
 	"endow": [{
 		"pos": "verb",
@@ -224,7 +256,9 @@
 		"image": "endow.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪnˈdaʊ/"],
+		"phonetics-uk": ["/ɪnˈdaʊ/"]
 	}],
 	"expulsion": [{
 		"pos": "noun",
@@ -235,7 +269,9 @@
 		"image": "expulsion.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪkˈspʌl.ʃən/"],
+		"phonetics-uk": ["/ɪkˈspʌl.ʃən/"]
 	}],
 	"flowery": [{
 		"pos": "adjective",
@@ -246,7 +282,9 @@
 		"image": "flowery.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈflaʊ.ɚ.i/"],
+		"phonetics-uk": ["/ˈflaʊ.ə.ri/"]
 	}],
 	"forgo": [{
 		"pos": "verb",
@@ -257,7 +295,9 @@
 		"image": "forgo.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/fɔːrˈɡoʊ/"],
+		"phonetics-uk": ["/fɔːˈɡəʊ/"]
 	}],
 	"fret": [{
 		"pos": "verb",
@@ -268,7 +308,9 @@
 		"image": "fret.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/fret/"],
+		"phonetics-uk": ["/fret/"]
 	}, {
 		"pos": "verb",
 		"def": "gradually wear away (something) by rubbing or gnawing",
@@ -299,7 +341,9 @@
 		"image": "grant.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɡrænt/"],
+		"phonetics-uk": ["/ɡrɑːnt/"]
 	}],
 	"gratuitous": [{
 		"pos": "adjective",
@@ -310,7 +354,9 @@
 		"image": "gratuitous.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɡrəˈtuː.ə.t̬əs/"],
+		"phonetics-uk": ["/ɡrəˈtʃuː.ɪ.təs/"]
 	}, {
 		"pos": "adjective",
 		"def": "given or done free of charge",
@@ -331,7 +377,9 @@
 		"image": "hallmark.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈhɑːl.mɑːrk/"],
+		"phonetics-uk": ["/ˈhɔːl.mɑːk/"]
 	}],
 	"highbrow": [{
 		"pos": "noun",
@@ -342,7 +390,9 @@
 		"image": "highbrow.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈhaɪ.braʊ/"],
+		"phonetics-uk": ["/ˈhaɪ.braʊ/"]
 	}],
 	"impersonality": [{
 		"pos": "noun",
@@ -353,7 +403,9 @@
 		"image": "impersonality.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪmˌpɜrsəˈnælɪti/"],
+		"phonetics-uk": ["/ɪmpəːs(ə)ˈnalɪti/"]
 	}],
 	"inestimable": [{
 		"pos": "adjective",
@@ -364,7 +416,9 @@
 		"image": "inestimable.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌɪnˈes.tə.mə.bəl/"],
+		"phonetics-uk": ["/ɪˈnes.tɪ.mə.bəl/"]
 	}],
 	"influx": [{
 		"pos": "noun",
@@ -375,7 +429,9 @@
 		"image": "influx.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈɪn.flʌks/"],
+		"phonetics-uk": ["/ˈɪn.flʌks/"]
 	}],
 	"intrusion": [{
 		"pos": "noun",
@@ -386,7 +442,9 @@
 		"image": "intrusion.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪnˈtruː.ʒən/"],
+		"phonetics-uk": ["/ɪnˈtruː.ʒən/"]
 	}],
 	"irregardless": [{
 		"pos": "adverb",
@@ -397,7 +455,9 @@
 		"image": "irregardless.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌɪr.əˈɡɑːrd.ləs/"],
+		"phonetics-uk": ["/ˌɪr.ɪˈɡɑːd.ləs/"]
 	}],
 	"lattice": [{
 		"pos": "noun",
@@ -408,7 +468,9 @@
 		"image": "lattice.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://pixabay.com/cs/photos/kv%C4%9Btiny-p%C5%99%C3%AD%C4%8Dn%C3%BD-m%C5%99%C3%AD%C5%BEkovan%C3%BD-svaz-1529525/"
+		"website": "https://pixabay.com/cs/photos/kv%C4%9Btiny-p%C5%99%C3%AD%C4%8Dn%C3%BD-m%C5%99%C3%AD%C5%BEkovan%C3%BD-svaz-1529525/",
+		"phonetics-us": ["/ˈlæt̬.ɪs/"],
+		"phonetics-uk": ["/ˈlæt.ɪs/"]
 	}],
 	"mediocre": [{
 		"pos": "adjective",
@@ -419,7 +481,9 @@
 		"image": "mediocre.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌmiː.diˈoʊ.kɚ/"],
+		"phonetics-uk": ["/ˌmiː.diˈəʊ.kər/"]
 	}],
 	"parenthetical": [{
 		"pos": "adjective",
@@ -430,7 +494,9 @@
 		"image": "parenthetical.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌper.ənˈθet̬.ɪ.kəl/"],
+		"phonetics-uk": ["/ˌpær.ənˈθet.ɪ.kəl/"]
 	}],
 	"patron": [{
 		"pos": "noun",
@@ -441,7 +507,9 @@
 		"image": "patron.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈpeɪ.trən/"],
+		"phonetics-uk": ["/ˈpeɪ.trən/"]
 	}],
 	"pesky": [{
 		"pos": "adjective",
@@ -452,7 +520,9 @@
 		"image": "pesky.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈpes.ki/"],
+		"phonetics-uk": ["/ˈpes.ki/"]
 	}],
 	"pioneer": [{
 		"pos": "verb",
@@ -463,7 +533,9 @@
 		"image": "pioneer.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌpaɪəˈnɪr/"],
+		"phonetics-uk": ["/ˌpaɪəˈnɪər/"]
 	}],
 	"prosperous": [{
 		"pos": "adjective",
@@ -474,7 +546,9 @@
 		"image": "prosperous.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈprɑː.spɚ.əs/"],
+		"phonetics-uk": ["/ˈprɒs.pər.əs/"]
 	}],
 	"purge": [{
 		"pos": "verb",
@@ -485,7 +559,9 @@
 		"image": "purge.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/pɝːdʒ/"],
+		"phonetics-uk": ["/pɜːdʒ/"]
 	}, {
 		"pos": "noun",
 		"def": "an abrupt or violent removal of a group of people",
@@ -516,7 +592,9 @@
 		"image": "rigour.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈrɪɡ.ɚ/"],
+		"phonetics-uk": ["/ˈrɪɡ.ər/"]
 	}],
 	"romp": [{
 		"pos": "verb",
@@ -527,7 +605,9 @@
 		"image": "romp.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/rɑːmp/"],
+		"phonetics-uk": ["/rɒmp/"]
 	}],
 	"self-esteem": [{
 		"pos": "noun",
@@ -538,7 +618,9 @@
 		"image": "self-esteem.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌself.ɪˈstiːm/"],
+		"phonetics-uk": ["/ˌself.ɪˈstiːm/"]
 	}],
 	"substantial": [{
 		"pos": "adjective",
@@ -549,7 +631,9 @@
 		"image": "substantial.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/səbˈstæn.ʃəl/"],
+		"phonetics-uk": ["/səbˈstæn.ʃəl/"]
 	}],
 	"syndrome": [{
 		"pos": "noun",
@@ -560,7 +644,9 @@
 		"image": "syndrome.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈsɪn.droʊm/"],
+		"phonetics-uk": ["/ˈsɪn.drəʊm/"]
 	}],
 	"unfathomable": [{
 		"pos": "adjective",
@@ -581,7 +667,9 @@
 		"image": "unfathomable.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ʌnˈfæð.ə.mə.bəl/"],
+		"phonetics-uk": ["/ʌnˈfæð.ə.mə.bəl/"]
 	}],
 	"unwarranted": [{
 		"pos": "adjective",
@@ -592,7 +680,9 @@
 		"image": "unwarranted.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ʌnˈwɔːr.ən.t̬ɪd/"],
+		"phonetics-uk": ["/ʌnˈwɒr.ən.tɪd/"]
 	}],
 	"uproarious": [{
 		"pos": "adjective",
@@ -613,7 +703,9 @@
 		"image": "uproarious.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ʌpˈrɔːr.i.əs/"],
+		"phonetics-uk": ["/ʌpˈrɔː.ri.əs/"]
 	}],
 	"vestige": [{
 		"pos": "noun",
@@ -624,7 +716,9 @@
 		"image": "vestige.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈves.tɪdʒ/"],
+		"phonetics-uk": ["/ˈves.tɪdʒ/"]
 	}],
 	"visionary": [{
 		"pos": "adjective",
@@ -635,7 +729,9 @@
 		"image": "visionary.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈvɪʒ.er.i/"],
+		"phonetics-uk": ["/ˈvɪʒ.ən.ri/"]
 	}],
 	"wishy-washy": [{
 		"pos": "adjective",
@@ -646,7 +742,9 @@
 		"image": "wishy-washy.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈwɪʃ.iˌwɑː.ʃi/"],
+		"phonetics-uk": ["/ˈwɪʃ.iˌwɒʃ.i/"]
 	}, {
 		"pos": "adjective",
 		"def": "washy or watery, as a liquid; thin and weak",
@@ -667,6 +765,8 @@
 		"image": "wont.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/woʊnt/"],
+		"phonetics-uk": ["/wəʊnt/"]
 	}]
 }
