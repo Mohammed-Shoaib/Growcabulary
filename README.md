@@ -60,3 +60,4 @@ The word list has been compiled using the following resources:
 * [Personal Words 7](Personal%20Words%207/)
 * [Personal Words 8](Personal%20Words%208/)
 * [Personal Words 9](Personal%20Words%209/)
+* [Personal Words 10](Personal%20Words%2010/)
