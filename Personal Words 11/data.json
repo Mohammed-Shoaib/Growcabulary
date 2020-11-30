@@ -8,7 +8,9 @@
 		"image": "anthropological.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌæn.θrə.pəˈlɑː.dʒɪ.kəl/"],
+		"phonetics-uk": ["/ˌæn.θrə.pəˈlɒdʒ.ɪ.kəl/"]
 	}],
 	"apt": [{
 		"pos": "adjective",
@@ -19,7 +21,9 @@
 		"image": "apt.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/æpt/"],
+		"phonetics-uk": ["/æpt/"]
 	}, {
 		"pos": "adjective",
 		"def": "having a tendency to do something",
@@ -40,7 +44,9 @@
 		"image": "aristocracy.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌer.əˈstɑː.krə.si/"],
+		"phonetics-uk": ["/ˌær.ɪˈstɒk.rə.si/"]
 	}],
 	"baron": [{
 		"pos": "noun",
@@ -51,7 +57,9 @@
 		"image": "baron.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "https://picryl.com/media/portrait-of-godart-alexander-gerard-philip-baron-van-der-capellen-governor-495444"
+		"website": "https://picryl.com/media/portrait-of-godart-alexander-gerard-philip-baron-van-der-capellen-governor-495444",
+		"phonetics-us": ["/ˈber.ən/"],
+		"phonetics-uk": ["/ˈbær.ən/"]
 	}],
 	"bashful": [{
 		"pos": "adjective",
@@ -62,7 +70,9 @@
 		"image": "bashful.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈbæʃ.fəl/"],
+		"phonetics-uk": ["/ˈbæʃ.fəl/"]
 	}],
 	"braggadocio": [{
 		"pos": "noun",
@@ -73,7 +83,9 @@
 		"image": "braggadocio.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌbræɡ.əˈdoʊ.tʃi.oʊ/"],
+		"phonetics-uk": ["/ˌbræɡ.əˈdəʊ.tʃi.əʊ/"]
 	}],
 	"candor": [{
 		"pos": "noun",
@@ -84,7 +96,9 @@
 		"image": "candor.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈkæn.dɚ/"],
+		"phonetics-uk": ["/ˈkæn.dər/"]
 	}],
 	"congenital": [{
 		"pos": "adjective",
@@ -95,7 +109,9 @@
 		"image": "congenital.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/kənˈdʒen.ə.t̬əl/"],
+		"phonetics-uk": ["/kənˈdʒen.ɪ.təl/"]
 	}],
 	"convergent": [{
 		"pos": "adjective",
@@ -106,7 +122,9 @@
 		"image": "convergent.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/kənˈvɝː.dʒənt/"],
+		"phonetics-uk": ["/kənˈvɜː.dʒənt/"]
 	}],
 	"empower": [{
 		"pos": "verb",
@@ -127,7 +145,9 @@
 		"image": "empower.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/-ˈpaʊr/"],
+		"phonetics-uk": ["/ɪmˈpaʊər/"]
 	}],
 	"enslave": [{
 		"pos": "verb",
@@ -138,7 +158,9 @@
 		"image": "enslave.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪnˈsleɪv/"],
+		"phonetics-uk": ["/ɪnˈsleɪv/"]
 	}],
 	"erode": [{
 		"pos": "verb",
@@ -149,7 +171,9 @@
 		"image": "erode.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪˈroʊd/"],
+		"phonetics-uk": ["/ɪˈrəʊd/"]
 	}],
 	"fitful": [{
 		"pos": "adjective",
@@ -160,7 +184,9 @@
 		"image": "fitful.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈfɪt.fəl/"],
+		"phonetics-uk": ["/ˈfɪt.fəl/"]
 	}],
 	"forerunner": [{
 		"pos": "noun",
@@ -171,7 +197,9 @@
 		"image": "forerunner.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈfɔːrˌrʌn.ɚ/"],
+		"phonetics-uk": ["/ˈfɔːˌrʌn.ər/"]
 	}, {
 		"pos": "noun",
 		"def": "a sign or warning of something to come",
@@ -192,7 +220,9 @@
 		"image": "foster.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈfɑː.stɚ/"],
+		"phonetics-uk": ["/ˈfɒs.tər/"]
 	}, {
 		"pos": "verb",
 		"def": "bring up (a child that is not one's own by birth)",
@@ -213,7 +243,9 @@
 		"image": "gradual.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈɡrædʒ.u.əl/"],
+		"phonetics-uk": ["/ˈɡrædʒ.u.əl/"]
 	}],
 	"grievous": [{
 		"pos": "adjective",
@@ -224,7 +256,9 @@
 		"image": "grievous.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈɡriː.vəs/"],
+		"phonetics-uk": ["/ˈɡriː.vəs/"]
 	}],
 	"idyllic": [{
 		"pos": "adjective",
@@ -235,7 +269,9 @@
 		"image": "idyllic.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/aɪˈdɪl.ɪk/"],
+		"phonetics-uk": ["/ɪˈdɪl.ɪk/"]
 	}],
 	"inaction": [{
 		"pos": "noun",
@@ -246,7 +282,9 @@
 		"image": "inaction.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪnˈæk.ʃən/"],
+		"phonetics-uk": ["/ɪnˈæk.ʃən/"]
 	}],
 	"inception": [{
 		"pos": "noun",
@@ -257,7 +295,9 @@
 		"image": "inception.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪnˈsep.ʃən/"],
+		"phonetics-uk": ["/ɪnˈsep.ʃən/"]
 	}],
 	"inclusion": [{
 		"pos": "noun",
@@ -268,7 +308,9 @@
 		"image": "inclusion.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪnˈkluː.ʒən/"],
+		"phonetics-uk": ["/ɪnˈkluː.ʒən/"]
 	}],
 	"intrinsic": [{
 		"pos": "adjective",
@@ -279,7 +321,9 @@
 		"image": "intrinsic.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ɪnˈtrɪn.zɪk/"],
+		"phonetics-uk": ["/ɪnˈtrɪn.zɪk/"]
 	}],
 	"manifesto": [{
 		"pos": "noun",
@@ -290,7 +334,9 @@
 		"image": "manifesto.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌmæn.əˈfes.toʊ/"],
+		"phonetics-uk": ["/ˌmæn.ɪˈfes.təʊ/"]
 	}],
 	"memento": [{
 		"pos": "noun",
@@ -301,7 +347,9 @@
 		"image": "memento.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/məˈmen.toʊ/"],
+		"phonetics-uk": ["/məˈmen.təʊ/"]
 	}],
 	"misnomer": [{
 		"pos": "noun",
@@ -312,7 +360,9 @@
 		"image": "misnomer.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌmɪsˈnoʊ.mɚ/"],
+		"phonetics-uk": ["/ˌmɪsˈnəʊ.mər/"]
 	}],
 	"mogul": [{
 		"pos": "noun",
@@ -323,7 +373,9 @@
 		"image": "mogul.jpg",
 		"notes": "Akshay Kumar, a famous Bollywood actor.",
 		"examples": [],
-		"website": "https://pixabay.com/fr/illustrations/l-homme-acteur-caract%C3%A8re-c%C3%A9l%C3%A9brit%C3%A9-5719960/"
+		"website": "https://pixabay.com/fr/illustrations/l-homme-acteur-caract%C3%A8re-c%C3%A9l%C3%A9brit%C3%A9-5719960/",
+		"phonetics-us": ["/ˈmoʊ.ɡəl/"],
+		"phonetics-uk": ["/ˈməʊ.ɡəl/"]
 	}],
 	"overarching": [{
 		"pos": "adjective",
@@ -334,7 +386,9 @@
 		"image": "overarching.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌoʊ.vɚˈɑːr.tʃɪŋ/"],
+		"phonetics-uk": ["/ˌəʊ.vəˈrɑː.tʃɪŋ/"]
 	}],
 	"pageantry": [{
 		"pos": "noun",
@@ -345,7 +399,9 @@
 		"image": "pageantry.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈpædʒ.ən.tri/"],
+		"phonetics-uk": ["/ˈpædʒ.ən.tri/"]
 	}],
 	"palpable": [{
 		"pos": "adjective",
@@ -366,7 +422,9 @@
 		"image": "palpable.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈpæl.pə.bəl/"],
+		"phonetics-uk": ["/ˈpæl.pə.bəl/"]
 	}],
 	"perceptible": [{
 		"pos": "adjective",
@@ -377,7 +435,9 @@
 		"image": "perceptible.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/pɚˈsep.tə.bəl/"],
+		"phonetics-uk": ["/pəˈsep.tə.bəl/"]
 	}],
 	"philanthropy": [{
 		"pos": "noun",
@@ -388,7 +448,9 @@
 		"image": "philanthropy.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/fɪˈlæn.θrə.pi/"],
+		"phonetics-uk": ["/fɪˈlæn.θrə.pi/"]
 	}],
 	"preface": [{
 		"pos": "noun",
@@ -399,7 +461,9 @@
 		"image": "preface.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈpref.ɪs/"],
+		"phonetics-uk": ["/ˈpref.ɪs/"]
 	}],
 	"provocation": [{
 		"pos": "noun",
@@ -410,7 +474,9 @@
 		"image": "provocation.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌprɑː.vəˈkeɪ.ʃən/"],
+		"phonetics-uk": ["/ˌprɒv.əˈkeɪ.ʃən/"]
 	}],
 	"précis": [{
 		"pos": "noun",
@@ -421,7 +487,9 @@
 		"image": "précis.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈpreɪ.si/"],
+		"phonetics-uk": ["/ˈpreɪ.si/"]
 	}],
 	"radiant": [{
 		"pos": "adjective",
@@ -432,7 +500,9 @@
 		"image": "radiant.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈreɪ.di.ənt/"],
+		"phonetics-uk": ["/ˈreɪ.di.ənt/"]
 	}, {
 		"pos": "noun",
 		"def": "a point or object from which light or heat radiates, especially a heating element in an electric or gas heater",
@@ -453,7 +523,9 @@
 		"image": "rehash.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈriː.hæʃ/"],
+		"phonetics-uk": ["/ˈriː.hæʃ/"]
 	}],
 	"relic": [{
 		"pos": "noun",
@@ -464,7 +536,9 @@
 		"image": "relic.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈrel.ɪk/"],
+		"phonetics-uk": ["/ˈrel.ɪk/"]
 	}],
 	"roil": [{
 		"pos": "verb",
@@ -475,7 +549,9 @@
 		"image": "roil.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/rɔɪl/"],
+		"phonetics-uk": ["/rɔɪl/"]
 	}],
 	"slight": [{
 		"pos": "adjective",
@@ -496,7 +572,9 @@
 		"image": "slight.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/slaɪt/"],
+		"phonetics-uk": ["/slaɪt/"]
 	}],
 	"souvenir": [{
 		"pos": "noun",
@@ -507,7 +585,9 @@
 		"image": "souvenir.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˌsuː.vəˈnɪr/"],
+		"phonetics-uk": ["/ˌsuː.vənˈɪər/"]
 	}],
 	"spellbind": [{
 		"pos": "verb",
@@ -518,7 +598,9 @@
 		"image": "spellbind.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈspɛlbaɪnd/"],
+		"phonetics-uk": ["/ˈspɛlbʌɪnd/"]
 	}],
 	"spellbound": [{
 		"pos": "adjective",
@@ -529,7 +611,9 @@
 		"image": "spellbound.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈspel.baʊnd/"],
+		"phonetics-uk": ["/ˈspel.baʊnd/"]
 	}],
 	"tangible": [{
 		"pos": "adjective",
@@ -540,7 +624,9 @@
 		"image": "tangible.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈtæn.dʒə.bəl/"],
+		"phonetics-uk": ["/ˈtæn.dʒə.bəl/"]
 	}],
 	"temperate": [{
 		"pos": "adjective",
@@ -561,7 +647,9 @@
 		"image": "temperate.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈtem.pɚ.ət/"],
+		"phonetics-uk": ["/ˈtem.pər.ət/"]
 	}],
 	"tranquil": [{
 		"pos": "adjective",
@@ -572,7 +660,9 @@
 		"image": "tranquil.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈtræŋ.kwɪl/"],
+		"phonetics-uk": ["/ˈtræŋ.kwɪl/"]
 	}],
 	"underbelly": [{
 		"pos": "noun",
@@ -583,7 +673,9 @@
 		"image": "underbelly.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈʌn.dɚˌbel.i/"],
+		"phonetics-uk": ["/ˈʌn.dəˌbel.i/"]
 	}],
 	"unseated": [{
 		"pos": "verb",
@@ -594,7 +686,9 @@
 		"image": "unseated.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ʌnˈsiːt/"],
+		"phonetics-uk": ["/ʌnˈsiːt/"]
 	}],
 	"unvarnished": [{
 		"pos": "adjective",
@@ -605,7 +699,9 @@
 		"image": "unvarnished.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ʌnˈvɑːr.nɪʃt/"],
+		"phonetics-uk": ["/ʌnˈvɑː.nɪʃt/"]
 	}],
 	"varnish": [{
 		"pos": "verb",
@@ -616,7 +712,9 @@
 		"image": "varnish.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈvɑːr.nɪʃ/"],
+		"phonetics-uk": ["/ˈvɑː.nɪʃ/"]
 	}],
 	"wheedle": [{
 		"pos": "verb",
@@ -627,6 +725,8 @@
 		"image": "wheedle.jpg",
 		"notes": "",
 		"examples": [],
-		"website": ""
+		"website": "",
+		"phonetics-us": ["/ˈwiː.dəl/"],
+		"phonetics-uk": ["/ˈwiː.dəl/"]
 	}]
 }
