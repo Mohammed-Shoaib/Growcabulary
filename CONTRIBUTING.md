@@ -39,3 +39,16 @@
 * Allow the user to **flag** certain words for review later.
 * Allow the user to add a word just by typing it. Perhaps you can fetch all the information like the definition, synonyms, antonyms, example, etc. from _sources_.
 * Deal with words which are duplicate of each other in terms of parts of speech. For example, Pollyanna and Pollyannaish.
+
+### Must-add Features
+
+* Navbar should be fixed when scrolling the page.
+* Login page with user authentication.
+* Show if the `Caps Lock` key is _on/off_.
+* `Chart.js`, show the value of WPM on hover.
+* Upon completion of a set, add an alert box stating "Set Completed. Would you like to move to the next set?" with Yes/No _button_.
+* _Control menu_ with options to select what to type or show in the UI (key, pos, def, synonyms, antonyms, and notes).
+* Test section where the user _hears_ the audio of a word and needs to type it. Helps wire the spelling of different words in the head.
+* Search functionality doesn't work for words containing accents (both in scripts and on website, for example, _précis_).
+* Remove extra words that have the same word root but in a different part of speech (_discern_, _discerning_, _discernment_).
+* Ability to search using alternatives.
