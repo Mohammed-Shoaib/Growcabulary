@@ -4,9 +4,14 @@
 
 ### Table Of Contents
 
-[Contribute to the Website](#contribute-to-the-website)
+* [Contribute to the Website](#contribute-to-the-website)
   * [Website Suggestions](#website-suggestions)
   * [Future Ideas](#future-ideas)
+  * [Must-add Features](#must-add-features)
+
+* [Provide or Handle Bugs!](#provide-or-handle-bugs)
+  * [Word List Component](#word-list-component)
+  * [Word Item Component](#word-item-component)
 
 
 ## Contribute to the Website
@@ -52,3 +57,24 @@
 * Search functionality doesn't work for words containing accents (both in scripts and on website, for example, _précis_).
 * Remove extra words that have the same word root but in a different part of speech (_discern_, _discerning_, _discernment_).
 * Ability to search using alternatives.
+
+
+## Provide or Handle Bugs! :beetle:
+
+#### Word List Component
+
+* Loads slightly lower in terms of the page.
+
+#### Word Item Component
+
+* In the reading view, clicking the audio of some card below scrolls to the first word. This can be fixed by making the index a query parameter in the url and only scroll when you see a query parameter.
+* Go to **elusive**, then the word **dragonflies** in the _Notes_, the characters `f` and `l` are different span tags with different stylings but show up together as one :confused:. Type `f` correctly but `l` incorrectly, both will be green but the classes are applied correct and incorrect which is right! Could be the width of the background color? I am not sure.
+* The _current_ letter underline doesn't work for all, such as commas.
+* The _current_ letter underline is too small to be noticed when the width of the character is small, for example, the character `)`
+* When switching to learning mode, the card is at the top of the screen (you can't see the text _Learning Mode_), and on incorrect letter, the card scrolls up for some reason.
+* When full screen (can be done by pressing F11 on Windows), if you type an incorrect letter, the page shifts right.
+* When a single line breaks over to the next line, hitting enter instead of space doesn't show an error when there is an error. You can verify this by inspecting the span tags and the ` `(space) will have the incorrect class applied, but it doesn't show on the card. The user sees the **Accuracy** has gone _down_ when according to him he did not make an error.
+* Upon completion of word, pressing backspace also takes you to the next word (or set) when only hitting the enter key should work.	
+* There are non-ascii characters that need to be converted to the corresponding ascii characters when typing. Check the word _empathetic_, it has an em dash and a quotation mark, these need to be mapped to hyphen and single quote.
+* When in `keyOnly` mode, many words get taken as `0 WPM`, try typing `modicum` extremely fast and you will notice this behaviour.
+* When in _not_ `keyOnly` mode, typing till the definition and then switching to `keyOnly` causes a bug where it doesn't do anything, it's like typing without any checks.
