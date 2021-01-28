@@ -9,7 +9,7 @@
   * [Future Ideas](#future-ideas)
   * [Must-add Features](#must-add-features)
 
-* [Provide or Handle Bugs!](#provide-or-handle-bugs)
+* [Provide or Handle Bugs! :beetle:](#provide-or-handle-bugs)
   * [Word List Component](#word-list-component)
   * [Word Item Component](#word-item-component)
 
@@ -78,3 +78,7 @@
 * There are non-ascii characters that need to be converted to the corresponding ascii characters when typing. Check the word _empathetic_, it has an em dash and a quotation mark, these need to be mapped to hyphen and single quote.
 * When in `keyOnly` mode, many words get taken as `0 WPM`, try typing `modicum` extremely fast and you will notice this behaviour.
 * When in _not_ `keyOnly` mode, typing till the definition and then switching to `keyOnly` causes a bug where it doesn't do anything, it's like typing without any checks.
+
+#### `fetch.py`
+
+* The incorrect audio pronunciation and IPA phonetics gets downloaded for some words. For example, vacillating gets the audio and phonetics of _vacillate_. This is because on [cambridge](https://dictionary.cambridge.org/dictionary/english/vacillating) the word _vacillating_ is present at the top hence passing the key check, but the audio files and phonetics are down from _vacillate_ and those incorrectly get downloaded.
