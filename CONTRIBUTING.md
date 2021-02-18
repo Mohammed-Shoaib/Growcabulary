@@ -12,6 +12,7 @@
 * [Provide or Handle Bugs! :beetle:](#provide-or-handle-bugs)
   * [Word List Component](#word-list-component)
   * [Word Item Component](#word-item-component)
+  * [`fetch.py`](#fetch.py)
 
 
 ## Contribute to the Website
@@ -82,3 +83,62 @@
 #### `fetch.py`
 
 * The incorrect audio pronunciation and IPA phonetics gets downloaded for some words. For example, vacillating gets the audio and phonetics of _vacillate_. This is because on [cambridge](https://dictionary.cambridge.org/dictionary/english/vacillating) the word _vacillating_ is present at the top hence passing the key check, but the audio files and phonetics are down from _vacillate_ and those incorrectly get downloaded.
+
+
+## Bestow or Improve Images :framed_picture:
+
+#### Common Words 1
+
+* _banal_: same image used as _hackneyed_.
+* _construe_
+* _parsimonious_
+
+#### Common Words 2
+
+* _betray_: same as _perfidy_.
+* _predilection_
+* _platitude_: same image as _conspicuous_.
+* _vociferous_: better definition without vehement?
+
+#### Common Words 3
+
+* _abstain_: same image as _eschew_.
+* _ascetic_: noun definition uses the word, then it's not a definition now is it?
+* _delineate_: add a note stating the importance of a portrait drawing for criminal investigation.
+* _denote_
+* _derivative_: not all people wil realize it's Mona lisa, so either find a similar better image or add a note.
+* _fallacious_: a better image would reflect the clause _if A then B, A, therefore B_ but the assumption of _A_ itself was wrong.
+* _treacherous_: for the second word, add an image for a dangerous bridge which may collapse.
+* _vilify_: same image as _recrimination_.
+
+#### Common Words 4
+
+* _implausible_: same image as _antipathy_.
+* _injunction_: feels like justice rather than an order.
+* _intransigent_: add a note about the [_KKK_](https://en.wikipedia.org/wiki/Ku_Klux_Klan).
+* _pragmatic_: feels like emotions instead of theory, however, knowledge vs experience should be the goal. Also the same image as _cerebral_.
+* _provincial_
+
+#### Common Words 5
+
+* _austere_
+* _dilettante_: doesn't make much sense and also same image as _unpropitious_.
+* _garrulous_: seems angry rather than talkative.
+* _insolent_: same image as _frivolous_.
+* _intrepid_: change definition to synonym and add an actual definition.
+* _lionize_: paparazzi or something similar would be nice, and when the photo was taken is irrelevant.
+* _ostracize_: the image doesn't make much sense and is of bad quality.
+
+#### Common Words 6
+
+* _banality_: same image as _hackneyed_.
+* _harried_: the image doesn't depict people wanting things from you.
+* _indecorous_: add a note that using a phone while eating is bad manners?
+* _maladroit_: feels like hasty but it means not clever or skillful?
+* _pejorative_: feels like you shouldn't speak when in reality it means to express contempt.
+* _specious_: the image is bad, and the second definition can be used for the image. Also, isn't it a synonym for spurious?
+
+#### Common Words 7
+
+* _panache_: same image as _illustrious_.
+* _placate_: some image as _mollify_.
