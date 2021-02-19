@@ -142,3 +142,79 @@
 
 * _panache_: same image as _illustrious_.
 * _placate_: some image as _mollify_.
+
+#### Basic Words 1
+
+* _indignant_: add a note about George Floyd.
+* _inundate_
+* _retiring_: doesn't depict the person likes being alone.
+* _tawdry_: looks poor quality and cheap but isn't showy, you wanna have both.
+* _telling_
+* _unnerve_: doesn't show the height isn't really much, maybe one where the person is afraid of drowning in a shallow pool.
+
+#### Basic Words 2
+* _cogent_: same image as _posit_.
+* _errant_
+* _extenuating_
+* _immaterial_
+* _junta_: the audio pronunciation doesn't match the phonetics.
+* _misanthrope_
+* _moment_: maybe an image which changes the life of a person and that _moment_ was captured.
+* _replete_: add a note stating the shop in the image is a supermarket?
+* _sanctimonious_: the picture depicts the meaning of protecting something sacred, but we want something along the lines of making a show of being holy.
+
+#### Basic Words 3
+* _appreciable_
+* _boon_: add a note stating why microwave is a boon and how it changed?
+* _consummate_: could also mean sculpting, consequently, an image of sculpting?
+* _moot_: an image which says _What came first the chicken or the egg?_
+* _muted_
+* _obdurate_
+
+#### Basic Words 4
+
+* _conducive_
+* _credence_
+* _detrimental_: an actual image instead of a portrait would be nice.
+* _empathetic_: has an em dash and the single-quote `'` isn't a regular singe-quote.
+* _glib_: the image isn't memorable.
+* _grovel_: same image used for _obsequious_.
+* _impeccable_
+* _irresolute_: the image doesn't show the notion of being hesitant, but rather, shows confused.
+
+#### Basic Words 5
+
+* _abysmal_
+* _balk_
+* _colossal_: a similar image is used for _prodigious_.
+* _complacent_: the image just looks like he's rich.
+* _placid_
+* _savvy_
+* _unseemly_: same image used for _derivative_
+* _begrudge_: the image doesn't make _too_ sense.
+* _cavalier_
+* _emulate_
+* _glean_
+* _implicate_
+* _inarticulate_: even worse handwriting would depict it better.
+* _incumbent_
+* _intermittent_
+* _rakish_: same image as _raffish_.
+* _redress_: same image as _venality_.
+* _veneer_: it's hard to notice the thin layer.
+
+#### Basic Words 6
+
+* _antedate_: (US) audio pronunciation sounds like _atedate_.
+* _carping_: (US) (UK) the audio pronunciation and phonetics is of _carp_ when the word is _carping_.
+* _cavalier_: the image doesn't make much sense.
+* _redress_: same as _venal_ and the image looks more like corruption when it should be giving money to help and fix a mistake.
+
+#### Basic Words 7
+
+* _badger_: could use this image for _tout_ which means selling something, consequently, fetching a new image for this as well.
+* _contemptuous_
+* _deliberate_
+* _embroiled_: (US) (UK) the audio pronunciation is of _embroil_ and not _embroil-ed_
+* _resignation_: same image as _concede_.
+* _serendipity_: add a note about penicillin.
