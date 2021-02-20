@@ -218,3 +218,82 @@
 * _embroiled_: (US) (UK) the audio pronunciation is of _embroil_ and not _embroil-ed_
 * _resignation_: same image as _concede_.
 * _serendipity_: add a note about penicillin.
+
+#### Advanced Words 1
+
+* _abrogate_
+* _churlish_: feels like you are attacking someone.
+* _conciliate_: feels like you are forming peace.
+* _despot_: (US) the audio pronunciation sounds like _despit_.
+* _diatribe_: the image of _churlish_ can be used here.
+* _exegesis_
+* _saturnine_
+* _vicissitude_: we don't want text, we want visual images.
+
+#### Advanced Words 2
+
+* _benighted_: feels _confused and frustrated_ instead of _without morals or knowledge_.
+* _diminutive_: an image with a name such as _Sam-uel_ where _uel_ is greyed out.
+* _dissemble_: the idea is nice, maybe an image where you can see the gun more clearly.
+* _dissipate_: throwing money in all directions would cover both the definitions.
+* _excoriate_: (US) the audio sounds like _exgoriate_.
+* _hedge_: the image should should depict restricting not dodging.
+* _jaundice_: the image doesn't really make sense.
+* _peremptory_
+* _Pollyanna_: handle the capital letter in spell-check.
+* _Pollyannaish_: handle the capital letter in spell-check.
+* _Pollyannaish_: (US) the audio pronunciation is lower than the usual volume.
+* _sententious_
+* _tendentious_: white lives matter isn't exactly controversial.
+
+#### Advanced Words 3
+
+* _litany_: same image used for _exorbitant_.
+* _mordant_
+* _pecuniary_: more elaborate definition would be nice.
+* _probity_: textual image to visual image, (US) the audio pronunciation sounds like _probidy_.
+* _recapitulation_: convert textual image to visual image.
+
+#### Advanced Words 4
+
+* _intimation_
+* _machinate_: the audio pronunciations are swapped, US to UK and vice-versa.
+* _unflappable_: there's no crisis shown in the picture.
+* _untenable_: the image shows the opposite meaning.
+
+#### Advanced Words 5
+
+* _appurtenant_: visually the exact same image as _obliging_, only color difference.
+* _bemoan_: the picture just means sad, but the word means to express discontent or a strong regret.
+* _bristle_
+* _browbeat_: same image as _banish_, could definitely use a better image.
+* _effervescent_: the image doesn't contain much excitement?
+* _epigram_: a clever _and_ amusing idea would be nice.
+* _ersatz_: (US) the audio pronunciation sounds like _ertsatz_, notice the additional _t_.
+* _inanity_: an image that means the lack of _meaning_ or _ideas_.
+* _pith_: (US) the audio sounds like _piff_.
+
+#### Advanced Words 6
+
+* _assiduously_: the image could be better used for another word, for example, _fecund_.
+* _fecund_: use the image of _assiduously_.
+* _impugn_: the image works **much** better for _impute_, you need something else here.
+* _malingerer_: a person sleeping in a suit would work better.
+* _panegyric_: there is no speech in the picture.
+* _pontificate_: the image doesn't make sense.
+* _self-effacing_: handle the hyphen in spell-check.
+
+#### Advanced Words 7
+
+* _anathema_: (US) the audio pronunciation is slower than usual.
+* _apotheosis_: same as _aesthetic_.
+* _estimable_: same image is used for _deferential_.
+* _extrapolate_
+* _graft_: same image used as _venality_.
+* _infelicitous_: maybe it's used more conceptually rather than for actual events?
+* _misattribute_: (US) the audio sound is _slightly_ lower than usual.
+* _modicum_: an even smaller diamond ring?
+* _perfunctory_: an image where the guy is annoyed but still does the work, would definitely describe it better.
+* _trenchant_: the image doesn't describe it too well.
+* _verisimilitude_: It's a good image, but maybe conceptually means that it is _indeed_ true and not _seeming_ to be true but false?
+* _veritable_: a bad image example.
