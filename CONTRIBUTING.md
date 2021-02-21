@@ -297,3 +297,19 @@
 * _trenchant_: the image doesn't describe it too well.
 * _verisimilitude_: It's a good image, but maybe conceptually means that it is _indeed_ true and not _seeming_ to be true but false?
 * _veritable_: a bad image example.
+
+#### Personal Words 9
+
+* _obturate_: (UK) the audio pronunciation and phonetics doesn't match up. The phonetic was taken from Google while the audio was taken from [audioenglish](https://www.audioenglish.org/audiodic/w1/87/92187_7TVNRLVG.mp3).
+
+#### Personal Words 10
+
+* _uproarious_: the definitions uses the word, nullifying the purpose of a definition
+
+### PrepScholar Words 1
+
+* _covet_: use a better image.
+
+#### Extra Words
+
+* _notorious_
