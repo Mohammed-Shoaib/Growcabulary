@@ -164,8 +164,8 @@
 	}],
 	"gaffe": [{
 		"pos": "noun",
-		"def": "an unintentional act or remark causing embarrassment to its originator",
-		"synonyms": ["blunder", "error"],
+		"def": "an unintentional act or remark causing embarrassment to its originator; a social blunder",
+		"synonyms": ["error"],
 		"antonyms": [],
 		"alternatives": [],
 		"image": "gaffe.jpg",
@@ -435,7 +435,7 @@
 	"primacy": [{
 		"pos": "noun",
 		"def": "the state of being first in order, rank, or importance",
-		"synonyms": ["priority", "ascendancy", "pre-eminence"],
+		"synonyms": ["priority", "superiority", "ascendancy", "pre-eminence"],
 		"antonyms": [],
 		"alternatives": [],
 		"image": "primacy.png",
