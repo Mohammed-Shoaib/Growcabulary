@@ -28,7 +28,7 @@
 	"anathema": [{
 		"pos": "noun",
 		"def": "something or someone that one intensely dislikes",
-		"synonyms": [],
+		"synonyms": ["insipid"],
 		"antonyms": [],
 		"alternatives": [],
 		"image": "anathema.png",
@@ -327,8 +327,8 @@
 	}],
 	"graft": [{
 		"pos": "noun",
-		"def": "bribery and other corrupt practices used to secure illicit advantages",
-		"synonyms": [],
+		"def": "bribery and other corrupt practices used to secure illicit advantages or gains in politics or business",
+		"synonyms": ["deceit", "fraud"],
 		"antonyms": [],
 		"alternatives": [],
 		"image": "graft.jpg",
@@ -340,7 +340,7 @@
 	}],
 	"halcyon": [{
 		"pos": "adjective",
-		"def": "denoting a period of time in the past that was idyllically happy and peaceful",
+		"def": "characterized by happiness, great success, and prosperity; often used to describe an idyllic time in the past",
 		"synonyms": ["serene", "placid"],
 		"antonyms": ["troubled"],
 		"alternatives": [],
@@ -620,6 +620,16 @@
 		"website": "https://en.wikipedia.org/wiki/File:Sneeze.JPG",
 		"phonetics-us": ["/ˈsɑː.lə.sɪ.zəm/"],
 		"phonetics-uk": ["/ˈsɒl.ɪ.sɪ.zəm/"]
+	}, {
+		"pos": "noun",
+		"def": "a grammatical mistake in speech or writing",
+		"synonyms": [],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "",
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"splenetic": [{
 		"pos": "adjective",
@@ -665,7 +675,7 @@
 		"def": "not capable of working successfully, especially financially",
 		"synonyms": [],
 		"antonyms": ["feasible"],
-		"alternatives": [],
+		"alternatives": ["inviable"],
 		"image": "unviable.jpeg",
 		"notes": "",
 		"examples": [],
@@ -688,8 +698,8 @@
 	}],
 	"veritable": [{
 		"pos": "adjective",
-		"def": "being in fact the thing named and not false; often used to quality a metaphor",
-		"synonyms": [],
+		"def": "being in fact the thing named and not false, often used to quality a metaphor; without a doubt",
+		"synonyms": ["genuine"],
 		"antonyms": [],
 		"alternatives": [],
 		"image": "veritable.jpg",
