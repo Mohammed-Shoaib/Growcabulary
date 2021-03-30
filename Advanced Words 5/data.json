@@ -418,6 +418,16 @@
 		"website": "https://pixabay.com/cs/vectors/%C5%BEena-d%C4%9Bv%C4%8De-p%C5%99ekvapen%C3%BD-%C5%A1okovan%C3%BD-4498450/",
 		"phonetics-us": ["/ˌɪnˈef.ə.bəl/"],
 		"phonetics-uk": ["/ɪˈnef.ə.bəl/"]
+	}, {
+		"pos": "adjective",
+		"def": "not to be spoken because of its sacredness",
+		"synonyms": [],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "",
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"languish": [{
 		"pos": "verb",
@@ -435,7 +445,7 @@
 	"meteoric": [{
 		"pos": "adjective",
 		"def": "resembling a meteor in transient brilliance, suddenness of appearance, or swiftness",
-		"synonyms": [],
+		"synonyms": ["transient", "ephemeral", "evanescent"],
 		"antonyms": [],
 		"alternatives": [],
 		"image": "meteoric.jpg",
@@ -522,7 +532,7 @@
 	}],
 	"phlegmatic": [{
 		"pos": "adjective",
-		"def": "(of a person) having an unemotional and calm disposition",
+		"def": "(of a person) having an unemotional and calm disposition; not easily excited to action",
 		"synonyms": ["calm", "serene", "placid", "stolid", "imperturbable", "unflappable"],
 		"antonyms": [],
 		"alternatives": [],
