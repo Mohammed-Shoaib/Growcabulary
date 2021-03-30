@@ -96,7 +96,7 @@
 		"website": ""
 	}, {
 		"pos": "verb",
-		"def": "show one's resentment or anger, especially by throwing up one's head and drawing in one's chin",
+		"def": "anger or take offense",
 		"synonyms": ["bristle"],
 		"antonyms": [],
 		"alternatives": [],
@@ -535,8 +535,8 @@
 	}],
 	"pellucid": [{
 		"pos": "adjective",
-		"def": "transparently clear; easily understood",
-		"synonyms": ["lucid"],
+		"def": "transparently clear",
+		"synonyms": [],
 		"antonyms": [],
 		"alternatives": [],
 		"image": "pellucid.jpg",
@@ -545,6 +545,16 @@
 		"website": "https://pixabay.com/cs/photos/hv%C4%9Bzdice-p%C5%99%C3%ADrody-pr%C5%AFhledn%C3%A1-voda-963466/",
 		"phonetics-us": ["/pəˈluː.sɪd/"],
 		"phonetics-uk": ["/pəˈluː.sɪd/"]
+	}, {
+		"pos": "adjective",
+		"def": "easily understood",
+		"synonyms": ["lucid"],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "",
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"pontificate": [{
 		"pos": "verb",
