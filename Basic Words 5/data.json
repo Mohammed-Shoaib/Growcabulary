@@ -67,7 +67,7 @@
 	"collusion": [{
 		"pos": "noun",
 		"def": "secret or illegal cooperation in order to deceive others",
-		"synonyms": ["conspiracy"],
+		"synonyms": ["conspiracy", "connivance"],
 		"antonyms": [],
 		"alternatives": [],
 		"image": "collusion.jpg",
@@ -156,7 +156,7 @@
 		"phonetics-uk": ["/ˈdes.tɪ.tʃuːt/"]
 	}, {
 		"pos": "adjective",
-		"def": "lacking possessions and resources",
+		"def": "lacking possessions and resources; completely wanting or lacking",
 		"synonyms": [],
 		"antonyms": [],
 		"alternatives": [],
