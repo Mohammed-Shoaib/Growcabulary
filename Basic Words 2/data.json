@@ -193,7 +193,7 @@
 	}],
 	"chequered": [{
 		"pos": "adjective",
-		"def": "having had both successful and unsuccessful periods in your past",
+		"def": "having had both successful and unsuccessful periods in your past; marked by fluctuations of fortune",
 		"synonyms": [],
 		"antonyms": [],
 		"alternatives": ["checkered"],
@@ -206,8 +206,8 @@
 	}],
 	"cogent": [{
 		"pos": "adjective",
-		"def": "(of an argument or case) clear, logical, and convincing",
-		"synonyms": [],
+		"def": "(of an argument or case) clear, logical, and convincing; powerfully persuasive",
+		"synonyms": ["compelling", "telling", "efficacious", "lucid"],
 		"antonyms": [],
 		"alternatives": [],
 		"image": "cogent.jpg",
@@ -579,6 +579,16 @@
 		"phonetics-uk": ["/ˈsæŋ.ɡwɪn/"]
 	}],
 	"scintillating": [{
+		"pos": "adjective",
+		"def": "sparkling or shining brightly",
+		"synonyms": [],
+		"antonyms": ["dull"],
+		"alternatives": [],
+		"image": "",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}, {
 		"pos": "adjective",
 		"def": "brilliantly and excitingly clever or skillful",
 		"synonyms": [],
