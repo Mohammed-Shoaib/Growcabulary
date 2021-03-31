@@ -120,8 +120,8 @@
 		"notes": "",
 		"examples": [],
 		"website": "https://commons.wikimedia.org/wiki/File:Jeff_Isom_arguing_with_an_umpire.JPG",
-		"phonetics-us": ["/kɑːrp/"],
-		"phonetics-uk": ["/kɑːp/"]
+		"phonetics-us": ["/ˈkɑrpɪŋ/"],
+		"phonetics-uk": ["/ˈkɑːpɪŋ/"]
 	}],
 	"cavalier": [{
 		"pos": "adjective",
@@ -356,8 +356,8 @@
 	}],
 	"glean": [{
 		"pos": "verb",
-		"def": "obtain (information) from various sources, often with difficulty",
-		"synonyms": [],
+		"def": "obtain (information) from various sources, often with difficulty; collect gradually",
+		"synonyms": ["derive"],
 		"antonyms": [],
 		"alternatives": [],
 		"image": "glean.jpg",
@@ -458,7 +458,7 @@
 	"insipid": [{
 		"pos": "adjective",
 		"def": "lacking in qualities that interest, stimulate, or challenge",
-		"synonyms": ["dull"],
+		"synonyms": ["dull", "jejune"],
 		"antonyms": ["interesting"],
 		"alternatives": [],
 		"image": "insipid.png",
@@ -467,6 +467,16 @@
 		"website": "https://pixabay.com/fr/illustrations/ennui-al%C3%A9sage-s-ennuie-somnolent-5270160/",
 		"phonetics-us": ["/ɪnˈsɪp.ɪd/"],
 		"phonetics-uk": ["/ɪnˈsɪp.ɪd/"]
+	}, {
+		"pos": "adjective",
+		"def": "without sufficient taste to be pleasing, as food or drink; lacking flavor or savor",
+		"synonyms": ["bland", "tasteless"],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "",
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"intermittent": [{
 		"pos": "adjective",
