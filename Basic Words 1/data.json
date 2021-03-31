@@ -295,7 +295,17 @@
 	"inundate": [{
 		"pos": "verb",
 		"def": "overwhelm (someone) with things or people to be dealt with",
-		"synonyms": [],
+		"synonyms": ["besiege"],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}, {
+		"pos": "verb",
+		"def": "cover or overspread with water",
+		"synonyms": ["flood"],
 		"antonyms": [],
 		"alternatives": [],
 		"image": "inundate.jpg",
@@ -369,6 +379,16 @@
 		"website": "https://www.flickr.com/photos/83633410@N07/7658272558",
 		"phonetics-us": ["/pəˈruːz/"],
 		"phonetics-uk": ["/pəˈruːz/"]
+	}, {
+		"pos": "verb",
+		"def": "examine or consider with attention and in detail",
+		"synonyms": ["scrutinize"],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "",
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"pine": [{
 		"pos": "verb",
