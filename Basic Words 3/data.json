@@ -24,6 +24,26 @@
 		"website": "https://www.sketchport.com/drawing/4796426051649536/apprehension",
 		"phonetics-us": ["/ˌæp.rəˈhen.ʃən/"],
 		"phonetics-uk": ["/ˌæp.rɪˈhen.ʃən/"]
+	}, {
+		"pos": "noun",
+		"def": "the act or power of comprehending something",
+		"synonyms": ["understanding", "grasp", "savvy", "discernment"],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}, {
+		"pos": "noun",
+		"def": "the action of arresting someone",
+		"synonyms": ["capture", "seizure"],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "",
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"ascendancy": [{
 		"pos": "noun",
@@ -329,7 +349,7 @@
 		"phonetics-uk": ["/ɪnˈklem.ənt/"]
 	}, {
 		"pos": "adjective",
-		"def": "severe in temper or action",
+		"def": "severe in temper or action; not kind or merciful",
 		"synonyms": ["unmerciful"],
 		"antonyms": [],
 		"alternatives": [],
