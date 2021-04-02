@@ -227,8 +227,8 @@
 	"entrenched": [{
 		"pos": "adjective",
 		"def": "(of a habit or belief) firmly established or unlikely to change",
-		"synonyms": [],
-		"antonyms": [],
+		"synonyms": ["inveterate"],
+		"antonyms": ["superficial"],
 		"alternatives": [],
 		"image": "entrenched.jpg",
 		"notes": "",
@@ -318,7 +318,7 @@
 	"gall": [{
 		"pos": "noun",
 		"def": "bold and impudent behaviour",
-		"synonyms": [],
+		"synonyms": ["insolence", "impertinence", "effrontery", "temerity"],
 		"antonyms": [],
 		"alternatives": [],
 		"image": "",
@@ -328,7 +328,7 @@
 	}, {
 		"pos": "noun",
 		"def": "a feeling of deep and bitter anger and ill-will",
-		"synonyms": [],
+		"synonyms": ["annoyance", "resentment", "irritation"],
 		"antonyms": [],
 		"alternatives": [],
 		"image": "gall.jpg",
