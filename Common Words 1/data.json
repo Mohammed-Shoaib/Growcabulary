@@ -116,7 +116,7 @@
 	"auspicious": [{
 		"pos": "adjective",
 		"def": "conducive to success",
-		"synonyms": ["favorable"],
+		"synonyms": ["favourable"],
 		"antonyms": [],
 		"alternatives": [],
 		"image": "auspicious.jpg",
@@ -441,6 +441,16 @@
 		"website": "https://www.pexels.com/photo/photo-of-woman-with-her-eyes-closed-sticking-her-tongue-out-1759621/",
 		"phonetics-us": ["/ɪmˈpɝː.t̬ən.ənt/"],
 		"phonetics-uk": ["/ɪmˈpɜː.tɪ.nənt/"]
+	}, {
+		"pos": "adjective",
+		"def": "not pertinent or relevant to the matter under consideration",
+		"synonyms": ["irrelevant", "immaterial"],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "",
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"ingenuous": [{
 		"pos": "adjective",
