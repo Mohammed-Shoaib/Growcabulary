@@ -170,8 +170,8 @@
 	}],
 	"disseminate": [{
 		"pos": "verb",
-		"def": "spread (something) widely",
-		"synonyms": [],
+		"def": "spread (something, especially information) widely, as though sowing seed",
+		"synonyms": ["disperse", "promulgate", "dissipate", "scatter"],
 		"antonyms": [],
 		"alternatives": [],
 		"image": "disseminate.jpg",
@@ -249,7 +249,7 @@
 	"erudite": [{
 		"pos": "adjective",
 		"def": "having or showing great knowledge or learning",
-		"synonyms": [],
+		"synonyms": ["learned", "scholarly", "sagacious", "cerebral"],
 		"antonyms": [],
 		"alternatives": [],
 		"image": "erudite.jpg",
@@ -287,7 +287,7 @@
 	}],
 	"flux": [{
 		"pos": "noun",
-		"def": "continuous change",
+		"def": "continuous change, passage, or movement",
 		"synonyms": [],
 		"antonyms": [],
 		"alternatives": [],
@@ -297,6 +297,16 @@
 		"website": "https://www.needpix.com/photo/528126/seasons-of-the-year-summer-autumn-winter-spring-tree",
 		"phonetics-us": ["/flʌks/"],
 		"phonetics-uk": ["/flʌks/"]
+	}, {
+		"pos": "noun",
+		"def": "a flow or discharge",
+		"synonyms": [],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "",
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"furtive": [{
 		"pos": "adjective",
