@@ -128,8 +128,18 @@
 	}],
 	"contingent": [{
 		"pos": "adjective",
-		"def": "subject to chance",
-		"synonyms": [],
+		"def": "dependent for existence or occurrence on something not yet certain",
+		"synonyms": ["conditional"],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "",
+		"notes": "",
+		"examples": [],
+		"website": ""
+	}, {
+		"pos": "adjective",
+		"def": "happening by chance or without known cause",
+		"synonyms": ["fortuitous"],
 		"antonyms": [],
 		"alternatives": [],
 		"image": "contingent.jpg",
@@ -249,6 +259,16 @@
 		"website": "https://commons.wikimedia.org/wiki/File:The_Watchmaker_2.jpg",
 		"phonetics-us": ["/ɪɡˈzæk.tɪŋ/"],
 		"phonetics-uk": ["/ɪɡˈzæk.tɪŋ/"]
+	}, {
+		"pos": "adjective",
+		"def": "rigid or severe in making demands or requirements",
+		"synonyms": [],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "",
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"exalt": [{
 		"pos": "verb",
