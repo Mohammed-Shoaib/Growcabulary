@@ -37,6 +37,16 @@
 		"website": "https://pixabay.com/cs/photos/krychle-hr%C3%A1t-n%C3%A1hodn%C3%A9-%C5%A1t%C4%9Bst%C3%AD-body-1979775/",
 		"phonetics-us": ["/ˈɑːr.bə.trer.i/"],
 		"phonetics-uk": ["/ˈɑː.bɪ.trər.i/"]
+	}, {
+		"pos": "adjective",
+		"def": "(of power or a ruling body) unrestrained and autocratic in the use of authority; having unlimited power",
+		"synonyms": [],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "",
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"arcane": [{
 		"pos": "adjective",
@@ -380,7 +390,7 @@
 	"pedestrian": [{
 		"pos": "adjective",
 		"def": "lacking inspiration or excitement",
-		"synonyms": ["dull"],
+		"synonyms": ["dull", "mundane"],
 		"antonyms": [],
 		"alternatives": [],
 		"image": "pedestrian.jpg",
