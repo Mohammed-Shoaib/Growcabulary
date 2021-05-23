@@ -14,6 +14,8 @@
   * [Word Item Component](#word-item-component)
   * [`fetch.py`](#fetch.py)
 
+* [Bestow or Improve Images :framed_picture:](#bestow-or-improve-images)
+
 
 ## Contribute to the Website
 
@@ -108,6 +110,7 @@
 * _denote_
 * _derivative_: not all people wil realize it's Mona lisa, so either find a similar better image or add a note.
 * _fallacious_: a better image would reflect the clause _if A then B, A, therefore B_ but the assumption of _A_ itself was wrong.
+* _supplant_: assumes the user knows the meaning of the word _supersede_, bear in mind these are common words.
 * _treacherous_: for the second word, add an image for a dangerous bridge which may collapse.
 * _vilify_: same image as _recrimination_.
 
@@ -153,30 +156,39 @@
 * _unnerve_: doesn't show the height isn't really much, maybe one where the person is afraid of drowning in a shallow pool.
 
 #### Basic Words 2
+
 * _cogent_: same image as _posit_.
 * _errant_
-* _extenuating_
+* _extenuating_: the image could be improved.
 * _immaterial_
 * _junta_: the audio pronunciation doesn't match the phonetics.
+* _lassitude_: add word to this set.
 * _misanthrope_
 * _moment_: maybe an image which changes the life of a person and that _moment_ was captured.
 * _replete_: add a note stating the shop in the image is a supermarket?
 * _sanctimonious_: the picture depicts the meaning of protecting something sacred, but we want something along the lines of making a show of being holy.
+* _unconscionable_: Magoosh has a different meaning.
 
 #### Basic Words 3
+
 * _appreciable_
 * _boon_: add a note stating why microwave is a boon and how it changed?
 * _consummate_: could also mean sculpting, consequently, an image of sculpting?
+* _fledgling_: maybe switch the definition to synonyms and use an _actual_ definition?
+* _flounder_: it also denotes having difficulties for a task.
 * _moot_: an image which says _What came first the chicken or the egg?_
 * _muted_
 * _obdurate_
+* _resolve_: different meaning in Magoosh.
 
 #### Basic Words 4
 
+* _buck_: add word to this set.
 * _conducive_
 * _credence_
 * _detrimental_: an actual image instead of a portrait would be nice.
 * _empathetic_: has an em dash and the single-quote `'` isn't a regular singe-quote.
+* _facetious_: different meaning in Magoosh.
 * _glib_: the image isn't memorable.
 * _grovel_: same image used for _obsequious_.
 * _impeccable_
@@ -187,10 +199,10 @@
 * _abysmal_
 * _balk_
 * _colossal_: a similar image is used for _prodigious_.
-* _complacent_: the image just looks like he's rich.
+* _complacent_: the image just looks like he's rich, also different meaning in Magoosh representing being happy with failure.
 * _placid_
 * _savvy_
-* _unseemly_: same image used for _derivative_
+* _unseemly_: same image used for _derivative_.
 * _begrudge_: the image doesn't make _too_ sense.
 * _cavalier_
 * _emulate_
@@ -200,13 +212,12 @@
 * _incumbent_
 * _intermittent_
 * _rakish_: same image as _raffish_.
-* _redress_: same image as _venality_.
 * _veneer_: it's hard to notice the thin layer.
 
 #### Basic Words 6
 
 * _antedate_: (US) audio pronunciation sounds like _atedate_.
-* _carping_: (US) (UK) the audio pronunciation and phonetics is of _carp_ when the word is _carping_.
+* _carping_: (US) (UK) the audio pronunciation and phonetics is of _carp_ when the word is _carping_. Also, the image seems more as scolding but again _faultfinding_ is hard to describe.
 * _cavalier_: the image doesn't make much sense.
 * _redress_: same as _venal_ and the image looks more like corruption when it should be giving money to help and fix a mistake.
 
@@ -276,6 +287,7 @@
 #### Advanced Words 6
 
 * _assiduously_: the image could be better used for another word, for example, _fecund_.
+* _ethereal_: the image doesn't reflect the idea of extremely _light_ and _delicate_.
 * _fecund_: use the image of _assiduously_.
 * _impugn_: the image works **much** better for _impute_, you need something else here.
 * _malingerer_: a person sleeping in a suit would work better.
