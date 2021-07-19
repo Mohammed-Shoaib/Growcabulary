@@ -116,7 +116,7 @@
 	"despondent": [{
 		"pos": "adjective",
 		"def": "in low spirits from loss of hope or courage",
-		"synonyms": [],
+		"synonyms": ["disheartened", "crestfallen", "melancholy", "gloomy", "glum", "morose", "doleful"],
 		"antonyms": [],
 		"alternatives": [],
 		"image": "despondent.jpg",
