@@ -126,19 +126,6 @@
 		"phonetics-us": ["/dɪˈfrɑːd/"],
 		"phonetics-uk": ["/dɪˈfrɔːd/"]
 	}],
-	"denounce": [{
-		"pos": "verb",
-		"def": "publicly declare to be wrong or evil",
-		"synonyms": ["criticize", "censure", "castigate", "decry"],
-		"antonyms": [],
-		"alternatives": [],
-		"image": "denounce.jpg",
-		"notes": "",
-		"examples": [],
-		"website": "",
-		"phonetics-us": ["/dɪˈnaʊns/"],
-		"phonetics-uk": ["/dɪˈnaʊns/"]
-	}],
 	"denunciation": [{
 		"pos": "noun",
 		"def": "public condemnation of someone or something",
@@ -438,7 +425,7 @@
 	"judicious": [{
 		"pos": "adjective",
 		"def": "having, showing, or done with good judgement or sense",
-		"synonyms": [],
+		"synonyms": ["prudent", "shrewd", "astute", "sagacious", "percipient"],
 		"antonyms": [],
 		"alternatives": [],
 		"image": "judicious.jpg",
@@ -473,6 +460,17 @@
 		"website": "",
 		"phonetics-us": ["/loʊð/"],
 		"phonetics-uk": ["/ləʊð/"]
+	}],
+	"loathsome": [{
+		"pos": "adjective",
+		"def": "causing hatred or disgust",
+		"synonyms": ["abhorrent", "repugnant", "ghastly", "vile", "obnoxious", "noisome"],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "loathsome.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"openhanded": [{
 		"pos": "adjective",
@@ -539,7 +537,7 @@
 	"quell": [{
 		"pos": "verb",
 		"def": "put an end to (a rebellion or other disorder), typically by the use of force",
-		"synonyms": ["thwart"],
+		"synonyms": ["thwart", "frustrate", "subdue", "repress", "stifle"],
 		"antonyms": [],
 		"alternatives": [],
 		"image": "quell.jpg",
