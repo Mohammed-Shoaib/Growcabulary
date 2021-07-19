@@ -84,19 +84,6 @@
 		"phonetics-us": ["/ˈædʒ.ə.teɪt/"],
 		"phonetics-uk": ["/ˈædʒ.ɪ.teɪt/"]
 	}],
-	"anaemic": [{
-		"pos": "adjective",
-		"def": "lacking in color, spirit, or vitality",
-		"synonyms": ["insipid"],
-		"antonyms": [],
-		"alternatives": [],
-		"image": "anaemic.jpg",
-		"notes": "",
-		"examples": [],
-		"website": "",
-		"phonetics-us": ["/əˈniː.mɪk/"],
-		"phonetics-uk": ["/əˈniː.mɪk/"]
-	}],
 	"anecdote": [{
 		"pos": "noun",
 		"def": "a short amusing or interesting story about a real incident or person",
@@ -250,31 +237,27 @@
 		"examples": [],
 		"website": ""
 	}],
-	"digress": [{
-		"pos": "verb",
-		"def": "leave the main subject temporarily in speech or writing",
-		"synonyms": ["deviate", "wander", "meander", "maunder", "ramble"],
-		"antonyms": [],
-		"alternatives": [],
-		"image": "digress.jpg",
-		"notes": "",
-		"examples": [],
-		"website": "",
-		"phonetics-us": ["/daɪˈɡres/"],
-		"phonetics-uk": ["/daɪˈɡres/"]
-	}],
-	"discernment": [{
+	"forethought": [{
 		"pos": "noun",
-		"def": "the ability to judge well",
-		"synonyms": [],
+		"def": "careful consideration of what will be necessary or may happen in the future",
+		"synonyms": ["anticipation", "prescience", "prudence", "foresight", "perspicacity"],
 		"antonyms": [],
 		"alternatives": [],
-		"image": "discernment.jpg",
+		"image": "forethought.jpg",
 		"notes": "",
 		"examples": [],
-		"website": "",
-		"phonetics-us": ["/dɪˈsɝːn.mənt/"],
-		"phonetics-uk": ["/dɪˈsɜːn.mənt/"]
+		"website": ""
+	}],
+	"forthwith": [{
+		"pos": "adverb",
+		"def": "(especially in official use) without delay",
+		"synonyms": ["immediately", "instantly"],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "forthwith.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"idyll": [{
 		"pos": "noun",
@@ -510,19 +493,27 @@
 		"notes": "",
 		"examples": [],
 		"website": ""
-	}],
-	"retaliation": [{
-		"pos": "noun",
-		"def": "the action of returning a military attack",
-		"synonyms": ["counterattack"],
+	}, {
+		"pos": "verb",
+		"def": "refer (a matter for decision) to an authority",
+		"synonyms": ["assign", "entrust"],
 		"antonyms": [],
 		"alternatives": [],
-		"image": "retaliation.jpg",
+		"image": "",
 		"notes": "",
 		"examples": [],
-		"website": "",
-		"phonetics-us": ["/rɪˌtæl.iˈeɪ.ʃən/"],
-		"phonetics-uk": ["/rɪˌtæl.iˈeɪ.ʃən/"]
+		"website": ""
+	}],
+	"reprimand": [{
+		"pos": "noun",
+		"def": "a formal expression of disapproval",
+		"synonyms": ["rebuke", "reproof", "admonishment", "reproach", "upbraiding", "lambasting", "censure"],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "reprimand.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"sacrosanct": [{
 		"pos": "adjective",
@@ -598,19 +589,6 @@
 		"website": "",
 		"phonetics-us": ["/ʃruːd/"],
 		"phonetics-uk": ["/ʃruːd/"]
-	}],
-	"shrug": [{
-		"pos": "verb",
-		"def": "raise (one's shoulders) slightly and momentarily to express doubt, ignorance, or indifference",
-		"synonyms": [],
-		"antonyms": [],
-		"alternatives": [],
-		"image": "shrug.jpg",
-		"notes": "",
-		"examples": [],
-		"website": "",
-		"phonetics-us": ["/ʃrʌɡ/"],
-		"phonetics-uk": ["/ʃrʌɡ/"]
 	}],
 	"slur": [{
 		"pos": "noun",
@@ -712,6 +690,17 @@
 		"website": "",
 		"phonetics-us": ["/ˈtræməl/"],
 		"phonetics-uk": ["/ˈtram(ə)l/"]
+	}],
+	"unremitting": [{
+		"pos": "adjective",
+		"def": "never relaxing or slacking",
+		"synonyms": ["unabating", "incessant", "ceaseless", "perpetual"],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "unremitting.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}],
 	"wile": [{
 		"pos": "noun",
