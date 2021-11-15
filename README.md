@@ -1,6 +1,6 @@
 # Growcabulary
 
-Your go-to platform to learn vocabulary for GRE.
+Your go-to platform to learn vocabulary.
 
 The word list has been compiled using the following resources:
 
