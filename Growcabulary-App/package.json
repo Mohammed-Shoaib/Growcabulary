@@ -10,7 +10,7 @@
     "test-headless": "ng test --watch=false --browsers=ChromeHeadless",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "deploy": "ng build --base-href=/Growcabulary/Growcabulary-App/ && ngh --dir dist/GREPrep-App"
+    "deploy": "ng build --base-href=/Growcabulary/Growcabulary-App/ && ngh --no-silent --dir dist/GREPrep-App"
   },
   "private": true,
   "dependencies": {
