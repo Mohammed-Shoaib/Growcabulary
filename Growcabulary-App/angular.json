@@ -136,6 +136,9 @@
               "devServerTarget": "GREPrep-App:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy"
         }
       }
     }
