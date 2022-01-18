@@ -315,7 +315,7 @@
 	"flout": [{
 		"pos": "verb",
 		"def": "to treat with contemptuous disregard",
-		"synonyms": ["mock"],
+		"synonyms": ["defy", "disdain", "mock"],
 		"antonyms": [],
 		"alternatives": [],
 		"image": "flout.jpg",
