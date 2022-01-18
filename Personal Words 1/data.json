@@ -686,5 +686,16 @@
 		"website": "",
 		"phonetics-us": ["/ʌnˈmuːvd/"],
 		"phonetics-uk": ["/ʌnˈmuːvd/"]
+	}],
+	"injudicious": [{
+		"pos": "adjective",
+		"def": "showing very poor judgement",
+		"synonyms": ["unwise", "imprudent"],
+		"antonyms": [],
+		"alternatives": [],
+		"image": "injudicious.jpg",
+		"notes": "",
+		"examples": [],
+		"website": ""
 	}]
 }
