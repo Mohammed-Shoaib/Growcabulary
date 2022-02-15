@@ -230,19 +230,6 @@
 		"phonetics-us": ["/ˈkræk.əl/"],
 		"phonetics-uk": ["/ˈkræk.əl/"]
 	}],
-	"cursory": [{
-		"pos": "adjective",
-		"def": "hasty and without attention to detail; going rapidly over something",
-		"synonyms": ["perfunctory", "desultory", "slapdash"],
-		"antonyms": ["thorough", "painstaking"],
-		"alternatives": [],
-		"image": "cursory.jpg",
-		"notes": "",
-		"examples": [],
-		"website": "",
-		"phonetics-us": ["/ˈkɝː.sɚ.i/"],
-		"phonetics-uk": ["/ˈkɜː.sər.i/"]
-	}],
 	"draconian": [{
 		"pos": "adjective",
 		"def": "(of laws or their application) excessively harsh and severe",
